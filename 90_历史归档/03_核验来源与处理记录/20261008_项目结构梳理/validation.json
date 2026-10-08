@@ -1,0 +1,41 @@
+{
+  "input_sheets": 10,
+  "output_sheets": 6,
+  "sheet_mapping": {
+    "01申报总览": "01申报总览",
+    "02项目完整详情": "02项目完整详情",
+    "06历史项目": "03历史项目",
+    "07待核项目": "04待核项目",
+    "08其他资助": "05其他资助",
+    "03机构检索覆盖": "06机构检索覆盖"
+  },
+  "removed_to_csv": [
+    {
+      "file": "项目核验日志_20261009.csv",
+      "rows": 2392,
+      "columns": 8
+    },
+    {
+      "file": "项目剔除记录_20261009.csv",
+      "rows": 65,
+      "columns": 7
+    }
+  ],
+  "raw_inputs_retained_in_archived_workbook": [
+    "90筛选前原始记录",
+    "91输入版本留档"
+  ],
+  "all_retained_values_and_formats_unchanged": true,
+  "archive_links_redirected": 166,
+  "project_count": 166,
+  "current": 15,
+  "historical": 96,
+  "pending": 51,
+  "other": 4,
+  "output": "全国机器人开放课题_个人申报台账_结构精简版_20261009.xlsx",
+  "sha256": "d46bff597030acd910b2203100f9d1ffd2b894755ef25d3450baba3d8e3db33d",
+  "visual_review": "passed",
+  "local_links_checked": 27,
+  "root_excel_count": 1,
+  "old_full_workbook_archived_hash_checked": true
+}
