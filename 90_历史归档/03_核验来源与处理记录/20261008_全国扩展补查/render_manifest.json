@@ -1,0 +1,38 @@
+[
+  {
+    "file": "renders/home.png",
+    "sheet": "01申报总览",
+    "range": "A1:F7",
+    "status": "passed"
+  },
+  {
+    "file": "renders/home_new.png",
+    "sheet": "01申报总览",
+    "range": "A8:F16",
+    "status": "passed"
+  },
+  {
+    "file": "renders/new_conditions.png",
+    "sheet": "02项目完整详情",
+    "range": "K152:N152",
+    "status": "passed"
+  },
+  {
+    "file": "renders/new_outputs.png",
+    "sheet": "02项目完整详情",
+    "range": "O152:S152",
+    "status": "passed"
+  },
+  {
+    "file": "renders/coverage.png",
+    "sheet": "03机构检索覆盖",
+    "range": "A298:I300",
+    "status": "passed"
+  },
+  {
+    "file": "renders/new_pending.png",
+    "sheet": "07待核项目",
+    "range": "A49:H50",
+    "status": "passed"
+  }
+]

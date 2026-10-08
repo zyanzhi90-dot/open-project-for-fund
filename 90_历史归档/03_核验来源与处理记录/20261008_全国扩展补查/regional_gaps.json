@@ -1,0 +1,429 @@
+[
+  {
+    "region": "北京",
+    "query_files": [
+      "search_050.json"
+    ],
+    "institutions": [
+      "清华大学",
+      "中国科学院自动化研究所"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "天津",
+    "query_files": [
+      "search_019.json",
+      "search_041.json"
+    ],
+    "institutions": [
+      "南开大学",
+      "天津大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "河北",
+    "query_files": [
+      "search_009.json",
+      "search_019.json",
+      "search_038.json"
+    ],
+    "institutions": [
+      "燕山大学",
+      "河北科技大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "山西",
+    "query_files": [
+      "search_009.json",
+      "search_019.json",
+      "search_032.json",
+      "search_047.json",
+      "search_052.json"
+    ],
+    "institutions": [
+      "中北大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "内蒙古",
+    "query_files": [
+      "search_008.json",
+      "search_019.json",
+      "search_041.json"
+    ],
+    "institutions": [
+      "内蒙古工业大学",
+      "内蒙古科技大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "辽宁",
+    "query_files": [
+      "search_008.json",
+      "search_049.json"
+    ],
+    "institutions": [
+      "中国科学院沈阳自动化研究所",
+      "大连理工大学",
+      "辽宁石油化工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "吉林",
+    "query_files": [
+      "search_008.json",
+      "search_038.json"
+    ],
+    "institutions": [
+      "吉林大学",
+      "长春理工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "黑龙江",
+    "query_files": [
+      "search_021.json",
+      "search_049.json"
+    ],
+    "institutions": [
+      "哈尔滨工业大学",
+      "哈尔滨工程大学",
+      "哈尔滨理工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "上海",
+    "query_files": [
+      "search_009.json",
+      "search_050.json"
+    ],
+    "institutions": [
+      "同济大学",
+      "上海科技大学",
+      "上海交通大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "江苏",
+    "query_files": [
+      "search_048.json"
+    ],
+    "institutions": [
+      "南京信息工程大学",
+      "东南大学",
+      "南京理工大学",
+      "扬州大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "浙江",
+    "query_files": [
+      "search_009.json",
+      "search_021.json",
+      "search_036.json",
+      "search_048.json"
+    ],
+    "institutions": [
+      "浙江大学",
+      "中国科学院宁波材料所"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "安徽",
+    "query_files": [
+      "search_009.json",
+      "search_015.json",
+      "search_022.json",
+      "search_049.json"
+    ],
+    "institutions": [
+      "中国科学技术大学",
+      "科大讯飞／中国科学技术大学",
+      "安徽工程大学",
+      "安徽工业大学",
+      "安徽大学",
+      "江淮实验室"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "福建",
+    "query_files": [
+      "search_009.json",
+      "search_020.json",
+      "search_039.json"
+    ],
+    "institutions": [
+      "阳光学院",
+      "厦门大学",
+      "福建理工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "江西",
+    "query_files": [
+      "search_010.json",
+      "search_020.json",
+      "search_032.json",
+      "search_039.json",
+      "search_051.json"
+    ],
+    "institutions": [
+      "南昌航空大学",
+      "江西飞行学院",
+      "南昌大学／华东交通大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "山东",
+    "query_files": [
+      "search_009.json",
+      "search_021.json",
+      "search_047.json"
+    ],
+    "institutions": [
+      "山东科技大学",
+      "青岛大学／附属医院"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "河南",
+    "query_files": [
+      "search_009.json",
+      "search_020.json",
+      "search_047.json"
+    ],
+    "institutions": [
+      "河南工业大学",
+      "郑州工商学院"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "湖北",
+    "query_files": [
+      "search_010.json",
+      "search_047.json"
+    ],
+    "institutions": [
+      "武汉软件工程职业学院／武汉开放大学",
+      "华中科技大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "湖南",
+    "query_files": [
+      "search_010.json",
+      "search_020.json",
+      "search_032.json",
+      "search_039.json"
+    ],
+    "institutions": [
+      "湖南大学",
+      "湖南工学院",
+      "中南大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "广东",
+    "query_files": [
+      "search_048.json"
+    ],
+    "institutions": [
+      "光明实验室",
+      "华南理工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "广西",
+    "query_files": [
+      "search_010.json",
+      "search_040.json"
+    ],
+    "institutions": [
+      "广西大学",
+      "广西科技大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "海南",
+    "query_files": [
+      "search_010.json",
+      "search_039.json"
+    ],
+    "institutions": [
+      "中科院深海科学与工程研究所"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "重庆",
+    "query_files": [
+      "search_050.json"
+    ],
+    "institutions": [
+      "重庆城市职业学院",
+      "重庆邮电大学",
+      "重庆大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "四川",
+    "query_files": [
+      "search_010.json",
+      "search_049.json"
+    ],
+    "institutions": [
+      "西南石油大学",
+      "电子科技大学",
+      "四川大学",
+      "西南交通大学／中铁大桥共同依托单位",
+      "成都信息工程大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "贵州",
+    "query_files": [
+      "search_010.json",
+      "search_040.json"
+    ],
+    "institutions": [
+      "贵州大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "云南",
+    "query_files": [
+      "search_010.json",
+      "search_040.json"
+    ],
+    "institutions": [
+      "昆明理工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "西藏",
+    "query_files": [
+      "search_010.json",
+      "search_033.json",
+      "search_038.json"
+    ],
+    "institutions": [
+      "西藏大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "陕西",
+    "query_files": [
+      "search_048.json"
+    ],
+    "institutions": [
+      "西北工业大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "甘肃",
+    "query_files": [
+      "search_010.json",
+      "search_033.json",
+      "search_041.json"
+    ],
+    "institutions": [
+      "兰州交通大学",
+      "兰州理工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "青海",
+    "query_files": [
+      "search_010.json",
+      "search_033.json",
+      "search_041.json"
+    ],
+    "institutions": [
+      "青海大学",
+      "青海师范大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "宁夏",
+    "query_files": [
+      "search_010.json",
+      "search_033.json",
+      "search_038.json"
+    ],
+    "institutions": [
+      "宁夏大学／自治区科技厅"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "新疆",
+    "query_files": [
+      "search_010.json",
+      "search_040.json"
+    ],
+    "institutions": [
+      "新疆大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "澳门",
+    "query_files": [
+      "search_003.json",
+      "search_028.json",
+      "search_037.json"
+    ],
+    "institutions": [
+      "澳门大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "香港",
+    "query_files": [
+      "search_003.json",
+      "search_028.json",
+      "search_037.json",
+      "search_044.json"
+    ],
+    "institutions": [
+      "香港理工大学"
+    ],
+    "status": "已开展发现/补漏；尚无完整省级目录逐室覆盖"
+  },
+  {
+    "region": "台湾",
+    "query_files": [],
+    "institutions": [],
+    "status": "本轮无可确认记录，未查"
+  }
+]

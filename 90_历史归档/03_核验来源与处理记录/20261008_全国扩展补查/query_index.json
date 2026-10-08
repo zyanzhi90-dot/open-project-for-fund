@@ -1,0 +1,834 @@
+[
+  {
+    "query": "site:seu.edu.cn \"精准医学装备\" \"开放\" \"基金\"",
+    "file": "search_001.json"
+  },
+  {
+    "query": "site:njust.edu.cn \"开放基金\" \"2026\" 机器人",
+    "file": "search_001.json"
+  },
+  {
+    "query": "site:ujs.edu.cn \"机器人\" \"开放课题\" 2026",
+    "file": "search_001.json"
+  },
+  {
+    "query": "site:yzu.edu.cn \"重点实验室\" \"机器人\" 开放",
+    "file": "search_001.json"
+  },
+  {
+    "query": "site:me.yzu.edu.cn 科研平台 实验室",
+    "file": "search_002.json"
+  },
+  {
+    "query": "site:njust.edu.cn \"重点实验室\" \"智能\" \"控制\" 开放基金",
+    "file": "search_002.json"
+  },
+  {
+    "query": "site:nuist.edu.cn \"认知计算\" \"开放\" 2026",
+    "file": "search_002.json"
+  },
+  {
+    "query": "site:me.seu.edu.cn \"精准医学\" \"开放课题\"",
+    "file": "search_002.json"
+  },
+  {
+    "query": "site:um.edu.mo OR site:must.edu.mo OR site:mpu.edu.mo \"robotics\" \"open\" \"2026\" fund",
+    "file": "search_003.json"
+  },
+  {
+    "query": "site:polyu.edu.hk OR site:cuhk.edu.hk OR site:hkust.edu.hk \"open research\" robotics 2026 2027",
+    "file": "search_003.json"
+  },
+  {
+    "query": "site:scut.edu.cn \"开放\" \"基金\" \"脑\" 2026",
+    "file": "search_003.json"
+  },
+  {
+    "query": "site:szu.edu.cn OR site:sustech.edu.cn \"机器人\" \"开放课题\" 2026",
+    "file": "search_003.json"
+  },
+  {
+    "query": "site:ia.ac.cn \"工业视觉\" \"开放\" 2026",
+    "file": "search_004.json"
+  },
+  {
+    "query": "site:bnrist.tsinghua.edu.cn \"2026\" \"开放课题\"",
+    "file": "search_004.json"
+  },
+  {
+    "query": "site:nwpu.edu.cn \"无人\" \"开放基金\" 2026 2027",
+    "file": "search_004.json"
+  },
+  {
+    "query": "site:cqu.edu.cn \"开放\" \"机器人\" 2026 2027",
+    "file": "search_004.json"
+  },
+  {
+    "query": "\"机器人\" \"开放基金\" \"2027\"",
+    "file": "search_005.json"
+  },
+  {
+    "query": "\"具身智能\" \"开放课题\" \"2026\" 实验室",
+    "file": "search_005.json"
+  },
+  {
+    "query": "\"机器人\" \"基本科研业务费\" \"开放\" 2026",
+    "file": "search_005.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" \"校外\" \"机器人\"",
+    "file": "search_005.json"
+  },
+  {
+    "query": "site:me.yzu.edu.cn \"科研\" \"平台\"",
+    "file": "search_006.json"
+  },
+  {
+    "query": "site:nwpu.edu.cn \"无人\" \"开放课题\"",
+    "file": "search_006.json"
+  },
+  {
+    "query": "site:cqut.edu.cn OR site:swu.edu.cn \"机器人\" \"开放基金\" 2026",
+    "file": "search_006.json"
+  },
+  {
+    "query": "site:scut.edu.cn \"精密电子\" \"开放基金\"",
+    "file": "search_006.json"
+  },
+  {
+    "query": "site:gml.ac.cn \"首轮\" \"2026\" \"开放\"",
+    "file": "search_007.json"
+  },
+  {
+    "query": "site:edu.cn \"光明实验室\" \"2026\" \"首轮\"",
+    "file": "search_007.json"
+  },
+  {
+    "query": "site:edu.cn \"交通工程应用机器人\" \"2026\" 申请 指南",
+    "file": "search_007.json"
+  },
+  {
+    "query": "site:bnrist.tsinghua.edu.cn \"2026年度开放课题\" \"申请\"",
+    "file": "search_007.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"开放基金\" \"辽宁\" \"机器人\"",
+    "file": "search_008.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"开放课题\" \"吉林\" \"机器人\"",
+    "file": "search_008.json"
+  },
+  {
+    "query": "site:hit.edu.cn OR site:hrbeu.edu.cn \"2027\" \"开放\" 基金",
+    "file": "search_008.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"机器人\" \"开放\" \"内蒙古\"",
+    "file": "search_008.json"
+  },
+  {
+    "query": "\"2026\" \"开放课题\" \"机器人\" 上海 浙江",
+    "file": "search_009.json"
+  },
+  {
+    "query": "\"2026\" \"开放基金\" \"机器人\" 安徽 福建",
+    "file": "search_009.json"
+  },
+  {
+    "query": "\"2026\" \"开放课题\" \"机器人\" 山东 河南",
+    "file": "search_009.json"
+  },
+  {
+    "query": "\"2026\" \"开放基金\" \"机器人\" 河北 山西",
+    "file": "search_009.json"
+  },
+  {
+    "query": "\"2026\" \"开放课题\" \"机器人\" 湖南 湖北 江西",
+    "file": "search_010.json"
+  },
+  {
+    "query": "\"2026\" \"开放课题\" \"机器人\" 四川 贵州 云南",
+    "file": "search_010.json"
+  },
+  {
+    "query": "\"2026\" \"开放课题\" \"机器人\" 广西 海南",
+    "file": "search_010.json"
+  },
+  {
+    "query": "\"2026\" \"开放课题\" \"机器人\" 甘肃 青海 宁夏 新疆 西藏",
+    "file": "search_010.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放课题\" \"2026\" -site:suda.edu.cn -site:hust.edu.cn -site:nwpu.edu.cn -site:scut.edu.cn -site:hit.edu.cn -site:guet.edu.cn -site:ccnu.edu.cn -site:haut.edu.cn",
+    "file": "search_011.json"
+  },
+  {
+    "query": "site:edu.cn \"开放基金\" \"2027\" 机器人 -site:hust.edu.cn -site:nuaa.edu.cn",
+    "file": "search_011.json"
+  },
+  {
+    "query": "site:cas.cn \"机器人\" \"开放课题\" \"2026\" -site:ict.ac.cn -site:ia.ac.cn -site:cebsit.cas.cn -site:iaii.cas.cn",
+    "file": "search_011.json"
+  },
+  {
+    "query": "\"中央高校基本科研业务费\" \"开放课题\" \"2026\" \"校外\"",
+    "file": "search_011.json"
+  },
+  {
+    "query": "site:nankai.edu.cn 科研平台 机器人 重点实验室",
+    "file": "search_012.json"
+  },
+  {
+    "query": "site:ysu.edu.cn \"开放基金\" 2026 机器人",
+    "file": "search_012.json"
+  },
+  {
+    "query": "site:tyut.edu.cn \"开放基金\" 2026 机器人",
+    "file": "search_012.json"
+  },
+  {
+    "query": "site:sdust.edu.cn \"智能感知与自主控制\" \"2026\"",
+    "file": "search_012.json"
+  },
+  {
+    "query": "site:shanghaitech.edu.cn \"2026年度开放课题\" \"10月\"",
+    "file": "search_013.json"
+  },
+  {
+    "query": "site:sdust.edu.cn \"智能感知与自主控制\" \"2026年开放基金\"",
+    "file": "search_013.json"
+  },
+  {
+    "query": "site:ysu.edu.cn 科研平台 机器人 重点实验室",
+    "file": "search_013.json"
+  },
+  {
+    "query": "site:tyut.edu.cn 科研平台 智能制造 机器人",
+    "file": "search_013.json"
+  },
+  {
+    "query": "site:dlut.edu.cn OR site:neu.edu.cn OR site:sia.cas.cn \"机器人\" \"开放基金\" \"2026\"",
+    "file": "search_014.json"
+  },
+  {
+    "query": "site:hrbeu.edu.cn \"水下机器人\" \"开放\" \"基金\"",
+    "file": "search_014.json"
+  },
+  {
+    "query": "site:jlu.edu.cn \"汽车底盘\" \"2026\" \"开放\"",
+    "file": "search_014.json"
+  },
+  {
+    "query": "site:imust.edu.cn 科研平台 机器人 重点实验室",
+    "file": "search_014.json"
+  },
+  {
+    "query": "site:whvcse.edu.cn \"2026年度开放课题\"",
+    "file": "search_015.json"
+  },
+  {
+    "query": "site:iflytek.com \"2026\" \"具身\" \"开放课题\"",
+    "file": "search_015.json"
+  },
+  {
+    "query": "site:edu.cn \"石油化工过程运行优化\" \"2026\" \"开放\"",
+    "file": "search_015.json"
+  },
+  {
+    "query": "site:edu.cn \"安徽省电气传动\" \"开放\" \"2026\"",
+    "file": "search_015.json"
+  },
+  {
+    "query": "site:hfut.edu.cn OR site:ustc.edu.cn OR site:ahpu.edu.cn 科研平台 机器人 重点实验室",
+    "file": "search_016.json"
+  },
+  {
+    "query": "site:csu.edu.cn OR site:hnu.edu.cn 科研平台 机器人 实验室",
+    "file": "search_016.json"
+  },
+  {
+    "query": "site:xmu.edu.cn OR site:fzu.edu.cn 科研平台 机器人 重点实验室",
+    "file": "search_016.json"
+  },
+  {
+    "query": "site:ncu.edu.cn OR site:ecjtu.edu.cn \"机器人\" \"2026\" \"开放\"",
+    "file": "search_016.json"
+  },
+  {
+    "query": "site:scu.edu.cn OR site:uestc.edu.cn OR site:swpu.edu.cn \"开放基金\" \"机器人\" 2026",
+    "file": "search_017.json"
+  },
+  {
+    "query": "site:gzu.edu.cn OR site:ynnu.edu.cn OR site:ynu.edu.cn \"开放\" \"机器人\" 2026",
+    "file": "search_017.json"
+  },
+  {
+    "query": "site:gxust.edu.cn OR site:gxu.edu.cn \"机器人\" \"开放基金\"",
+    "file": "search_017.json"
+  },
+  {
+    "query": "site:hainanu.edu.cn \"机器人\" \"开放基金\" 2026",
+    "file": "search_017.json"
+  },
+  {
+    "query": "site:lzu.edu.cn OR site:lut.edu.cn \"开放课题\" \"2027\"",
+    "file": "search_018.json"
+  },
+  {
+    "query": "site:nxu.edu.cn OR site:qhu.edu.cn 科研平台 机器人 重点实验室",
+    "file": "search_018.json"
+  },
+  {
+    "query": "site:xju.edu.cn \"农牧机器人\" \"开放\"",
+    "file": "search_018.json"
+  },
+  {
+    "query": "site:utibet.edu.cn OR site:xznky.cn \"机器人\" 实验室 开放",
+    "file": "search_018.json"
+  },
+  {
+    "query": "site:edu.cn \"省重点实验室\" \"机器人\" \"开放\" 天津",
+    "file": "search_019.json"
+  },
+  {
+    "query": "site:edu.cn \"省重点实验室\" \"机器人\" \"开放\" 山西",
+    "file": "search_019.json"
+  },
+  {
+    "query": "site:edu.cn \"省重点实验室\" \"机器人\" \"开放\" 河北",
+    "file": "search_019.json"
+  },
+  {
+    "query": "site:edu.cn \"自治区重点实验室\" \"机器人\" \"开放\" 内蒙古",
+    "file": "search_019.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放课题\" \"2026\" 河南 -site:haut.edu.cn",
+    "file": "search_020.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放课题\" \"2026\" 江西 -site:ecjtu.edu.cn",
+    "file": "search_020.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放课题\" \"2026\" 湖南",
+    "file": "search_020.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放课题\" \"2026\" 福建 -site:xit.edu.cn",
+    "file": "search_020.json"
+  },
+  {
+    "query": "site:cas.cn \"机器人\" \"2026\" \"开放基金\" 宁波",
+    "file": "search_021.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放课题\" \"2026\" 浙江 -site:zju.edu.cn",
+    "file": "search_021.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放基金\" \"2026\" 山东 -site:sdust.edu.cn",
+    "file": "search_021.json"
+  },
+  {
+    "query": "site:edu.cn \"机器人\" \"开放基金\" \"2026\" 黑龙江 -site:hit.edu.cn",
+    "file": "search_021.json"
+  },
+  {
+    "query": "\"全省农业智能感知与机器人\" \"开放\" 2026",
+    "file": "search_022.json"
+  },
+  {
+    "query": "\"安徽省人机共融系统与智能装备\" \"开放\" 2026",
+    "file": "search_022.json"
+  },
+  {
+    "query": "site:swpu.edu.cn \"2026\" \"联合开放基金\" \"申请\"",
+    "file": "search_022.json"
+  },
+  {
+    "query": "site:edu.cn \"深海基础智能建造与运维\" \"开放\" 2026",
+    "file": "search_022.json"
+  },
+  {
+    "query": "site:me.seu.edu.cn OR site:kyy.njust.edu.cn OR site:me.yzu.edu.cn \"科研平台\"",
+    "file": "search_023.json"
+  },
+  {
+    "query": "site:imu.edu.cn OR site:nxu.edu.cn OR site:qhu.edu.cn \"重点实验室\" \"机器人\"",
+    "file": "search_023.json"
+  },
+  {
+    "query": "site:hrbeu.edu.cn OR site:jlu.edu.cn \"科研平台\" \"机器人\"",
+    "file": "search_023.json"
+  },
+  {
+    "query": "site:csu.edu.cn OR site:hnu.edu.cn \"重点实验室\" \"机器人\" \"开放\"",
+    "file": "search_023.json"
+  },
+  {
+    "query": "site:swpu.edu.cn \"2026年度实验室联合开放基金\"",
+    "file": "search_024.json"
+  },
+  {
+    "query": "site:zju.edu.cn \"农业智能感知与机器人\" \"2026\" \"开放\"",
+    "file": "search_024.json"
+  },
+  {
+    "query": "site:ahu.edu.cn \"人机共融系统\" \"开放\"",
+    "file": "search_024.json"
+  },
+  {
+    "query": "site:ningbo.nwpu.edu.cn \"柔性电子\" \"2026\" \"开放课题\"",
+    "file": "search_024.json"
+  },
+  {
+    "query": "site:cuit.edu.cn \"智能无人\" \"2026\" \"开放\"",
+    "file": "search_025.json"
+  },
+  {
+    "query": "site:qlu.edu.cn \"无人系统\" \"2027\" \"开放\"",
+    "file": "search_025.json"
+  },
+  {
+    "query": "site:sim.cas.cn \"2027\" \"开放课题\"",
+    "file": "search_025.json"
+  },
+  {
+    "query": "site:robot.hit.edu.cn \"2027\" \"开放\"",
+    "file": "search_025.json"
+  },
+  {
+    "query": "site:me.yzu.edu.cn \"重点实验室\"",
+    "file": "search_026.json"
+  },
+  {
+    "query": "site:scau.edu.cn \"开放基金\" \"2026\" \"机器人\"",
+    "file": "search_026.json"
+  },
+  {
+    "query": "site:dgut.edu.cn \"机器人与智能装备\" \"开放\"",
+    "file": "search_026.json"
+  },
+  {
+    "query": "site:cigit.cas.cn \"机器人\" \"开放课题\"",
+    "file": "search_026.json"
+  },
+  {
+    "query": "扬州大学 机械工程学院 科研平台 重点实验室",
+    "file": "search_027.json"
+  },
+  {
+    "query": "site:cqu.edu.cn \"智慧无人\" \"开放基金\"",
+    "file": "search_027.json"
+  },
+  {
+    "query": "site:scut.edu.cn \"脑机接口\" \"开放课题\"",
+    "file": "search_027.json"
+  },
+  {
+    "query": "site:buaa.edu.cn \"虚拟现实\" \"2026\" \"开放基金\"",
+    "file": "search_027.json"
+  },
+  {
+    "query": "site:polyu.edu.hk \"robotics\" \"open project\"",
+    "file": "search_028.json"
+  },
+  {
+    "query": "site:um.edu.mo \"robotics\" \"open research project\"",
+    "file": "search_028.json"
+  },
+  {
+    "query": "site:cair-cas.org.hk \"open\" \"fund\"",
+    "file": "search_028.json"
+  },
+  {
+    "query": "site:cqupt.edu.cn \"2025年度\" \"开放基金\" \"物联网\"",
+    "file": "search_028.json"
+  },
+  {
+    "query": "site:edu.cn \"高端装备机械传动\" \"2026\" \"开放基金\"",
+    "file": "search_029.json"
+  },
+  {
+    "query": "site:edu.cn \"智能多源自主导航\" \"2026\" \"开放\"",
+    "file": "search_029.json"
+  },
+  {
+    "query": "site:scut.edu.cn \"自主系统\" \"2024\" \"开放课题指南\"",
+    "file": "search_029.json"
+  },
+  {
+    "query": "site:automation.gdut.edu.cn \"10158\" 管理",
+    "file": "search_029.json"
+  },
+  {
+    "query": "site:ustc.edu.cn \"脑启发智能感知与认知\" \"2026\" \"开放\"",
+    "file": "search_030.json"
+  },
+  {
+    "query": "site:nuc.edu.cn \"2026\" \"机器视觉\" \"开放基金\"",
+    "file": "search_030.json"
+  },
+  {
+    "query": "site:nuc.edu.cn \"2026\" \"智能探测\" \"开放\"",
+    "file": "search_030.json"
+  },
+  {
+    "query": "site:robotics-lab.nimte.ac.cn \"开放\" 基金",
+    "file": "search_030.json"
+  },
+  {
+    "query": "site:gzu.edu.cn 科研平台 重点实验室 智能 农机",
+    "file": "search_031.json"
+  },
+  {
+    "query": "site:ynu.edu.cn \"智能系统与计算\" \"2027\" 开放",
+    "file": "search_031.json"
+  },
+  {
+    "query": "site:nxu.edu.cn \"机器人\" \"重点实验室\"",
+    "file": "search_031.json"
+  },
+  {
+    "query": "site:qhu.edu.cn \"2026\" \"新能源电力系统智慧运行\" \"开放\"",
+    "file": "search_031.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"开放基金\" \"机器人\" \"福州\"",
+    "file": "search_032.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"开放基金\" \"机器人\" \"江西\"",
+    "file": "search_032.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"开放基金\" \"机器人\" \"湖南省\" -site:hnu.edu.cn -site:csu.edu.cn",
+    "file": "search_032.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"开放基金\" \"机器人\" \"山西省\"",
+    "file": "search_032.json"
+  },
+  {
+    "query": "教育部重点实验室 名单 机器人 智能 2025 2026",
+    "file": "search_033.json"
+  },
+  {
+    "query": "省重点实验室 名单 机器人 甘肃 青海 宁夏 西藏",
+    "file": "search_033.json"
+  },
+  {
+    "query": "site:edu.cn \"基本科研业务费\" \"开放课题\" \"校外\" \"2027\"",
+    "file": "search_033.json"
+  },
+  {
+    "query": "site:edu.cn \"2026\" \"机器人\" \"开放基金\" \"10月\" -site:sdust.edu.cn -site:nuc.edu.cn",
+    "file": "search_033.json"
+  },
+  {
+    "query": "site.nuist.edu.cn \"认知计算\" \"开放\" \"2026\"",
+    "file": "search_034.json"
+  },
+  {
+    "query": "site.seu.edu.cn \"精准医学装备\" \"开放\"",
+    "file": "search_034.json"
+  },
+  {
+    "query": "site.njust.edu.cn \"高维\" \"开放基金\"",
+    "file": "search_034.json"
+  },
+  {
+    "query": "site.yzu.edu.cn 机器人 重点实验室 开放基金 2026",
+    "file": "search_034.json"
+  },
+  {
+    "query": "site.nankai.edu.cn \"机器人\" \"开放课题\" 2026",
+    "file": "search_035.json"
+  },
+  {
+    "query": "site.hnu.edu.cn \"机器人视觉\" \"开放\" 2026",
+    "file": "search_035.json"
+  },
+  {
+    "query": "site.nimte.ac.cn \"机器人\" \"开放基金\" 2026",
+    "file": "search_035.json"
+  },
+  {
+    "query": "site.imut.edu.cn \"机器人\" \"开放基金\"",
+    "file": "search_035.json"
+  },
+  {
+    "query": "\"开放课题\" \"2027\" 机器人 重点实验室",
+    "file": "search_036.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" \"中央高校基本科研业务费\" 校外 机器人",
+    "file": "search_036.json"
+  },
+  {
+    "query": "site.kzgcxy.cuit.edu.cn \"开放\" \"2024\"",
+    "file": "search_036.json"
+  },
+  {
+    "query": "\"浙江省农业智能感知与机器人\" \"2026\" 开放",
+    "file": "search_036.json"
+  },
+  {
+    "query": "site.um.edu.mo robotics \"open\" fund 2026",
+    "file": "search_037.json"
+  },
+  {
+    "query": "site.polyu.edu.hk robotics \"open fund\" 2026",
+    "file": "search_037.json"
+  },
+  {
+    "query": "site.ia.cas.cn \"2026\" \"开放课题\" 机器人",
+    "file": "search_037.json"
+  },
+  {
+    "query": "site.nwpu.edu.cn \"2026\" \"开放课题\" 机器人",
+    "file": "search_037.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"河北\"",
+    "file": "search_038.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"吉林\"",
+    "file": "search_038.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"宁夏\"",
+    "file": "search_038.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"西藏\"",
+    "file": "search_038.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"福建\"",
+    "file": "search_039.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"江西\"",
+    "file": "search_039.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"湖南\"",
+    "file": "search_039.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"海南\"",
+    "file": "search_039.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"广西\"",
+    "file": "search_040.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"云南\"",
+    "file": "search_040.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"贵州\"",
+    "file": "search_040.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"新疆\"",
+    "file": "search_040.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"甘肃\"",
+    "file": "search_041.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"青海\"",
+    "file": "search_041.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"内蒙古\"",
+    "file": "search_041.json"
+  },
+  {
+    "query": "\"开放基金\" \"2026\" 机器人 \"天津\"",
+    "file": "search_041.json"
+  },
+  {
+    "query": "site.kjt.nx.gov.cn \"重点实验室\" \"智能\"",
+    "file": "search_042.json"
+  },
+  {
+    "query": "site.it.utibet.edu.cn \"机器人\" \"重点实验室\"",
+    "file": "search_042.json"
+  },
+  {
+    "query": "site.hebust.edu.cn \"机器人\" \"重点实验室\"",
+    "file": "search_042.json"
+  },
+  {
+    "query": "site.kjc.scu.edu.cn 机器人 科研平台",
+    "file": "search_042.json"
+  },
+  {
+    "query": "site.amt.hrbust.edu.cn 开放 2026",
+    "file": "search_043.json"
+  },
+  {
+    "query": "site.amit.hrbust.edu.cn \"2026\" \"开放\"",
+    "file": "search_043.json"
+  },
+  {
+    "query": "site.kzgcxy.cuit.edu.cn \"4494\"",
+    "file": "search_043.json"
+  },
+  {
+    "query": "site.hebust.edu.cn \"机器人与具身智能\" \"开放\"",
+    "file": "search_043.json"
+  },
+  {
+    "query": "\"工程仿生教育部重点实验室\" \"管理办法\" 经费",
+    "file": "search_044.json"
+  },
+  {
+    "query": "site.hnit.edu.cn \"开放课题管理办法\" \"外拨\"",
+    "file": "search_044.json"
+  },
+  {
+    "query": "\"低空地理信息与航路\" \"管理条例\"",
+    "file": "search_044.json"
+  },
+  {
+    "query": "site.polyu.edu.hk robotics \"open research\" funding 2026",
+    "file": "search_044.json"
+  },
+  {
+    "query": "site.scu.edu.cn \"机器人\" \"重点实验室\" \"开放\"",
+    "file": "search_045.json"
+  },
+  {
+    "query": "site.uestc.edu.cn \"2026\" \"开放基金\" 机器人",
+    "file": "search_045.json"
+  },
+  {
+    "query": "site.xmu.edu.cn \"2026\" \"开放课题\" 机器人",
+    "file": "search_045.json"
+  },
+  {
+    "query": "site.fzu.edu.cn \"2026\" \"开放基金\" 机器人",
+    "file": "search_045.json"
+  },
+  {
+    "query": "site.hit.edu.cn \"2027\" \"开放课题\"",
+    "file": "search_046.json"
+  },
+  {
+    "query": "site.hrbeu.edu.cn \"2026\" \"开放课题\" 机器人",
+    "file": "search_046.json"
+  },
+  {
+    "query": "site.hbust.edu.cn \"2026\" \"开放基金\" 控制",
+    "file": "search_046.json"
+  },
+  {
+    "query": "site.jou.edu.cn \"2026\" \"开放课题\" 机器人",
+    "file": "search_046.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"山西\"",
+    "file": "search_047.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"山东\"",
+    "file": "search_047.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"河南\"",
+    "file": "search_047.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"湖北\"",
+    "file": "search_047.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"陕西\"",
+    "file": "search_048.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"广东\"",
+    "file": "search_048.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"江苏\"",
+    "file": "search_048.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"浙江\"",
+    "file": "search_048.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"安徽\"",
+    "file": "search_049.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"辽宁\"",
+    "file": "search_049.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"黑龙江\"",
+    "file": "search_049.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"四川\"",
+    "file": "search_049.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"北京\"",
+    "file": "search_050.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"上海\"",
+    "file": "search_050.json"
+  },
+  {
+    "query": "\"开放课题\" \"2026\" 机器人 \"重庆\"",
+    "file": "search_050.json"
+  },
+  {
+    "query": "\"開放研究\" 機器人 基金 台灣 大學",
+    "file": "search_050.json"
+  },
+  {
+    "query": "site.xhu.edu.cn \"2026\" \"机器人\" \"开放课题\"",
+    "file": "search_051.json"
+  },
+  {
+    "query": "site.gnyz.aku.edu.cn \"2026\" \"申请\" \"开放课题\"",
+    "file": "search_051.json"
+  },
+  {
+    "query": "\"江西飞行学院\" \"开放基金管理条例\"",
+    "file": "search_051.json"
+  },
+  {
+    "query": "site.cqcvc.edu.cn \"工业机器人运维\" \"开放\" \"申报条件\"",
+    "file": "search_051.json"
+  },
+  {
+    "query": "\"水利工程智能建设与运维\" \"2026\" \"博士\" 开放",
+    "file": "search_052.json"
+  },
+  {
+    "query": "\"水利工程智能建设与运维\" \"2026\" \"万元\" 基金",
+    "file": "search_052.json"
+  },
+  {
+    "query": "\"2026年度认知智能全国重点实验室\" \"高教\" 管理办法",
+    "file": "search_052.json"
+  },
+  {
+    "query": "\"智能探测技术与装备山西省重点实验室2026\" \"研究方向\"",
+    "file": "search_052.json"
+  }
+]

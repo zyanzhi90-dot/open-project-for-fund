@@ -1,0 +1,1736 @@
+[
+  {
+    "region": "江苏",
+    "institution": "南京信息工程大学",
+    "scope": "认知计算及智能信息处理平台定向检索",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M185",
+    "gaps": "复用前轮平台目录；本轮未取得其他平台2026—2027指南",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.nuist.edu.cn/kxyj/sbjkypt.htm",
+        "file": "前轮资料复用",
+        "status": "入口/目录或既有证据；未宣称本轮全文取得"
+      }
+    ],
+    "search_files": []
+  },
+  {
+    "region": "江苏",
+    "institution": "东南大学",
+    "scope": "精准医学装备设计制造省重点实验室；移动通信全国重点实验室2027",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "E064",
+    "gaps": "前者平台介绍已发现，开放机制未取得；后者正式指南任务为通信，排除",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://me.seu.edu.cn/2022/0406/c29672a403829/page.htm",
+        "file": "search_001.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://me.seu.edu.cn/2022/0406/c29672a403829/page.htm",
+        "file": "search_034.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_001.json",
+      "search_034.json",
+      "search_002.json",
+      "search_011.json",
+      "search_023.json",
+      "search_027.json",
+      "search_048.json"
+    ]
+  },
+  {
+    "region": "江苏",
+    "institution": "南京理工大学",
+    "scope": "高维信息智能感知及自动化实验室定向检索",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "既有记录复用",
+    "gaps": "年度正式开放任务与可用附件仍缺；域名只作定向入口，不代表目录全核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://automation.njust.edu.cn/",
+        "file": "前轮资料复用",
+        "status": "入口/目录或既有证据；未宣称本轮全文取得"
+      }
+    ],
+    "search_files": []
+  },
+  {
+    "region": "江苏",
+    "institution": "扬州大学",
+    "scope": "机械与信息学院机器人平台发现检索",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "取得竞赛校内通知，不能当开放基金；独立相关平台目录仍待补",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://xxgcxy.yzu.edu.cn/__local/0/19/73/0FD2722FFF24F611B51471E36E0_7ADC075C_457E8.pdf",
+        "file": "search_034.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_034.json"
+    ]
+  },
+  {
+    "region": "澳门",
+    "institution": "澳门大学",
+    "scope": "CAIR机器人研究及IoT2026—2027开放管理文件",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M165",
+    "gaps": "管理PDF403，官方索引片段不代替全文；CAIR2026招聘不是开放基金；各中心独立外部机制仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://skliotsc.um.edu.mo/wp-content/uploads/2025/08/IOTSC-Management-Methods-for-ORP-2026-2027.pdf",
+        "file": "search_037.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://skliotsc.um.edu.mo/wp-content/uploads/2025/08/IOTSC-Management-Methods-for-ORP-2026-2027.pdf",
+        "file": "open_010.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_037.json",
+      "open_010.json",
+      "search_028.json"
+    ]
+  },
+  {
+    "region": "香港",
+    "institution": "香港理工大学",
+    "scope": "机器人公开研究资助交叉检索；气候韧性沿海城市实验室基金页",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M122复用",
+    "gaps": "新基金页任务为气候韧性沿海城市，未见具体机器人任务，不入机器人台账；无人系统及联合实验室机制仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.polyu.edu.hk/sklcrcc/research/funding-support/",
+        "file": "search_037.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/sklcrcc/research/funding-support/",
+        "file": "open_010.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_037.json",
+      "open_010.json",
+      "search_003.json",
+      "search_044.json"
+    ]
+  },
+  {
+    "region": "广东",
+    "institution": "光明实验室",
+    "scope": "2026首轮正式公告及申请模板；第二批去重",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "R006、M097",
+    "gaps": "首轮正文与模板已取得，金额/截止/成果补齐；经费科目和外拨管理办法仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.gml.ac.cn/xxgs/923.html",
+        "file": "open_006.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "open_006.json",
+      "search_048.json"
+    ]
+  },
+  {
+    "region": "广东",
+    "institution": "华南理工大学",
+    "scope": "自主系统网络控制、机器人相关年度及附件交叉检索",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "R005",
+    "gaps": "复用已取得通知；挂载指南年度不一致，另一官方渠道仍未获适用任务指南",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www2.scut.edu.cn/autonlab/2025/0411/c4447a585385/page.htm",
+        "file": "前轮资料复用",
+        "status": "入口/目录或既有证据；未宣称本轮全文取得"
+      }
+    ],
+    "search_files": [
+      "search_045.json"
+    ]
+  },
+  {
+    "region": "北京",
+    "institution": "清华大学",
+    "scope": "信息国家研究中心2026类脑物理智能体；指南与立项结果",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N001",
+    "gaps": "年度指南PDF已取得；机器人方向6外拨、权属和署名未载；其他群体不能视作全核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.bnrist.tsinghua.edu.cn/info/1110/4271.htm",
+        "file": "search_004.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.bnrist.tsinghua.edu.cn/info/1110/4271.htm",
+        "file": "search_007.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.bnrist.tsinghua.edu.cn/info/1110/4271.htm",
+        "file": "open_001.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_004.json",
+      "search_007.json",
+      "open_001.json",
+      "search_005.json",
+      "search_011.json",
+      "search_020.json",
+      "search_021.json",
+      "search_050.json",
+      "search_051.json",
+      "open_004.json"
+    ]
+  },
+  {
+    "region": "北京",
+    "institution": "中国科学院自动化研究所",
+    "scope": "多模态人工智能系统全国重点实验室2026；机器人/CAIR官方动态",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M009复用",
+    "gaps": "新命中与已存年度公告去重；院内其他独立平台、2027外部机制尚缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.ia.cas.cn/qtgn/tzgg/202605/t20260515_8202627.html",
+        "file": "search_011.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.ia.cas.cn/qtgn/tzgg/202605/t20260515_8202627.html",
+        "file": "search_037.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_011.json",
+      "search_037.json"
+    ]
+  },
+  {
+    "region": "陕西",
+    "institution": "西北工业大学",
+    "scope": "智能机器人增材制造团队目录；空天地海2027—2028；凝固2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "既有记录复用",
+    "gaps": "团队新闻不是申报；空天地海/凝固任务未因智能建模自动保留，其他机器人重点平台年度机制仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://soai.nwpu.edu.cn/szdw/jsfc.htm",
+        "file": "search_037.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_037.json"
+    ]
+  },
+  {
+    "region": "重庆",
+    "institution": "重庆城市职业学院",
+    "scope": "工业机器人运维工程中心2026正式公告索引",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M103",
+    "gaps": "已在台账，不重增；页面直接访问超时，指南和共建单位资格适用范围按原缺口手动核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://kyc.cqcvc.edu.cn/info.thtml?cid=74479&pn=&t=11322",
+        "file": "search_011.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://kyc.cqcvc.edu.cn/info.thtml?cid=74479&pn=&t=11322",
+        "file": "search_050.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://kyc.cqcvc.edu.cn/info.thtml?cid=74479&pn=&t=11322",
+        "file": "search_051.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://kyc.cqcvc.edu.cn/info.thtml?cid=74479&pn=&t=11322",
+        "file": "open_015.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_011.json",
+      "search_050.json",
+      "search_051.json",
+      "open_015.json"
+    ]
+  },
+  {
+    "region": "重庆",
+    "institution": "重庆邮电大学",
+    "scope": "工业物联网网络化控制2025首页线索",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "R009",
+    "gaps": "再次发现索引，主页访问失败；未取得具体年度正文与附件，停止无效尝试",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://iot.cqupt.edu.cn/",
+        "file": "search_028.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://iot.cqupt.edu.cn/",
+        "file": "open_008.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_028.json",
+      "open_008.json"
+    ]
+  },
+  {
+    "region": "重庆",
+    "institution": "重庆大学",
+    "scope": "高端装备机械传动2026原始通知",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "R008",
+    "gaps": "其他官方渠道仅个人获资助记录，不能代替年度指南；原正文任务和条件仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://slmt.cqu.edu.cn/info/10663/90052.htm",
+        "file": "前轮资料复用",
+        "status": "入口/目录或既有证据；未宣称本轮全文取得"
+      }
+    ],
+    "search_files": []
+  },
+  {
+    "region": "河北",
+    "institution": "燕山大学",
+    "scope": "机械学院科研平台；并联机器人与机电系统；电气机器人控制",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "目录/平台官方证据已发现；2026—2027各实验室正式外部申报公告未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://mec.ysu.edu.cn/yqgl/jgsz/kypt.htm",
+        "file": "search_013.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://mec.ysu.edu.cn/yqgl/jgsz/kypt.htm",
+        "file": "search_027.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_013.json",
+      "search_027.json"
+    ]
+  },
+  {
+    "region": "河北",
+    "institution": "河北科技大学",
+    "scope": "河北省机器人与具身智能重点实验室；机器人与智能装备交叉中心",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "2026-09-24官方获批平台新闻确认，不是基金；年度外部资助机制未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://news.hebust.edu.cn/zhxw/fcbadd9f703c4145b6255f79651d3226.htm",
+        "file": "search_042.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_042.json"
+    ]
+  },
+  {
+    "region": "天津",
+    "institution": "南开大学",
+    "scope": "科研平台目录；天津市智能机器人技术实验室及微纳操作/无人系统团队",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "目录已读，年度定向结果主要为外单位已获基金及研究简介；独立开放受理未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://std.nankai.edu.cn/37461/list.htm",
+        "file": "search_012.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://std.nankai.edu.cn/37461/list.htm",
+        "file": "open_012.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_012.json",
+      "open_012.json"
+    ]
+  },
+  {
+    "region": "天津",
+    "institution": "天津大学",
+    "scope": "水利工程智能建设运维全国重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N016",
+    "gaps": "完整正文已核异质装备群协同及无人装备方向；指南PDF验证码，不能套M017精密测试实验室；其他机械/医工平台完整目录尚缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.tju.edu.cn/info/4732/81752.htm",
+        "file": "search_041.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.tju.edu.cn/info/4732/81752.htm",
+        "file": "open_016.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_041.json",
+      "open_016.json",
+      "open_017.json"
+    ]
+  },
+  {
+    "region": "山西",
+    "institution": "中北大学",
+    "scope": "机器视觉虚拟现实2026、微纳2026、恶劣环境智能装备2023、智能探测2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M068、M043、M106、N005",
+    "gaps": "三个10月8日截止项目转历史；智能探测沿用已存完整任务与条款，不因本轮取不到后段倒退；其他平台2027未全核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.nuc.edu.cn/info/1014/62433.htm",
+        "file": "search_030.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.nuc.edu.cn/info/1014/62433.htm",
+        "file": "open_008.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_030.json",
+      "open_008.json",
+      "search_019.json",
+      "search_032.json",
+      "search_052.json",
+      "open_007.json",
+      "open_009.json",
+      "open_011.json"
+    ]
+  },
+  {
+    "region": "内蒙古",
+    "institution": "内蒙古工业大学",
+    "scope": "自治区机器人与智能装备重点实验室重组平台；机械学院",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "2024重组平台介绍已发现，2026—2027机器人实验室正式开放指南未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://jixiexy.imut.edu.cn/info/1107/5834.htm",
+        "file": "search_019.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_019.json"
+    ]
+  },
+  {
+    "region": "内蒙古",
+    "institution": "内蒙古科技大学",
+    "scope": "机械工程学院机器人感知/认知/执行研究线索",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "人员研究不是开放基金；相关重点实验室完整名单及外部受理机制未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://sme.imust.edu.cn/info/1092/5973.htm",
+        "file": "search_008.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://sme.imust.edu.cn/info/1092/5973.htm",
+        "file": "search_019.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_008.json",
+      "search_019.json",
+      "search_014.json"
+    ]
+  },
+  {
+    "region": "辽宁",
+    "institution": "中国科学院沈阳自动化研究所",
+    "scope": "机器人与智能系统全国重点实验室目录、2025指南、2026—2027定向",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M031复用",
+    "gaps": "2025正式年度已存，不重增；2026—2027新公告未检出，不能视为确认不存在",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://rlab.sia.cas.cn/sysjj/sysgk/",
+        "file": "search_033.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://rlab.sia.cas.cn/sysjj/sysgk/",
+        "file": "search_042.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_033.json",
+      "search_042.json",
+      "search_034.json",
+      "search_037.json",
+      "search_045.json"
+    ]
+  },
+  {
+    "region": "辽宁",
+    "institution": "大连理工大学",
+    "scope": "工业装备结构分析优化与CAE全国重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M160复用",
+    "gaps": "2026官方高校转载命中，原当期已收录；其他大连机器人/海工平台完整目录未核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www5.zzu.edu.cn/nerc/info/1073/3205.htm",
+        "file": "search_034.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_034.json"
+    ]
+  },
+  {
+    "region": "辽宁",
+    "institution": "辽宁石油化工大学",
+    "scope": "石油化工智能优化安全运行省重点实验室2025",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N011",
+    "gaps": "PDF下载失败；机器人巡检个人项目不能推填年度指南，待手动",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://sice.lnpu.edu.cn/__local/6/85/AD/618AB99B1482BA4F1A20906037B_DEDEC0FE_32C8D.pdf",
+        "file": "search_015.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_015.json",
+      "search_005.json",
+      "search_008.json"
+    ]
+  },
+  {
+    "region": "吉林",
+    "institution": "吉林大学",
+    "scope": "工程仿生、汽车底盘集成仿生2026正式年度公告",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N012、N013、M116、M117",
+    "gaps": "2026正文读全，与2025分开；工程仿生管理办法验证码；汽车底盘管理文件未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://bionic.jlu.edu.cn/info/1041/1693.htm",
+        "file": "search_038.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://bionic.jlu.edu.cn/info/1041/1693.htm",
+        "file": "search_044.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://bionic.jlu.edu.cn/info/1041/1693.htm",
+        "file": "open_011.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_038.json",
+      "search_044.json",
+      "open_011.json",
+      "open_014.json"
+    ]
+  },
+  {
+    "region": "吉林",
+    "institution": "长春理工大学",
+    "scope": "跨尺度微纳制造教育部重点实验室2025—2026立项线索",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "立项公告不是当前受理；原指南及机器人相关任务未取得，不据微纳名称纳入",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://cmnm.cust.edu.cn/xwdt/4d5276ea31864958966b8a08a60a7226.htm",
+        "file": "search_038.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_038.json"
+    ]
+  },
+  {
+    "region": "黑龙江",
+    "institution": "哈尔滨工业大学",
+    "scope": "机器人技术系统2026年度及2026两项专项；2027定向",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M034、E062、E063",
+    "gaps": "年度复用；两专项明确校内全职教师排除；未取得2027当期，其他航天平台目录未全核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://robot.hit.edu.cn/xxdt/list.htm",
+        "file": "search_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://robot.hit.edu.cn/xxdt/list.htm",
+        "file": "search_020.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://robot.hit.edu.cn/xxdt/list.htm",
+        "file": "search_021.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://robot.hit.edu.cn/xxdt/list.htm",
+        "file": "search_033.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://robot.hit.edu.cn/xxdt/list.htm",
+        "file": "search_051.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_009.json",
+      "search_020.json",
+      "search_021.json",
+      "search_033.json",
+      "search_051.json",
+      "open_001.json",
+      "search_010.json",
+      "search_025.json",
+      "search_042.json",
+      "search_045.json"
+    ]
+  },
+  {
+    "region": "黑龙江",
+    "institution": "哈尔滨工程大学",
+    "scope": "智能装备/水下机器人国防平台",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "平台及个人项目已发现；2026—2027对外正式开放公告未取得，国防平台不猜公开机制",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://iip.hrbeu.edu.cn/",
+        "file": "search_023.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_023.json"
+    ]
+  },
+  {
+    "region": "黑龙江",
+    "institution": "哈尔滨理工大学",
+    "scope": "先进制造智能化教育部重点实验室；复杂智能系统省重点实验室",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M047复用",
+    "gaps": "历史机器人医疗装备机制已收；2026命中建设推进会而非新开放通知；其他省平台当期指南仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://amit.hrbust.edu.cn/home/news/100",
+        "file": "search_042.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_042.json",
+      "search_043.json"
+    ]
+  },
+  {
+    "region": "上海",
+    "institution": "同济大学",
+    "scope": "预制装配工程中心2026沈祖炎专项",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N003",
+    "gaps": "定向焊接机器人方向已核，外部非合作单位须资助方事先意向；管理办法/协议仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://prefabcenter.tongji.edu.cn/c0/f8/c15384a377080/page.htm",
+        "file": "search_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://prefabcenter.tongji.edu.cn/c0/f8/c15384a377080/page.htm",
+        "file": "open_007.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_009.json",
+      "open_007.json"
+    ]
+  },
+  {
+    "region": "上海",
+    "institution": "上海科技大学",
+    "scope": "智能感知人机协同2026官方索引全文片段",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M035",
+    "gaps": "10月8日前截止现已过；网页404/TLS受限，保留既有条款，不倒退证据，附件待手动",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://klip-humaco.sist.shanghaitech.edu.cn/2026/0914/c14914a1126983/page.htm",
+        "file": "search_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://klip-humaco.sist.shanghaitech.edu.cn/2026/0914/c14914a1126983/page.htm",
+        "file": "search_010.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://klip-humaco.sist.shanghaitech.edu.cn/2026/0914/c14914a1126983/page.htm",
+        "file": "search_011.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://klip-humaco.sist.shanghaitech.edu.cn/2026/0914/c14914a1126983/page.htm",
+        "file": "search_013.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://klip-humaco.sist.shanghaitech.edu.cn/2026/0914/c14914a1126983/page.htm",
+        "file": "search_021.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_009.json",
+      "search_010.json",
+      "search_011.json",
+      "search_013.json",
+      "search_021.json",
+      "open_001.json"
+    ]
+  },
+  {
+    "region": "上海",
+    "institution": "上海交通大学",
+    "scope": "柔性医疗机器人省重点实验室长期机制与2026立项",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M056复用",
+    "gaps": "基金机制与立项页面已发现；某立项100万元不能当作本基金统一额度；当期窗口仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://imr.sjtu.edu.cn/",
+        "file": "search_050.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_050.json"
+    ]
+  },
+  {
+    "region": "安徽",
+    "institution": "中国科学技术大学",
+    "scope": "脑启发智能感知认知2026；先进机器人技术研究中心",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M041",
+    "gaps": "正文全核不外拨/共享IP，具体机器人任务适用仍待核；ARC年度外部资助未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://institution.ustc.edu.cn/BIPCLab/zh_CN/article/994106/content/5479.htm",
+        "file": "search_030.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://institution.ustc.edu.cn/BIPCLab/zh_CN/article/994106/content/5479.htm",
+        "file": "open_008.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_030.json",
+      "open_008.json",
+      "search_016.json"
+    ]
+  },
+  {
+    "region": "安徽",
+    "institution": "科大讯飞／中国科学技术大学",
+    "scope": "认知智能全国重点实验室2026高等教育专项",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N008",
+    "gaps": "具身场景感知线索，机器人具体任务适用及管理条件缺；已截止",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://cogskl.iflytek.com/archives/3471",
+        "file": "search_005.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://cogskl.iflytek.com/archives/3471",
+        "file": "search_015.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://cogskl.iflytek.com/archives/3471",
+        "file": "open_005.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://cogskl.iflytek.com/archives/3471",
+        "file": "open_006.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_005.json",
+      "search_015.json",
+      "open_005.json",
+      "open_006.json",
+      "search_042.json",
+      "search_052.json"
+    ]
+  },
+  {
+    "region": "安徽",
+    "institution": "安徽工程大学",
+    "scope": "高端装备先进感知智能控制教育部重点实验室",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M042复用",
+    "gaps": "机器人导航设施/方向已发现；2025已存，2026—2027新指南未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://cee.ahpu.edu.cn/lapic/yqsb/list.psp",
+        "file": "search_016.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_016.json"
+    ]
+  },
+  {
+    "region": "安徽",
+    "institution": "安徽工业大学",
+    "scope": "特种重载机器人省重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M061复用",
+    "gaps": "年度官方命中与既有项目去重；其他独立实验室年度目录未全核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://robotlab.ahut.edu.cn/info/1549/1412.htm",
+        "file": "search_049.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_049.json"
+    ]
+  },
+  {
+    "region": "安徽",
+    "institution": "安徽大学",
+    "scope": "人机共融系统与智能装备安徽省工程实验室",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "平台/外单位已获课题线索已发现，年度指南/外部负责人条件未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.ahu.edu.cn/2024/1021/c15129a349758/page.htm",
+        "file": "search_024.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_024.json"
+    ]
+  },
+  {
+    "region": "安徽",
+    "institution": "江淮实验室",
+    "scope": "安徽省人形机器人2026指南建议征集",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M064复用",
+    "gaps": "2026-09指南建议不是项目受理；正式2026课题通知尚未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.jhatc.cn/html/mobile/kexue/pingtaichanpin/2098331115939979266.html",
+        "file": "search_051.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_051.json",
+      "search_009.json"
+    ]
+  },
+  {
+    "region": "浙江",
+    "institution": "浙江大学",
+    "scope": "农业智能感知机器人2025；工业控制2026—2027；流体2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N004、M024、M026",
+    "gaps": "农业官方转载读全、不外拨；其他年度复用；各平台2027新增受理未全核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.nercita.org.cn/infos/detail?id=10341&type=203",
+        "file": "search_022.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.nercita.org.cn/infos/detail?id=10341&type=203",
+        "file": "open_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_022.json",
+      "open_009.json"
+    ]
+  },
+  {
+    "region": "浙江",
+    "institution": "中国科学院宁波材料所",
+    "scope": "浙江省机器人智能制造装备技术重点实验室",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N009",
+    "gaps": "官方明确开放基金/课题机制；2026—2027指南和全部实际条件未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://robotics-lab.nimte.ac.cn/view-13552.html",
+        "file": "search_035.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_035.json",
+      "search_030.json"
+    ]
+  },
+  {
+    "region": "福建",
+    "institution": "阳光学院",
+    "scope": "空间信息感知智能处理省重点实验室2022",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N006",
+    "gaps": "机器人SLAM/路径/ROS任务及全部正文条款已核；2026—2027当期通知未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://isdm.ygu.edu.cn/info/1100/1376.htm",
+        "file": "search_019.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://isdm.ygu.edu.cn/info/1100/1376.htm",
+        "file": "open_007.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_019.json",
+      "open_007.json"
+    ]
+  },
+  {
+    "region": "福建",
+    "institution": "厦门大学",
+    "scope": "低碳智慧能源装备平台；数字媒体计算中心；超智医疗中心2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增机器人开放基金",
+    "gaps": "数字媒体招博士后/研发赞助不是外部基金；超智医疗当前实际任务为临床生命数据，不据AI纳入；其他机器人工程平台目录仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://cdmc.xmu.edu.cn/info/1002/2413.htm",
+        "file": "search_045.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_045.json"
+    ]
+  },
+  {
+    "region": "福建",
+    "institution": "福建理工大学",
+    "scope": "科研管理目录与2026设计创新平台",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "命中社科设计创新不等于机器人基金；机器人省平台全名单未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://kyc.fjut.edu.cn/",
+        "file": "search_032.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_032.json"
+    ]
+  },
+  {
+    "region": "江西",
+    "institution": "南昌航空大学",
+    "scope": "机载智能检测产业技术中心2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "S001本地输入保留",
+    "gaps": "不重新算新增；外拨和IP正文未载，强制固定合作未落实",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.nchu.edu.cn/xwzx/xngg/content_196002",
+        "file": "仅地区发现检索；具体URL来自既有官方资料",
+        "status": "入口/目录或既有证据；未宣称本轮全文取得"
+      }
+    ],
+    "search_files": []
+  },
+  {
+    "region": "江西",
+    "institution": "江西飞行学院",
+    "scope": "低空地理信息航路省教育厅重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N014",
+    "gaps": "正式正文读全；指南/条例RAR下载受限，另一官方2025指南不能代2026附件",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://jcxy.jxfu.edu.cn/info/1042/14661.htm",
+        "file": "search_039.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://jcxy.jxfu.edu.cn/info/1042/14661.htm",
+        "file": "search_044.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://jcxy.jxfu.edu.cn/info/1042/14661.htm",
+        "file": "open_012.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_039.json",
+      "search_044.json",
+      "open_012.json",
+      "search_051.json",
+      "open_014.json"
+    ]
+  },
+  {
+    "region": "江西",
+    "institution": "南昌大学／华东交通大学",
+    "scope": "智能机器人省重点实验室／交通智能运维技术装备平台年度定向",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M112、M048复用",
+    "gaps": "2024/2026原条目复用；本轮地区搜索未检出更多正式机器人开放基金；完整平台目录仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.ncu.edu.cn/",
+        "file": "仅地区发现检索；具体URL来自既有官方资料",
+        "status": "入口/目录或既有证据；未宣称本轮全文取得"
+      }
+    ],
+    "search_files": []
+  },
+  {
+    "region": "山东",
+    "institution": "山东科技大学",
+    "scope": "智能感知自主控制省重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M066本地输入保留",
+    "gaps": "正文任务直接感知/控制已核，保留首页；管理ZIP尚未取得，知识产权和外拨仍待补",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://xindian.sdust.edu.cn/info/1008/7407.htm",
+        "file": "search_012.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://xindian.sdust.edu.cn/info/1008/7407.htm",
+        "file": "search_013.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://xindian.sdust.edu.cn/info/1008/7407.htm",
+        "file": "open_005.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_012.json",
+      "search_013.json",
+      "open_005.json",
+      "open_006.json"
+    ]
+  },
+  {
+    "region": "山东",
+    "institution": "青岛大学／附属医院",
+    "scope": "数字医学与计算机辅助手术省重点实验室跨年度指南",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "S002本地输入保留",
+    "gaps": "2025发布列2026，实际2026受理窗口未证实；不进入首页",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://hdldb.net/news-detail.php?id=MjQwMQ%3D%3D",
+        "file": "仅地区发现检索；具体URL来自既有官方资料",
+        "status": "入口/目录或既有证据；未宣称本轮全文取得"
+      }
+    ],
+    "search_files": []
+  },
+  {
+    "region": "河南",
+    "institution": "河南工业大学",
+    "scope": "超硬磨料磨削装备省重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M080复用",
+    "gaps": "明确机器人磨削抛光修整，年度已存；省内其他机器人省属高校完整名单仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://kjc.haut.edu.cn/info/1240/13366.htm",
+        "file": "search_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://kjc.haut.edu.cn/info/1240/13366.htm",
+        "file": "search_047.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_009.json",
+      "search_047.json"
+    ]
+  },
+  {
+    "region": "河南",
+    "institution": "郑州工商学院",
+    "scope": "河南省具身智能系统省重点实验室2026发布新闻",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M049",
+    "gaps": "官方发布事件不是全文指南；六月全国口径与其他批次河南口径不能直接合并，待原批次文件",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.ztbu.edu.cn/html/1072/2026-06-24/content-12734.html",
+        "file": "search_020.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_020.json"
+    ]
+  },
+  {
+    "region": "湖北",
+    "institution": "武汉软件工程职业学院／武汉开放大学",
+    "scope": "复杂零件智能检测识别工程中心2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N002",
+    "gaps": "任务/资格/金额/权属已核，附件及纸质收件细节缺；另一官方域名访问失败",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://gcyjzx.whvcse.edu.cn/info/1041/3921.htm",
+        "file": "search_010.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://gcyjzx.whvcse.edu.cn/info/1041/3921.htm",
+        "file": "search_015.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://gcyjzx.whvcse.edu.cn/info/1041/3921.htm",
+        "file": "search_051.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://gcyjzx.whvcse.edu.cn/info/1041/3921.htm",
+        "file": "open_005.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://gcyjzx.whvcse.edu.cn/info/1041/3921.htm",
+        "file": "open_006.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_010.json",
+      "search_015.json",
+      "search_051.json",
+      "open_005.json",
+      "open_006.json"
+    ]
+  },
+  {
+    "region": "湖北",
+    "institution": "华中科技大学",
+    "scope": "智能制造装备2027；图像信息处理智能控制2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M029、M050复用",
+    "gaps": "不同平台年度已存；图像控制校外联合且校内报销不外拨，不能当普通校内业务费；其他完整平台未核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://imet.hust.edu.cn/info/1031/2870.htm",
+        "file": "search_036.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://imet.hust.edu.cn/info/1031/2870.htm",
+        "file": "search_046.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_036.json",
+      "search_046.json",
+      "search_051.json"
+    ]
+  },
+  {
+    "region": "湖南",
+    "institution": "湖南大学",
+    "scope": "机器人视觉感知控制国家工程中心、视觉AI及电子制造机器人省重点平台",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "官方中心/学院介绍及2026研究新闻已定位；2026—2027外部开放基金未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://robot.hnu.edu.cn/",
+        "file": "search_023.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://robot.hnu.edu.cn/",
+        "file": "search_035.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_023.json",
+      "search_035.json"
+    ]
+  },
+  {
+    "region": "湖南",
+    "institution": "湖南工学院",
+    "scope": "2026汽车零部件产业链平台专项",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N015",
+    "gaps": "方向6动力学控制正文全核，管理附件验证码；其他五项育人管理不纳入",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.hnit.edu.cn/kjc/info/1134/7693.htm",
+        "file": "search_039.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.hnit.edu.cn/kjc/info/1134/7693.htm",
+        "file": "open_012.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_039.json",
+      "open_012.json",
+      "open_014.json"
+    ]
+  },
+  {
+    "region": "湖南",
+    "institution": "中南大学",
+    "scope": "自动化科研平台、工业智能系统；高性能复杂制造2025立项",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "平台目录和人形关节项目立项线索，不是新的受理指南；2026—2027年度外部机制未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://soa.csu.edu.cn/info/1031/8984.htm",
+        "file": "search_023.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_023.json"
+    ]
+  },
+  {
+    "region": "广西",
+    "institution": "广西大学",
+    "scope": "广西农业资源智能检测利用机器人方向",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增",
+    "gaps": "人员/平台介绍不是基金；2026—2027当期对外机制未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://acip.gxu.edu.cn/zxgk/szqk.htm",
+        "file": "search_017.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_017.json"
+    ]
+  },
+  {
+    "region": "广西",
+    "institution": "广西科技大学",
+    "scope": "广西汽车零部件与整车技术省重点平台2025成果",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "机器人协同成果引用2025基金编号，仅立项/成果线索；2026年度指南未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.gxust.edu.cn/jxyjt/info/1075/7582.htm",
+        "file": "search_017.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_017.json"
+    ]
+  },
+  {
+    "region": "海南",
+    "institution": "中科院深海科学与工程研究所",
+    "scope": "深海工程平台开放课题年度/立项",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M121复用",
+    "gaps": "2026发布页属2025申请结果，不当2026新通知；其他海洋机器人平台目录未全核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://idsse.cas.cn/xwdt/tzgg/202608/t20260818_8261916.html",
+        "file": "search_011.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://idsse.cas.cn/xwdt/tzgg/202608/t20260818_8261916.html",
+        "file": "search_033.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_011.json",
+      "search_033.json"
+    ]
+  },
+  {
+    "region": "四川",
+    "institution": "西南石油大学",
+    "scope": "南充机器人智能制造—油气装备联合开放基金2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N007",
+    "gaps": "评审公示有蛇形机器人，原2026联合申报公告未取得；待手动",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.swpu.edu.cn/jdy/info/1040/32450.htm",
+        "file": "search_017.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.swpu.edu.cn/jdy/info/1040/32450.htm",
+        "file": "search_024.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://www.swpu.edu.cn/jdy/info/1040/32450.htm",
+        "file": "search_034.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_017.json",
+      "search_024.json",
+      "search_034.json",
+      "search_021.json"
+    ]
+  },
+  {
+    "region": "四川",
+    "institution": "电子科技大学",
+    "scope": "智能终端四川省重点实验室；电磁辐射材料工程中心2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增机器人基金",
+    "gaps": "智能终端有历史基金机制，具体机器人年度任务未取得；电磁中心完整指南为材料/射频，不纳入",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://yb.uestc.edu.cn/tsgjscszdsys/",
+        "file": "search_017.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://yb.uestc.edu.cn/tsgjscszdsys/",
+        "file": "search_045.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_017.json",
+      "search_045.json"
+    ]
+  },
+  {
+    "region": "四川",
+    "institution": "四川大学",
+    "scope": "山区河流保护治理平台机器人仪器与电气机器人团队",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "有AUV设备不等于资助机器人任务；特殊环境机器人平台独立指南与目录仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://skhl.scu.edu.cn/",
+        "file": "search_045.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_045.json"
+    ]
+  },
+  {
+    "region": "四川",
+    "institution": "西南交通大学／中铁大桥共同依托单位",
+    "scope": "桥梁智能绿色建造2026爬壁机器人；轨道交通运载系统2027",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M114、M105复用",
+    "gaps": "M114沿用完整已核条款，10月8日日期已过转历史；M105当期复用；各分室年度与完整平台目录仍缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://bridge.swjtu.edu.cn/info/1066/8471.htm",
+        "file": "search_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://bridge.swjtu.edu.cn/info/1066/8471.htm",
+        "file": "search_011.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://bridge.swjtu.edu.cn/info/1066/8471.htm",
+        "file": "search_020.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://bridge.swjtu.edu.cn/info/1066/8471.htm",
+        "file": "search_021.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_009.json",
+      "search_011.json",
+      "search_020.json",
+      "search_021.json"
+    ]
+  },
+  {
+    "region": "四川",
+    "institution": "成都信息工程大学",
+    "scope": "无人工程平台2024、应用支撑软件2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "2024机器人原页访问失败，年度条款未取得；2026软件任务文化内容及舆情，不因大模型收录",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://kzgcxy.cuit.edu.cn/info/2046/4494.htm",
+        "file": "open_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "open_009.json",
+      "search_036.json",
+      "search_043.json"
+    ]
+  },
+  {
+    "region": "贵州",
+    "institution": "贵州大学",
+    "scope": "山地农业机械省重点平台；科学技术处公告目录",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M089复用",
+    "gaps": "2025指南/2026立项不混为2026新受理；其他机器人重点目录及2027年度尚缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://st.gzu.edu.cn/tzgg/list.htm",
+        "file": "search_031.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_031.json",
+      "search_017.json"
+    ]
+  },
+  {
+    "region": "云南",
+    "institution": "昆明理工大学",
+    "scope": "复杂系统类脑省重点实验室2026；省平台验收目录",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "E065",
+    "gaps": "年度正文全读，脑功能/高阶传播任务无具体机器人关联排除；智能控制省平台受理仍需查",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://lxy.kust.edu.cn/info/1151/2522.htm",
+        "file": "search_040.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      },
+      {
+        "url": "https://lxy.kust.edu.cn/info/1151/2522.htm",
+        "file": "open_012.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_040.json",
+      "open_012.json"
+    ]
+  },
+  {
+    "region": "甘肃",
+    "institution": "兰州交通大学",
+    "scope": "重点实验室目录、铁路系统运维及动力可靠性平台",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增正式公告",
+    "gaps": "目录已发现；机器人相关年度任务与开放机制未取得",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://www.lzjtu.edu.cn/kxyj/zdsys.htm",
+        "file": "search_033.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_033.json"
+    ]
+  },
+  {
+    "region": "甘肃",
+    "institution": "兰州理工大学",
+    "scope": "成套装备智能化集成技术教育部重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M053复用",
+    "gaps": "既有2026相关公告复用；2027新指南未取得，校内其他机器人工程平台名单未核",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://jidian.lut.edu.cn/info/1924/18496.htm",
+        "file": "search_009.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_009.json",
+      "search_018.json"
+    ]
+  },
+  {
+    "region": "青海",
+    "institution": "青海大学",
+    "scope": "新能源智慧能源省重点实验室2026及2024机器人运维任务",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M054",
+    "gaps": "2024任务不沿用2026；2026适用机器人任务、原附件仍待手动",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://seee.qhu.edu.cn/docs/2024-11/578a4dec562644c298214a650c53919c.pdf",
+        "file": "search_018.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_018.json",
+      "search_031.json"
+    ]
+  },
+  {
+    "region": "青海",
+    "institution": "青海师范大学",
+    "scope": "藏语智能、青藏地表生态2026年度",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增机器人基金",
+    "gaps": "年度任务藏语/地表生态不据AI纳入；其他机器人相关平台完整目录尚缺",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://kjc.qhnu.edu.cn/info/1062/2238.htm",
+        "file": "search_041.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_041.json",
+      "search_033.json"
+    ]
+  },
+  {
+    "region": "宁夏",
+    "institution": "宁夏大学／自治区科技厅",
+    "scope": "数学基础学科中心2026及省重点实验室目录",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "M094复用",
+    "gaps": "数学年度指南原待核，不据复杂网络等关键字放首页；机器人/装备目录尚未逐室定位",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://kjt.nx.gov.cn/kjzy/cxtx/zdsys/202309/t20230914_4264687.html",
+        "file": "search_033.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_033.json",
+      "search_042.json"
+    ]
+  },
+  {
+    "region": "西藏",
+    "institution": "西藏大学",
+    "scope": "信息学院机器人合作新闻；生态环境重点实验室2026",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "无新增机器人基金",
+    "gaps": "企业机器人交流不是开放基金；生态年度不相关；机器人或智能装备重点平台目录未定位",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://it.utibet.edu.cn/info/1020/1631.htm",
+        "file": "search_018.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_018.json",
+      "search_042.json"
+    ]
+  },
+  {
+    "region": "新疆",
+    "institution": "新疆大学",
+    "scope": "农牧机器人智能装备工程研究中心介绍与开放制度",
+    "checked_years": "2026—2027定向发现；往年机制/公告保留原年度；未核年份见缺口",
+    "projects": "N010",
+    "gaps": "制度PDF已取得，但年度指南和单项额度未取得，中心总经费不当单项金额",
+    "checked_date": "2026-10-08—09（北京时间）",
+    "evidence": [
+      {
+        "url": "https://jxxy.xju.edu.cn/__local/0/23/6F/B2938303B9580E6741F5D6F72BE_A1C96726_4AE3B.pdf",
+        "file": "search_018.json",
+        "status": "本轮保存检索/打开原文，是否正文全读见已查范围"
+      }
+    ],
+    "search_files": [
+      "search_018.json",
+      "search_010.json",
+      "search_019.json",
+      "search_036.json",
+      "search_046.json"
+    ]
+  }
+]

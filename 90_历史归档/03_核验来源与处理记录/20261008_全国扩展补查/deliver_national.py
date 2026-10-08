@@ -1,6 +1,34 @@
-# 全国机器人与医工开放项目
+import pathlib,json,hashlib,shutil,re
+H=pathlib.Path(__file__).resolve().parent;ROOT=H.parents[2].resolve();D=json.loads((H/'prepared_regions.json').read_text(encoding='utf8'));V=json.loads((H/'validation_regions.json').read_text(encoding='utf8'))
+name='全国机器人开放课题_个人申报台账_全国扩展版_20261009.xlsx';source=H/name;target=ROOT/name
+assert V['stats']==dict(current=15,historical=95,pending=52,other=4,total=166,excluded=65)
+assert hashlib.sha256(source.read_bytes()).hexdigest()==V['sha256']
+manifest=json.loads((H/'render_manifest.json').read_text(encoding='utf8'));assert all((H/x['file']).exists() for x in manifest)
+for x in manifest:x['status']='passed'
+(H/'render_manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf8');V['visual_review']='passed'
+oldfiles=[ROOT/'全国机器人开放课题_个人申报台账_重点地区补查版_20261008.xlsx',ROOT/'全国机器人开放课题_个人申报台账_重点地区补查版_20261008-网页修改版.xlsx']
+archive=ROOT/'90_历史归档/02_旧版与输出记录/20261009_全国扩展前交付及网页修改版'
+if target.exists():assert hashlib.sha256(target.read_bytes()).hexdigest()==V['sha256']
+assert hashlib.sha256(pathlib.Path(D['current_input']).read_bytes()).hexdigest()==D['current_input_hash']
+for p in [source,target,archive,*oldfiles]:assert p.resolve().is_relative_to(ROOT),p
+assert all(p.exists() for p in oldfiles)
+hashes={p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in oldfiles}
+archive.mkdir(parents=True,exist_ok=True)
+for p in oldfiles:
+ if (archive/p.name).exists():assert hashlib.sha256((archive/p.name).read_bytes()).hexdigest()==hashes[p.name]
+shutil.copy2(source,target);assert hashlib.sha256(target.read_bytes()).hexdigest()==V['sha256']
+for p in oldfiles:
+ shutil.move(str(p),str(archive/p.name));assert hashlib.sha256((archive/p.name).read_bytes()).hexdigest()==hashes[p.name]
+assert [p.name for p in ROOT.glob('*.xlsx') if not p.name.startswith('~$')]==[name]
+for fn in ['AGENTS.md','项目说明.md']:
+ p=ROOT/fn;s=p.read_text(encoding='utf8').replace(oldfiles[0].name,name)
+ if fn=='项目说明.md':
+  s=re.sub(r'本轮重点地区补查后148个独立详情条目；首页13条正式受理公告、历史78条、待核53条、其他资助4条；累计剔除61条原记录', '本轮全国扩展后166个独立详情条目；首页15条正式受理公告、历史95条、待核52条、其他资助4条；累计剔除65条原记录',s)
+  s=s.replace('全国其他地区留待下一阶段。','本轮全国扩展已开展31个大陆省级区域及港澳地区发现/补漏检索，机构完整覆盖仍未完成；详见[全国扩展记录](全国扩展检索记录_20261009.md)和[手动补充事项](手动补充事项_20261009.md)。')
+ p.write_text(s,encoding='utf8')
+readme=f'''# 全国机器人与医工开放项目
 
-当前交付：[全国机器人开放课题_个人申报台账_全国扩展版_20261009.xlsx](全国机器人开放课题_个人申报台账_全国扩展版_20261009.xlsx)。
+当前交付：[{name}]({name})。
 
 正式要求见[后续补充检索规则](后续补充检索规则.md)。按公告实际机器人、具身智能、人机交互、感知、规划、学习、控制及相关智能装备任务筛选，客观展示资格和条款，不作能力评价、评分或申报推荐。首页严格六列，当前受理不代表个人已满足条件。
 
@@ -21,7 +49,12 @@
 遵循AGENTS.md，每次完成修改后执行以下脚本提交并推送main；远程有未合入变更则停止，不强推或改写历史。
 
 ```powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\sync-github.ps1
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\\scripts\\sync-github.ps1
 ```
 
 遵守.gitignore，个人未公开申请书、凭据、依赖及运行缓存不上传。
+'''
+(ROOT/'README.md').write_text(readme,encoding='utf8')
+V.update(delivered=str(target),archived_inputs=[str(archive/p.name) for p in oldfiles],archived_input_hashes=hashes,root_only_one_excel=True)
+(H/'validation_regions.json').write_text(json.dumps(V,ensure_ascii=False,indent=2),encoding='utf8')
+print(json.dumps({'delivered':str(target),'archived_input_count':2,'root_excel_count':1,'stats':D['stats']},ensure_ascii=False))

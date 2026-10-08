@@ -1,0 +1,30 @@
+{
+  "recordCount": 1,
+  "truncated": false,
+  "metadata": {
+    "revision": "sx6j8g",
+    "target": {
+      "id": "wb/pa7uj1",
+      "beforeLines": 0,
+      "afterLines": 0
+    },
+    "kind": {
+      "requested": "table",
+      "tokens": [
+        "table"
+      ]
+    },
+    "include": {
+      "requested": "id,name,range",
+      "tokens": [
+        "id",
+        "name",
+        "range"
+      ]
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  }
+}
