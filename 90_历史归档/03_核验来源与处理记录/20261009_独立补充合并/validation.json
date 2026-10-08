@@ -1,0 +1,28 @@
+{
+  "project_count": 166,
+  "current": 15,
+  "historical": 96,
+  "pending": 51,
+  "other": 4,
+  "unchanged_sheets_checked": 6,
+  "tables": 10,
+  "sha256": "04df2ac47ef9fa404153b516007dd9ca777ab53347398d2055f4509d61238efb",
+  "output": "全国机器人开放课题_个人申报台账_独立复核合并版_20261009.xlsx",
+  "visual_review": "passed",
+  "hyperlinks_preserved": 3168,
+  "root_excel_count": 1,
+  "input_archives_checked": true,
+  "changed_native_parts": [
+    "xl/worksheets/sheet2.xml",
+    "xl/worksheets/sheet4.xml",
+    "xl/tables/table4.xml",
+    "xl/worksheets/sheet6.xml",
+    "xl/tables/table6.xml",
+    "xl/worksheets/sheet7.xml",
+    "xl/tables/table7.xml",
+    "xl/worksheets/_rels/sheet2.xml.rels",
+    "xl/worksheets/_rels/sheet6.xml.rels",
+    "xl/worksheets/_rels/sheet7.xml.rels"
+  ],
+  "unrelated_native_parts_unchanged": true
+}

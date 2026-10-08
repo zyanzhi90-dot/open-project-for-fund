@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {FileBlob,SpreadsheetFile} from '@oai/artifact-tool';
+const H=import.meta.dirname;
+const p=JSON.parse(await fs.readFile(path.join(H,'patch.json'),'utf8'));
+const w=await SpreadsheetFile.importXlsx(await FileBlob.load(path.join(H,'user_input.xlsx')));
+await fs.writeFile(path.join(H,'before.png'),new Uint8Array(await (await w.render({sheetName:'02项目完整详情',range:'N10:S10',scale:1,format:'png'})).arrayBuffer()));
+for(const c of p.cells)w.worksheets.getItem(c.sheet).getRange(c.cell).values=[[c.value]];
+w.recalculate();
+await fs.writeFile(path.join(H,'inspection.txt'),(await w.inspect({kind:'table',range:'02项目完整详情!J72:Q72',include:'values',tableMaxRows:1,tableMaxCols:8,maxChars:2000})).ndjson);
+await (await SpreadsheetFile.exportXlsx(w)).save(path.join(H,'authored.xlsx'));
+console.log('Authored narrow cell patch; native feature preservation follows.');
