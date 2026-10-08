@@ -1,0 +1,1151 @@
+{
+  "url": "https://www.nuist.edu.cn/kxyj/sbjkypt.htm",
+  "checked_at_beijing": "2026-10-08T21:09:33.279848+08:00",
+  "links": [
+    {
+      "label": "",
+      "url": "https://www.nuist.edu.cn/index.htm"
+    },
+    {
+      "label": "学生",
+      "url": "https://www.nuist.edu.cn/js1/xs.htm"
+    },
+    {
+      "label": "教职工",
+      "url": "https://www.nuist.edu.cn/js1/jzg.htm"
+    },
+    {
+      "label": "校友",
+      "url": "https://www.nuist.edu.cn/js1/xy.htm"
+    },
+    {
+      "label": "访客",
+      "url": "https://www.nuist.edu.cn/js1/fk.htm"
+    },
+    {
+      "label": "EN",
+      "url": "http://en.nuist.edu.cn/"
+    },
+    {
+      "label": "人才招聘",
+      "url": "https://rsc.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "学校概况",
+      "url": "https://www.nuist.edu.cn/xxgk.htm"
+    },
+    {
+      "label": "学校简介",
+      "url": "https://www.nuist.edu.cn/xxgk/xxjj.htm"
+    },
+    {
+      "label": "学校领导",
+      "url": "https://www.nuist.edu.cn/xxgk/xxld.htm"
+    },
+    {
+      "label": "学校章程",
+      "url": "https://www.nuist.edu.cn/xxgk/xxzc1.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "https://map.nuist.edu.cn/"
+    },
+    {
+      "label": "校园标识",
+      "url": "https://www.nuist.edu.cn/xxgk/xybs.htm"
+    },
+    {
+      "label": "信息公开",
+      "url": "http://xxgk.nuist.edu.cn/"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://www.nuist.edu.cn/jgsz.htm"
+    },
+    {
+      "label": "综合管理机构",
+      "url": "https://www.nuist.edu.cn/jgsz/zhgljg.htm"
+    },
+    {
+      "label": "教辅机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jfjg.htm"
+    },
+    {
+      "label": "群团离退机关",
+      "url": "https://www.nuist.edu.cn/jgsz/qtltjg.htm"
+    },
+    {
+      "label": "纪检监察机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jjjcjg.htm"
+    },
+    {
+      "label": "教学机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jxjg.htm"
+    },
+    {
+      "label": "其他机构",
+      "url": "https://www.nuist.edu.cn/jgsz/qtjg.htm"
+    },
+    {
+      "label": "科学研究",
+      "url": "https://www.nuist.edu.cn/kxyj.htm"
+    },
+    {
+      "label": "国家级和省部级科研机构",
+      "url": "https://www.nuist.edu.cn/kxyj/gjjhsbjkyjg.htm"
+    },
+    {
+      "label": "校级科研平台",
+      "url": "https://www.nuist.edu.cn/kxyj/xjkypt.htm"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nuist.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "教育教学",
+      "url": "https://www.nuist.edu.cn/jyjx.htm"
+    },
+    {
+      "label": "本科教育",
+      "url": "https://jwc.nuist.edu.cn/ "
+    },
+    {
+      "label": "研究生教育",
+      "url": "https://yjs.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生教育",
+      "url": "https://gjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "继续教育",
+      "url": "https://jxjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "南信大教育在线",
+      "url": "http://nuist.fanya.chaoxing.com/"
+    },
+    {
+      "label": "课程思政资源库平台",
+      "url": "https://m.xhsz.news.cn/zhuanti/qxbg"
+    },
+    {
+      "label": "招生就业",
+      "url": "https://www.nuist.edu.cn/zsjy.htm"
+    },
+    {
+      "label": "普通本科招生",
+      "url": "http://zs.nuist.edu.cn/"
+    },
+    {
+      "label": "研究生招生",
+      "url": "https://yzb.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生招生",
+      "url": "http://gjy.nuist.edu.cn/"
+    },
+    {
+      "label": "继续教育招生",
+      "url": "http://jxjy.nuist.edu.cn/"
+    },
+    {
+      "label": "就业创业",
+      "url": "http://nuist.91job.org.cn/"
+    },
+    {
+      "label": "交流合作",
+      "url": "https://www.nuist.edu.cn/jlhz1.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "港澳台合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "区域培训",
+      "url": "https://rtc.nuist.edu.cn/"
+    },
+    {
+      "label": "校友交流",
+      "url": "https://alu.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "教育发展基金会",
+      "url": "https://edf.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "公共服务",
+      "url": "https://www.nuist.edu.cn/ggfw1.htm"
+    },
+    {
+      "label": "融合门户",
+      "url": "https://i.nuist.edu.cn"
+    },
+    {
+      "label": "个人邮箱登录",
+      "url": "https://mail.nuist.edu.cn/"
+    },
+    {
+      "label": "单位邮箱登录",
+      "url": "https://deptmail.nuist.edu.cn"
+    },
+    {
+      "label": "VPN远程登录系统",
+      "url": "https://client.vpn.nuist.edu.cn/enlink/sso/login"
+    },
+    {
+      "label": "校历",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwSchoolCalendar/schoolYearCalendar.do"
+    },
+    {
+      "label": "校园黄页",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwPsXyhyApp/index.do?min=1#/xyhy"
+    },
+    {
+      "label": "教师个人主页",
+      "url": "https://faculty.nuist.edu.cn/"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nuist.edu.cn/"
+    },
+    {
+      "label": "缴费平台（校内）",
+      "url": "https://cwcx.nuist.edu.cn/WFManager/homesso.jsp"
+    },
+    {
+      "label": "缴费平台（校外）",
+      "url": "http://jfpt.nuist.edu.cn/"
+    },
+    {
+      "label": "招标信息",
+      "url": "http://zbc.nuist.edu.cn/"
+    },
+    {
+      "label": "办事大厅",
+      "url": "https://e-office.nuist.edu.cn/taskcenter-six/workflow/index"
+    },
+    {
+      "label": "",
+      "url": "https://www.nuist.edu.cn/index.htm"
+    },
+    {
+      "label": "学生",
+      "url": "https://www.nuist.edu.cn/js1/xs.htm"
+    },
+    {
+      "label": "教职工",
+      "url": "https://www.nuist.edu.cn/js1/jzg.htm"
+    },
+    {
+      "label": "校友",
+      "url": "https://www.nuist.edu.cn/js1/xy.htm"
+    },
+    {
+      "label": "访客",
+      "url": "https://www.nuist.edu.cn/js1/fk.htm"
+    },
+    {
+      "label": "EN",
+      "url": "http://en.nuist.edu.cn/"
+    },
+    {
+      "label": "人才招聘",
+      "url": "https://rsc.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "学校概况",
+      "url": "https://www.nuist.edu.cn/xxgk.htm"
+    },
+    {
+      "label": "学校简介",
+      "url": "https://www.nuist.edu.cn/xxgk/xxjj.htm"
+    },
+    {
+      "label": "学校领导",
+      "url": "https://www.nuist.edu.cn/xxgk/xxld.htm"
+    },
+    {
+      "label": "学校章程",
+      "url": "https://www.nuist.edu.cn/xxgk/xxzc1.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "https://map.nuist.edu.cn/"
+    },
+    {
+      "label": "校园标识",
+      "url": "https://www.nuist.edu.cn/xxgk/xybs.htm"
+    },
+    {
+      "label": "信息公开",
+      "url": "http://xxgk.nuist.edu.cn/"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://www.nuist.edu.cn/jgsz.htm"
+    },
+    {
+      "label": "综合管理机构",
+      "url": "https://www.nuist.edu.cn/jgsz/zhgljg.htm"
+    },
+    {
+      "label": "教辅机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jfjg.htm"
+    },
+    {
+      "label": "群团离退机关",
+      "url": "https://www.nuist.edu.cn/jgsz/qtltjg.htm"
+    },
+    {
+      "label": "纪检监察机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jjjcjg.htm"
+    },
+    {
+      "label": "教学机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jxjg.htm"
+    },
+    {
+      "label": "其他机构",
+      "url": "https://www.nuist.edu.cn/jgsz/qtjg.htm"
+    },
+    {
+      "label": "科学研究",
+      "url": "https://www.nuist.edu.cn/kxyj.htm"
+    },
+    {
+      "label": "国家级和省部级科研机构",
+      "url": "https://www.nuist.edu.cn/kxyj/gjjhsbjkyjg.htm"
+    },
+    {
+      "label": "校级科研平台",
+      "url": "https://www.nuist.edu.cn/kxyj/xjkypt.htm"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nuist.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "教育教学",
+      "url": "https://www.nuist.edu.cn/jyjx.htm"
+    },
+    {
+      "label": "本科教育",
+      "url": "https://jwc.nuist.edu.cn/ "
+    },
+    {
+      "label": "研究生教育",
+      "url": "https://yjs.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生教育",
+      "url": "https://gjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "继续教育",
+      "url": "https://jxjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "南信大教育在线",
+      "url": "http://nuist.fanya.chaoxing.com/"
+    },
+    {
+      "label": "课程思政资源库平台",
+      "url": "https://m.xhsz.news.cn/zhuanti/qxbg"
+    },
+    {
+      "label": "招生就业",
+      "url": "https://www.nuist.edu.cn/zsjy.htm"
+    },
+    {
+      "label": "普通本科招生",
+      "url": "http://zs.nuist.edu.cn/"
+    },
+    {
+      "label": "研究生招生",
+      "url": "https://yzb.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生招生",
+      "url": "http://gjy.nuist.edu.cn/"
+    },
+    {
+      "label": "继续教育招生",
+      "url": "http://jxjy.nuist.edu.cn/"
+    },
+    {
+      "label": "就业创业",
+      "url": "http://nuist.91job.org.cn/"
+    },
+    {
+      "label": "交流合作",
+      "url": "https://www.nuist.edu.cn/jlhz1.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "港澳台合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "区域培训",
+      "url": "https://rtc.nuist.edu.cn/"
+    },
+    {
+      "label": "校友交流",
+      "url": "https://alu.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "教育发展基金会",
+      "url": "https://edf.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "公共服务",
+      "url": "https://www.nuist.edu.cn/ggfw1.htm"
+    },
+    {
+      "label": "融合门户",
+      "url": "https://i.nuist.edu.cn"
+    },
+    {
+      "label": "个人邮箱登录",
+      "url": "https://mail.nuist.edu.cn/"
+    },
+    {
+      "label": "单位邮箱登录",
+      "url": "https://deptmail.nuist.edu.cn"
+    },
+    {
+      "label": "VPN远程登录系统",
+      "url": "https://client.vpn.nuist.edu.cn/enlink/sso/login"
+    },
+    {
+      "label": "校历",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwSchoolCalendar/schoolYearCalendar.do"
+    },
+    {
+      "label": "校园黄页",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwPsXyhyApp/index.do?min=1#/xyhy"
+    },
+    {
+      "label": "教师个人主页",
+      "url": "https://faculty.nuist.edu.cn/"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nuist.edu.cn/"
+    },
+    {
+      "label": "缴费平台（校内）",
+      "url": "https://cwcx.nuist.edu.cn/WFManager/homesso.jsp"
+    },
+    {
+      "label": "缴费平台（校外）",
+      "url": "http://jfpt.nuist.edu.cn/"
+    },
+    {
+      "label": "招标信息",
+      "url": "http://zbc.nuist.edu.cn/"
+    },
+    {
+      "label": "办事大厅",
+      "url": "https://e-office.nuist.edu.cn/taskcenter-six/workflow/index"
+    },
+    {
+      "label": "",
+      "url": "https://www.nuist.edu.cn/index.htm"
+    },
+    {
+      "label": "学生",
+      "url": "https://www.nuist.edu.cn/js1/xs.htm"
+    },
+    {
+      "label": "教职工",
+      "url": "https://www.nuist.edu.cn/js1/jzg.htm"
+    },
+    {
+      "label": "校友",
+      "url": "https://www.nuist.edu.cn/js1/xy.htm"
+    },
+    {
+      "label": "访客",
+      "url": "https://www.nuist.edu.cn/js1/fk.htm"
+    },
+    {
+      "label": "EN",
+      "url": "http://en.nuist.edu.cn/"
+    },
+    {
+      "label": "人才招聘",
+      "url": "https://rsc.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "学校概况",
+      "url": "https://www.nuist.edu.cn/xxgk.htm"
+    },
+    {
+      "label": "学校简介",
+      "url": "https://www.nuist.edu.cn/xxgk/xxjj.htm"
+    },
+    {
+      "label": "学校领导",
+      "url": "https://www.nuist.edu.cn/xxgk/xxld.htm"
+    },
+    {
+      "label": "学校章程",
+      "url": "https://www.nuist.edu.cn/xxgk/xxzc1.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "https://map.nuist.edu.cn/"
+    },
+    {
+      "label": "校园标识",
+      "url": "https://www.nuist.edu.cn/xxgk/xybs.htm"
+    },
+    {
+      "label": "信息公开",
+      "url": "http://xxgk.nuist.edu.cn/"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://www.nuist.edu.cn/jgsz.htm"
+    },
+    {
+      "label": "综合管理机构",
+      "url": "https://www.nuist.edu.cn/jgsz/zhgljg.htm"
+    },
+    {
+      "label": "教辅机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jfjg.htm"
+    },
+    {
+      "label": "群团离退机关",
+      "url": "https://www.nuist.edu.cn/jgsz/qtltjg.htm"
+    },
+    {
+      "label": "纪检监察机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jjjcjg.htm"
+    },
+    {
+      "label": "教学机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jxjg.htm"
+    },
+    {
+      "label": "其他机构",
+      "url": "https://www.nuist.edu.cn/jgsz/qtjg.htm"
+    },
+    {
+      "label": "科学研究",
+      "url": "https://www.nuist.edu.cn/kxyj.htm"
+    },
+    {
+      "label": "国家级和省部级科研机构",
+      "url": "https://www.nuist.edu.cn/kxyj/gjjhsbjkyjg.htm"
+    },
+    {
+      "label": "校级科研平台",
+      "url": "https://www.nuist.edu.cn/kxyj/xjkypt.htm"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nuist.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "教育教学",
+      "url": "https://www.nuist.edu.cn/jyjx.htm"
+    },
+    {
+      "label": "本科教育",
+      "url": "https://jwc.nuist.edu.cn/ "
+    },
+    {
+      "label": "研究生教育",
+      "url": "https://yjs.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生教育",
+      "url": "https://gjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "继续教育",
+      "url": "https://jxjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "南信大教育在线",
+      "url": "http://nuist.fanya.chaoxing.com/"
+    },
+    {
+      "label": "课程思政资源库平台",
+      "url": "https://m.xhsz.news.cn/zhuanti/qxbg"
+    },
+    {
+      "label": "招生就业",
+      "url": "https://www.nuist.edu.cn/zsjy.htm"
+    },
+    {
+      "label": "普通本科招生",
+      "url": "http://zs.nuist.edu.cn/"
+    },
+    {
+      "label": "研究生招生",
+      "url": "https://yzb.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生招生",
+      "url": "http://gjy.nuist.edu.cn/"
+    },
+    {
+      "label": "继续教育招生",
+      "url": "http://jxjy.nuist.edu.cn/"
+    },
+    {
+      "label": "就业创业",
+      "url": "http://nuist.91job.org.cn/"
+    },
+    {
+      "label": "交流合作",
+      "url": "https://www.nuist.edu.cn/jlhz1.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "港澳台合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "区域培训",
+      "url": "https://rtc.nuist.edu.cn/"
+    },
+    {
+      "label": "校友交流",
+      "url": "https://alu.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "教育发展基金会",
+      "url": "https://edf.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "公共服务",
+      "url": "https://www.nuist.edu.cn/ggfw1.htm"
+    },
+    {
+      "label": "融合门户",
+      "url": "https://i.nuist.edu.cn"
+    },
+    {
+      "label": "个人邮箱登录",
+      "url": "https://mail.nuist.edu.cn/"
+    },
+    {
+      "label": "单位邮箱登录",
+      "url": "https://deptmail.nuist.edu.cn"
+    },
+    {
+      "label": "VPN远程登录系统",
+      "url": "https://client.vpn.nuist.edu.cn/enlink/sso/login"
+    },
+    {
+      "label": "校历",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwSchoolCalendar/schoolYearCalendar.do"
+    },
+    {
+      "label": "校园黄页",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwPsXyhyApp/index.do?min=1#/xyhy"
+    },
+    {
+      "label": "教师个人主页",
+      "url": "https://faculty.nuist.edu.cn/"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nuist.edu.cn/"
+    },
+    {
+      "label": "缴费平台（校内）",
+      "url": "https://cwcx.nuist.edu.cn/WFManager/homesso.jsp"
+    },
+    {
+      "label": "缴费平台（校外）",
+      "url": "http://jfpt.nuist.edu.cn/"
+    },
+    {
+      "label": "招标信息",
+      "url": "http://zbc.nuist.edu.cn/"
+    },
+    {
+      "label": "办事大厅",
+      "url": "https://e-office.nuist.edu.cn/taskcenter-six/workflow/index"
+    },
+    {
+      "label": "学术科研",
+      "url": "https://www.nuist.edu.cn/xsky.htm"
+    },
+    {
+      "label": "科研新闻",
+      "url": "https://www.nuist.edu.cn/xsky/kyxw.htm"
+    },
+    {
+      "label": "学术报告",
+      "url": "https://www.nuist.edu.cn/xsky/xsbg.htm"
+    },
+    {
+      "label": "快捷链接",
+      "url": "https://www.nuist.edu.cn/kjlj.htm"
+    },
+    {
+      "label": "融合门户",
+      "url": "https://i.nuist.edu.cn"
+    },
+    {
+      "label": "校园邮箱",
+      "url": "https://mail.nuist.edu.cn/"
+    },
+    {
+      "label": "协同办公",
+      "url": "https://oa.nuist.edu.cn/"
+    },
+    {
+      "label": "办事大厅",
+      "url": "http://e-office.nuist.edu.cn/taskcenter-six/workflow/index"
+    },
+    {
+      "label": "本科生管理系统（教师）",
+      "url": "http://xg.nuist.edu.cn/LOGIN.ASPX"
+    },
+    {
+      "label": "本科生管理系统（学生）",
+      "url": "http://stu.nuist.edu.cn/login.aspx"
+    },
+    {
+      "label": "研究生管理系统",
+      "url": "https://nxdyjs.nuist.edu.cn/gmis5/home/login"
+    },
+    {
+      "label": "校长邮箱",
+      "url": "https://xb.nuist.edu.cn/index/xzxx.htm"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nuist.edu.cn/"
+    },
+    {
+      "label": "诚聘英才",
+      "url": "http://rsc.nuist.edu.cn/1097/list.htm"
+    },
+    {
+      "label": "欢迎报考",
+      "url": "https://www.nuist.edu.cn/kjlj/hybk.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "http://map.nuist.edu.cn/"
+    },
+    {
+      "label": "本科教务",
+      "url": "http://jwxt.nuist.edu.cn"
+    },
+    {
+      "label": "首页",
+      "url": "https://www.nuist.edu.cn/index.htm"
+    },
+    {
+      "label": "科学研究",
+      "url": "https://www.nuist.edu.cn/kxyj.htm"
+    },
+    {
+      "label": "省部级科研平台",
+      "url": "https://www.nuist.edu.cn/kxyj/sbjkypt.htm"
+    },
+    {
+      "label": "国家级和省部级科研机构",
+      "url": "https://www.nuist.edu.cn/kxyj/gjjhsbjkyjg.htm"
+    },
+    {
+      "label": "校级科研平台",
+      "url": "https://www.nuist.edu.cn/kxyj/xjkypt.htm"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nuist.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "气象灾害教育部重点实验室",
+      "url": "http://klme.nuist.edu.cn"
+    },
+    {
+      "label": "气象灾害预报预警与评估协同创新中心",
+      "url": "http://cic.nuist.edu.cn"
+    },
+    {
+      "label": "大气环境与装备技术协同创新中心",
+      "url": "http://cic-aeet.nuist.edu.cn"
+    },
+    {
+      "label": "数字取证教育部工程研究中心",
+      "url": "https://df.nuist.edu.cn/"
+    },
+    {
+      "label": "中国气象局气溶胶与云降水重点开放实验室",
+      "url": "https://acp.nuist.edu.cn/"
+    },
+    {
+      "label": "中国气象局生态系统碳源汇重点开放实验室",
+      "url": "https://ecss.nuist.edu.cn"
+    },
+    {
+      "label": "水利部水文气象灾害机理与预警重点实验室",
+      "url": "https://hymed.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "江苏省大气环境监测与污染控制高技术研究重点实验室",
+      "url": "https://aempc.nuist.edu.cn/"
+    },
+    {
+      "label": "江苏省环境净化材料工程技术研究中心",
+      "url": "http://ecm.nuist.edu.cn"
+    },
+    {
+      "label": "江苏省气象能源利用与控制工程技术研究中心",
+      "url": "http://cmeic.nuist.edu.cn"
+    },
+    {
+      "label": "江苏省环境物联信息处理技术与装备工程研究中心",
+      "url": "https://cgwcgzx.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "大气光电探测与信息融合国家级重点实验室培育建设点",
+      "url": "https://aodif.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "农业与生态气象江苏省高校重点实验室",
+      "url": "https://jklam.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "大数据分析与智能系统江苏省高校重点实验室",
+      "url": "https://bdat.nuist.edu.cn/"
+    },
+    {
+      "label": "气象探测与信息处理江苏省高校重点实验室",
+      "url": "https://qxtcsys.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "智能医学图像计算江苏省高校重点实验室",
+      "url": "https://imic.nuist.edu.cn/sysgk/sysjs.htm"
+    },
+    {
+      "label": "气候与环境治理研究院",
+      "url": "http://riceg.nuist.edu.cn/"
+    },
+    {
+      "label": "江北新区发展研究院",
+      "url": "https://njna.nuist.edu.cn/"
+    },
+    {
+      "label": "国家技术转移中心",
+      "url": "https://jszy.nuist.edu.cn/"
+    },
+    {
+      "label": "新加坡研究中心",
+      "url": "https://css.nuist.edu.cn/"
+    },
+    {
+      "label": "智能网络与信息系统研究院",
+      "url": "https://inis.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "学校概况",
+      "url": "https://www.nuist.edu.cn/xxgk.htm"
+    },
+    {
+      "label": "学校简介",
+      "url": "https://www.nuist.edu.cn/xxgk/xxjj.htm"
+    },
+    {
+      "label": "学校领导",
+      "url": "https://www.nuist.edu.cn/xxgk/xxld.htm"
+    },
+    {
+      "label": "学校章程",
+      "url": "https://www.nuist.edu.cn/xxgk/xxzc1.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "https://map.nuist.edu.cn/"
+    },
+    {
+      "label": "校园标识",
+      "url": "https://www.nuist.edu.cn/xxgk/xybs.htm"
+    },
+    {
+      "label": "信息公开",
+      "url": "http://xxgk.nuist.edu.cn/"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://www.nuist.edu.cn/jgsz.htm"
+    },
+    {
+      "label": "综合管理机构",
+      "url": "https://www.nuist.edu.cn/jgsz/zhgljg.htm"
+    },
+    {
+      "label": "教辅机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jfjg.htm"
+    },
+    {
+      "label": "群团离退机关",
+      "url": "https://www.nuist.edu.cn/jgsz/qtltjg.htm"
+    },
+    {
+      "label": "纪检监察机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jjjcjg.htm"
+    },
+    {
+      "label": "教学机构",
+      "url": "https://www.nuist.edu.cn/jgsz/jxjg.htm"
+    },
+    {
+      "label": "其他机构",
+      "url": "https://www.nuist.edu.cn/jgsz/qtjg.htm"
+    },
+    {
+      "label": "科学研究",
+      "url": "https://www.nuist.edu.cn/kxyj.htm"
+    },
+    {
+      "label": "国家级和省部级科研机构",
+      "url": "https://www.nuist.edu.cn/kxyj/gjjhsbjkyjg.htm"
+    },
+    {
+      "label": "校级科研平台",
+      "url": "https://www.nuist.edu.cn/kxyj/xjkypt.htm"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nuist.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "教育教学",
+      "url": "https://www.nuist.edu.cn/jyjx.htm"
+    },
+    {
+      "label": "本科教育",
+      "url": "https://jwc.nuist.edu.cn/ "
+    },
+    {
+      "label": "研究生教育",
+      "url": "https://yjs.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生教育",
+      "url": "https://gjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "继续教育",
+      "url": "https://jxjy.nuist.edu.cn/main.htm"
+    },
+    {
+      "label": "南信大教育在线",
+      "url": "http://nuist.fanya.chaoxing.com/"
+    },
+    {
+      "label": "课程思政资源库平台",
+      "url": "https://m.xhsz.news.cn/zhuanti/qxbg"
+    },
+    {
+      "label": "招生就业",
+      "url": "https://www.nuist.edu.cn/zsjy.htm"
+    },
+    {
+      "label": "普通本科招生",
+      "url": "http://zs.nuist.edu.cn/"
+    },
+    {
+      "label": "研究生招生",
+      "url": "https://yzb.nuist.edu.cn/"
+    },
+    {
+      "label": "留学生招生",
+      "url": "http://gjy.nuist.edu.cn/"
+    },
+    {
+      "label": "继续教育招生",
+      "url": "http://jxjy.nuist.edu.cn/"
+    },
+    {
+      "label": "就业创业",
+      "url": "http://nuist.91job.org.cn/"
+    },
+    {
+      "label": "交流合作",
+      "url": "https://www.nuist.edu.cn/jlhz1.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "港澳台合作",
+      "url": "http://ico.nuist.edu.cn/"
+    },
+    {
+      "label": "区域培训",
+      "url": "https://rtc.nuist.edu.cn/"
+    },
+    {
+      "label": "校友交流",
+      "url": "https://alu.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "教育发展基金会",
+      "url": "https://edf.nuist.edu.cn/main.psp"
+    },
+    {
+      "label": "公共服务",
+      "url": "https://www.nuist.edu.cn/ggfw1.htm"
+    },
+    {
+      "label": "融合门户",
+      "url": "https://i.nuist.edu.cn"
+    },
+    {
+      "label": "个人邮箱登录",
+      "url": "https://mail.nuist.edu.cn/"
+    },
+    {
+      "label": "单位邮箱登录",
+      "url": "https://deptmail.nuist.edu.cn"
+    },
+    {
+      "label": "VPN远程登录系统",
+      "url": "https://client.vpn.nuist.edu.cn/enlink/sso/login"
+    },
+    {
+      "label": "校历",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwSchoolCalendar/schoolYearCalendar.do"
+    },
+    {
+      "label": "校园黄页",
+      "url": "https://i.nuist.edu.cn/qljfwapp/sys/lwPsXyhyApp/index.do?min=1#/xyhy"
+    },
+    {
+      "label": "教师个人主页",
+      "url": "https://faculty.nuist.edu.cn/"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nuist.edu.cn/"
+    },
+    {
+      "label": "缴费平台（校内）",
+      "url": "https://cwcx.nuist.edu.cn/WFManager/homesso.jsp"
+    },
+    {
+      "label": "缴费平台（校外）",
+      "url": "http://jfpt.nuist.edu.cn/"
+    },
+    {
+      "label": "招标信息",
+      "url": "http://zbc.nuist.edu.cn/"
+    },
+    {
+      "label": "办事大厅",
+      "url": "https://e-office.nuist.edu.cn/taskcenter-six/workflow/index"
+    },
+    {
+      "label": "学术科研",
+      "url": "https://www.nuist.edu.cn/xsky.htm"
+    },
+    {
+      "label": "科研新闻",
+      "url": "https://www.nuist.edu.cn/xsky/kyxw.htm"
+    },
+    {
+      "label": "学术报告",
+      "url": "https://www.nuist.edu.cn/xsky/xsbg.htm"
+    },
+    {
+      "label": "快捷链接",
+      "url": "https://www.nuist.edu.cn/kjlj.htm"
+    },
+    {
+      "label": "融合门户",
+      "url": "https://i.nuist.edu.cn"
+    },
+    {
+      "label": "校园邮箱",
+      "url": "https://mail.nuist.edu.cn/"
+    },
+    {
+      "label": "协同办公",
+      "url": "https://oa.nuist.edu.cn/"
+    },
+    {
+      "label": "办事大厅",
+      "url": "http://e-office.nuist.edu.cn/taskcenter-six/workflow/index"
+    },
+    {
+      "label": "本科生管理系统（教师）",
+      "url": "http://xg.nuist.edu.cn/LOGIN.ASPX"
+    },
+    {
+      "label": "本科生管理系统（学生）",
+      "url": "http://stu.nuist.edu.cn/login.aspx"
+    },
+    {
+      "label": "研究生管理系统",
+      "url": "https://nxdyjs.nuist.edu.cn/gmis5/home/login"
+    },
+    {
+      "label": "校长邮箱",
+      "url": "https://xb.nuist.edu.cn/index/xzxx.htm"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nuist.edu.cn/"
+    },
+    {
+      "label": "诚聘英才",
+      "url": "http://rsc.nuist.edu.cn/1097/list.htm"
+    },
+    {
+      "label": "欢迎报考",
+      "url": "https://www.nuist.edu.cn/kjlj/hybk.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "http://map.nuist.edu.cn/"
+    },
+    {
+      "label": "本科教务",
+      "url": "http://jwxt.nuist.edu.cn"
+    },
+    {
+      "label": "",
+      "url": "https://www.nuist.edu.cn/index.htm"
+    },
+    {
+      "label": "苏ICP 备05007124号-1",
+      "url": "https://beian.miit.gov.cn/"
+    },
+    {
+      "label": "苏公网安备 2011102010187号",
+      "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32011102010187"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://www.nuist.edu.cn/kxyj/sbjkypt.htm",
+  "content_type": "text/html",
+  "text": "﻿\n省部级科研平台-南京信息工程大学\n8\n学生\n|\n教职工\n|\n校友\n|\n访客\n|\nEN\n|\n人才招聘\n学校概况\n学校简介\n学校领导\n学校章程\n校园地图\n校园标识\n信息公开\n机构设置\n综合管理机构\n教辅机构\n群团离退机关\n纪检监察机构\n教学机构\n其他机构\n科学研究\n国家级和省部级科研机构\n校级科研平台\n学术期刊\n教育教学\n本科教育\n研究生教育\n留学生教育\n继续教育\n南信大教育在线\n课程思政资源库平台\n招生就业\n普通本科招生\n研究生招生\n留学生招生\n继续教育招生\n就业创业\n交流合作\n国际合作\n港澳台合作\n区域培训\n校友交流\n教育发展基金会\n公共服务\n融合门户\n个人邮箱登录\n单位邮箱登录\nVPN远程登录系统\n校历\n校园黄页\n教师个人主页\n图书馆\n缴费平台（校内）\n缴费平台（校外）\n招标信息\n办事大厅\n8\n学生\n|\n教职工\n|\n校友\n|\n访客\n|\nEN\n|\n人才招聘\n学校概况\n学校简介\n学校领导\n学校章程\n校园地图\n校园标识\n信息公开\n机构设置\n综合管理机构\n教辅机构\n群团离退机关\n纪检监察机构\n教学机构\n其他机构\n科学研究\n国家级和省部级科研机构\n校级科研平台\n学术期刊\n教育教学\n本科教育\n研究生教育\n留学生教育\n继续教育\n南信大教育在线\n课程思政资源库平台\n招生就业\n普通本科招生\n研究生招生\n留学生招生\n继续教育招生\n就业创业\n交流合作\n国际合作\n港澳台合作\n区域培训\n校友交流\n教育发展基金会\n公共服务\n融合门户\n个人邮箱登录\n单位邮箱登录\nVPN远程登录系统\n校历\n校园黄页\n教师个人主页\n图书馆\n缴费平台（校内）\n缴费平台（校外）\n招标信息\n办事大厅\n学生\n教职工\n校友\n访客\nEN\n人才招聘\n学校概况\n学校简介\n学校领导\n学校章程\n校园地图\n校园标识\n信息公开\n机构设置\n综合管理机构\n教辅机构\n群团离退机关\n纪检监察机构\n教学机构\n其他机构\n科学研究\n国家级和省部级科研机构\n校级科研平台\n学术期刊\n教育教学\n本科教育\n研究生教育\n留学生教育\n继续教育\n南信大教育在线\n课程思政资源库平台\n招生就业\n普通本科招生\n研究生招生\n留学生招生\n继续教育招生\n就业创业\n交流合作\n国际合作\n港澳台合作\n区域培训\n校友交流\n教育发展基金会\n公共服务\n融合门户\n个人邮箱登录\n单位邮箱登录\nVPN远程登录系统\n校历\n校园黄页\n教师个人主页\n图书馆\n缴费平台（校内）\n缴费平台（校外）\n招标信息\n办事大厅\n学术科研\n科研新闻\n学术报告\n快捷链接\n融合门户\n校园邮箱\n协同办公\n办事大厅\n本科生管理系统（教师）\n本科生管理系统（学生）\n研究生管理系统\n校长邮箱\n图书馆\n诚聘英才\n欢迎报考\n校园地图\n本科教务\n科学研究\n首页\n>\n科学研究\n>\n省部级科研平台\n科学研究\n国家级和省部级科研机构\n校级科研平台\n学术期刊\n科学研究\n省部级科研平台\n气象灾害教育部重点实验室\n气候与环境变化教育部国际合作联合实验室\n气象灾害预报预警与评估协同创新中心\n大气环境与装备技术协同创新中心\n数字取证教育部工程研究中心\n中国气象局气溶胶与云降水重点开放实验室\n中国气象局生态系统碳源汇重点开放实验室\n水利部水文气象灾害机理与预警重点实验室\n自然资源部空间海洋遥感与应用重点实验室\n江苏省大气环境监测与污染控制高技术研究重点实验室\n江苏省环境净化材料工程技术研究中心\n江苏省气象能源利用与控制工程技术研究中心\n江苏省环境物联信息处理技术与装备工程研究中心\n大气光电探测与信息融合国家级重点实验室培育建设点\n农业与生态气象江苏省高校重点实验室\n大数据分析与智能系统江苏省高校重点实验室\n气象探测与信息处理江苏省高校重点实验室\n智能医学图像计算江苏省高校重点实验室\n新能源器件与界面科学江苏省高校重点实验室\n气候与环境治理研究院\n气候变化与公共政策研究院\n江北新区发展研究院\n国家技术转移中心\n新加坡研究中心\n智能网络与信息系统研究院\n学校概况\n学校简介\n学校领导\n学校章程\n校园地图\n校园标识\n信息公开\n机构设置\n综合管理机构\n教辅机构\n群团离退机关\n纪检监察机构\n教学机构\n其他机构\n科学研究\n国家级和省部级科研机构\n校级科研平台\n学术期刊\n教育教学\n本科教育\n研究生教育\n留学生教育\n继续教育\n南信大教育在线\n课程思政资源库平台\n招生就业\n普通本科招生\n研究生招生\n留学生招生\n继续教育招生\n就业创业\n交流合作\n国际合作\n港澳台合作\n区域培训\n校友交流\n教育发展基金会\n公共服务\n融合门户\n个人邮箱登录\n单位邮箱登录\nVPN远程登录系统\n校历\n校园黄页\n教师个人主页\n图书馆\n缴费平台（校内）\n缴费平台（校外）\n招标信息\n办事大厅\n学术科研\n科研新闻\n学术报告\n快捷链接\n融合门户\n校园邮箱\n协同办公\n办事大厅\n本科生管理系统（教师）\n本科生管理系统（学生）\n研究生管理系统\n校长邮箱\n图书馆\n诚聘英才\n欢迎报考\n校园地图\n本科教务\n江苏省南京市宁六路219号\n电话：86-25-58731101\n传真：86-25-57792648\n邮件：xb@nuist.edu.cn\nCopyright©南京信息工程大学版权所有\nAll Rights Reserved\n苏ICP 备05007124号-1\n苏公网安备 2011102010187号\nNUIST备00001",
+  "status": "正文已取得"
+}

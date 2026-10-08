@@ -1,0 +1,1279 @@
+{
+  "url": "https://www.polyu.edu.hk/research/labs-institutes-centres/",
+  "checked_at_beijing": "2026-10-08T21:09:42.056144+08:00",
+  "links": [
+    {
+      "label": "Skip to main content",
+      "url": "https://www.polyu.edu.hk/research/labs-institutes-centres/#skip-start"
+    },
+    {
+      "label": "",
+      "url": "https://www.polyu.edu.hk/"
+    },
+    {
+      "label": "繁體",
+      "url": "https://www.polyu.edu.hk/tc/research/labs-institutes-centres"
+    },
+    {
+      "label": "简体",
+      "url": "https://www.polyu.edu.hk/sc/research/labs-institutes-centres"
+    },
+    {
+      "label": "Alumni",
+      "url": "https://www.polyu.edu.hk/alumni/"
+    },
+    {
+      "label": "Current Students",
+      "url": "https://www.polyu.edu.hk/current-students/"
+    },
+    {
+      "label": "Staff",
+      "url": "https://www.polyu.edu.hk/staff/"
+    },
+    {
+      "label": "Why PolyU",
+      "url": "https://www.polyu.edu.hk/prospective-students/"
+    },
+    {
+      "label": "Faculties, Schools and College",
+      "url": "https://www.polyu.edu.hk/education/faculties-schools-departments/"
+    },
+    {
+      "label": "Undergraduate Studies",
+      "url": "https://www.polyu.edu.hk/study/ug"
+    },
+    {
+      "label": "Taught Postgraduate Studies",
+      "url": "https://www.polyu.edu.hk/study/pg"
+    },
+    {
+      "label": "Research Postgraduate Studies",
+      "url": "https://www.polyu.edu.hk/study/pg"
+    },
+    {
+      "label": "Academicians and Distinguished Scholars",
+      "url": "https://www.polyu.edu.hk/academicians/"
+    },
+    {
+      "label": "Careers",
+      "url": "https://www.polyu.edu.hk/hro/careers/"
+    },
+    {
+      "label": "Giving to PolyU",
+      "url": "https://www.polyu.edu.hk/giving/"
+    },
+    {
+      "label": "Event Calendars",
+      "url": "https://www.polyu.edu.hk/events/"
+    },
+    {
+      "label": "Publications",
+      "url": "https://www.polyu.edu.hk/about-polyu/publications/"
+    },
+    {
+      "label": "PolyU Press",
+      "url": "https://www.polyu.edu.hk/polyupress/"
+    },
+    {
+      "label": "Media Releases",
+      "url": "https://www.polyu.edu.hk/media/media-releases/"
+    },
+    {
+      "label": "Expert Directory",
+      "url": "https://wwwdev.polyu.edu.hk/cpa/ExpertsDirectory/index.php"
+    },
+    {
+      "label": "President’s Newsletter",
+      "url": "https://www.polyu.edu.hk/about-polyu/management-update/"
+    },
+    {
+      "label": "LEARN@PolyU",
+      "url": "https://learn.polyu.edu.hk/"
+    },
+    {
+      "label": "myPolyU",
+      "url": "https://my.polyu.edu.hk/"
+    },
+    {
+      "label": "eStudent",
+      "url": "https://www38.polyu.edu.hk/eStudent/"
+    },
+    {
+      "label": "Library",
+      "url": "https://www.lib.polyu.edu.hk/"
+    },
+    {
+      "label": "PolyU A-Z",
+      "url": "https://www.polyu.edu.hk/atoz/"
+    },
+    {
+      "label": "Photo Gallery",
+      "url": "https://www.polyu.edu.hk/photo-gallery/"
+    },
+    {
+      "label": "Video Channel",
+      "url": "https://www.polyu.edu.hk/about-polyu/videos/"
+    },
+    {
+      "label": "Campus Map",
+      "url": "https://www.polyu.edu.hk/campus-map"
+    },
+    {
+      "label": "Staff Directory",
+      "url": "https://www40.polyu.edu.hk/hrtd/"
+    },
+    {
+      "label": "Email",
+      "url": "https://www.polyu.edu.hk/its/emc/email"
+    },
+    {
+      "label": "Education",
+      "url": "https://www.polyu.edu.hk/education/"
+    },
+    {
+      "label": "Teaching and Learning",
+      "url": "https://www.polyu.edu.hk/education/#teaching-and-learning"
+    },
+    {
+      "label": "Broad-based Curriculum for Holistic Academic Development",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Work-Integrated Education",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Service-Learning",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Student Exchange",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Leadership Programme",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Faculties, Schools and College",
+      "url": "https://www.polyu.edu.hk/education/#faculties"
+    },
+    {
+      "label": "Graduate School",
+      "url": "https://www.polyu.edu.hk/research/graduate-school/"
+    },
+    {
+      "label": "College of Undergraduate Studies",
+      "url": "https://www.polyu.edu.hk/cus/"
+    },
+    {
+      "label": "Admissions",
+      "url": "https://www.polyu.edu.hk/admissions/"
+    },
+    {
+      "label": "Why PolyU",
+      "url": "https://www.polyu.edu.hk/prospective-students/"
+    },
+    {
+      "label": "Study@PolyU",
+      "url": "https://www.polyu.edu.hk/study/ug"
+    },
+    {
+      "label": "University Ranking",
+      "url": "https://www.polyu.edu.hk/admissions/#university-ranking"
+    },
+    {
+      "label": "Student Stories",
+      "url": "https://www.polyu.edu.hk/admissions/#student-stories"
+    },
+    {
+      "label": "Programmes, Tuition Fees and Scholarships",
+      "url": "https://www.polyu.edu.hk/admissions/#programmes-tuition-fees-scholarships"
+    },
+    {
+      "label": "Tuition Fees and Scholarships",
+      "url": "https://www.polyu.edu.hk/admissions/tuition-fees-and-scholarships/"
+    },
+    {
+      "label": "Research",
+      "url": "https://www.polyu.edu.hk/research/"
+    },
+    {
+      "label": "PolyU Academy for Interdisciplinary Research (PAIR)",
+      "url": "https://www.polyu.edu.hk/pair/"
+    },
+    {
+      "label": "Mainland Translational Research Institutes",
+      "url": "https://www.polyu.edu.hk/mtri/"
+    },
+    {
+      "label": "State Key Laboratory of Ultra-precision Machining Technology",
+      "url": "https://www.polyu.edu.hk/sklumt/"
+    },
+    {
+      "label": "Hong Kong Branch of National Engineering Research Centre for Steel Construction",
+      "url": "https://www.polyu.edu.hk/cnercsteel/"
+    },
+    {
+      "label": "Hong Kong Branch of National Rail Transit Electrification and Automation Engineering Technology Research Centre",
+      "url": "https://www.polyu.edu.hk/cnerc-rail/"
+    },
+    {
+      "label": "University-level Research Centres and Facilities",
+      "url": "https://www.polyu.edu.hk/research/labs-institutes-centres/#University-Research-Facilities"
+    },
+    {
+      "label": "Faculty/School/Department-level Research Centres",
+      "url": "https://www.polyu.edu.hk/research/labs-institutes-centres/#Research-Centres"
+    },
+    {
+      "label": "Centralised Animal Facilities",
+      "url": "https://www.polyu.edu.hk/caf/"
+    },
+    {
+      "label": "University Research Facility in 3D Printing",
+      "url": "https://www.polyu.edu.hk/u3dp/"
+    },
+    {
+      "label": "University Research Facility in Behavioral and Systems Neuroscience",
+      "url": "https://www.polyu.edu.hk/ubsn/"
+    },
+    {
+      "label": "University Research Facility in Big Data Analytics",
+      "url": "https://www.polyu.edu.hk/ubda/"
+    },
+    {
+      "label": "University Research Facility in Chemical and Environmental Analysis",
+      "url": "https://www.polyu.edu.hk/ucea/"
+    },
+    {
+      "label": "University Research Facility in Life Sciences",
+      "url": "https://www.polyu.edu.hk/uls/"
+    },
+    {
+      "label": "University Research Facility in Materials Characterization and Device Fabrication",
+      "url": "https://www.polyu.edu.hk/umf/"
+    },
+    {
+      "label": "Centre for Eye and Vision Research (CEVR)",
+      "url": "https://cevr.hk/ "
+    },
+    {
+      "label": "Laboratory for Artificial Intelligence in Design (AiDLab)",
+      "url": "https://www.aidlab.hk/en/ "
+    },
+    {
+      "label": "Graduate School",
+      "url": "https://www.polyu.edu.hk/gs/"
+    },
+    {
+      "label": "Research and Innovation Office",
+      "url": "https://www.polyu.edu.hk/rio/"
+    },
+    {
+      "label": "Academicians and Distinguished Scholars",
+      "url": "https://www.polyu.edu.hk/academicians/"
+    },
+    {
+      "label": "PolyU Scholars Hub",
+      "url": "https://research.polyu.edu.hk"
+    },
+    {
+      "label": "Knowledge Transfer",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/"
+    },
+    {
+      "label": "Innovation and Technology Development",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/#innovation"
+    },
+    {
+      "label": "Technology Transfer and Commercialisation",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/#technology-transfer-and-commercialisation"
+    },
+    {
+      "label": "Entrepreneurship",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/#entrepreneurship"
+    },
+    {
+      "label": "Success Stories",
+      "url": "https://www.polyu.edu.hk/kteo/entrepreneurship/start-ups/"
+    },
+    {
+      "label": "Global",
+      "url": "https://www.polyu.edu.hk/global/"
+    },
+    {
+      "label": "International Community",
+      "url": "https://www.polyu.edu.hk/global/#international-community"
+    },
+    {
+      "label": "Global Perspectives in Academic Programmes",
+      "url": "https://www.polyu.edu.hk/global/#global-perspectives-in-academic-programmes"
+    },
+    {
+      "label": "International Collaborations and Partnerships",
+      "url": "https://www.polyu.edu.hk/global/#international-collaborations-and-partnerships"
+    },
+    {
+      "label": "Eyes on China",
+      "url": "https://www.polyu.edu.hk/global/#eyes-on-china"
+    },
+    {
+      "label": "Campus Life",
+      "url": "https://www.polyu.edu.hk/campus-life/"
+    },
+    {
+      "label": "Athletics and Recreation",
+      "url": "https://www.polyu.edu.hk/campus-life/#athletics"
+    },
+    {
+      "label": "Art and Culture",
+      "url": "https://www.polyu.edu.hk/campus-life/#art"
+    },
+    {
+      "label": "Living on Campus",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Counselling and Wellness",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Clinics and Centres",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Housing",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Dining",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "About PolyU",
+      "url": "https://www.polyu.edu.hk/about-polyu/"
+    },
+    {
+      "label": "PolyU at a Glance",
+      "url": "https://www.polyu.edu.hk/about-polyu/#polyu-at-a-glance"
+    },
+    {
+      "label": "Motto, Vision and Mission",
+      "url": "https://www.polyu.edu.hk/about-polyu/motto-vision-mission/#link"
+    },
+    {
+      "label": "Key Facts",
+      "url": "https://www.polyu.edu.hk/ipao/facts-and-figures/"
+    },
+    {
+      "label": "University Identity",
+      "url": "https://www.polyu.edu.hk/about-polyu/university-identity/"
+    },
+    {
+      "label": "History",
+      "url": "https://www.polyu.edu.hk/about-polyu/history/#link"
+    },
+    {
+      "label": "University Committee Structure",
+      "url": "https://www.polyu.edu.hk/about-polyu/committee/"
+    },
+    {
+      "label": "Leadership",
+      "url": "https://www.polyu.edu.hk/about-polyu/#leadership"
+    },
+    {
+      "label": "Governance",
+      "url": "https://www.polyu.edu.hk/about-polyu/#governance"
+    },
+    {
+      "label": "Organisations",
+      "url": "https://www.polyu.edu.hk/about-polyu/#organisations"
+    },
+    {
+      "label": "Campus Map",
+      "url": "https://www.polyu.edu.hk/campus-map"
+    },
+    {
+      "label": "Photo Gallery",
+      "url": "https://www.polyu.edu.hk/en/photo-gallery/"
+    },
+    {
+      "label": "Video Channel",
+      "url": "https://www.polyu.edu.hk/about-polyu/videos/"
+    },
+    {
+      "label": "Publications",
+      "url": "https://www.polyu.edu.hk/about-polyu/publications/"
+    },
+    {
+      "label": "Education",
+      "url": "https://www.polyu.edu.hk/education/"
+    },
+    {
+      "label": "Teaching and Learning",
+      "url": "https://www.polyu.edu.hk/education/#teaching-and-learning"
+    },
+    {
+      "label": "Broad-based Curriculum for Holistic Academic Development",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Work-Integrated Education",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Service-Learning",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Student Exchange",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Leadership Programme",
+      "url": "https://www.polyu.edu.hk/education/#broad-based-curriculum"
+    },
+    {
+      "label": "Faculties, Schools and College",
+      "url": "https://www.polyu.edu.hk/education/#faculties"
+    },
+    {
+      "label": "Graduate School",
+      "url": "https://www.polyu.edu.hk/research/graduate-school/"
+    },
+    {
+      "label": "College of Undergraduate Studies",
+      "url": "https://www.polyu.edu.hk/cus/"
+    },
+    {
+      "label": "Admissions",
+      "url": "https://www.polyu.edu.hk/admissions/"
+    },
+    {
+      "label": "Why PolyU",
+      "url": "https://www.polyu.edu.hk/prospective-students/"
+    },
+    {
+      "label": "Study@PolyU",
+      "url": "https://www.polyu.edu.hk/study/ug"
+    },
+    {
+      "label": "University Ranking",
+      "url": "https://www.polyu.edu.hk/admissions/#university-ranking"
+    },
+    {
+      "label": "Student Stories",
+      "url": "https://www.polyu.edu.hk/admissions/#student-stories"
+    },
+    {
+      "label": "Programmes, Tuition Fees and Scholarships",
+      "url": "https://www.polyu.edu.hk/admissions/#programmes-tuition-fees-scholarships"
+    },
+    {
+      "label": "Tuition Fees and Scholarships",
+      "url": "https://www.polyu.edu.hk/admissions/tuition-fees-and-scholarships/"
+    },
+    {
+      "label": "Research",
+      "url": "https://www.polyu.edu.hk/research/"
+    },
+    {
+      "label": "PolyU Academy for Interdisciplinary Research (PAIR)",
+      "url": "https://www.polyu.edu.hk/pair/"
+    },
+    {
+      "label": "Mainland Translational Research Institutes",
+      "url": "https://www.polyu.edu.hk/mtri/"
+    },
+    {
+      "label": "State Key Laboratory of Ultra-precision Machining Technology",
+      "url": "https://www.polyu.edu.hk/sklumt/"
+    },
+    {
+      "label": "Hong Kong Branch of National Engineering Research Centre for Steel Construction",
+      "url": "https://www.polyu.edu.hk/cnercsteel/"
+    },
+    {
+      "label": "Hong Kong Branch of National Rail Transit Electrification and Automation Engineering Technology Research Centre",
+      "url": "https://www.polyu.edu.hk/cnerc-rail/"
+    },
+    {
+      "label": "University-level Research Centres and Facilities",
+      "url": "https://www.polyu.edu.hk/research/labs-institutes-centres/#University-Research-Facilities"
+    },
+    {
+      "label": "Faculty/School/Department-level Research Centres",
+      "url": "https://www.polyu.edu.hk/research/labs-institutes-centres/#Research-Centres"
+    },
+    {
+      "label": "Centralised Animal Facilities",
+      "url": "https://www.polyu.edu.hk/caf/"
+    },
+    {
+      "label": "University Research Facility in 3D Printing",
+      "url": "https://www.polyu.edu.hk/u3dp/"
+    },
+    {
+      "label": "University Research Facility in Behavioral and Systems Neuroscience",
+      "url": "https://www.polyu.edu.hk/ubsn/"
+    },
+    {
+      "label": "University Research Facility in Big Data Analytics",
+      "url": "https://www.polyu.edu.hk/ubda/"
+    },
+    {
+      "label": "University Research Facility in Chemical and Environmental Analysis",
+      "url": "https://www.polyu.edu.hk/ucea/"
+    },
+    {
+      "label": "University Research Facility in Life Sciences",
+      "url": "https://www.polyu.edu.hk/uls/"
+    },
+    {
+      "label": "University Research Facility in Materials Characterization and Device Fabrication",
+      "url": "https://www.polyu.edu.hk/umf/"
+    },
+    {
+      "label": "Centre for Eye and Vision Research (CEVR)",
+      "url": "https://cevr.hk/ "
+    },
+    {
+      "label": "Laboratory for Artificial Intelligence in Design (AiDLab)",
+      "url": "https://www.aidlab.hk/en/ "
+    },
+    {
+      "label": "Graduate School",
+      "url": "https://www.polyu.edu.hk/gs/"
+    },
+    {
+      "label": "Research and Innovation Office",
+      "url": "https://www.polyu.edu.hk/rio/"
+    },
+    {
+      "label": "Academicians and Distinguished Scholars",
+      "url": "https://www.polyu.edu.hk/academicians/"
+    },
+    {
+      "label": "PolyU Scholars Hub",
+      "url": "https://research.polyu.edu.hk"
+    },
+    {
+      "label": "Knowledge Transfer",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/"
+    },
+    {
+      "label": "Innovation and Technology Development",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/#innovation"
+    },
+    {
+      "label": "Technology Transfer and Commercialisation",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/#technology-transfer-and-commercialisation"
+    },
+    {
+      "label": "Entrepreneurship",
+      "url": "https://www.polyu.edu.hk/knowledge-transfer/#entrepreneurship"
+    },
+    {
+      "label": "Success Stories",
+      "url": "https://www.polyu.edu.hk/kteo/entrepreneurship/start-ups/"
+    },
+    {
+      "label": "Global",
+      "url": "https://www.polyu.edu.hk/global/"
+    },
+    {
+      "label": "International Community",
+      "url": "https://www.polyu.edu.hk/global/#international-community"
+    },
+    {
+      "label": "Global Perspectives in Academic Programmes",
+      "url": "https://www.polyu.edu.hk/global/#global-perspectives-in-academic-programmes"
+    },
+    {
+      "label": "International Collaborations and Partnerships",
+      "url": "https://www.polyu.edu.hk/global/#international-collaborations-and-partnerships"
+    },
+    {
+      "label": "Eyes on China",
+      "url": "https://www.polyu.edu.hk/global/#eyes-on-china"
+    },
+    {
+      "label": "Campus Life",
+      "url": "https://www.polyu.edu.hk/campus-life/"
+    },
+    {
+      "label": "Athletics and Recreation",
+      "url": "https://www.polyu.edu.hk/campus-life/#athletics"
+    },
+    {
+      "label": "Art and Culture",
+      "url": "https://www.polyu.edu.hk/campus-life/#art"
+    },
+    {
+      "label": "Living on Campus",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Counselling and Wellness",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Clinics and Centres",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Housing",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "Dining",
+      "url": "https://www.polyu.edu.hk/campus-life/#living-on-campus"
+    },
+    {
+      "label": "About PolyU",
+      "url": "https://www.polyu.edu.hk/about-polyu/"
+    },
+    {
+      "label": "PolyU at a Glance",
+      "url": "https://www.polyu.edu.hk/about-polyu/#polyu-at-a-glance"
+    },
+    {
+      "label": "Motto, Vision and Mission",
+      "url": "https://www.polyu.edu.hk/about-polyu/motto-vision-mission/#link"
+    },
+    {
+      "label": "Key Facts",
+      "url": "https://www.polyu.edu.hk/ipao/facts-and-figures/"
+    },
+    {
+      "label": "University Identity",
+      "url": "https://www.polyu.edu.hk/about-polyu/university-identity/"
+    },
+    {
+      "label": "History",
+      "url": "https://www.polyu.edu.hk/about-polyu/history/#link"
+    },
+    {
+      "label": "University Committee Structure",
+      "url": "https://www.polyu.edu.hk/about-polyu/committee/"
+    },
+    {
+      "label": "Leadership",
+      "url": "https://www.polyu.edu.hk/about-polyu/#leadership"
+    },
+    {
+      "label": "Governance",
+      "url": "https://www.polyu.edu.hk/about-polyu/#governance"
+    },
+    {
+      "label": "Organisations",
+      "url": "https://www.polyu.edu.hk/about-polyu/#organisations"
+    },
+    {
+      "label": "Campus Map",
+      "url": "https://www.polyu.edu.hk/campus-map"
+    },
+    {
+      "label": "Photo Gallery",
+      "url": "https://www.polyu.edu.hk/en/photo-gallery/"
+    },
+    {
+      "label": "Video Channel",
+      "url": "https://www.polyu.edu.hk/about-polyu/videos/"
+    },
+    {
+      "label": "Publications",
+      "url": "https://www.polyu.edu.hk/about-polyu/publications/"
+    },
+    {
+      "label": "Alumni",
+      "url": "https://www.polyu.edu.hk/alumni/"
+    },
+    {
+      "label": "Current Students",
+      "url": "https://www.polyu.edu.hk/current-students/"
+    },
+    {
+      "label": "Staff",
+      "url": "https://www.polyu.edu.hk/staff/"
+    },
+    {
+      "label": "Research",
+      "url": "https://www.polyu.edu.hk/research/"
+    },
+    {
+      "label": "CAS AMSS-PolyU Joint Laboratory of Applied Mathematics",
+      "url": "https://www.polyu.edu.hk/ama/research-and-consultancy/cas-amss-polyu-jlab/"
+    },
+    {
+      "label": "CAS GIG-PolyU Guangdong-Hong Kong-Macao Joint Laboratory for Environmental Pollution and Control",
+      "url": "https://www.polyu.edu.hk/cee/casgiglab/index.html"
+    },
+    {
+      "label": "Hong Kong Branch of National Engineering Research Centre for Steel Construction",
+      "url": "https://www.polyu.edu.hk/cnerc-steel/"
+    },
+    {
+      "label": "Hong Kong Branch of National Rail Transit Electrification and Automation Engineering Technology Research Centre",
+      "url": "http://www.polyu.edu.hk/cnerc-rail"
+    },
+    {
+      "label": "State Key Laboratory of Climate Resilience for Coastal Cities",
+      "url": "https://www.polyu.edu.hk/sklcrcc/?sc_lang=en"
+    },
+    {
+      "label": "State Key Laboratory of Ultra-precision Machining Technology",
+      "url": "http://www.sklumt.polyu.edu.hk/"
+    },
+    {
+      "label": "PolyU Shenzhen Research Institute",
+      "url": "https://www.polyu-szbase.com/"
+    },
+    {
+      "label": "PolyU-Shenzhen Technology and Innovation Research Institute (Futian)",
+      "url": "https://www.polyu-ftri.cn/"
+    },
+    {
+      "label": "PolyU-Daya Bay Technology and Innovation Research Institute",
+      "url": "https://polyu-dybri.com/"
+    },
+    {
+      "label": "PolyU-Hangzhou Technology and Innovation Research Institute",
+      "url": "http://www.polyu-hzri.com/"
+    },
+    {
+      "label": "PolyU-Hefei Technology and Innovation Research Institute",
+      "url": "https://polyu-hfri.com/"
+    },
+    {
+      "label": "PolyU-Jinjiang Technology and Innovation Research Institute",
+      "url": "https://www.polyu-jjri.com/"
+    },
+    {
+      "label": "PolyU-Nanjing Technology and Innovation Research Institute",
+      "url": "https://www.polyu-njri.com/"
+    },
+    {
+      "label": "PolyU-Shaoxing Technology and Innovation Research Institute",
+      "url": "http://polyu-sxri.com"
+    },
+    {
+      "label": "PolyU-Wenzhou Technology and Innovation Research Institute",
+      "url": "http://www.polyu-wzri.com/"
+    },
+    {
+      "label": "PolyU-Wuhan Technology and Innovation Research Institute",
+      "url": "http://www.polyu-whri.com/"
+    },
+    {
+      "label": "PolyU-Wuxi Technology and Innovation Research Institute",
+      "url": "http://polyuwxri.cn/"
+    },
+    {
+      "label": "PolyU-Xingguo Technology and Innovation Research Institute",
+      "url": "https://polyu-xgri.com/"
+    },
+    {
+      "label": "PolyU-Zhongshan Technology and Innovation Research Institute",
+      "url": "https://www.polyu-zsri.com/"
+    },
+    {
+      "label": "Mental Health Research Centre",
+      "url": "https://www.polyu.edu.hk/mhrc "
+    },
+    {
+      "label": "Otto Poon Charitable Foundation Research Institute for Smart Energy",
+      "url": "https://www.polyu.edu.hk/rise/"
+    },
+    {
+      "label": "Otto Poon Charitable Foundation Smart Cities Research Institute",
+      "url": "https://www.polyu.edu.hk/scri/"
+    },
+    {
+      "label": "Photonics Research Institute",
+      "url": "https://www.polyu.edu.hk/pri"
+    },
+    {
+      "label": "Research Centre for Chinese Medicine Innovation",
+      "url": "https://www.polyu.edu.hk/rcmi "
+    },
+    {
+      "label": "Research Centre for Digital Transformation of Tourism",
+      "url": "https://www.polyu.edu.hk/rcdtt/"
+    },
+    {
+      "label": "Research Centre for Environmental, Social, and Governance Advancement",
+      "url": "https://www.polyu.edu.hk/rcesga/"
+    },
+    {
+      "label": "Research Centre for Resources Engineering towards Carbon Neutrality",
+      "url": "https://www.polyu.edu.hk/rcre "
+    },
+    {
+      "label": "Research Centre for SHARP Vision",
+      "url": "https://www.polyu.edu.hk/rcsv "
+    },
+    {
+      "label": "Research Centre of Textiles for Future Fashion",
+      "url": "https://www.polyu.edu.hk/rctff/"
+    },
+    {
+      "label": "Research Institute for Advanced Manufacturing",
+      "url": "https://www.polyu.edu.hk/riam/"
+    },
+    {
+      "label": "Research Institute for Artificial Intelligence of Things",
+      "url": "https://www.polyu.edu.hk/riaiot/"
+    },
+    {
+      "label": "Research Institute for Future Food",
+      "url": "https://www.polyu.edu.hk/rifood "
+    },
+    {
+      "label": "Research Institute for Intelligent Wearable Systems",
+      "url": "https://www.polyu.edu.hk/riiwear "
+    },
+    {
+      "label": "Research Institute for Land and Space",
+      "url": "https://www.polyu.edu.hk/rils "
+    },
+    {
+      "label": "Research Institute for Microbiology",
+      "url": "https://www.polyu.edu.hk/rim/"
+    },
+    {
+      "label": "Research Institute for Quantum Technology",
+      "url": "https://www.polyu.edu.hk/riqt/"
+    },
+    {
+      "label": "Research Institute for Smart Ageing",
+      "url": "https://www.polyu.edu.hk/risa "
+    },
+    {
+      "label": "Research Institute for Sports Science and Technology",
+      "url": "https://www.polyu.edu.hk/risports"
+    },
+    {
+      "label": "Research Institute for Sustainable Urban Development",
+      "url": "https://www.polyu.edu.hk/risud/"
+    },
+    {
+      "label": "PolyU Academy for Artificial Intelligence (PAAI) Research Institutes",
+      "url": "https://www.polyu.edu.hk/paai/"
+    },
+    {
+      "label": "COMAC-PolyU Research Institute for Large Aircraft",
+      "url": "https://www.polyu.edu.hk/rila/"
+    },
+    {
+      "label": "Research Centre for Deep Space Explorations",
+      "url": "https://www.polyu.edu.hk/deepspaceex/"
+    },
+    {
+      "label": "Research Centre for Low Altitude Economy",
+      "url": "https://www.polyu.edu.hk/rclae/"
+    },
+    {
+      "label": "Centre for Eye and Vision Research (CEVR)",
+      "url": "https://cevr.hk/"
+    },
+    {
+      "label": "Laboratory for Artificial Intelligence in Design (AiDLab)",
+      "url": "https://www.aidlab.hk/en/"
+    },
+    {
+      "label": "Otto Poon Research Institute for Climate-Resilient Infrastructure",
+      "url": "https://www.polyu.edu.hk/ricri/"
+    },
+    {
+      "label": "",
+      "url": "https://www.polyu.edu.hk/ricri/"
+    },
+    {
+      "label": "Colour, Imaging, and Metaverse Research Centre",
+      "url": "http://www.polyumetaverse.com/"
+    },
+    {
+      "label": "International Centre of Urban Energy Nexus",
+      "url": "https://www.polyu.edu.hk/iuex/about-uex/"
+    },
+    {
+      "label": "Peking University-The Hong Kong Polytechnic University China Social Work Research Centre",
+      "url": "https://www.polyucgdn.com/article/pku-polyu-china-social-work-research-cent"
+    },
+    {
+      "label": "Policy Research Centre for Innovation and Technology",
+      "url": "https://www.polyu.edu.hk/precit/"
+    },
+    {
+      "label": "PolyU Marshall Research Centre for Medical Microbial Biotechnology",
+      "url": "https://www.polyu.edu.hk/rcmarshall/"
+    },
+    {
+      "label": "Research Centre for Artificial Intelligence in Geomatics",
+      "url": "https://rcaig.com/"
+    },
+    {
+      "label": "Research Centre for Assistive Technology",
+      "url": "https://www.polyu.edu.hk/rcatech/"
+    },
+    {
+      "label": "Research Centre for Blockchain Technology",
+      "url": "https://blockchain.comp.polyu.edu.hk/"
+    },
+    {
+      "label": "Research Centre for Carbon-Strategic Catalysis",
+      "url": "https://www.polyu.edu.hk/rccsc/"
+    },
+    {
+      "label": "Research Centre for Chinese History and Culture",
+      "url": "https://www.polyu.edu.hk/rcchc/?sc_lang=en"
+    },
+    {
+      "label": "Research Centre for Cultural and Art Technology",
+      "url": "https://www.polyu.edu.hk/rccat/"
+    },
+    {
+      "label": "Research Centre for Data Science and Artificial Intelligence",
+      "url": "https://rc-dsai.comp.polyu.edu.hk/"
+    },
+    {
+      "label": "Research Centre for Electric Vehicles",
+      "url": "https://www.polyu.edu.hk/rcev/"
+    },
+    {
+      "label": "Research Centre for Future (Caring) Mobility",
+      "url": "https://www.polyu.edu.hk/sdrcfcm/"
+    },
+    {
+      "label": "Research Centre for Gerontology and Family Studies",
+      "url": "https://www.polyu.edu.hk/apss/iaa/en/"
+    },
+    {
+      "label": "Research Centre for Nanoscience and Nanotechnology",
+      "url": "https://www.polyu.edu.hk/rcnn/"
+    },
+    {
+      "label": "Research Centre for Nature-based Urban Infrastructure Solutions",
+      "url": "https://wwwdev.polyu.edu.hk/cee/~nbuis/"
+    },
+    {
+      "label": "Research Centre for Nature-Inspired Science and Engineering",
+      "url": "https://www.polyu.edu.hk/rcnise/"
+    },
+    {
+      "label": "Research Centre for Non-invasive Brain Computer Interface",
+      "url": "https://www.polyu.edu.hk/rcnibci"
+    },
+    {
+      "label": "Research Centre for Organic Electronics",
+      "url": "https://www.polyu.edu.hk/rcoe/"
+    },
+    {
+      "label": "Research Centre for Privacy and Security Technologies in Future Smart Systems",
+      "url": "https://www.polyu.edu.hk/rcpst"
+    },
+    {
+      "label": "Research Centre for Quantitative Finance",
+      "url": "https://www.polyu.edu.hk/rcqf/index.html"
+    },
+    {
+      "label": "Research Centre for Unmanned Autonomous Systems",
+      "url": "https://www.polyu.edu.hk/aae/research/research-centres-and-groups/research-centre-for-unmanned-autonomous-systems/"
+    },
+    {
+      "label": "Joint Research Centre for Biosensing and Precision Theranostics",
+      "url": "https://www.polyu.edu.hk/rcbpt/"
+    },
+    {
+      "label": "Joint Research Centre for Design and Net-shape Forming of Micro-/Meso-scaled Surface Functional Structures",
+      "url": "https://www.polyu.edu.hk/jrcmsfs/"
+    },
+    {
+      "label": "Joint Research Centre for Fiber Innovations and Renewable Materials",
+      "url": "https://www.polyu.edu.hk/jrcfirm/"
+    },
+    {
+      "label": "Joint Research Centre for Marine Infrastructure",
+      "url": "https://www.polyu.edu.hk/jrcmi/"
+    },
+    {
+      "label": "Joint Research Centre for Microelectronics",
+      "url": "https://www.polyu.edu.hk/rcmicroelectronics/"
+    },
+    {
+      "label": "Joint Research Centre for Primary Health Care",
+      "url": "https://www.polyu.edu.hk/jrcphc/"
+    },
+    {
+      "label": "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources",
+      "url": "https://www.polyu.edu.hk/rcocean/"
+    },
+    {
+      "label": "PolyU-SCUT Joint Research Centre for Advanced and Green Composite Materials",
+      "url": "https://www.polyu.edu.hk/cagcom/"
+    },
+    {
+      "label": "PolyU-Stanford Joint Research Centre for Longitudinal Deep Omics",
+      "url": "https://www.polyu.edu.hk/jrcldo/"
+    },
+    {
+      "label": "Centralised Animal Facilities",
+      "url": "https://www.polyu.edu.hk/caf/"
+    },
+    {
+      "label": "University Research Facility in 3D Printing",
+      "url": "https://u3dp.polyu.edu.hk/"
+    },
+    {
+      "label": "University Research Facility in Behavioral and Systems Neuroscience",
+      "url": "https://www.polyu.edu.hk/ubsn/"
+    },
+    {
+      "label": "University Centre for AI Computing",
+      "url": "https://www.polyu.edu.hk/ubda"
+    },
+    {
+      "label": "University Research Facility in Chemical and Environmental Analysis",
+      "url": "https://www.polyu.edu.hk/ucea/"
+    },
+    {
+      "label": "University Research Facility in Life Sciences",
+      "url": "https://www.polyu.edu.hk/uls/"
+    },
+    {
+      "label": "University Research Facility in Materials Characterization and Device Fabrication",
+      "url": "https://www.polyu.edu.hk/umf/"
+    },
+    {
+      "label": "Logistics Research Centre",
+      "url": "https://www.polyu.edu.hk/lms/research/centres/lrc/"
+    },
+    {
+      "label": "Shipping Research Centre",
+      "url": "https://www.polyu.edu.hk/lms/research/centres/src/"
+    },
+    {
+      "label": "Research Centre for Digital Economy",
+      "url": "https://www.polyu.edu.hk/digitaleconomy/"
+    },
+    {
+      "label": "PolyU-NAMI 3D Concrete Robotic Printing Research Centre",
+      "url": "https://www.polyu.edu.hk/cee/research/research-centres/polyu-nami-3d-concrete-robotic-printing-research-centre/"
+    },
+    {
+      "label": "Research Centre for Design for Safety",
+      "url": "https://www.polyu.edu.hk/rcdfs/"
+    },
+    {
+      "label": "Research Centre for Urban Hazards Mitigation",
+      "url": "https://www.polyu.edu.hk/fce/research/faculty-research-centre/research-centre-for-urban-hazards-mitigation/"
+    },
+    {
+      "label": "Biometrics Research and Innovation Centre",
+      "url": "https://www4.comp.polyu.edu.hk/~biometrics/"
+    },
+    {
+      "label": "Research Centre for Intelligent Operations Research",
+      "url": "https://www.polyu.edu.hk/ama/ior/index.html"
+    },
+    {
+      "label": "Research Centre for Nonlinear Analysis",
+      "url": "https://www.polyu.edu.hk/ama/rcna/index.html"
+    },
+    {
+      "label": "Research Centre for the Mathematical Foundations of Generative AI",
+      "url": "https://www.polyu.edu.hk/ama/cmfai/index.html"
+    },
+    {
+      "label": "The PolyU-SDU Joint Interdisciplinary Research Centre on Applied Mathematics and FinTech",
+      "url": "https://www.polyu.edu.hk/ama/research-and-consultancy/jrc/"
+    },
+    {
+      "label": "Behaviour and Knowledge Engineering Research Centre",
+      "url": "http://www.polyu.edu.hk/ise/kmirc/"
+    },
+    {
+      "label": "Research Centre for Grid Modernisation",
+      "url": "https://www.polyu.edu.hk/rcgm/"
+    },
+    {
+      "label": "Centre for Myopia Research",
+      "url": "https://www.polyu.edu.hk/so/research/research-centres-and-laboratories/centre-for-myopia-research"
+    },
+    {
+      "label": "International Research Centre for the Advancement of Health Communication",
+      "url": "http://www.ircahc.org/"
+    },
+    {
+      "label": "Research Centre for Language, Cognition, and Neuroscience",
+      "url": "https://www.polyu.edu.hk/cbs/rclcn/"
+    },
+    {
+      "label": "Research Centre for Professional Communication in English",
+      "url": "http://rcpce.engl.polyu.edu.hk/rcpce/"
+    },
+    {
+      "label": "Hospitality and Tourism Research Centre",
+      "url": "https://www.polyu.edu.hk/shtm/research-and-consultancies/hospitality-and-tourism-research-centre/introduction/"
+    },
+    {
+      "label": "Aviation Services Research Centre",
+      "url": "https://www.asrc.hk/"
+    },
+    {
+      "label": "Sign up",
+      "url": "https://www.polyu.edu.hk/e-publications/subscription.php"
+    },
+    {
+      "label": "Mobile",
+      "url": "https://www.polyu.edu.hk/cpa/online-channels/#ipolyuapp"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/HongKongPolyU"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/user/HongKongPolyU"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/hongkongpolyu/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/school/hong-kong-polytechnic-university/"
+    },
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/HongKongPolyU"
+    },
+    {
+      "label": "Sina Weibo",
+      "url": "https://www.weibo.com/hongkongpolyu"
+    },
+    {
+      "label": "Xiaohungshu",
+      "url": "https://www.xiaohongshu.com/login?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5ef35da5000000000101c06c%3Fxhsshare%3DCopyLink%26appuid%3D659d1afc000000002001dae2%26apptime%3D1721709989%26share_id%3De282f1e5e7574f0c87c54c01686ca1fa%26exSource%3Dhttps%3A%2F%2Ft.edm.polyu.edu.hk%2F"
+    },
+    {
+      "label": "Zhihu",
+      "url": "https://www.zhihu.com/org/xiang-gang-li-gong-da-xue-polyu"
+    },
+    {
+      "label": "All",
+      "url": "https://www.polyu.edu.hk/social-media/"
+    },
+    {
+      "label": "Sitemap",
+      "url": "https://www.polyu.edu.hk/sitemap/"
+    },
+    {
+      "label": "Contact us",
+      "url": "https://www.polyu.edu.hk/contact-us/form.php"
+    },
+    {
+      "label": "Privacy Policy Statement",
+      "url": "https://www.polyu.edu.hk/privacy-policy-statement/"
+    },
+    {
+      "label": "Terms of Use",
+      "url": "https://www.polyu.edu.hk/terms-of-use/"
+    },
+    {
+      "label": "Accessibility",
+      "url": "https://www.polyu.edu.hk/accessibility/"
+    },
+    {
+      "label": "Careers",
+      "url": "https://www.polyu.edu.hk/hro/careers/"
+    },
+    {
+      "label": "Media",
+      "url": "https://www.polyu.edu.hk/media/"
+    },
+    {
+      "label": "Library",
+      "url": "https://www.lib.polyu.edu.hk/"
+    },
+    {
+      "label": "Privacy Policy Statement",
+      "url": "https://www.polyu.edu.hk/privacy-policy-statement/"
+    },
+    {
+      "label": "here",
+      "url": "https://www.polyu.edu.hk/en/accessibility/"
+    },
+    {
+      "label": "Internal Document Search",
+      "url": "https://www.polyu.edu.hk/internalsearch"
+    },
+    {
+      "label": "Undergraduate Admission",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Undergraduate Admission"
+    },
+    {
+      "label": "Postgraduate Admission",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Postgraduate Admission"
+    },
+    {
+      "label": "Scholarships",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Scholarships"
+    },
+    {
+      "label": "Financial Assistance",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Financial Assistance"
+    },
+    {
+      "label": "Service-Learning",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Service-Learning"
+    },
+    {
+      "label": "Rankings",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Rankings"
+    },
+    {
+      "label": "Internship",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Internship"
+    },
+    {
+      "label": "Entrepreneurship",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Entrepreneurship"
+    },
+    {
+      "label": "Greater Bay Area",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Greater Bay Area"
+    },
+    {
+      "label": "MOOCs",
+      "url": "https://www.polyu.edu.hk/search-results/?q=MOOCs"
+    },
+    {
+      "label": "Clinics",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Clinics"
+    },
+    {
+      "label": "Campus Map",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Campus Map"
+    },
+    {
+      "label": "Finance Office",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Finance Office"
+    },
+    {
+      "label": "Human Resources Office",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Human Resources Office"
+    },
+    {
+      "label": "Library",
+      "url": "https://www.polyu.edu.hk/search-results/?q=Library"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://www.polyu.edu.hk/research/labs-institutes-centres/",
+  "content_type": "text/html; charset=utf-8",
+  "text": "Research Labs, Institutes and Centres | The Hong Kong Polytechnic University\nSkip to main content\nOpen Site Search Popup\nShare\nFacebook\nLinkedin\nTwitter\nWeibo\nMail\nCopy Link\n繁體\n简体\nAlumni\nCurrent Students\nStaff\nQuick Access\nQuick Access\nWhy PolyU\nFaculties, Schools and College\nUndergraduate Studies\nTaught Postgraduate Studies\nResearch Postgraduate Studies\nAcademicians and Distinguished Scholars\nCareers\nGiving to PolyU\nEvent Calendars\nPublications\nPolyU Press\nMedia Releases\nExpert Directory\nPresident’s Newsletter\nLEARN@PolyU\nmyPolyU\neStudent\nLibrary\nPolyU A-Z\nPhoto Gallery\nVideo Channel\nCampus Map\nStaff Directory\nEmail\nMenu\nEducation\nEducation\nTeaching and Learning\nBroad-based Curriculum for Holistic Academic Development\nWork-Integrated Education\nService-Learning\nStudent Exchange\nLeadership Programme\nFaculties, Schools and College\nGraduate School\nCollege of Undergraduate Studies\nAdmissions\nAdmissions\nWhy PolyU\nStudy@PolyU\nUniversity Ranking\nStudent Stories\nProgrammes, Tuition Fees and Scholarships\nTuition Fees and Scholarships\nResearch\nResearch\nPolyU Academy for Interdisciplinary Research (PAIR)\nMainland Translational Research Institutes\nState Key Laboratories and Chinese National Engineering Research Centres (HK Branches)\nState Key Laboratory of Climate Resilience for Coastal Cities\nState Key Laboratory of Ultra-precision Machining Technology\nHong Kong Branch of National Engineering Research Centre for Steel Construction\nHong Kong Branch of National Rail Transit Electrification and Automation Engineering Technology Research Centre\nUniversity-level Research Centres and Facilities\nFaculty/School/Department-level Research Centres\nUniversity Research Facilities\nCentralised Animal Facilities\nUniversity Research Facility in 3D Printing\nUniversity Research Facility in Behavioral and Systems Neuroscience\nUniversity Research Facility in Big Data Analytics\nUniversity Research Facility in Chemical and Environmental Analysis\nUniversity Research Facility in Life Sciences\nUniversity Research Facility in Materials Characterization and Device Fabrication\nInnoHK\nCentre for Eye and Vision Research (CEVR)\nLaboratory for Artificial Intelligence in Design (AiDLab)\nResearch Centre for Intelligent GRID and Energy Technologies (I-GET)\nGraduate School\nResearch and Innovation Office\nPolyU Scholars\nAcademicians and Distinguished Scholars\nPolyU Scholars Hub\nKnowledge Transfer\nKnowledge Transfer\nInnovation and Technology Development\nTechnology Transfer and Commercialisation\nEntrepreneurship\nSuccess Stories\nGlobal\nGlobal\nInternational Community\nGlobal Perspectives in Academic Programmes\nInternational Collaborations and Partnerships\nEyes on China\nCampus Life\nCampus Life\nAthletics and Recreation\nArt and Culture\nLiving on Campus\nCounselling and Wellness\nClinics and Centres\nHousing\nDining\nAbout PolyU\nAbout PolyU\nPolyU at a Glance\nMotto, Vision and Mission\nKey Facts\nUniversity Identity\nHistory\nUniversity Committee Structure\nLeadership\nGovernance\nOrganisations\nCampus Map\nPhoto Gallery\nVideo Channel\nPublications\n繁體\n简体\nShare\nFacebook\nLinkedin\nTwitter\nWeibo\nMail\nOpen Site Search Popup\nEducation\nOpen / close\nback\nEducation\nTeaching and Learning\nBroad-based Curriculum for Holistic Academic Development\nWork-Integrated Education\nService-Learning\nStudent Exchange\nLeadership Programme\nFaculties, Schools and College\nGraduate School\nCollege of Undergraduate Studies\nAdmissions\nOpen / close\nback\nAdmissions\nWhy PolyU\nStudy@PolyU\nUniversity Ranking\nStudent Stories\nProgrammes, Tuition Fees and Scholarships\nTuition Fees and Scholarships\nResearch\nOpen / close\nback\nResearch\nPolyU Academy for Interdisciplinary Research (PAIR)\nMainland Translational Research Institutes\nState Key Laboratories and Chinese National Engineering Research Centres (HK Branches)\nState Key Laboratory of Climate Resilience for Coastal Cities\nState Key Laboratory of Ultra-precision Machining Technology\nHong Kong Branch of National Engineering Research Centre for Steel Construction\nHong Kong Branch of National Rail Transit Electrification and Automation Engineering Technology Research Centre\nUniversity-level Research Centres and Facilities\nFaculty/School/Department-level Research Centres\nUniversity Research Facilities\nCentralised Animal Facilities\nUniversity Research Facility in 3D Printing\nUniversity Research Facility in Behavioral and Systems Neuroscience\nUniversity Research Facility in Big Data Analytics\nUniversity Research Facility in Chemical and Environmental Analysis\nUniversity Research Facility in Life Sciences\nUniversity Research Facility in Materials Characterization and Device Fabrication\nInnoHK\nCentre for Eye and Vision Research (CEVR)\nLaboratory for Artificial Intelligence in Design (AiDLab)\nResearch Centre for Intelligent GRID and Energy Technologies (I-GET)\nGraduate School\nResearch and Innovation Office\nPolyU Scholars\nAcademicians and Distinguished Scholars\nPolyU Scholars Hub\nKnowledge Transfer\nOpen / close\nback\nKnowledge Transfer\nInnovation and Technology Development\nTechnology Transfer and Commercialisation\nEntrepreneurship\nSuccess Stories\nGlobal\nOpen / close\nback\nGlobal\nInternational Community\nGlobal Perspectives in Academic Programmes\nInternational Collaborations and Partnerships\nEyes on China\nCampus Life\nOpen / close\nback\nCampus Life\nAthletics and Recreation\nArt and Culture\nLiving on Campus\nCounselling and Wellness\nClinics and Centres\nHousing\nDining\nAbout PolyU\nOpen / close\nback\nAbout PolyU\nPolyU at a Glance\nMotto, Vision and Mission\nKey Facts\nUniversity Identity\nHistory\nUniversity Committee Structure\nLeadership\nGovernance\nOrganisations\nCampus Map\nPhoto Gallery\nVideo Channel\nPublications\nAlumni\nCurrent Students\nStaff\nQuick Access\nStart main content\nHome\nResearch\nResearch Labs, Institutes and Centres\nNational Research Labs\nChinese Academy of Sciences - PolyU Joint Laboratories\nCAS AMSS-PolyU Joint Laboratory of Applied Mathematics\nCAS GIG-PolyU Guangdong-Hong Kong-Macao Joint Laboratory for Environmental Pollution and Control\nCAS IRSM-PolyU Joint Laboratory on Solid Waste Science\nCAS SIAT-PolyU Multi-modal Medical Molecular Imaging Joint Laboratory\nHong Kong Branches of Chinese National Engineering Research Centres\nHong Kong Branch of National Engineering Research Centre for Steel Construction\nHong Kong Branch of National Rail Transit Electrification and Automation Engineering Technology Research Centre\nState Key Laboratories\nState Key Laboratory of Climate Resilience for Coastal Cities\nState Key Laboratory of Ultra-precision Machining Technology\nMainland Translational Research Institutes\nResearch Institutes\nPolyU Shenzhen Research Institute\nPolyU-Shenzhen Technology and Innovation Research Institute (Futian)\nMainland Translational Research Institutes\nPolyU-Daya Bay Technology and Innovation Research Institute\nPolyU-Hangzhou Technology and Innovation Research Institute\nPolyU-Hefei Technology and Innovation Research Institute\nPolyU-Jinjiang Technology and Innovation Research Institute\nPolyU-Nanjing Technology and Innovation Research Institute\nPolyU-Shaoxing Technology and Innovation Research Institute\nPolyU-Wenzhou Technology and Innovation Research Institute\nPolyU-Wuhan Technology and Innovation Research Institute\nPolyU-Wuxi Technology and Innovation Research Institute\nPolyU-Xingguo Technology and Innovation Research Institute\nPolyU-Zhongshan Technology and Innovation Research Institute\nPolyU-Zibo Technology and Innovation Research Institute\nThe Greater Bay Area Joint Labs\nGuangdong-Hong Kong-Macao Joint Laboratory for Environmental Pollution and Control\nGuangdong-Hong Kong Joint Laboratory for Marine Infrastructure\nGuangdong-Hong Kong-Macao Joint Laboratory for Photonic-Thermal-Electrical Energy Materials and Devices\nPolyU Academy for Interdisciplinary Research (PAIR) Research Institutes and Centres\nMental Health Research Centre\nOtto Poon Charitable Foundation Research Institute for Smart Energy\nOtto Poon Charitable Foundation Smart Cities Research Institute\nPhotonics Research Institute\nResearch Centre for Chinese Medicine Innovation\nResearch Centre for Digital Transformation of Tourism\nResearch Centre for Environmental, Social, and Governance Advancement\nResearch Centre for Resources Engineering towards Carbon Neutrality\nResearch Centre for SHARP Vision\nResearch Centre of Textiles for Future Fashion\nResearch Institute for Advanced Manufacturing\nResearch Institute for Artificial Intelligence of Things\nResearch Institute for Future Food\nResearch Institute for Intelligent Wearable Systems\nResearch Institute for Land and Space\nResearch Institute for Microbiology\nResearch Institute for Quantum Technology\nResearch Institute for Smart Ageing\nResearch Institute for Sports Science and Technology\nResearch Institute for Sustainable Urban Development\nPolyU Academy for Artificial Intelligence (PAAI) Research Institutes\nResearch Institute for Federated Learning\nResearch Institute for Generative AI\nPolyU Aerospace Research Academy (PARA) Research Institutes and Centres\nCOMAC-PolyU Research Institute for Large Aircraft\nPolyU-CSU Joint Research Centre for Space Manufacturing Technology\nResearch Centre for Deep Space Explorations\nResearch Centre for Low Altitude Economy\nInnoHK Research Centres\nCentre for Eye and Vision Research (CEVR)\nLaboratory for Artificial Intelligence in Design (AiDLab)\nResearch Centre for Intelligent GRID and Energy Technologies (I-GET)\nUniversity-level Research Institutes, Centres and Facilities\nUniversity Research Institutes\nOtto Poon Research Institute for Climate-Resilient Infrastructure\nUniversity Research Centres\nColour, Imaging, and Metaverse Research Centre\nInternational Centre of Urban Energy Nexus\nPeking University-The Hong Kong Polytechnic University China Social Work Research Centre\nPolicy Research Centre for Innovation and Technology\nPolyU Marshall Research Centre for Medical Microbial Biotechnology\nResearch Centre for Artificial Intelligence in Geomatics\nResearch Centre for Assistive Technology\nResearch Centre for Blockchain Technology\nResearch Centre for Carbon-Strategic Catalysis\nResearch Centre for Chinese History and Culture\nResearch Centre for Cultural and Art Technology\nResearch Centre for Data Science and Artificial Intelligence\nResearch Centre for Electric Vehicles\nResearch Centre for Future (Caring) Mobility\nResearch Centre for Gerontology and Family Studies\nResearch Centre for Innovative Technologies for Chronic Musculoskeletal Pain\nResearch Centre for Materials Intelligent Manufacturing\nResearch Centre for Materials Processing Technologies\nResearch Centre for Nanoscience and Nanotechnology\nResearch Centre for Nature-based Urban Infrastructure Solutions\nResearch Centre for Nature-Inspired Science and Engineering\nResearch Centre for Non-invasive Brain Computer Interface\nResearch Centre for Organic Electronics\nResearch Centre for Privacy and Security Technologies in Future Smart Systems\nResearch Centre for Quantitative Finance\nResearch Centre for Unmanned Autonomous Systems\nNational Centre of Technology Innovation for Intelligent Design and Numerical Control (NCDC) – Hong Kong Centre\nJoint Research Centre for Biosensing and Precision Theranostics\nJoint Research Centre for Design and Net-shape Forming of Micro-/Meso-scaled Surface Functional Structures\nJoint Research Centre for Fiber Innovations and Renewable Materials\nJoint Research Centre for Marine Infrastructure\nJoint Research Centre for Microelectronics\nJoint Research Centre for Primary Health Care\nPolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources\nPolyU-SCUT Joint Research Centre for Advanced and Green Composite Materials\nPolyU-Stanford Joint Research Centre for Longitudinal Deep Omics\nPolyU-Tongji Joint Research Centre for AI Transformation of Civil Engineering\nUM-PolyU Joint Research Centre for Robotics and Embodied Intelligence\nUniversity Research Facilities\nCentralised Animal Facilities\nUniversity Research Facility in 3D Printing\nUniversity Research Facility in Behavioral and Systems Neuroscience\nUniversity Centre for AI Computing\nUniversity Research Facility in Chemical and Environmental Analysis\nUniversity Research Facility in Life Sciences\nUniversity Research Facility in Materials Characterization and Device Fabrication\nFaculty/School/Department-level Research Centres\nFaculty of Science\nFaculty of Business\nLogistics Research Centre\nShipping Research Centre\nResearch Centre for Digital Economy\nFaculty of Construction and Environment\nPolyU-NAMI 3D Concrete Robotic Printing Research Centre\nResearch Centre for Design for Safety\nResearch Centre for Smart Urban Resilience and Firefighting\nResearch Centre for Sustainable Infrastructure Development\nResearch Centre for Urban Hazards Mitigation\nThe Hong Kong Polytechnic University – Wuhan University Partner GNSS Research Centre\nFaculty of Computer and Mathematical Science\nBiometrics Research and Innovation Centre\nCollaborative Generative AI (Co-GenAI) Research Centre\nResearch Centre for Intelligent Operations Research\nResearch Centre for Nonlinear Analysis\nResearch Centre for the Mathematical Foundations of Generative AI\nThe PolyU-SDU Joint Interdisciplinary Research Centre on Applied Mathematics and FinTech\nFaculty of Engineering\nBehaviour and Knowledge Engineering Research Centre\nResearch Centre for Grid Modernisation\nResearch Centre for Systems Resilience and Reliability\nFaculty of Health and Social Sciences\nCentre for Myopia Research\nFaculty of Humanities\nInternational Research Centre for the Advancement of Health Communication\nResearch Centre for Language, Cognition, and Neuroscience\nResearch Centre for Professional Communication in English\nSchool of Hotel and Tourism Management\nHospitality and Tourism Research Centre\nOthers\nAviation Services Research Centre\nHKPM – PolyU Joint Chinese Textile Centre\nSign up\nto receive our e-publications.\nMobile\nFacebook\nYouTube\nInstagram\nLinkedIn\nTwitter\nWeChat\nSina Weibo\nXiaohungshu\nZhihu\nAll\nSitemap\nContact us\nPrivacy Policy Statement\nTerms of Use\nAccessibility\nCareers\nMedia\nLibrary\nCopyright © 2026 The Hong Kong Polytechnic University. All Rights Reserved.\nWe use Cookies to give you a better experience on our website. By continuing to browse the site without changing your privacy settings, you are consenting to our use of Cookies. For more information, please see our\nPrivacy Policy Statement\n.\nAccept\nYour browser is not the latest version. If you continue to browse our website,  Some pages may not function properly.\nYou are recommended to upgrade to a newer version or switch to a different browser. A list of the web browsers that we support can be found\nhere\nWhat are you looking for?\nSite Search\nSearch\nInternal Document Search\nPopular Search\nUndergraduate Admission\nPostgraduate Admission\nScholarships\nFinancial Assistance\nService-Learning\nRankings\nInternship\nEntrepreneurship\nGreater Bay Area\nMOOCs\nClinics\nCampus Map\nFinance Office\nHuman Resources Office\nLibrary\n-->",
+  "status": "正文已取得"
+}

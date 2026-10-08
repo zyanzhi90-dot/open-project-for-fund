@@ -1,0 +1,575 @@
+{
+  "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm",
+  "checked_at_beijing": "2026-10-08T21:18:49.727448+08:00",
+  "links": [
+    {
+      "label": "网站首页",
+      "url": "https://kjc.nwu.edu.cn/index.htm"
+    },
+    {
+      "label": "科技新闻",
+      "url": "https://kjc.nwu.edu.cn/index/kjxw.htm"
+    },
+    {
+      "label": "通知公告",
+      "url": "https://kjc.nwu.edu.cn/index/tzgg.htm"
+    },
+    {
+      "label": "项目成果申报",
+      "url": "https://kjc.nwu.edu.cn/index/xmcgsb1.htm"
+    },
+    {
+      "label": "讲座预告",
+      "url": "https://kjc.nwu.edu.cn/index/jzyg1.htm"
+    },
+    {
+      "label": "成果转化公示",
+      "url": "https://kjc.nwu.edu.cn/index/cgzhgs.htm"
+    },
+    {
+      "label": "科研诚信",
+      "url": "https://kjc.nwu.edu.cn/index/kycx.htm"
+    },
+    {
+      "label": "学术交流",
+      "url": "https://kjc.nwu.edu.cn/index/xsjl.htm"
+    },
+    {
+      "label": "需求发布",
+      "url": "https://kjc.nwu.edu.cn/index/xqfb.htm"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bmjj.htm"
+    },
+    {
+      "label": "部门简介",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bmjj.htm"
+    },
+    {
+      "label": "部门领导",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bmld.htm"
+    },
+    {
+      "label": "办公室",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bgs.htm"
+    },
+    {
+      "label": "计划项目科",
+      "url": "https://kjc.nwu.edu.cn/jgsz/jhxmk.htm"
+    },
+    {
+      "label": "科研基地管理科",
+      "url": "https://kjc.nwu.edu.cn/jgsz/kyjdglk.htm"
+    },
+    {
+      "label": "成果管理科",
+      "url": "https://kjc.nwu.edu.cn/jgsz/cgglk.htm"
+    },
+    {
+      "label": "产学研合作与军民融合办公室",
+      "url": "https://kjc.nwu.edu.cn/jgsz/cxyhzyjmrhbgs.htm"
+    },
+    {
+      "label": "科技成果转化办公室",
+      "url": "https://kjc.nwu.edu.cn/jgsz/kjcgzhbgs.htm"
+    },
+    {
+      "label": "西北大学科协",
+      "url": "https://kjc.nwu.edu.cn/jgsz/xbdxkx.htm"
+    },
+    {
+      "label": "科研项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm.htm"
+    },
+    {
+      "label": "纵向科研项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm/zxkyxm/zrkxzxkyxmylb.htm"
+    },
+    {
+      "label": "横向科研项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm/hxkyxm/hxkyxmjj.htm"
+    },
+    {
+      "label": "专用项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm/zyxm.htm"
+    },
+    {
+      "label": "科研基地",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm"
+    },
+    {
+      "label": "科技创新基地类别",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdlb.htm"
+    },
+    {
+      "label": "科技创新基地清单",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm"
+    },
+    {
+      "label": "科技创新基地规章制度",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdgzzd.htm"
+    },
+    {
+      "label": "科研成果",
+      "url": "https://kjc.nwu.edu.cn/kycg/xslw.htm"
+    },
+    {
+      "label": "学术论文",
+      "url": "https://kjc.nwu.edu.cn/kycg/xslw.htm"
+    },
+    {
+      "label": "知识产权",
+      "url": "https://kjc.nwu.edu.cn/kycg/zscq.htm"
+    },
+    {
+      "label": "鉴定验收",
+      "url": "https://kjc.nwu.edu.cn/kycg/jdys1.htm"
+    },
+    {
+      "label": "科技成果规章制度",
+      "url": "https://kjc.nwu.edu.cn/kycg/kjcggzzd.htm"
+    },
+    {
+      "label": "技术转移",
+      "url": "https://kjc.nwu.edu.cn/jszy/scxqfb.htm"
+    },
+    {
+      "label": "成果转化简介",
+      "url": "https://kjc.nwu.edu.cn/jszy/cgzhjj.htm"
+    },
+    {
+      "label": "市场需求发布",
+      "url": "https://kjc.nwu.edu.cn/jszy/scxqfb.htm"
+    },
+    {
+      "label": "成果推介",
+      "url": "https://kjc.nwu.edu.cn/jszy/cgtj1/jtcgfb.htm"
+    },
+    {
+      "label": "西北大学科技园",
+      "url": "https://kjc.nwu.edu.cn/jszy/xbdxkjy.htm"
+    },
+    {
+      "label": "西北大学科技孵化器",
+      "url": "https://kjc.nwu.edu.cn/jszy/xbdxkjfhq.htm"
+    },
+    {
+      "label": "成果转化制度",
+      "url": "https://kjc.nwu.edu.cn/jszy/cgzhzd.htm"
+    },
+    {
+      "label": "学术交流",
+      "url": "https://kjc.nwu.edu.cn/xsjl.htm"
+    },
+    {
+      "label": "诺奖论坛",
+      "url": "https://kjc.nwu.edu.cn/xsjl/njlt.htm"
+    },
+    {
+      "label": "杨钟健讲座",
+      "url": "https://kjc.nwu.edu.cn/xsjl/yzjjz.htm"
+    },
+    {
+      "label": "创新论坛",
+      "url": "https://kjc.nwu.edu.cn/xsjl/cxlt.htm"
+    },
+    {
+      "label": "学术沙龙",
+      "url": "https://kjc.nwu.edu.cn/xsjl/xssl1.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://kjc.nwu.edu.cn/xsjl/gzzd.htm"
+    },
+    {
+      "label": "西大科协",
+      "url": "https://kjc.nwu.edu.cn/xdkx/kxgk.htm"
+    },
+    {
+      "label": "科协概况",
+      "url": "https://kjc.nwu.edu.cn/xdkx/kxgk.htm"
+    },
+    {
+      "label": "大学科普",
+      "url": "https://kjc.nwu.edu.cn/xdkx/dxkp.htm"
+    },
+    {
+      "label": "科协项目",
+      "url": "https://kjc.nwu.edu.cn/xdkx/kxxm.htm"
+    },
+    {
+      "label": "优秀成果",
+      "url": "https://kjc.nwu.edu.cn/xdkx/yxcg.htm"
+    },
+    {
+      "label": "人才举荐",
+      "url": "https://kjc.nwu.edu.cn/xdkx/rcjj.htm"
+    },
+    {
+      "label": "实践活动",
+      "url": "https://kjc.nwu.edu.cn/xdkx/sjhd.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://kjc.nwu.edu.cn/xdkx/gzzd.htm"
+    },
+    {
+      "label": "人才团队",
+      "url": "https://kjc.nwu.edu.cn/rctd/kjrc/cxtd.htm"
+    },
+    {
+      "label": "科技人才",
+      "url": "https://kjc.nwu.edu.cn/rctd/kjrc/cxtd.htm"
+    },
+    {
+      "label": "党建引领",
+      "url": "https://kjc.nwu.edu.cn/djyl.htm"
+    },
+    {
+      "label": "支部介绍",
+      "url": "https://kjc.nwu.edu.cn/djyl/zbjs.htm"
+    },
+    {
+      "label": "支部活动",
+      "url": "https://kjc.nwu.edu.cn/djyl/zbhd.htm"
+    },
+    {
+      "label": "服务指南",
+      "url": "https://kjc.nwu.edu.cn/fwzn1.htm"
+    },
+    {
+      "label": "办事流程",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/bslc.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/gzzd.htm"
+    },
+    {
+      "label": "表格下载",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/bgxz.htm"
+    },
+    {
+      "label": "联系方式",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/lxfs.htm"
+    },
+    {
+      "label": "",
+      "url": "https://www.nwu.edu.cn/"
+    },
+    {
+      "label": "网站首页",
+      "url": "https://kjc.nwu.edu.cn/index.htm"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bmjj.htm"
+    },
+    {
+      "label": "部门简介",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bmjj.htm"
+    },
+    {
+      "label": "部门领导",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bmld.htm"
+    },
+    {
+      "label": "办公室",
+      "url": "https://kjc.nwu.edu.cn/jgsz/bgs.htm"
+    },
+    {
+      "label": "计划项目科",
+      "url": "https://kjc.nwu.edu.cn/jgsz/jhxmk.htm"
+    },
+    {
+      "label": "科研基地管理科",
+      "url": "https://kjc.nwu.edu.cn/jgsz/kyjdglk.htm"
+    },
+    {
+      "label": "成果管理科",
+      "url": "https://kjc.nwu.edu.cn/jgsz/cgglk.htm"
+    },
+    {
+      "label": "产学研合作与军民融合办公室",
+      "url": "https://kjc.nwu.edu.cn/jgsz/cxyhzyjmrhbgs.htm"
+    },
+    {
+      "label": "科技成果转化办公室",
+      "url": "https://kjc.nwu.edu.cn/jgsz/kjcgzhbgs.htm"
+    },
+    {
+      "label": "西北大学科协",
+      "url": "https://kjc.nwu.edu.cn/jgsz/xbdxkx.htm"
+    },
+    {
+      "label": "科研项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm.htm"
+    },
+    {
+      "label": "纵向科研项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm/zxkyxm/zrkxzxkyxmylb.htm"
+    },
+    {
+      "label": "横向科研项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm/hxkyxm/hxkyxmjj.htm"
+    },
+    {
+      "label": "专用项目",
+      "url": "https://kjc.nwu.edu.cn/kyxm/zyxm.htm"
+    },
+    {
+      "label": "科研基地",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm"
+    },
+    {
+      "label": "科技创新基地类别",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdlb.htm"
+    },
+    {
+      "label": "科技创新基地清单",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm"
+    },
+    {
+      "label": "科技创新基地规章制度",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdgzzd.htm"
+    },
+    {
+      "label": "科研成果",
+      "url": "https://kjc.nwu.edu.cn/kycg/xslw.htm"
+    },
+    {
+      "label": "学术论文",
+      "url": "https://kjc.nwu.edu.cn/kycg/xslw.htm"
+    },
+    {
+      "label": "知识产权",
+      "url": "https://kjc.nwu.edu.cn/kycg/zscq.htm"
+    },
+    {
+      "label": "鉴定验收",
+      "url": "https://kjc.nwu.edu.cn/kycg/jdys1.htm"
+    },
+    {
+      "label": "科技成果规章制度",
+      "url": "https://kjc.nwu.edu.cn/kycg/kjcggzzd.htm"
+    },
+    {
+      "label": "技术转移",
+      "url": "https://kjc.nwu.edu.cn/jszy/scxqfb.htm"
+    },
+    {
+      "label": "成果转化简介",
+      "url": "https://kjc.nwu.edu.cn/jszy/cgzhjj.htm"
+    },
+    {
+      "label": "市场需求发布",
+      "url": "https://kjc.nwu.edu.cn/jszy/scxqfb.htm"
+    },
+    {
+      "label": "成果推介",
+      "url": "https://kjc.nwu.edu.cn/jszy/cgtj1/jtcgfb.htm"
+    },
+    {
+      "label": "西北大学科技园",
+      "url": "https://kjc.nwu.edu.cn/jszy/xbdxkjy.htm"
+    },
+    {
+      "label": "西北大学科技孵化器",
+      "url": "https://kjc.nwu.edu.cn/jszy/xbdxkjfhq.htm"
+    },
+    {
+      "label": "成果转化制度",
+      "url": "https://kjc.nwu.edu.cn/jszy/cgzhzd.htm"
+    },
+    {
+      "label": "学术交流",
+      "url": "https://kjc.nwu.edu.cn/xsjl.htm"
+    },
+    {
+      "label": "诺奖论坛",
+      "url": "https://kjc.nwu.edu.cn/xsjl/njlt.htm"
+    },
+    {
+      "label": "杨钟健讲座",
+      "url": "https://kjc.nwu.edu.cn/xsjl/yzjjz.htm"
+    },
+    {
+      "label": "创新论坛",
+      "url": "https://kjc.nwu.edu.cn/xsjl/cxlt.htm"
+    },
+    {
+      "label": "学术沙龙",
+      "url": "https://kjc.nwu.edu.cn/xsjl/xssl1.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://kjc.nwu.edu.cn/xsjl/gzzd.htm"
+    },
+    {
+      "label": "西大科协",
+      "url": "https://kjc.nwu.edu.cn/xdkx/kxgk.htm"
+    },
+    {
+      "label": "科协概况",
+      "url": "https://kjc.nwu.edu.cn/xdkx/kxgk.htm"
+    },
+    {
+      "label": "大学科普",
+      "url": "https://kjc.nwu.edu.cn/xdkx/dxkp.htm"
+    },
+    {
+      "label": "科协项目",
+      "url": "https://kjc.nwu.edu.cn/xdkx/kxxm.htm"
+    },
+    {
+      "label": "优秀成果",
+      "url": "https://kjc.nwu.edu.cn/xdkx/yxcg.htm"
+    },
+    {
+      "label": "人才举荐",
+      "url": "https://kjc.nwu.edu.cn/xdkx/rcjj.htm"
+    },
+    {
+      "label": "实践活动",
+      "url": "https://kjc.nwu.edu.cn/xdkx/sjhd.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://kjc.nwu.edu.cn/xdkx/gzzd.htm"
+    },
+    {
+      "label": "人才团队",
+      "url": "https://kjc.nwu.edu.cn/rctd/kjrc/cxtd.htm"
+    },
+    {
+      "label": "科技人才",
+      "url": "https://kjc.nwu.edu.cn/rctd/kjrc/cxtd.htm"
+    },
+    {
+      "label": "党建引领",
+      "url": "https://kjc.nwu.edu.cn/djyl.htm"
+    },
+    {
+      "label": "支部介绍",
+      "url": "https://kjc.nwu.edu.cn/djyl/zbjs.htm"
+    },
+    {
+      "label": "支部活动",
+      "url": "https://kjc.nwu.edu.cn/djyl/zbhd.htm"
+    },
+    {
+      "label": "服务指南",
+      "url": "https://kjc.nwu.edu.cn/fwzn1.htm"
+    },
+    {
+      "label": "办事流程",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/bslc.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/gzzd.htm"
+    },
+    {
+      "label": "表格下载",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/bgxz.htm"
+    },
+    {
+      "label": "联系方式",
+      "url": "https://kjc.nwu.edu.cn/fwzn1/lxfs.htm"
+    },
+    {
+      "label": "科技创新基地类别",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdlb.htm"
+    },
+    {
+      "label": "科技创新基地清单",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm"
+    },
+    {
+      "label": "科技创新基地规章制度",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdgzzd.htm"
+    },
+    {
+      "label": "网站首页",
+      "url": "https://kjc.nwu.edu.cn/index.htm"
+    },
+    {
+      "label": "科研基地",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm"
+    },
+    {
+      "label": "科技创新基地清单",
+      "url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm"
+    },
+    {
+      "label": "大陆动力学国家重点实验室",
+      "url": "https://sklcd.nwu.edu.cn/"
+    },
+    {
+      "label": "二氧化碳捕集与封存技术国家地方联合工程研究中心",
+      "url": "https://ccus.nwu.edu.cn/"
+    },
+    {
+      "label": "彭桓武高能基础理论研究中心",
+      "url": "http://pcft.ustc.edu.cn/main.htm"
+    },
+    {
+      "label": "陕西省地表系统与环境承载力重点实验室",
+      "url": "https://sklee.nwu.edu.cn/index.htm"
+    },
+    {
+      "label": "陕西基础科学（化学、生物学）研究院",
+      "url": "https://jckxyjy.nwu.edu.cn/"
+    },
+    {
+      "label": "陕北能源化工产业发展协同创新中心",
+      "url": "https://hfcy.nwu.edu.cn/"
+    },
+    {
+      "label": "陕西省教育厅",
+      "url": "http://jyt.shaanxi.gov.cn/"
+    },
+    {
+      "label": "陕西省科学技术厅",
+      "url": "https://kjt.shaanxi.gov.cn/"
+    },
+    {
+      "label": "中国科学院文献情报中心期刊分区表",
+      "url": "http://www.fenqubiao.com/"
+    },
+    {
+      "label": "国家超级计算西安中心西北大学分中心",
+      "url": "https://nscc-xa.hpccube.com/"
+    },
+    {
+      "label": "西北大学",
+      "url": "http://www.nwu.edu.cn/"
+    },
+    {
+      "label": "西北大学校园门户登录",
+      "url": "http://authserver.nwu.edu.cn/authserver/login?service=http%3A%2F%2Fmy.nwu.edu.cn%2Findex.portal"
+    },
+    {
+      "label": "财资部财务信息平台",
+      "url": "https://cwc.nwu.edu.cn/tysfrz/login.aspx"
+    },
+    {
+      "label": "人事系统",
+      "url": "http://hrwx.nwu.edu.cn/templates/index/hcmlogon.do"
+    },
+    {
+      "label": "陕西基础科学（化学、生物学）研究院",
+      "url": "https://jckxyjy.nwu.edu.cn/"
+    },
+    {
+      "label": "",
+      "url": "https://www.nwu.edu.cn/"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://kjc.nwu.edu.cn/kyjd/kjcxjdqd.htm",
+  "content_type": "text/html",
+  "text": "﻿\n科技创新基地清单-西北大学科技处\n网站首页\n▼\n▶\n科技新闻\n通知公告\n项目成果申报\n讲座预告\n成果转化公示\n科研诚信\n学术交流\n需求发布\n机构设置\n▼\n▶\n部门简介\n部门领导\n办公室\n计划项目科\n科研基地管理科\n成果管理科\n产学研合作与军民融合办公室\n科技成果转化办公室\n西北大学科协\n科研项目\n▼\n▶\n纵向科研项目\n横向科研项目\n专用项目\n科研基地\n▼\n▶\n科技创新基地类别\n科技创新基地清单\n科技创新基地规章制度\n科研成果\n▼\n▶\n学术论文\n知识产权\n鉴定验收\n科技成果规章制度\n技术转移\n▼\n▶\n成果转化简介\n市场需求发布\n成果推介\n西北大学科技园\n西北大学科技孵化器\n成果转化制度\n学术交流\n▼\n▶\n诺奖论坛\n杨钟健讲座\n创新论坛\n学术沙龙\n规章制度\n西大科协\n▼\n▶\n科协概况\n大学科普\n科协项目\n优秀成果\n人才举荐\n实践活动\n规章制度\n人才团队\n▼\n▶\n科技人才\n党建引领\n▼\n▶\n支部介绍\n支部活动\n服务指南\n▼\n▶\n办事流程\n规章制度\n表格下载\n联系方式\n网站首页\n机构设置\n部门简介\n部门领导\n办公室\n计划项目科\n科研基地管理科\n成果管理科\n产学研合作与军民融合办公室\n科技成果转化办公室\n西北大学科协\n科研项目\n纵向科研项目\n横向科研项目\n专用项目\n科研基地\n科技创新基地类别\n科技创新基地清单\n科技创新基地规章制度\n科研成果\n学术论文\n知识产权\n鉴定验收\n科技成果规章制度\n技术转移\n成果转化简介\n市场需求发布\n成果推介\n西北大学科技园\n西北大学科技孵化器\n成果转化制度\n学术交流\n诺奖论坛\n杨钟健讲座\n创新论坛\n学术沙龙\n规章制度\n西大科协\n科协概况\n大学科普\n科协项目\n优秀成果\n人才举荐\n实践活动\n规章制度\n人才团队\n科技人才\n党建引领\n支部介绍\n支部活动\n服务指南\n办事流程\n规章制度\n表格下载\n联系方式\n科研基地\n科技创新基地类别\n科技创新基地清单\n科技创新基地规章制度\n当前位置:\n网站首页\n>\n科研基地\n>\n科技创新基地清单\n西北大学省部级及以上科技创新基地清单\n国家重点实验室\n大陆动力学国家重点实验室\n国家工程技术研究中心\n国家微检测系统工程技术研究中心\n国家创新人才培养示范基地\n国家创新人才培养示范基地\n国家国际科技合作基地\n光电技术与纳米功能材料国际联合研究中心\n光电技术与功能材料及应用国际科技合作基地\n碳氢资源清洁利用国际科技合作基地\n“一带一路”联合实验室\n中国\n-中亚人类与环境“一带一路”联合实验室\n省部共建国家重点实验室培育基地\n省部共建西部能源光子技术国家重点实验室（筹）\n国家地方联合工程研究中心\n文化遗产数字化国家地方联合工程研究中心\n二氧化碳捕集与封存技术国家地方联合工程研究中心\n新型网络智能信息服务国家地方联合工程研究中心\n高等学校学科创新引智基地\n早期生命与环境学科创新引智基地\n丝绸之路科技考古与文化遗产保护创新引智基地\n国外马克思主义经济学与中国特色社会主义政治经济学引智基地\n国家野外科学观测研究站\n大熊猫金丝猴生物多样性野外科学观测研究站\n省部共建协同创新中心\n省部共建大陆构造协同创新中心\n国家基金委研究中心\n彭桓武高能基础理论研究中心\n教育部重点实验室\n文化遗产研究与保护技术教育部重点实验室\n西部资源生物与现代生物技术教育部重点实验室\n合成与天然功能分子教育部重点实验室\n教育部工程研究中心\n陕北能源先进化工利用技术教育部工程研究中心\n高等学校科技成果转化和技术转移基地\n高等学校科技成果转化和技术转移基地\n国家林草局工程技术研究中心\n长柄扁桃工程技术研究中心\n国家林草局生态系统定位观测研究站\n陕西西安城市生态系统定位观测研究站\n陕西省基础学科研究中心\n陕西省基础学科（地球系统科学）研究中心\n陕西省重点实验室\n陕西省生物技术与生化工程重点实验室\n陕西省光电子技术重点实验室\n陕西省合成与分离化学重点实验室\n陕西省分析科学重点实验室\n陕西省物理无机化学重点实验室\n陕西省生物医药重点实验室\n陕西省生物材料及合成生物学重点实验室\n陕西省秦岭珍稀濒危动物保育重点实验室\n陕西省早期生命与环境重点实验室\n陕西省理论物理前沿重点实验室\n陕西省石墨烯联合重点实验室\n-西北大学分部\n陕西省地表系统与环境承载力重点实验室\n陕西省流体力学数学理论与计算重点实验室\n陕西省碳中和技术重点实验室\n陕西省文化遗产数字人文重点实验室\n陕西省工程技术研究中心\n陕西省资源化工应用工程技术研究中心\n陕西省计算机软件工程技术研究中心\n陕西省生物芯片工程技术研究中心\n陕西省全固态激光及应用工程技术研究中心\n陕西省生物材料与发酵工程技术研究中心（四主体一联合）\n陕西省洁净煤转化工程技术研究中心（四主体一联合）\n陕西省中药创新药物工程技术研究中心\n陕西省蛋白质分离纯化技术国际联合研究中心\n陕西省\n“一带一路”与哈萨克斯坦国际联合研究中心\n陕西省构造年代学国际联合研究中心\n陕西省物理无机化学与西部资源化学国际科技合作基地\n陕西省早期生命起源及其与环境的协同演化国际联合研究中心\n陕西省无源物联网国际联合研究中心\n陕西省生物多样性保护与利用国际联合研究中心\n陕西省软科学研究基地\n陕西\n“一带一路”科技交流与合作软科学研究基地\n陕西省宏观经济软科学研究基地\n陕西省高校专业技术转移机构\n陕西省技术转移示范机构\n陕西省校企新型研发平台\n陕西延长\n-西大先进技术研究院“四主体一联合”校企新型研发平台\n陕西省营养与健康产业技术研究院\n“四主体一联合”校企新型研发平台\n陕西省\n“四主体一联合”校企联合研究中心\n陕西省\n“四主体一联合”生物农药校企联合研究中心\n陕西省\n“四主体一联合”航天特种化工材料校企联合研究中心\n陕西省创新药物研究中心\n陕西省现代中药新药研发创新药物研究中心\n陕西省工程研究中心\n陕西省天然多糖资源利用工程研究中心\n陕西省遥感与地理信息工程研究中心\n陕西省其他类别基地\n陕西省秦岭生态环境保护研究中心\n陕西基础科学研究院\n陕西基础科学（化学、生物学）研究院\n陕西省高等学校协同创新中心\n陕北能源化工产业发展协同创新中心\n丝绸之路文化遗产数字化保护与传承协同创新中心\n应对气候变化和碳捕集利用与封存产业技术协同创新中心\n陕西省高校工程研究中心\n油气资源光纤测井技术陕西省高校工程研究中心\n黄土动力灾害与防控陕西省高校工程研究中心\n陕西未来产业研究院\n陕西绿色生物制造未来产业研究院\n陕西省高等学校学科创新引智基地\n构造年代学学科创新引智基地\n配位导向的功能分子与材料精准合成化学学科创新引智基地\n秦岭珍稀濒危动物保育创新引智基地\n面向领域应用的人工智能技术创新引智基地\n二氧化碳捕集、利用与封存技术学科创新引智基地\n极端环境光探测引智基地\n陕西省公众素质发展研究和教育培训机构\n陕西省公民科学素质与现代化研究中心\n西安市重点实验室\n西安市有机分子工程重点实验室\n西安市影像组学与智能感知重点实验室\n西安市糖生物学与糖工程重点实验室\n西安市智能感知与文化传承重点实验室\n西安市多种能源资源勘探开发重点实验室\n西安市功能超分子结构与材料重点实验室\n西安市古生物信息学重点实验室\n西安市特种能源材料重点实验室\n西安市心脑血管疾病重点实验室\n西安市高校重大科技创新平台\n西安市新型生物医用材料创新研发平台\n西安市国际科技合作基地\n西安市早期生命起源与环境协同演化国际联合研究中心\n西安市秦岭珍稀濒危动物生态与保护国际科技合作基地\n西安市丝绸之路考古与文化遗产保护研究国际合作基地\n西安市生态固碳与土壤质量协同提升国际科技合作基地\n西安市合成生物学技术及生物材料国际科技合作基地\n新型低维材料与器件及太赫兹技术国际科技合作基地\n陕西省中医药管理局平台\n陕西省特征中药材重点研究室\n陕西省中药复方效应成分分析重点研究室\n陕西省食品安全委员会平台\n陕西省食品安全风险识别控制技术研究中心\n陕西省营养健康食品个性制造工程实验室\n陕西省食品安全与营养健康创新转化平台\n陕西省国际科技合作基地\n陕西省先进光学技术国际联合研究中心（参与西安光机所）\n业务主管部门\n陕西省教育厅\n陕西省科学技术厅\n科研服务工具\n中国科学院文献情报中心期刊分区表\n国家超级计算西安中心西北大学分中心\n校内站点\n西北大学\n西北大学校园门户登录\n财资部财务信息平台\n人事系统\n陕西基础科学（化学、生物学）研究院\n扫码关注西大科研公众号\n长安校区：西安市长安区学府大道1号   邮编：710127\n太白校区：西安市太白北路229号    邮编：710069\n电话：029-88308971  传真：029-88308972\n邮箱：\nkych@nwu.edu.cn\n西北大学科学技术处  版权所有",
+  "status": "正文已取得"
+}

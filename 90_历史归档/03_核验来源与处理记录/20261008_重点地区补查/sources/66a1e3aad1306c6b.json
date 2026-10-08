@@ -1,0 +1,2327 @@
+{
+  "url": "https://www.um.edu.mo/contact-us/administrative-contact.html",
+  "checked_at_beijing": "2026-10-08T21:09:41.379111+08:00",
+  "links": [
+    {
+      "label": "Skip to content",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#content"
+    },
+    {
+      "label": "UM Students",
+      "url": "https://www.um.edu.mo/students/"
+    },
+    {
+      "label": "Staff",
+      "url": "https://www.um.edu.mo/staff/"
+    },
+    {
+      "label": "Alumni",
+      "url": "https://ado.um.edu.mo/"
+    },
+    {
+      "label": "Media",
+      "url": "https://www.um.edu.mo/news/"
+    },
+    {
+      "label": "Visitors",
+      "url": "https://www.um.edu.mo/visitors/"
+    },
+    {
+      "label": "Partners",
+      "url": "https://gao.um.edu.mo/"
+    },
+    {
+      "label": "CZ Campus",
+      "url": "https://umhq.um.edu.mo/en/"
+    },
+    {
+      "label": "Accessible",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Larger Text",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Smaller Text",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Grayscale",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "High Contrast",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Negative Contrast",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Red Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Blue Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Green Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Light Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Reset",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "中",
+      "url": "https://www.um.edu.mo/zh-hant/contact/unit-contacts/"
+    },
+    {
+      "label": "PT",
+      "url": "https://www.um.edu.mo/pt-pt/contact/contactos-de-unidades/"
+    },
+    {
+      "label": "",
+      "url": "https://45.um.edu.mo/en_us/"
+    },
+    {
+      "label": "",
+      "url": "https://www.um.edu.mo/"
+    },
+    {
+      "label": "",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "About UM",
+      "url": "https://www.um.edu.mo/about-um/"
+    },
+    {
+      "label": "Rector’s Message",
+      "url": "https://www.um.edu.mo/about-um/rectors-message/"
+    },
+    {
+      "label": "UM Introduction",
+      "url": "https://www.um.edu.mo/about-um/introduction/"
+    },
+    {
+      "label": "Vision & Mission",
+      "url": "https://www.um.edu.mo/about-um/vision-and-mission/"
+    },
+    {
+      "label": "Governance",
+      "url": "https://www.um.edu.mo/about-um/#governance"
+    },
+    {
+      "label": "University Officers",
+      "url": "https://www.um.edu.mo/about-um/university-officers/"
+    },
+    {
+      "label": "Development Strategy",
+      "url": "https://www.um.edu.mo/about-um/#strategy"
+    },
+    {
+      "label": "Global UM",
+      "url": "https://gao.um.edu.mo"
+    },
+    {
+      "label": "International Reputation",
+      "url": "https://www.um.edu.mo/about-um/international-reputation/"
+    },
+    {
+      "label": "Societal Support",
+      "url": "https://www.um.edu.mo/about-um/societal-support/"
+    },
+    {
+      "label": "UM History",
+      "url": "https://www.um.edu.mo/about-um/history/"
+    },
+    {
+      "label": "Facts & Figures",
+      "url": "https://www.um.edu.mo/about-um/quick-facts/"
+    },
+    {
+      "label": "University Identity",
+      "url": "https://www.um.edu.mo/about-um/identity/"
+    },
+    {
+      "label": "Academics",
+      "url": "https://www.um.edu.mo/academics/"
+    },
+    {
+      "label": "Faculty of Arts and Humanities",
+      "url": "https://fah.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Business Administration",
+      "url": "https://fba.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Design",
+      "url": "https://fds.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Education",
+      "url": "https://fed.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Engineering",
+      "url": "https://feg.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Information Science and Computing",
+      "url": "https://fic.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Law",
+      "url": "https://fll.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Medicine",
+      "url": "https://fmd.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Science",
+      "url": "https://fsc.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Social Sciences",
+      "url": "https://fss.um.edu.mo/"
+    },
+    {
+      "label": "Honours College",
+      "url": "https://hc.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Advanced Studies in Humanities and Social Sciences",
+      "url": "https://ias.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Applied Physics and Materials Engineering",
+      "url": "https://iapme.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Artificial Intelligence and Brain Sciences",
+      "url": "https://iaibs.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Chinese Medical Sciences",
+      "url": "https://sklqrcm.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Collaborative Innovation",
+      "url": "https://ici.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Microelectronics",
+      "url": "https://ime.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Smart City Technologies",
+      "url": "http://isct.um.edu.mo"
+    },
+    {
+      "label": "Asia-Pacific Academy of Economics and Management",
+      "url": "https://apaem.um.edu.mo/"
+    },
+    {
+      "label": "Centre for Continuing Education",
+      "url": "https://cce.um.edu.mo/?lang=en"
+    },
+    {
+      "label": "Centre for Macau Studies",
+      "url": "https://cms.um.edu.mo/"
+    },
+    {
+      "label": "Centre for Teaching and Learning Enhancement",
+      "url": "https://ctle.um.edu.mo/"
+    },
+    {
+      "label": "Academic Affairs Office",
+      "url": "https://aao.um.edu.mo/"
+    },
+    {
+      "label": "Graduate School",
+      "url": "https://grs.um.edu.mo/"
+    },
+    {
+      "label": "Public Administration Training Centre",
+      "url": "https://patc.um.edu.mo/en/"
+    },
+    {
+      "label": "Research",
+      "url": "https://www.um.edu.mo/research/"
+    },
+    {
+      "label": "Strategy",
+      "url": "https://www.um.edu.mo/research/strategy/"
+    },
+    {
+      "label": "Platforms",
+      "url": "https://www.um.edu.mo/research/platforms/"
+    },
+    {
+      "label": "Highlights",
+      "url": "https://www.um.edu.mo/research/highlights/"
+    },
+    {
+      "label": "Resources",
+      "url": "https://www.um.edu.mo/research/resources/"
+    },
+    {
+      "label": "Staff",
+      "url": "https://www.um.edu.mo/research/staff/"
+    },
+    {
+      "label": "Knowledge Transfer",
+      "url": "https://www.um.edu.mo/research/knowledge-transfer/"
+    },
+    {
+      "label": "Academic Conferences",
+      "url": "https://www.um.edu.mo/research/conferences/"
+    },
+    {
+      "label": "Publications",
+      "url": "https://www.um.edu.mo/research/publications/"
+    },
+    {
+      "label": "Academic Exchange",
+      "url": "https://www.um.edu.mo/research/academic-exchange/"
+    },
+    {
+      "label": "Talent Development",
+      "url": "https://www.um.edu.mo/research/talent-development/"
+    },
+    {
+      "label": "Affiliated Entities & Units",
+      "url": "https://www.um.edu.mo/research/affiliated-entities-units/"
+    },
+    {
+      "label": "Research Services",
+      "url": "https://www.um.edu.mo/rskto/"
+    },
+    {
+      "label": "Colleges",
+      "url": "https://www.um.edu.mo/colleges/"
+    },
+    {
+      "label": "Residential College System",
+      "url": "https://rc.um.edu.mo/"
+    },
+    {
+      "label": "Chao Kuang Piu College",
+      "url": "https://ckpc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Cheng Yu Tung College",
+      "url": "https://cytc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Cheong Kun Lun College",
+      "url": "https://cklc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Choi Kai Yau College",
+      "url": "https://ckyc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Henry Fok Pearl Jubilee College",
+      "url": "https://hfpjc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Lui Che Woo College",
+      "url": "https://lcwc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Ma Man Kei and Lo Pak Sam College",
+      "url": "https://mlc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Moon Chun Memorial College",
+      "url": "https://mcmc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Shiu Pong College",
+      "url": "https://spc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Stanley Ho East Asia College",
+      "url": "https://sheac.rc.um.edu.mo/"
+    },
+    {
+      "label": "Study@UM",
+      "url": "https://www.um.edu.mo/study/"
+    },
+    {
+      "label": "Bachelor’s Degree",
+      "url": "https://www.um.edu.mo/study/#bachelor"
+    },
+    {
+      "label": "Master’s Degree",
+      "url": "https://www.um.edu.mo/study/#master"
+    },
+    {
+      "label": "Doctoral Degree",
+      "url": "https://www.um.edu.mo/study/#doctoral"
+    },
+    {
+      "label": "Continuing Education",
+      "url": "https://cce.um.edu.mo/?lang=en"
+    },
+    {
+      "label": "Local Students",
+      "url": "https://www.um.edu.mo/study/local-students/"
+    },
+    {
+      "label": "Non-local Students",
+      "url": "https://www.um.edu.mo/study/non-local-students/"
+    },
+    {
+      "label": "Summer Courses & Exchange Programmes",
+      "url": "https://www.um.edu.mo/study/summer-courses-exchange-programmes/"
+    },
+    {
+      "label": "Funding & Scholarships",
+      "url": "https://www.um.edu.mo/study/funding-scholarships/"
+    },
+    {
+      "label": "Campus Life",
+      "url": "https://www.um.edu.mo/campus-life/"
+    },
+    {
+      "label": "Student Life",
+      "url": "https://www.um.edu.mo/sao/en/sao_index.php"
+    },
+    {
+      "label": "Residential Life",
+      "url": "https://rc.um.edu.mo/"
+    },
+    {
+      "label": "Sports",
+      "url": "https://osa.um.edu.mo/"
+    },
+    {
+      "label": "Accommodation",
+      "url": "https://www.um.edu.mo/campus-life/#accommodation"
+    },
+    {
+      "label": "Health & Safety",
+      "url": "https://www.um.edu.mo/campus-life/#safety"
+    },
+    {
+      "label": "News",
+      "url": "https://www.um.edu.mo/news/"
+    },
+    {
+      "label": "News and Press Releases",
+      "url": "https://www.um.edu.mo/category/news-and-press-releases/"
+    },
+    {
+      "label": "Features",
+      "url": "https://www.um.edu.mo/news/#features"
+    },
+    {
+      "label": "UM Stories",
+      "url": "https://www.um.edu.mo/news/#umstories"
+    },
+    {
+      "label": "People’s Stories",
+      "url": "https://www.um.edu.mo/news/#peoplestories"
+    },
+    {
+      "label": "Highlights",
+      "url": "https://www.um.edu.mo/news/#highlights"
+    },
+    {
+      "label": "Social Media",
+      "url": "https://www.um.edu.mo/news/#socialmedia"
+    },
+    {
+      "label": "Corporate Publications",
+      "url": "https://www.um.edu.mo/news/publications/"
+    },
+    {
+      "label": "UMTV",
+      "url": "https://www.um.edu.mo/news/umtv/"
+    },
+    {
+      "label": "In the Media",
+      "url": "https://www.um.edu.mo/category/in-the-media/"
+    },
+    {
+      "label": "Event Photos",
+      "url": "https://www.um.edu.mo/news/event-photos/"
+    },
+    {
+      "label": "Campus Photos",
+      "url": "https://www.um.edu.mo/news/campus-photos/"
+    },
+    {
+      "label": "Events",
+      "url": "https://www.um.edu.mo/events/"
+    },
+    {
+      "label": "",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Search",
+      "url": "https://www.um.edu.mo/search_gcse"
+    },
+    {
+      "label": "About UM",
+      "url": "https://www.um.edu.mo/about-um/"
+    },
+    {
+      "label": "Rector’s Message",
+      "url": "https://www.um.edu.mo/about-um/rectors-message/"
+    },
+    {
+      "label": "UM Introduction",
+      "url": "https://www.um.edu.mo/about-um/introduction/"
+    },
+    {
+      "label": "Vision & Mission",
+      "url": "https://www.um.edu.mo/about-um/vision-and-mission/"
+    },
+    {
+      "label": "Governance",
+      "url": "https://www.um.edu.mo/about-um/#governance"
+    },
+    {
+      "label": "University Officers",
+      "url": "https://www.um.edu.mo/about-um/university-officers/"
+    },
+    {
+      "label": "Development Strategy",
+      "url": "https://www.um.edu.mo/about-um/#strategy"
+    },
+    {
+      "label": "Global UM",
+      "url": "https://gao.um.edu.mo/"
+    },
+    {
+      "label": "International Reputation",
+      "url": "https://www.um.edu.mo/about-um/international-reputation/"
+    },
+    {
+      "label": "Societal Support",
+      "url": "https://www.um.edu.mo/about-um/societal-support/"
+    },
+    {
+      "label": "UM History",
+      "url": "https://www.um.edu.mo/about-um/history/"
+    },
+    {
+      "label": "Facts & Figures",
+      "url": "https://www.um.edu.mo/about-um/quick-facts/"
+    },
+    {
+      "label": "University Identity",
+      "url": "https://www.um.edu.mo/about-um/identity/"
+    },
+    {
+      "label": "Academics",
+      "url": "https://www.um.edu.mo/academics/"
+    },
+    {
+      "label": "Faculty of Arts and Humanities",
+      "url": "https://fah.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Business Administration",
+      "url": "https://fba.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Design",
+      "url": "https://fds.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Education",
+      "url": "https://fed.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Engineering",
+      "url": "https://feg.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Information Science and Computing",
+      "url": "https://fic.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Law",
+      "url": "https://fll.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Medicine",
+      "url": "https://fmd.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Science",
+      "url": "https://fsc.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Social Sciences",
+      "url": "https://www.fss.um.edu.mo/"
+    },
+    {
+      "label": "Honours College",
+      "url": "https://hc.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Advanced Studies in Humanities and Social Sciences",
+      "url": "https://ias.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Applied Physics and Materials Engineering",
+      "url": "https://iapme.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Artificial Intelligence and Brain Sciences",
+      "url": "https://iaibs.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Chinese Medical Sciences",
+      "url": "https://sklqrcm.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Collaborative Innovation",
+      "url": "https://ici.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Microelectronics",
+      "url": "https://ime.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Smart City Technologies",
+      "url": "http://isct.um.edu.mo"
+    },
+    {
+      "label": "Asia-Pacific Academy of Economics and Management",
+      "url": "https://apaem.um.edu.mo/"
+    },
+    {
+      "label": "Centre for Continuing Education",
+      "url": "https://cce.um.edu.mo/?lang=en"
+    },
+    {
+      "label": "Centre for Macau Studies",
+      "url": "https://cms.um.edu.mo/"
+    },
+    {
+      "label": "Centre for Teaching & Learning Enhancement",
+      "url": "https://ctle.um.edu.mo/"
+    },
+    {
+      "label": "Academic Affairs Office",
+      "url": "https://aao.um.edu.mo/"
+    },
+    {
+      "label": "Graduate School",
+      "url": "https://grs.um.edu.mo/"
+    },
+    {
+      "label": "Public Administration Training Centre",
+      "url": "https://patc.um.edu.mo/en/"
+    },
+    {
+      "label": "Research",
+      "url": "https://www.um.edu.mo/research/"
+    },
+    {
+      "label": "Strategy",
+      "url": "https://www.um.edu.mo/research/strategy/"
+    },
+    {
+      "label": "Platforms",
+      "url": "https://www.um.edu.mo/research/platforms/"
+    },
+    {
+      "label": "Highlights",
+      "url": "https://www.um.edu.mo/research/highlights/"
+    },
+    {
+      "label": "Resources",
+      "url": "https://www.um.edu.mo/research/resources/"
+    },
+    {
+      "label": "Staff",
+      "url": "https://www.um.edu.mo/research/staff/"
+    },
+    {
+      "label": "Knowledge Transfer",
+      "url": "https://www.um.edu.mo/research/knowledge-transfer/"
+    },
+    {
+      "label": "Academic Conferences",
+      "url": "https://www.um.edu.mo/research/conferences/"
+    },
+    {
+      "label": "Publications",
+      "url": "https://www.um.edu.mo/research/publications/"
+    },
+    {
+      "label": "Academic Exchange",
+      "url": "https://www.um.edu.mo/research/academic-exchange/"
+    },
+    {
+      "label": "Talent Development",
+      "url": "https://www.um.edu.mo/research/talent-development/"
+    },
+    {
+      "label": "Affiliated Entities & Units",
+      "url": "https://www.um.edu.mo/research/affiliated-entities-units/"
+    },
+    {
+      "label": "Research Services",
+      "url": "https://www.um.edu.mo/rskto/"
+    },
+    {
+      "label": "Colleges",
+      "url": "https://www.um.edu.mo/colleges/"
+    },
+    {
+      "label": "Residential College System",
+      "url": "https://rc.um.edu.mo/"
+    },
+    {
+      "label": "Chao Kuang Piu College",
+      "url": "https://ckpc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Cheng Yu Tung College",
+      "url": "https://cytc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Cheong Kun Lun College",
+      "url": "https://cklc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Choi Kai Yau College",
+      "url": "https://ckyc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Henry Fok Pearl Jubilee College",
+      "url": "https://hfpjc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Lui Che Woo College",
+      "url": "https://lcwc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Ma Man Kei and Lo Pak Sam College",
+      "url": "https://mlc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Moon Chun Memorial College",
+      "url": "https://mcmc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Shiu Pong College",
+      "url": "https://spc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Stanley Ho East Asia College",
+      "url": "https://sheac.rc.um.edu.mo/"
+    },
+    {
+      "label": "Study@UM",
+      "url": "https://www.um.edu.mo/study/"
+    },
+    {
+      "label": "Bachelor’s Degree",
+      "url": "https://www.um.edu.mo/study/#bachelor"
+    },
+    {
+      "label": "Master’s Degree",
+      "url": "https://www.um.edu.mo/study/#master"
+    },
+    {
+      "label": "Doctoral Degree",
+      "url": "https://www.um.edu.mo/study/#doctoral"
+    },
+    {
+      "label": "Continuing Education",
+      "url": "https://cce.um.edu.mo/?lang=en"
+    },
+    {
+      "label": "Local Students",
+      "url": "https://www.um.edu.mo/study/local-students/"
+    },
+    {
+      "label": "Non-local Students",
+      "url": "https://www.um.edu.mo/study/non-local-students/"
+    },
+    {
+      "label": "Summer Courses & Exchange Programmes",
+      "url": "https://www.um.edu.mo/study/summer-courses-exchange-programmes/"
+    },
+    {
+      "label": "Funding & Scholarships",
+      "url": "https://www.um.edu.mo/study/funding-scholarships/"
+    },
+    {
+      "label": "Campus Life",
+      "url": "https://www.um.edu.mo/campus-life/"
+    },
+    {
+      "label": "Student Life",
+      "url": "https://www.um.edu.mo/sao/en/sao_index.php"
+    },
+    {
+      "label": "Residential Life",
+      "url": "https://rc.um.edu.mo/"
+    },
+    {
+      "label": "Sports",
+      "url": "https://osa.um.edu.mo/"
+    },
+    {
+      "label": "Accommodation",
+      "url": "https://www.um.edu.mo/campus-life/#accommodation"
+    },
+    {
+      "label": "Health & Safety",
+      "url": "https://www.um.edu.mo/campus-life/#safety"
+    },
+    {
+      "label": "News",
+      "url": "https://www.um.edu.mo/news/"
+    },
+    {
+      "label": "News and Press Releases",
+      "url": "https://www.um.edu.mo/category/news-and-press-releases/"
+    },
+    {
+      "label": "Features",
+      "url": "https://www.um.edu.mo/news/#features"
+    },
+    {
+      "label": "UM Stories",
+      "url": "https://www.um.edu.mo/news/#umstories"
+    },
+    {
+      "label": "People’s Stories",
+      "url": "https://www.um.edu.mo/news/#peoplestories"
+    },
+    {
+      "label": "Highlights",
+      "url": "https://www.um.edu.mo/news/#highlights"
+    },
+    {
+      "label": "Social Media",
+      "url": "https://www.um.edu.mo/news/#socialmedia"
+    },
+    {
+      "label": "Corporate Publications",
+      "url": "https://www.um.edu.mo/news/publications/"
+    },
+    {
+      "label": "UMTV",
+      "url": "https://www.um.edu.mo/news/umtv/"
+    },
+    {
+      "label": "In the Media",
+      "url": "https://www.um.edu.mo/category/in-the-media/"
+    },
+    {
+      "label": "Event Photos",
+      "url": "https://www.um.edu.mo/news/event-photos/"
+    },
+    {
+      "label": "Campus Photos",
+      "url": "https://www.um.edu.mo/news/campus-photos/"
+    },
+    {
+      "label": "Events",
+      "url": "https://www.um.edu.mo/events/"
+    },
+    {
+      "label": "Information for",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "UM Students",
+      "url": "https://www.um.edu.mo/students/"
+    },
+    {
+      "label": "Staff",
+      "url": "https://www.um.edu.mo/staff/"
+    },
+    {
+      "label": "Alumni",
+      "url": "https://ado.um.edu.mo/"
+    },
+    {
+      "label": "Media",
+      "url": "https://www.um.edu.mo/news/"
+    },
+    {
+      "label": "Visitors",
+      "url": "https://www.um.edu.mo/visitors/"
+    },
+    {
+      "label": "Donors",
+      "url": "https://www.umdf.org.mo/en/home"
+    },
+    {
+      "label": "Partners",
+      "url": "https://gao.um.edu.mo/"
+    },
+    {
+      "label": "CZ Campus",
+      "url": "https://umhq.um.edu.mo/en/"
+    },
+    {
+      "label": "Accessible",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Increase Text",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Decrease Text",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Grayscale",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "High Contrast",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Negative Contrast",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Red Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Blue Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Green Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Light Background",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Reset",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "EN",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "中",
+      "url": "https://www.um.edu.mo/zh-hant/contact/unit-contacts/"
+    },
+    {
+      "label": "PT",
+      "url": "https://www.um.edu.mo/pt-pt/contact/contactos-de-unidades/"
+    },
+    {
+      "label": "",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Home",
+      "url": "https://www.um.edu.mo/"
+    },
+    {
+      "label": "Contact Us",
+      "url": "https://www.um.edu.mo/contact/"
+    },
+    {
+      "label": "Davis",
+      "url": "https://www.um.edu.mo/author/davisip/"
+    },
+    {
+      "label": "Rector's Office (RTO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e2143e290747da36b"
+    },
+    {
+      "label": "rto.um.edu.mo",
+      "url": "https://rto.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Arts and Humanities (FAH)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e9f483dfaf53499ea"
+    },
+    {
+      "label": "fah.um.edu.mo",
+      "url": "https://fah.um.edu.mo"
+    },
+    {
+      "label": "— Department of Fine Arts",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#49f7706eec26728a1"
+    },
+    {
+      "label": "https://fah.um.edu.mo/art/",
+      "url": "https://fah.um.edu.mo/art/"
+    },
+    {
+      "label": "— Department of Chinese Language and Literature",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e7395b32f29b8d029"
+    },
+    {
+      "label": "fah.um.edu.mo/department-of-chinese-language-and-literature",
+      "url": "https://fah.um.edu.mo/department-of-chinese-language-and-literature/"
+    },
+    {
+      "label": "— Department of English",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#7cd86883fa12c71d2"
+    },
+    {
+      "label": "fah.um.edu.mo/department-of-english",
+      "url": "https://fah.um.edu.mo/department-of-english/"
+    },
+    {
+      "label": "— Department of History",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#bf0502702c75777f7"
+    },
+    {
+      "label": "fah.um.edu.mo/department-of-history",
+      "url": "https://fah.um.edu.mo/department-of-history/"
+    },
+    {
+      "label": "— Department of Japanese",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#8cc91e8d5cd3d192a"
+    },
+    {
+      "label": "fah.um.edu.mo/department-of-japanese",
+      "url": "https://fah.um.edu.mo/department-of-japanese/"
+    },
+    {
+      "label": "— Department of Portuguese",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#4aa683bf0d8254975"
+    },
+    {
+      "label": "fah.um.edu.mo/department-of-portuguese",
+      "url": "https://fah.um.edu.mo/department-of-portuguese/"
+    },
+    {
+      "label": "— Department of Philosophy and Religious Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#7390de62946449708"
+    },
+    {
+      "label": "fah.um.edu.mo/department-of-philosophy-and-religious-studies",
+      "url": "https://fah.um.edu.mo/department-of-philosophy-and-religious-studies/"
+    },
+    {
+      "label": "— English Language Centre",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#85ea1d3a92170a143"
+    },
+    {
+      "label": "fah.um.edu.mo/english-language-centre",
+      "url": "https://fah.um.edu.mo/english-language-centre/"
+    },
+    {
+      "label": "— Centre for Digital Arts",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#88523d74cefa67f32"
+    },
+    {
+      "label": "cda.fah.um.edu.mo",
+      "url": "https://cda.fah.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Chinese History and Culture",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#22781324ad2af7e1b"
+    },
+    {
+      "label": "cchc.fah.um.edu.mo/?lang=en",
+      "url": "https://cchc.fah.um.edu.mo/?lang=en"
+    },
+    {
+      "label": "— Centre for Linguistics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#722fb7ff8114ed46a"
+    },
+    {
+      "label": "linguistics.fah.um.edu.mo/",
+      "url": "https://linguistics.fah.um.edu.mo/"
+    },
+    {
+      "label": "— Chinese-Portuguese Bilingual Teaching and Training Centre",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#f24d0dbaae2f3fba4"
+    },
+    {
+      "label": "cpc.fah.um.edu.mo",
+      "url": "https://cpc.fah.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Studies of Translation, Interpreting and Cognition",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#f0f7f36f57a52fd98"
+    },
+    {
+      "label": "cstic.um.edu.mo",
+      "url": "http://cstic.um.edu.mo/"
+    },
+    {
+      "label": "— Confucius Institute",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#6857353b3b5598e1c"
+    },
+    {
+      "label": "ci.um.edu.mo",
+      "url": "http://ci.um.edu.mo/"
+    },
+    {
+      "label": "— Research Centre for Humanities in South China",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#62ad1de43e207b260"
+    },
+    {
+      "label": "rchsc.fah.um.edu.mo/",
+      "url": "https://rchsc.fah.um.edu.mo/"
+    },
+    {
+      "label": "— Research Centre for Luso-Asian Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e0292da65251cafd4"
+    },
+    {
+      "label": "ciela.fah.um.edu.mo",
+      "url": "https://ciela.fah.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Business Administration (FBA)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#6ff7c46961e7a3512"
+    },
+    {
+      "label": "fba.um.edu.mo",
+      "url": "https://fba.um.edu.mo"
+    },
+    {
+      "label": "— Department of Accounting and Information Management",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#36249c8589898d246"
+    },
+    {
+      "label": "https://fba.um.edu.mo/aim/",
+      "url": "https://fba.um.edu.mo/aim/"
+    },
+    {
+      "label": "— Department of Finance and Business Economics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#6ee20772197e92c82"
+    },
+    {
+      "label": "fba.um.edu.mo/departments/fbe",
+      "url": "https://fba.um.edu.mo/departments/fbe/"
+    },
+    {
+      "label": "— Department of Management and Marketing",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#d9a1a1cdf7ac1419d"
+    },
+    {
+      "label": "fba.um.edu.mo/mmi/",
+      "url": "https://fba.um.edu.mo/mmi/"
+    },
+    {
+      "label": "— Department of Integrated Resort and Tourism Management",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#52ae284538e3dfa6c"
+    },
+    {
+      "label": "iirm.fba.um.edu.mo",
+      "url": "http://iirm.fba.um.edu.mo/"
+    },
+    {
+      "label": "— Institute for the Study of Commercial Gaming",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#9d293b610569d8c20"
+    },
+    {
+      "label": "um.edu.mo/iscg",
+      "url": "https://www.um.edu.mo/iscg/"
+    },
+    {
+      "label": "— Business Research and Training Center",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#1507f95008e220adb"
+    },
+    {
+      "label": "um.edu.mo/fba/brtc",
+      "url": "https://www.um.edu.mo/fba/brtc/"
+    },
+    {
+      "label": "— Centre for Tourism and Integrated Resort Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b33fdf97800bf994f"
+    },
+    {
+      "label": "ctirs.fba.um.edu.mo",
+      "url": "https://ctirs.fba.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Design (FDS)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#0c57c02cb49af6fff"
+    },
+    {
+      "label": "https://fds.um.edu.mo/",
+      "url": "https://fds.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Architecture and Urban Design",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#70f37b8bddc5e1fda"
+    },
+    {
+      "label": "http://fds.um.edu.mo/daud/",
+      "url": "http://fds.um.edu.mo/daud/"
+    },
+    {
+      "label": "— Department of Industrial Design",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#644198893643b2c89"
+    },
+    {
+      "label": "http://fds.um.edu.mo/didd/",
+      "url": "http://fds.um.edu.mo/didd/"
+    },
+    {
+      "label": "— Department of Visual Communication Design",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5504fdaa94d1f0cb0"
+    },
+    {
+      "label": "http://fds.um.edu.mo/dvcd/",
+      "url": "http://fds.um.edu.mo/dvcd/"
+    },
+    {
+      "label": "Faculty of Education (FED)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#62ac93ba30a5af1ac"
+    },
+    {
+      "label": "fed.um.edu.mo",
+      "url": "https://fed.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Arts and Physical Education",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#42523c8d8908ae46a"
+    },
+    {
+      "label": "— Centre for Educational Psychology and Early Childhood Education",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#db653c9b89f5646b1"
+    },
+    {
+      "label": "— Centre for Language and Literacy Education",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#90e049b5e4ba82871"
+    },
+    {
+      "label": "— Centre for STEM and AI Education",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#3bf79f2532b5d1bc0"
+    },
+    {
+      "label": "— Educational Testing and Assessment Research Centre",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5f4e82526ed4d79b5"
+    },
+    {
+      "label": "etarc.fed.um.edu.mo/",
+      "url": "https://etarc.fed.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Engineering (FEG)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#dbd7b202bab624d02"
+    },
+    {
+      "label": "feg.um.edu.mo",
+      "url": "https://feg.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Biomedical Engineering",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#ce96d3753a83d5251"
+    },
+    {
+      "label": "feg.um.edu.mo/bme",
+      "url": "https://feg.um.edu.mo/bme"
+    },
+    {
+      "label": "— Department of Civil and Environmental Engineering",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#325e9a26e6729b1c2"
+    },
+    {
+      "label": "feg.um.edu.mo/cee",
+      "url": "https://feg.um.edu.mo/cee"
+    },
+    {
+      "label": "— Department of Electrical and Computer Engineering",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#edc24069e5a68f7be"
+    },
+    {
+      "label": "feg.um.edu.mo/ece",
+      "url": "https://feg.um.edu.mo/ece"
+    },
+    {
+      "label": "— Department of Electromechanical Engineering",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#aa42fac7264b77002"
+    },
+    {
+      "label": "feg.um.edu.mo/eme",
+      "url": "https://feg.um.edu.mo/eme"
+    },
+    {
+      "label": "— Department of Materials Science and Engineering",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b28173601f6cb9764"
+    },
+    {
+      "label": "feg.um.edu.mo/mse",
+      "url": "https://feg.um.edu.mo/mse"
+    },
+    {
+      "label": "— Department of Ocean Science and Technology",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#95b9e42020dc3bcdc"
+    },
+    {
+      "label": "feg.um.edu.mo/ost",
+      "url": "https://feg.um.edu.mo/ost"
+    },
+    {
+      "label": "— Centre for Regional Oceans",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#8fa5b8bf1966cb851"
+    },
+    {
+      "label": "https://cro.feg.um.edu.mo/",
+      "url": "https://cro.feg.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Information Science and Computing (FIC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#7a42d323c6e576fec"
+    },
+    {
+      "label": "fic.um.edu.mo",
+      "url": "https://fic.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Artificial Intelligence",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b3981762e94d5deab"
+    },
+    {
+      "label": "https://fic.um.edu.mo/aix/",
+      "url": "https://fic.um.edu.mo/aix/"
+    },
+    {
+      "label": "— Department of Computer Science",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#ddde24b8fec79a814"
+    },
+    {
+      "label": "https://fic.um.edu.mo/csc/",
+      "url": "https://fic.um.edu.mo/csc/"
+    },
+    {
+      "label": "— Department of Electronic and Communication Engineering",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#991119176da64edcc"
+    },
+    {
+      "label": "https://fic.um.edu.mo/ecm/",
+      "url": "https://fic.um.edu.mo/ecm/"
+    },
+    {
+      "label": "— Department of Financial Technology and Business Intelligence",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#d963fe22860e5412d"
+    },
+    {
+      "label": "https://fic.um.edu.mo/ftb/",
+      "url": "https://fic.um.edu.mo/aix/"
+    },
+    {
+      "label": "— Department of Microelectronics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b54c810a3f5f12f1b"
+    },
+    {
+      "label": "https://fic.um.edu.mo/mic/",
+      "url": "https://fic.um.edu.mo/mic/"
+    },
+    {
+      "label": "— Department of Robotics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#d74c9ca6227349f5a"
+    },
+    {
+      "label": "https://fic.um.edu.mo/rob/",
+      "url": "https://fic.um.edu.mo/rob/"
+    },
+    {
+      "label": "Faculty of Law (FLL)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#fd732a6aefe4cdc73"
+    },
+    {
+      "label": "fll.um.edu.mo",
+      "url": "https://fll.um.edu.mo"
+    },
+    {
+      "label": "— Department of Macao Legal Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#791665fc059ed33a2"
+    },
+    {
+      "label": "fll.um.edu.mo/department/department-of-macao-legal-studies",
+      "url": "https://fll.um.edu.mo/department/department-of-macao-legal-studies/"
+    },
+    {
+      "label": "— Department of Global Legal Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#9d379bedc077482d5"
+    },
+    {
+      "label": "fll.um.edu.mo/department/department-of-global-legal-studies",
+      "url": "https://fll.um.edu.mo/department/department-of-global-legal-studies/"
+    },
+    {
+      "label": "— Centre for Law Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#fb3ef9019deb7db37"
+    },
+    {
+      "label": "fll.um.edu.mo/research/centre-for-law-studies-3",
+      "url": "https://fll.um.edu.mo/research/centre-for-law-studies-3/"
+    },
+    {
+      "label": "— Centre for Constitutional Law and Basic Law Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#96943e951dcc192c8"
+    },
+    {
+      "label": "fll.um.edu.mo/research/centre-for-consitutional-law-and-basic-law-studies",
+      "url": "https://fll.um.edu.mo/research/centre-for-consitutional-law-and-basic-law-studies/"
+    },
+    {
+      "label": "— Institute for Advanced Legal Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#caba58eaa6e2463a5"
+    },
+    {
+      "label": "fll.um.edu.mo/research/institute-for-advanced-legal-studies",
+      "url": "https://fll.um.edu.mo/research/institute-for-advanced-legal-studies/"
+    },
+    {
+      "label": "Faculty of Medicine (FMD)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#a4d27dc9b62c09660"
+    },
+    {
+      "label": "fmd.um.edu.mo",
+      "url": "https://fmd.um.edu.mo"
+    },
+    {
+      "label": "— Department of Biomedical Sciences",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#67d71c5ec37b04d82"
+    },
+    {
+      "label": "fmd.um.edu.mo/departments/department-of-biomedical-sciences/",
+      "url": "https://fmd.um.edu.mo/departments/department-of-biomedical-sciences/"
+    },
+    {
+      "label": "— Department of Clinical Medicine",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e6a1f88a4f41b8ff3"
+    },
+    {
+      "label": "fmd.um.edu.mo/departments/department-of-clinical-medicine/",
+      "url": "http://fmd.um.edu.mo/departments/department-of-clinical-medicine/"
+    },
+    {
+      "label": "— Department of Medicinal Food and Nutrition Sciences",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b328ad8ab73a97d0c"
+    },
+    {
+      "label": "https://fmd.um.edu.mo/departments/department-of-medicinal-food-and-nutrition/",
+      "url": "https://fmd.um.edu.mo/departments/department-of-medicinal-food-and-nutrition/"
+    },
+    {
+      "label": "— Department of Pharmacy and Pharmaceutical Sciences",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#2021dd879d3652b16"
+    },
+    {
+      "label": "https://fmd.um.edu.mo/departments/department-of-pharmacy-and-pharmaceutical-sciences/",
+      "url": "https://fmd.um.edu.mo/departments/department-of-pharmacy-and-pharmaceutical-sciences/"
+    },
+    {
+      "label": "— Department of Public Health and Medicinal Administration",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#795b70f60d0b9b2c2"
+    },
+    {
+      "label": "https://fmd.um.edu.mo/departments/department-of-public-health-and-medicinal-administration/",
+      "url": "https://fmd.um.edu.mo/departments/department-of-public-health-and-medicinal-administration/"
+    },
+    {
+      "label": "Faculty of Science (FSC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#7ebb6b95fea3548b1"
+    },
+    {
+      "label": "fsc.um.edu.mo",
+      "url": "https://www.fsc.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Biological Sciences",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#ab32944dfc9c386d9"
+    },
+    {
+      "label": "https://fsc.um.edu.mo/bio/",
+      "url": "https://fsc.um.edu.mo/bio/"
+    },
+    {
+      "label": "— Department of Chemistry",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5648855f72ef2320e"
+    },
+    {
+      "label": "https://fsc.um.edu.mo/chm/",
+      "url": "https://fsc.um.edu.mo/chm/"
+    },
+    {
+      "label": "— Department of Mathematics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#eabf60b2c5c99eedb"
+    },
+    {
+      "label": "https://fsc.um.edu.mo/mth/",
+      "url": "https://fsc.um.edu.mo/mth/"
+    },
+    {
+      "label": "— Department of Physics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e18c725f5397f2883"
+    },
+    {
+      "label": "https://fsc.um.edu.mo/phy/",
+      "url": "https://fsc.um.edu.mo/phy/"
+    },
+    {
+      "label": "— Centre for Applied Mathematics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#068883953783ae428"
+    },
+    {
+      "label": "https://cam.fsc.um.edu.mo/",
+      "url": "https://cam.fsc.um.edu.mo/"
+    },
+    {
+      "label": "Faculty of Social Sciences (FSS)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#92c98ee6ae346783e"
+    },
+    {
+      "label": "fss.um.edu.mo",
+      "url": "https://fss.um.edu.mo"
+    },
+    {
+      "label": "— Department of Communication",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#8a643e3941baaa238"
+    },
+    {
+      "label": "comm.fss.um.edu.mo",
+      "url": "https://comm.fss.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Economics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#7ae1d9f4db7f2b412"
+    },
+    {
+      "label": "https://econ.fss.um.edu.mo/",
+      "url": "https://econ.fss.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Government and Public Administration",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#0a6b233a43e2323c4"
+    },
+    {
+      "label": "https://gpa.fss.um.edu.mo/",
+      "url": "https://gpa.fss.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Psychology",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#a8b8870446276dd87"
+    },
+    {
+      "label": "https://psyc.fss.um.edu.mo/",
+      "url": "https://psyc.fss.um.edu.mo/"
+    },
+    {
+      "label": "— Department of Sociology",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#ea59b74648a528608"
+    },
+    {
+      "label": "soc.fss.um.edu.mo",
+      "url": "https://soc.fss.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Institution and Mechanism Design",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#63e524514980d02cc"
+    },
+    {
+      "label": "https://cimd.fss.um.edu.mo/",
+      "url": "https://cimd.fss.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for the Guangdong-Hong Kong-Macao Greater Bay Area Studies",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#f5174dbf817a39425"
+    },
+    {
+      "label": "https://gbas.fss.um.edu.mo/en/",
+      "url": "https://gbas.fss.um.edu.mo/en/"
+    },
+    {
+      "label": "— Institute of Global and Public Affairs",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#f37fbf2963549fd84"
+    },
+    {
+      "label": "https://igpa.fss.um.edu.mo/",
+      "url": "https://igpa.fss.um.edu.mo/"
+    },
+    {
+      "label": "— Russian Centre",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5808824a6b5931d0a"
+    },
+    {
+      "label": "fss.um.edu.mo/russian-centre",
+      "url": "https://fss.um.edu.mo/russian-centre/"
+    },
+    {
+      "label": "Honours College (HC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#8d24bc12c95e613be"
+    },
+    {
+      "label": "hc.um.edu.mo",
+      "url": "https://hc.um.edu.mo"
+    },
+    {
+      "label": "Institute of Advanced Studies in Humanities and Social Sciences (IAS)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5bd0b53228f1b598d"
+    },
+    {
+      "label": "ias.um.edu.mo",
+      "url": "https://ias.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Applied Physics and Materials Engineering (IAPME)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#3163696a8557804a7"
+    },
+    {
+      "label": "iapme.um.edu.mo",
+      "url": "https://iapme.um.edu.mo"
+    },
+    {
+      "label": "Institute of Artificial Intelligence and Brain Sciences (IAIBS)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#8b23d4a908fe84388"
+    },
+    {
+      "label": "iaibs.um.edu.mo",
+      "url": "https://iaibs.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Artificial General Intelligence",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#cdda6c9231f667873"
+    },
+    {
+      "label": "https://cagi.iaibs.um.edu.mo/",
+      "url": "https://cagi.iaibs.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Cognitive and Brain Sciences",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#0555792536045d031"
+    },
+    {
+      "label": "https://ccbs.iaibs.um.edu.mo/",
+      "url": "https://ccbs.iaibs.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Data Science",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#dcb031bebd547c437"
+    },
+    {
+      "label": "https://cds.iaibs.um.edu.mo/",
+      "url": "https://cds.iaibs.um.edu.mo/"
+    },
+    {
+      "label": "— Centre for Robotics",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#7d5fb131f737775ab"
+    },
+    {
+      "label": "https://crb.iaibs.um.edu.mo/",
+      "url": "https://crb.iaibs.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Chinese Medical Sciences (ICMS)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#ca6e41a99ea1af005"
+    },
+    {
+      "label": "sklqrcm.um.edu.mo",
+      "url": "https://sklqrcm.um.edu.mo"
+    },
+    {
+      "label": "Institute of Collaborative Innovation (ICI)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b4739f626842f6913"
+    },
+    {
+      "label": "ici.um.edu.mo",
+      "url": "https://ici.um.edu.mo"
+    },
+    {
+      "label": "— Centre for Engineering Research and Testing",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#54f129a76c35cc822"
+    },
+    {
+      "label": "— Centre for Innovation and Entrepreneurship",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b7716197ed2a3cd2a"
+    },
+    {
+      "label": "— Centre for Science and Engineering Promotion",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5615cb635eefd3845"
+    },
+    {
+      "label": "— Macau Institute for Translational Medicine and Innovation",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e42d8e7b8dd959990"
+    },
+    {
+      "label": "Institute of Microelectronics (IME)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#27f45dfe1ed20c6e0"
+    },
+    {
+      "label": "ime.um.edu.mo",
+      "url": "https://ime.um.edu.mo/"
+    },
+    {
+      "label": "Institute of Smart City Technologies (ISCT)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#91024166365bb26b4"
+    },
+    {
+      "label": "isct.um.edu.mo",
+      "url": "https://isct.um.edu.mo/"
+    },
+    {
+      "label": "Asia-Pacific Academy of Economics & Management (APAEM)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#983036ed9aa479302"
+    },
+    {
+      "label": "apaem.um.edu.mo",
+      "url": "https://apaem.um.edu.mo"
+    },
+    {
+      "label": "Centre for Macau Studies (CMS)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#3c01476416ce8c25a"
+    },
+    {
+      "label": "cms.um.edu.mo",
+      "url": "https://cms.um.edu.mo/"
+    },
+    {
+      "label": "Chao Kuang Piu College (CKPC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#c32309b9087c8093c"
+    },
+    {
+      "label": "ckpc.rc.um.edu.mo",
+      "url": "https://ckpc.rc.um.edu.mo"
+    },
+    {
+      "label": "Cheng Yu Tung College (CYTC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#400c5301c0c134bdc"
+    },
+    {
+      "label": "cytc.rc.um.edu.mo",
+      "url": "https://cytc.rc.um.edu.mo"
+    },
+    {
+      "label": "Cheong Kun Lun College (CKLC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b84eae82c3b074545"
+    },
+    {
+      "label": "cklc.rc.um.edu.mo",
+      "url": "https://cklc.rc.um.edu.mo"
+    },
+    {
+      "label": "Choi Kai Yau College (CKYC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#c17fbcbe060085cc8"
+    },
+    {
+      "label": "ckyc.rc.um.edu.mo",
+      "url": "https://ckyc.rc.um.edu.mo"
+    },
+    {
+      "label": "Henry Fok Pearl Jubilee College (HFPJC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#482ef7a1ee8b77b65"
+    },
+    {
+      "label": "hfpjc.rc.um.edu.mo",
+      "url": "https://hfpjc.rc.um.edu.mo"
+    },
+    {
+      "label": "Lui Che Woo College (LCWC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#80760a5dca3c097d3"
+    },
+    {
+      "label": "lcwc.rc.um.edu.mo",
+      "url": "https://lcwc.rc.um.edu.mo"
+    },
+    {
+      "label": "Ma Man Kei and Lo Pak Sam College (MLC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#bfce9fadb62856db3"
+    },
+    {
+      "label": "mlc.rc.um.edu.mo",
+      "url": "https://mlc.rc.um.edu.mo"
+    },
+    {
+      "label": "Moon Chun Memorial College (MCMC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5c8a7f2f1f4f8fdb9"
+    },
+    {
+      "label": "mcmc.rc.um.edu.mo",
+      "url": "https://mcmc.rc.um.edu.mo/"
+    },
+    {
+      "label": "Shiu Pong College (SPC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#4716e1e559503fef9"
+    },
+    {
+      "label": "spc.rc.um.edu.mo",
+      "url": "https://spc.rc.um.edu.mo"
+    },
+    {
+      "label": "Stanley Ho East Asia College (SEAC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#0df2dd5eb4194fd84"
+    },
+    {
+      "label": "sheac.rc.um.edu.mo",
+      "url": "https://sheac.rc.um.edu.mo"
+    },
+    {
+      "label": "Centre for Continuing Education (CCE)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#b27252dcc5391550c"
+    },
+    {
+      "label": "cce.um.edu.mo?lang=en",
+      "url": "https://cce.um.edu.mo?lang=en"
+    },
+    {
+      "label": "Centre for Teaching and Learning Enhancement (CTLE)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#15f8b9b9b20a58d4a"
+    },
+    {
+      "label": "ctle.um.edu.mo",
+      "url": "https://ctle.um.edu.mo/"
+    },
+    {
+      "label": "State Key Laboratory of Analog and Mixed-Signal VLSI (AMSV)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#3d1645e91b67c498c"
+    },
+    {
+      "label": "ime.um.edu.mo",
+      "url": "https://ime.um.edu.mo"
+    },
+    {
+      "label": "State Key Laboratory of Internet of Things for Smart City (IOTSC)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e477ddbbcc3eb6551"
+    },
+    {
+      "label": "skliotsc.um.edu.mo",
+      "url": "https://skliotsc.um.edu.mo"
+    },
+    {
+      "label": "State Key Laboratory of Mechanism and Quality of Chinese Medicine (MQCM)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#c0331302bda2c5987"
+    },
+    {
+      "label": "sklqrcm.um.edu.mo",
+      "url": "https://sklqrcm.um.edu.mo"
+    },
+    {
+      "label": "Academic Affairs Office (AAO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#de50985bb67bfef23"
+    },
+    {
+      "label": "aao.um.edu.mo",
+      "url": "https://aao.um.edu.mo"
+    },
+    {
+      "label": "— Registry",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#d4f5801e85a9356a9"
+    },
+    {
+      "label": "reg.um.edu.mo",
+      "url": "https://reg.um.edu.mo"
+    },
+    {
+      "label": "Graduate School (GRS)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#390c7bff49d84d708"
+    },
+    {
+      "label": "grs.um.edu.mo",
+      "url": "https://grs.um.edu.mo/"
+    },
+    {
+      "label": "Student Affairs Office (SAO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#17ab2914ba93d7ebf"
+    },
+    {
+      "label": "um.edu.mo/sao/en/sao_index.php",
+      "url": "https://www.um.edu.mo/sao/en/sao_index.php"
+    },
+    {
+      "label": "— Student Resources Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#51625e96a7aa1c172"
+    },
+    {
+      "label": "srs.sao.um.edu.mo",
+      "url": "https://srs.sao.um.edu.mo"
+    },
+    {
+      "label": "— Student Counselling Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#625562a76eba04efc"
+    },
+    {
+      "label": "https://scs.sao.um.edu.mo/",
+      "url": "https://scs.sao.um.edu.mo/"
+    },
+    {
+      "label": "— Student Development Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#c76c5925c9782ad86"
+    },
+    {
+      "label": "sds.sao.um.edu.mo",
+      "url": "https://sds.sao.um.edu.mo"
+    },
+    {
+      "label": "Library (LIB)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#8d795d0d636f43f17"
+    },
+    {
+      "label": "library.um.edu.mo/lib_homepage_en",
+      "url": "https://library.um.edu.mo/lib_homepage_en"
+    },
+    {
+      "label": "— Library Resources & Development Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#2752e50666e622b9f"
+    },
+    {
+      "label": "— Library Services & Outreach Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#f777fa071a053bc32"
+    },
+    {
+      "label": "Campus Management and Development Office (CMDO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#27ad7b6dc54727a2e"
+    },
+    {
+      "label": "cmdo.um.edu.mo",
+      "url": "https://cmdo.um.edu.mo"
+    },
+    {
+      "label": "— Construction and Facilities Maintenance Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5790bd1cbedeae7ac"
+    },
+    {
+      "label": "cfm.cmdo.um.edu.mo",
+      "url": "http://cfm.cmdo.um.edu.mo"
+    },
+    {
+      "label": "— Electrical and Mechanical Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#30b4c9231ae4360a0"
+    },
+    {
+      "label": "ems.cmdo.um.edu.mo",
+      "url": "https://ems.cmdo.um.edu.mo"
+    },
+    {
+      "label": "— Campus Services Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#6da69299927995f06"
+    },
+    {
+      "label": "css.cmdo.um.edu.mo",
+      "url": "https://css.cmdo.um.edu.mo"
+    },
+    {
+      "label": "— Security and Facilities Services Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5335471ae5543320e"
+    },
+    {
+      "label": "sfs.cmdo.um.edu.mo",
+      "url": "https://sfs.cmdo.um.edu.mo"
+    },
+    {
+      "label": "Communications Office (CO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#4f20f7c8a02b76995"
+    },
+    {
+      "label": "co.um.edu.mo",
+      "url": "https://co.um.edu.mo"
+    },
+    {
+      "label": "— Public Relations Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#f8197369f552bf1b3"
+    },
+    {
+      "label": "co.um.edu.mo",
+      "url": "https://co.um.edu.mo"
+    },
+    {
+      "label": "Finance Office (FO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#4bb739cf09f8a5b12"
+    },
+    {
+      "label": "fo.um.edu.mo",
+      "url": "https://fo.um.edu.mo"
+    },
+    {
+      "label": "— Accounts Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#5d5550e57aa8135cc"
+    },
+    {
+      "label": "— Treasury Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#c35cd5dab7c22b389"
+    },
+    {
+      "label": "— Budget Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#9a367a40c8f9f590c"
+    },
+    {
+      "label": "Information and Communication Technology Office (ICTO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#4bbe064bc90c31ef5"
+    },
+    {
+      "label": "icto.um.edu.mo",
+      "url": "https://icto.um.edu.mo"
+    },
+    {
+      "label": "— Academic Computing and Technology Services Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#95baee23970bad46a"
+    },
+    {
+      "label": "icto.um.edu.mo/about-icto/academic-computing-and-technology-services-section-acts",
+      "url": "https://icto.um.edu.mo/about-icto/academic-computing-and-technology-services-section-acts"
+    },
+    {
+      "label": "— Infrastructure and User Services Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#be9d57ff1d9eadb4a"
+    },
+    {
+      "label": "icto.um.edu.mo/about-icto/infrastructure-and-user-services-section-ius",
+      "url": "https://icto.um.edu.mo/about-icto/infrastructure-and-user-services-section-ius"
+    },
+    {
+      "label": "— Information Management Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#e13a96b7e7ed539a9"
+    },
+    {
+      "label": "icto.um.edu.mo/about-icto/information-management-section-ims",
+      "url": "https://icto.um.edu.mo/about-icto/information-management-section-ims"
+    },
+    {
+      "label": "Office of Administration (ADMO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#c1a0c77eb78102a44"
+    },
+    {
+      "label": "admo.um.edu.mo",
+      "url": "https://admo.um.edu.mo"
+    },
+    {
+      "label": "— Human Resources Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#66498b7e54bf6451d"
+    },
+    {
+      "label": "hrs.admo.um.edu.mo",
+      "url": "https://hrs.admo.um.edu.mo"
+    },
+    {
+      "label": "— Procurement Section",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#4002f7b7305086f4b"
+    },
+    {
+      "label": "pct.admo.um.edu.mo",
+      "url": "https://pct.admo.um.edu.mo"
+    },
+    {
+      "label": "Research Services and Knowledge Transfer Office (RSKTO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#3b2917ce3f495e5a6"
+    },
+    {
+      "label": "um.edu.mo/rskto",
+      "url": "https://www.um.edu.mo/rskto/"
+    },
+    {
+      "label": "Alumni and Development Office (ADO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#9898d3e0c09517a0c"
+    },
+    {
+      "label": "ado.um.edu.mo",
+      "url": "https://ado.um.edu.mo"
+    },
+    {
+      "label": "Global Affairs Office (GAO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#f0c570ec2c9307643"
+    },
+    {
+      "label": "gao.um.edu.mo",
+      "url": "https://gao.um.edu.mo"
+    },
+    {
+      "label": "Internal Audit Office (IAO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#547e09757fcdac055"
+    },
+    {
+      "label": "Office of Health, Safety and Environmental Affairs (HSEO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#0a90bd434548d0af6"
+    },
+    {
+      "label": "hseo.um.edu.mo",
+      "url": "https://hseo.um.edu.mo"
+    },
+    {
+      "label": "Office of Sports Affairs (OSA)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#90f7573a6e5b52cdb"
+    },
+    {
+      "label": "sports.osa.um.edu.mo",
+      "url": "https://sports.osa.um.edu.mo"
+    },
+    {
+      "label": "Strategy and Planning Office (SPO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#24e55fc24fb502e56"
+    },
+    {
+      "label": "spo.um.edu.mo",
+      "url": "https://spo.um.edu.mo"
+    },
+    {
+      "label": "University Council Office (UCO)",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#41d4ee3d04761188b"
+    },
+    {
+      "label": "uc.um.edu.mo",
+      "url": "https://uc.um.edu.mo/"
+    },
+    {
+      "label": "Contact Us",
+      "url": "https://www.um.edu.mo/contact/"
+    },
+    {
+      "label": "Academic Contacts",
+      "url": "https://www.um.edu.mo/contact/academic-staff-contacts/"
+    },
+    {
+      "label": "Unit Contacts",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "www.um.edu.mo",
+      "url": "https://www.um.edu.mo"
+    },
+    {
+      "label": "",
+      "url": "https://www.um.edu.mo/news/wechat-news/"
+    },
+    {
+      "label": "",
+      "url": "https://www.facebook.com/universityofmacau/"
+    },
+    {
+      "label": "",
+      "url": "https://www.instagram.com/universityofmacau/"
+    },
+    {
+      "label": "",
+      "url": "https://www.xiaohongshu.com/user/profile/627cf0330000000021026e1a"
+    },
+    {
+      "label": "",
+      "url": "https://twitter.com/UM_1981"
+    },
+    {
+      "label": "",
+      "url": "https://www.linkedin.com/school/universityofmacau"
+    },
+    {
+      "label": "",
+      "url": "https://www.threads.com/@universityofmacau"
+    },
+    {
+      "label": "",
+      "url": "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5MzA3NjU0Ng==&scene=124#wechat_redirect"
+    },
+    {
+      "label": "",
+      "url": "https://www.youtube.com/user/UniversityOfMacau"
+    },
+    {
+      "label": "",
+      "url": "https://www.douyin.com/user/MS4wLjABAAAALycr9uHToTaUq-WqUIlM5EOn2AmltvA43MRJ8oxNdfI"
+    },
+    {
+      "label": "",
+      "url": "https://www.weibo.com/universityofmacau"
+    },
+    {
+      "label": "",
+      "url": "https://www.toutiao.com/c/user/100797848214/#mid=1605588707742733"
+    },
+    {
+      "label": "",
+      "url": "https://www.tiktok.com/@um1981?lang=en"
+    },
+    {
+      "label": "",
+      "url": "https://www.kuaishou.com/profile/3xbzej2tbwq56g2"
+    },
+    {
+      "label": "",
+      "url": "https://space.bilibili.com/521981081?spm_id_from=333.337.0.0"
+    },
+    {
+      "label": "",
+      "url": "https://v.qq.com/biu/videoplus?vuid=328954071"
+    },
+    {
+      "label": "Library",
+      "url": "https://library.um.edu.mo/lib_homepage_en"
+    },
+    {
+      "label": "Almanac",
+      "url": "https://reg.um.edu.mo/university-almanac/"
+    },
+    {
+      "label": "Procurement",
+      "url": "https://pct.admo.um.edu.mo/for-suppliers/tender-notice/"
+    },
+    {
+      "label": "Faculties & Institutes",
+      "url": "https://www.um.edu.mo/academics/"
+    },
+    {
+      "label": "Residential Colleges",
+      "url": "https://www.um.edu.mo/colleges/"
+    },
+    {
+      "label": "Other Academic Units",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#statekeylabs"
+    },
+    {
+      "label": "Academic Support & Administrative Units",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/#academic_support_units"
+    },
+    {
+      "label": "UM Introduction",
+      "url": "https://www.um.edu.mo/about-um/introduction/"
+    },
+    {
+      "label": "International Reputation",
+      "url": "https://www.um.edu.mo/about-um/international-reputation/"
+    },
+    {
+      "label": "Societal Support",
+      "url": "https://www.um.edu.mo/about-um/societal-support/"
+    },
+    {
+      "label": "History",
+      "url": "https://www.um.edu.mo/about-um/history/"
+    },
+    {
+      "label": "Facts & Figures",
+      "url": "https://www.um.edu.mo/about-um/quick-facts/"
+    },
+    {
+      "label": "UM Students",
+      "url": "https://www.um.edu.mo/students/"
+    },
+    {
+      "label": "Staff",
+      "url": "https://www.um.edu.mo/staff/"
+    },
+    {
+      "label": "Alumni",
+      "url": "https://ado.um.edu.mo/"
+    },
+    {
+      "label": "Media",
+      "url": "https://www.um.edu.mo/news/"
+    },
+    {
+      "label": "Visitors",
+      "url": "https://www.um.edu.mo/visitors/"
+    },
+    {
+      "label": "Donors",
+      "url": "https://www.umdf.org.mo/en/home"
+    },
+    {
+      "label": "Partners",
+      "url": "https://gao.um.edu.mo/"
+    },
+    {
+      "label": "News",
+      "url": "https://www.um.edu.mo/news/"
+    },
+    {
+      "label": "Events",
+      "url": "https://www.um.edu.mo/events/"
+    },
+    {
+      "label": "Campus Photos",
+      "url": "https://www.um.edu.mo/news/campus-photos/"
+    },
+    {
+      "label": "UM in Videos",
+      "url": "https://www.um.edu.mo/news/umtv/"
+    },
+    {
+      "label": "Map",
+      "url": "https://www.um.edu.mo/wp-content/uploads/2026/08/UMMap202608.pdf"
+    },
+    {
+      "label": "Library",
+      "url": "https://library.um.edu.mo/"
+    },
+    {
+      "label": "University Almanac",
+      "url": "https://reg.um.edu.mo/university-almanac/"
+    },
+    {
+      "label": "Procurement Notice",
+      "url": "https://pct.admo.um.edu.mo/for-suppliers/tender-notice/"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "https://www.um.edu.mo/privacy-policy/"
+    },
+    {
+      "label": "Sitemap",
+      "url": "https://www.um.edu.mo/sitemap/"
+    },
+    {
+      "label": "Applying",
+      "url": "https://www.um.edu.mo/study/"
+    },
+    {
+      "label": "Visiting",
+      "url": "https://www.um.edu.mo/visitors/"
+    },
+    {
+      "label": "Giving",
+      "url": "https://www.umdf.org.mo/en/home"
+    },
+    {
+      "label": "Careers",
+      "url": "https://career.admo.um.edu.mo/"
+    },
+    {
+      "label": "Contacts",
+      "url": "https://www.um.edu.mo/contact/"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "X",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Pinterest",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Page load link",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    },
+    {
+      "label": "Go to Top",
+      "url": "https://www.um.edu.mo/contact/unit-contacts/"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://www.um.edu.mo/contact/unit-contacts/",
+  "content_type": "text/html; charset=UTF-8",
+  "text": "Unit Contacts | University of Macau\nOur website does not supports Internet Explorer. For a better experience, please use a different browser such as Google Chrome, Mozilla Firefox, Safari or Microsoft Edge.\nSkip to content\nUM Students\nStaff\nAlumni\nMedia\nVisitors\nPartners\nCZ Campus\nAccessible\nLarger Text\nSmaller Text\nGrayscale\nHigh Contrast\nNegative Contrast\nRed Background\nBlue Background\nGreen Background\nLight Background\nReset\n中\nPT\nAbout UM\nRector’s Message\nUM Introduction\nVision & Mission\nGovernance\nUniversity Officers\nDevelopment Strategy\nGlobal UM\nInternational Reputation\nSocietal Support\nUM History\nFacts & Figures\nUniversity Identity\nAcademics\nFaculty of Arts and Humanities\nFaculty of Business Administration\nFaculty of Design\nFaculty of Education\nFaculty of Engineering\nFaculty of Information Science and Computing\nFaculty of Law\nFaculty of Medicine\nFaculty of Science\nFaculty of Social Sciences\nHonours College\nInstitute of Advanced Studies in Humanities and Social Sciences\nInstitute of Applied Physics and Materials Engineering\nInstitute of Artificial Intelligence and Brain Sciences\nInstitute of Chinese Medical Sciences\nInstitute of Collaborative Innovation\nInstitute of Microelectronics\nInstitute of Smart City Technologies\nAsia-Pacific Academy of Economics and Management\nCentre for Continuing Education\nCentre for Macau Studies\nCentre for Teaching and Learning Enhancement\nAcademic Affairs Office\nGraduate School\nPublic Administration Training Centre\nResearch\nStrategy\nPlatforms\nHighlights\nResources\nStaff\nKnowledge Transfer\nAcademic Conferences\nPublications\nAcademic Exchange\nTalent Development\nAffiliated Entities & Units\nResearch Services\nColleges\nResidential College System\nChao Kuang Piu College\nCheng Yu Tung College\nCheong Kun Lun College\nChoi Kai Yau College\nHenry Fok Pearl Jubilee College\nLui Che Woo College\nMa Man Kei and Lo Pak Sam College\nMoon Chun Memorial College\nShiu Pong College\nStanley Ho East Asia College\nStudy@UM\nBachelor’s Degree\nMaster’s Degree\nDoctoral Degree\nContinuing Education\nLocal Students\nNon-local Students\nSummer Courses & Exchange Programmes\nFunding & Scholarships\nCampus Life\nStudent Life\nResidential Life\nSports\nAccommodation\nHealth & Safety\nNews\nNews and Press Releases\nFeatures\nUM Stories\nPeople’s Stories\nHighlights\nSocial Media\nCorporate Publications\nUMTV\nIn the Media\nEvent Photos\nCampus Photos\nEvents\nSearch\nAbout UM\nRector’s Message\nUM Introduction\nVision & Mission\nGovernance\nUniversity Officers\nDevelopment Strategy\nGlobal UM\nInternational Reputation\nSocietal Support\nUM History\nFacts & Figures\nUniversity Identity\nAcademics\nFaculty of Arts and Humanities\nFaculty of Business Administration\nFaculty of Design\nFaculty of Education\nFaculty of Engineering\nFaculty of Information Science and Computing\nFaculty of Law\nFaculty of Medicine\nFaculty of Science\nFaculty of Social Sciences\nHonours College\nInstitute of Advanced Studies in Humanities and Social Sciences\nInstitute of Applied Physics and Materials Engineering\nInstitute of Artificial Intelligence and Brain Sciences\nInstitute of Chinese Medical Sciences\nInstitute of Collaborative Innovation\nInstitute of Microelectronics\nInstitute of Smart City Technologies\nAsia-Pacific Academy of Economics and Management\nCentre for Continuing Education\nCentre for Macau Studies\nCentre for Teaching & Learning Enhancement\nAcademic Affairs Office\nGraduate School\nPublic Administration Training Centre\nResearch\nStrategy\nPlatforms\nHighlights\nResources\nStaff\nKnowledge Transfer\nAcademic Conferences\nPublications\nAcademic Exchange\nTalent Development\nAffiliated Entities & Units\nResearch Services\nColleges\nResidential College System\nChao Kuang Piu College\nCheng Yu Tung College\nCheong Kun Lun College\nChoi Kai Yau College\nHenry Fok Pearl Jubilee College\nLui Che Woo College\nMa Man Kei and Lo Pak Sam College\nMoon Chun Memorial College\nShiu Pong College\nStanley Ho East Asia College\nStudy@UM\nBachelor’s Degree\nMaster’s Degree\nDoctoral Degree\nContinuing Education\nLocal Students\nNon-local Students\nSummer Courses & Exchange Programmes\nFunding & Scholarships\nCampus Life\nStudent Life\nResidential Life\nSports\nAccommodation\nHealth & Safety\nNews\nNews and Press Releases\nFeatures\nUM Stories\nPeople’s Stories\nHighlights\nSocial Media\nCorporate Publications\nUMTV\nIn the Media\nEvent Photos\nCampus Photos\nEvents\nInformation for\nUM Students\nStaff\nAlumni\nMedia\nVisitors\nDonors\nPartners\nCZ Campus\nAccessible\nIncrease Text\nDecrease Text\nGrayscale\nHigh Contrast\nNegative Contrast\nRed Background\nBlue Background\nGreen Background\nLight Background\nReset\nEN\n中\nPT\nUnit Contacts\nHome\n/\nContact Us\n/\nUnit Contacts\nUnit Contacts\nDavis\n2026-08-01T10:55:46+08:00\nRector’s Office\nRector's Office (RTO)\nWeb\nrto.um.edu.mo\nEmail\numrector@um.edu.mo\nPhone\n8822 4631\nFax\n2883 1694\nAddress\n6th Floor\nAdministration Building\nUniversity of Macau, N6\nFaculties\n& Institutes\nFaculty of Arts and Humanities (FAH)\nWeb\nfah.um.edu.mo\nEmail\nfah.enquiry@um.edu.mo\nPhone\n8822 8357\nFax\n8822 2321\nAddress\nRoom 4092\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Department of Fine Arts\nWeb\nhttps://fah.um.edu.mo/art/\nEmail\nfah.art@um.edu.mo\nPhone\n8822 4597\nAddress\nRoom 2019\nCultural Building\nUniversity of Macau, E34\n— Department of Chinese Language and Literature\nWeb\nfah.um.edu.mo/department-of-chinese-language-and-literature\nEmail\nfah.chinese@um.edu.mo\nPhone\n8822 9259\nAddress\nRoom 2071\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Department of English\nWeb\nfah.um.edu.mo/department-of-english\nEmail\nfah.english@um.edu.mo\nPhone\n8822 8201\nFax\n8822 2322\nAddress\nRoom 4068\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Department of History\nWeb\nfah.um.edu.mo/department-of-history\nEmail\nfah.history@um.edu.mo\nPhone\n8822 8801, 8822 8821\nFax\n8822 2341\nAddress\nRoom 2017\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Department of Japanese\nWeb\nfah.um.edu.mo/department-of-japanese\nEmail\nfah.japanese@um.edu.mo\nPhone\n8822 8260\nAddress\nRoom 3115\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Department of Portuguese\nWeb\nfah.um.edu.mo/department-of-portuguese\nEmail\nfah.portuguese@um.edu.mo\nPhone\n8822 8903, 8822 4703\nAddress\nRoom 3094\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Department of Philosophy and Religious Studies\nWeb\nfah.um.edu.mo/department-of-philosophy-and-religious-studies\nEmail\nfah.philosophy@um.edu.mo\nPhone\n8822 4768\nAddress\nRoom 4101\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— English Language Centre\nWeb\nfah.um.edu.mo/english-language-centre\nEmail\nfah.elc@um.edu.mo\nPhone\n8822 8120, 8822 4520\nAddress\nRoom 2016\nCentral Teaching Building\nUniversity of Macau, E7\n— Centre for Digital Arts\nWeb\ncda.fah.um.edu.mo\nEmail\nfah.cda@um.edu.mo\nPhone\n8822 4597\nAddress\nRoom 1014\nCultural Building\nUniversity of Macau, E34\n— Centre for Chinese History and Culture\nWeb\ncchc.fah.um.edu.mo/?lang=en\nEmail\ncchc.info@um.edu.mo\nPhone\n8822 2708\nFax\n8822 2383\nAddress\nCultural Building\nUniversity of Macau, E34\n— Centre for Linguistics\nWeb\nlinguistics.fah.um.edu.mo/\nEmail\nlinguistics@um.edu.mo\nPhone\n8822 8341\nAddress\nRoom G050\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Chinese-Portuguese Bilingual Teaching and Training Centre\nWeb\ncpc.fah.um.edu.mo\nEmail\nbilingualcentre@um.edu.mo\nPhone\n8822 4532\nAddress\nRoom 1006\nCultural Building\nUniversity of Macau, E34\n— Centre for Studies of Translation, Interpreting and Cognition\nWeb\ncstic.um.edu.mo\nAddress\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Confucius Institute\nWeb\nci.um.edu.mo\nEmail\nconfucius.institute@um.edu.mo\nPhone\n8822 4500\nAddress\nRoom G010\nCultural Building\nUniversity of Macau, E34\n— Research Centre for Humanities in South China\nWeb\nrchsc.fah.um.edu.mo/\nEmail\nnanguo@um.edu.mo\nAddress\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\n— Research Centre for Luso-Asian Studies\nWeb\nciela.fah.um.edu.mo\nEmail\nciela@um.edu.mo\nPhone\n8822 8908\nFax\n8822 2324\nAddress\n3/F\nFaculty of Arts and Humanities\nUniversity of Macau, E21A\nFaculty of Business Administration (FBA)\nWeb\nfba.um.edu.mo\nEmail\nfba.suggestion@um.edu.mo\nPhone\n8822 4656, 8822 4736\nFax\n8822 2377\nAddress\nRoom G031\nFaculty of Business Administration\nUniversity of Macau, E22\n— Department of Accounting and Information Management\nWeb\nhttps://fba.um.edu.mo/aim/\nAddress\nFaculty of Business Administration\nUniversity of Macau, E22\n— Department of Finance and Business Economics\nWeb\nfba.um.edu.mo/departments/fbe\nAddress\nFaculty of Business Administration\nUniversity of Macau, E22\n— Department of Management and Marketing\nWeb\nfba.um.edu.mo/mmi/\nAddress\nFaculty of Business Administration\nUniversity of Macau, E22\n— Department of Integrated Resort and Tourism Management\nWeb\niirm.fba.um.edu.mo\nAddress\nFaculty of Business Administration\nUniversity of Macau, E22\n— Institute for the Study of Commercial Gaming\nWebsite\num.edu.mo/iscg\nEmail\ngaming@um.edu.mo\nPhone\n8822 4173\nFax\n8822 2334\nAddress\n2/F\nFaculty of Business Administration\nUniversity of Macau, E22\n— Business Research and Training Center\nWeb\num.edu.mo/fba/brtc\nEmail\nfba.brtc@um.edu.mo\nPhone\n8822 4743\nFax\n8822 2378\nAddress\nRoom 4044\nFaculty of Business Administration\nUniversity of Macau, E22\n— Centre for Tourism and Integrated Resort Studies\nWebsite\nctirs.fba.um.edu.mo\nEmail\njasontang@um.edu.mo\nPhone\n8822 8871\nFax\n8822 2377\nAddress\n2/F\nFaculty of Business Administration\nUniversity of Macau, E22\nFaculty of Design (FDS)\nWeb\nhttps://fds.um.edu.mo/\nEmail\nfds.enquiry@um.edu.mo\nPhone\n8822 4502\nFax\n8822 2384\nAddress\nFaculty of Design, University of Macau\nFirst Phase of Macao-Hengqin International Education (University) Town\nNo. 1566 Haojiang Road, Hengqin, China\n— Department of Architecture and Urban Design\nWeb\nhttp://fds.um.edu.mo/daud/\nEmail\nfds.enquiry@um.edu.mo\nPhone\n8822 4502\nFax\n8822 2384\n— Department of Industrial Design\nWeb\nhttp://fds.um.edu.mo/didd/\nEmail\nfds.enquiry@um.edu.mo\nPhone\n8822 4502\nFax\n8822 2384\n— Department of Visual Communication Design\nWeb\nhttp://fds.um.edu.mo/dvcd/\nEmail\nfds.enquiry@um.edu.mo\nPhone\n8822 4502\nFax\n8822 2384\nFaculty of Education (FED)\nWeb\nfed.um.edu.mo\nEmail\nfed.enquiry@um.edu.mo\nPhone\n8822 8789, 8822 8776\nFax\n8822 2402, 2883 1695\nAddress\nRoom 4004\nFaculty of Education\nUniversity of Macau, E33\n— Centre for Arts and Physical Education\nPhone\n8822 4575\n,\n8822 4120\n— Centre for Educational Psychology and Early Childhood Education\nPhone\n8822 4575\n,\n8822 4120\n— Centre for Language and Literacy Education\nPhone\n8822 4575\n,\n8822 4120\n— Centre for STEM and AI Education\nPhone\n8822 4575\n,\n8822 4120\n— Educational Testing and Assessment Research Centre\nWebsite\netarc.fed.um.edu.mo/\nEmail\nmkieong@um.edu.mo\nPhone\n8822 8760\nFax\n8822 2403\nAddress\nRoom 2008\nFaculty of Education\nUniversity of Macau, E33\nFaculty of Engineering (FEG)\nWeb\nfeg.um.edu.mo\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nFaculty of Engineering\nUniversity of Macau, E11\n— Department of Biomedical Engineering\nWeb\nfeg.um.edu.mo/bme\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Engineering\nUniversity of Macau, E11\n— Department of Civil and Environmental Engineering\nWeb\nfeg.um.edu.mo/cee\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4967\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Engineering\nUniversity of Macau, E11\n— Department of Electrical and Computer Engineering\nWeb\nfeg.um.edu.mo/ece\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4961\n,\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Engineering\nUniversity of Macau, E11\n— Department of Electromechanical Engineering\nWeb\nfeg.um.edu.mo/eme\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Engineering\nUniversity of Macau, E11\n— Department of Materials Science and Engineering\nWeb\nfeg.um.edu.mo/mse\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Engineering\nUniversity of Macau, E11\n— Department of Ocean Science and Technology\nWeb\nfeg.um.edu.mo/ost\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Engineering\nUniversity of Macau, E11\n— Centre for Regional Oceans\nWeb\nhttps://cro.feg.um.edu.mo/\nEmail\nfeg.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Engineering\nUniversity of Macau, E11\nFaculty of Information Science and Computing (FIC)\nWeb\nfic.um.edu.mo\nEmail\nfic.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nFaculty of Information Science and Computing\nUniversity of Macau, E11\n— Department of Artificial Intelligence\nWeb\nhttps://fic.um.edu.mo/aix/\nEmail\nfic.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Information Science and Computing\nUniversity of Macau, E11\n— Department of Computer Science\nWeb\nhttps://fic.um.edu.mo/csc/\nEmail\nfic.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Information Science and Computing\nUniversity of Macau, E11\n— Department of Electronic and Communication Engineering\nWeb\nhttps://fic.um.edu.mo/ecm/\nEmail\nfic.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Information Science and Computing\nUniversity of Macau, E11\n— Department of Financial Technology and Business Intelligence\nWeb\nhttps://fic.um.edu.mo/ftb/\nEmail\nfic.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Information Science and Computing\nUniversity of Macau, E11\n— Department of Microelectronics\nWeb\nhttps://fic.um.edu.mo/mic/\nEmail\nfic.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Information Science and Computing\nUniversity of Macau, E11\n— Department of Robotics\nWeb\nhttps://fic.um.edu.mo/rob/\nEmail\nfic.enquiry@um.edu.mo\nPhone\n8822 4963\nFax\n8822 2426\nAddress\nRoom 4040\nFaculty of Information Science and Computing\nUniversity of Macau, E11\nFaculty of Law (FLL)\nWeb\nfll.um.edu.mo\nEmail\nfll.suggestion@um.edu.mo\nPhone\n8822 9358, 8822 4095\nFax\n8822 2380\nAddress\nRoom 1003\nFaculty of Law\nUniversity of Macau, E32\n— Department of Macao Legal Studies\nWeb\nfll.um.edu.mo/department/department-of-macao-legal-studies\nAddress\nFaculty of Law\nUniversity of Macau, E32\n— Department of Global Legal Studies\nWeb\nfll.um.edu.mo/department/department-of-global-legal-studies\nAddress\nFaculty of Law\nUniversity of Macau, E32\n— Centre for Law Studies\nWeb\nfll.um.edu.mo/research/centre-for-law-studies-3\nAddress\nFaculty of Law\nUniversity of Macau, E32\n— Centre for Constitutional Law and Basic Law Studies\nWeb\nfll.um.edu.mo/research/centre-for-consitutional-law-and-basic-law-studies\nAddress\nFaculty of Law\nUniversity of Macau, E32\n— Institute for Advanced Legal Studies\nWeb\nfll.um.edu.mo/research/institute-for-advanced-legal-studies\nAddress\nFaculty of Law\nUniversity of Macau, E32\nFaculty of Medicine (FMD)\nWeb\nfmd.um.edu.mo\nEmail\num_fmd@um.edu.mo\nPhone\n8822 4130,\n8822 4909\nFax\n8822 2314\nAddress\nRoom 4045\nFaculty of Medicine\nUniversity of Macau, E12\n— Department of Biomedical Sciences\nWeb\nfmd.um.edu.mo/departments/department-of-biomedical-sciences/\nEmail\num_fmd@um.edu.mo\nPhone\n8822 4130,\n8822 4909\nFax\n8822 2314\nAddress\nFaculty of Medicine\nUniversity of Macau, E12\n— Department of Clinical Medicine\nWeb\nfmd.um.edu.mo/departments/department-of-clinical-medicine/\nEmail\num_fmd@um.edu.mo\nPhone\n8822 4130,\n8822 4909\nFax\n8822 2314\nAddress\nFaculty of Medicine\nUniversity of Macau, E12\n— Department of Medicinal Food and Nutrition Sciences\nWeb\nhttps://fmd.um.edu.mo/departments/department-of-medicinal-food-and-nutrition/\nEmail\num_fmd@um.edu.mo\nPhone\n8822 4130,\n8822 4909\nFax\n8822 2314\nAddress\nFaculty of Medicine\nUniversity of Macau, E12\n— Department of Pharmacy and Pharmaceutical Sciences\nWeb\nhttps://fmd.um.edu.mo/departments/department-of-pharmacy-and-pharmaceutical-sciences/\nEmail\num_fmd@um.edu.mo\nPhone\n8822 4130,\n8822 4909\nFax\n8822 2314\nAddress\nFaculty of Medicine\nUniversity of Macau, E12\n— Department of Public Health and Medicinal Administration\nWeb\nhttps://fmd.um.edu.mo/departments/department-of-public-health-and-medicinal-administration/\nEmail\num_fmd@um.edu.mo\nPhone\n8822 4130,\n8822 4909\nFax\n8822 2314\nAddress\nFaculty of Medicine\nUniversity of Macau, E12\nFaculty of Science (FSC)\nWeb\nfsc.um.edu.mo\nEmail\nfsc.enquiry@um.edu.mo\nPhone\n8822 8551\n,\n8822 4462\n,\n8822 9282\nAddress\nRoom 4034\nFaculty of Science\nUniversity of Macau, E11\n— Department of Biological Sciences\nWeb\nhttps://fsc.um.edu.mo/bio/\nAddress\nFaculty of Science\nUniversity of Macau, E11\n— Department of Chemistry\nWeb\nhttps://fsc.um.edu.mo/chm/\nAddress\nFaculty of Science\nUniversity of Macau, E11\n— Department of Mathematics\nWeb\nhttps://fsc.um.edu.mo/mth/\nAddress\nFaculty of Science\nUniversity of Macau, E11\n— Department of Physics\nWeb\nhttps://fsc.um.edu.mo/phy/\nAddress\nFaculty of Science\nUniversity of Macau, E11\n— Centre for Applied Mathematics\nWeb\nhttps://cam.fsc.um.edu.mo/\nPhone\n8822 2084\nAddress\nRoom 2024\nFaculty of Science\nUniversity of Macau, E11\nFaculty of Social Sciences (FSS)\nWeb\nfss.um.edu.mo\nEmail\nfss.enquiry@um.edu.mo\nPhone\n8822 4018\nFax\n8822 2337\nAddress\nRoom 4031\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Department of Communication\nWeb\ncomm.fss.um.edu.mo\nEmail\nfss.comm@um.edu.mo\nPhone\n8822 8961\nFax\n8822 2338\nAddress\nRoom 2041\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Department of Economics\nWeb\nhttps://econ.fss.um.edu.mo/\nEmail\nfss.econ@um.edu.mo\nPhone\n8822 8916\nFax\n8822 2339\nAddress\nRoom 3034\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Department of Government and Public Administration\nWeb\nhttps://gpa.fss.um.edu.mo/\nEmail\nfss.gpa@um.edu.mo\nPhone\n8822 8301, 8822 8321\nFax\n8822 2340\nAddress\nRoom 4041\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Department of Psychology\nWeb\nhttps://psyc.fss.um.edu.mo/\nEmail\nfss.psychology@um.edu.mo\nPhone\n8822 8381, 8822 4261\nAddress\nRoom 3053\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Department of Sociology\nWeb\nsoc.fss.um.edu.mo\nEmail\nfss.sociology@um.edu.mo\nPhone\n8822 4595\nFax\n8822 2343\nAddress\nRoom 3001\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Centre for Institution and Mechanism Design\nWeb\nhttps://cimd.fss.um.edu.mo/\nEmail\nfss.cimd@um.edu.mo\nPhone\n8822 8979\nAddress\nRoom 4002\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Centre for the Guangdong-Hong Kong-Macao Greater Bay Area Studies\nWeb\nhttps://gbas.fss.um.edu.mo/en/\nAddress\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Institute of Global and Public Affairs\nWeb\nhttps://igpa.fss.um.edu.mo/\nPhone\n8822 8301,\n8822 8321\nFax\n8822 2340\nAddress\nRoom 4041\nFaculty of Social Sciences\nUniversity of Macau, E21B\n— Russian Centre\nWeb\nfss.um.edu.mo/russian-centre\nAddress\nFaculty of Social Sciences\nUniversity of Macau, E21B\nHonours College (HC)\nWeb\nhc.um.edu.mo\nEmail\nhc.enquiry@um.edu.mo\nPhone\n8822 4974\nFax\n8822 2332\nAddress\nRoom G023\nHonours College\nUniversity of Macau, E12\nInstitute of Advanced Studies in Humanities and Social Sciences (IAS)\nWeb\nias.um.edu.mo\nEmail\nias.enquiry@um.edu.mo\nPhone\n8822 2082\nFax\n8822 2387\nAddress\n3/F\nCultural Building\nUniversity of Macau, E34\nInstitute of Applied Physics and Materials Engineering (IAPME)\nWeb\niapme.um.edu.mo\nEmail\niapme.enquiry@um.edu.mo\nPhone\n8822 4142\nFax\n8822 2454\nAddress\nInstitute of Applied Physics and Materials Engineering\nUniversity of Macau, N23\nInstitute of Artificial Intelligence and Brain Sciences (IAIBS)\nWeb\niaibs.um.edu.mo\nEmail\niaibs.enquiry@um.edu.mo\nPhone\n8822 4600\nFax\n8822 2456\nAddress\nRoom 1003\nResearch Building\nUniversity of Macau, N21\n— Centre for Artificial General Intelligence\nWeb\nhttps://cagi.iaibs.um.edu.mo/\nEmail\niaibs.enquiry@um.edu.mo\nPhone\n8822 4600\nFax\n8822 2456\nAddress\nRoom 1003\nResearch Building\nUniversity of Macau, N21\n— Centre for Cognitive and Brain Sciences\nWeb\nhttps://ccbs.iaibs.um.edu.mo/\nEmail\niaibs.enquiry@um.edu.mo\nPhone\n8822 4600\nFax\n8822 2456\nAddress\nRoom 1003\nResearch Building\nUniversity of Macau, N21\n— Centre for Data Science\nWeb\nhttps://cds.iaibs.um.edu.mo/\nEmail\niaibs.enquiry@um.edu.mo\nPhone\n8822 4600\nFax\n8822 2456\nAddress\nRoom 1003\nResearch Building\nUniversity of Macau, N21\n— Centre for Robotics\nWeb\nhttps://crb.iaibs.um.edu.mo/\nEmail\niaibs.enquiry@um.edu.mo\nPhone\n8822 4600\nFax\n8822 2456\nAddress\nRoom 1003\nResearch Building\nUniversity of Macau, N21\nInstitute of Chinese Medical Sciences (ICMS)\nWeb\nsklqrcm.um.edu.mo\nEmail\nicms.enquiry@um.edu.mo\nPhone\n8822 4685\nFax\n2884 1358\nAddress\n1/F\nResearch Building\nUniversity of Macau, N22\nInstitute of Collaborative Innovation (ICI)\nWeb\nici.um.edu.mo\nEmail\nici.enquiry@um.edu.mo\nPhone\n8822 4600\nFax\n8822 2456\nAddress\nRoom 1003\nResearch Building\nUniversity of Macau, N21\n— Centre for Engineering Research and Testing\nEmail\nici.enquiry@um.edu.mo\n— Centre for Innovation and Entrepreneurship\nEmail\nici.enquiry@um.edu.mo\n— Centre for Science and Engineering Promotion\nEmail\nici.enquiry@um.edu.mo\n— Macau Institute for Translational Medicine and Innovation\nEmail\nici.enquiry@um.edu.mo\nInstitute of Microelectronics (IME)\nWeb\nime.um.edu.mo\nEmail\nime.enquiry@um.edu.mo\nPhone\n8822 4700\nFax\n8822 2441\nAddress\n3/F\nResearch Building\nUniversity of Macau, N21\nInstitute of Smart City Technologies (ISCT)\nWeb\nisct.um.edu.mo\nEmail\nisct.enquiry@um.edu.mo\nPhone\n8822 4200\nAddress\nResearch Building\nUniversity of Macau, N21\nAsia-Pacific Academy of Economics & Management (APAEM)\nWeb\napaem.um.edu.mo\nEmail\napaem_info@um.edu.mo\nPhone\n8822 8137\nFax\n8822 2329\nAddress\nRoom G001\nFaculty of Business Administration\nUniversity of Macau, E22\nCentre for Macau Studies (CMS)\nWeb\ncms.um.edu.mo\nEmail\ncms.info@um.edu.mo\nPhone\n8822 8130, 8822 8131\nFax\n2886 0009\nAddress\nRoom G025\nCultural Building\nUniversity of Macau, E34\nResidential Colleges\nChao Kuang Piu College (CKPC)\nWeb\nckpc.rc.um.edu.mo\nEmail\nckpcollege@um.edu.mo\nPhone\n8822 9372\nFax\n8822 2415\nAddress\nChao Kuang Piu College\nUniversity of Macau, W21\nCheng Yu Tung College (CYTC)\nWeb\ncytc.rc.um.edu.mo\nEmail\ncytcollege@um.edu.mo\nPhone\n8822 9363, 8822 9364\nFax\n8822 2311\nAddress\nCheng Yu Tung College\nUniversity of Macau, W23\nCheong Kun Lun College (CKLC)\nWeb\ncklc.rc.um.edu.mo\nEmail\ncklcollege@um.edu.mo\nPhone\n8822 9520\nFax\n8822 2381\nAddress\nCheong Kun Lun College\nUniversity of Macau, W32\nChoi Kai Yau College (CKYC)\nWeb\nckyc.rc.um.edu.mo\nEmail\nckycollege@um.edu.mo\nPhone\n8822 9400\nFax\n8822 2416\nAddress\nChoi Kai Yau College\nUniversity of Macau, W12\nHenry Fok Pearl Jubilee College (HFPJC)\nWeb\nhfpjc.rc.um.edu.mo\nEmail\nfpjcollege@um.edu.mo\nPhone\n8822 9172, 8822 4922\nFax\n8822 2331\nAddress\nHenry Fok Pearl Jubilee College\nUniversity of Macau, W14\nLui Che Woo College (LCWC)\nWeb\nlcwc.rc.um.edu.mo\nEmail\nlcwcollege@um.edu.mo\nPhone\n8822 9300\nFax\n8822 2353\nAddress\nLui Che Woo College\nUniversity of Macau, W22\nMa Man Kei and Lo Pak Sam College (MLC)\nWeb\nmlc.rc.um.edu.mo\nEmail\nmlcollege@um.edu.mo\nPhone\n8822 9500\nFax\n8822 2453\nAddress\nMa Man Kei and Lo Pak Sam College\nUniversity of Macau, W33\nMoon Chun Memorial College (MCMC)\nWeb\nmcmc.rc.um.edu.mo\nEmail\nmcmofficeofthemaster@um.edu.mo\nPhone\n8822 9266, 8822 9976\nFax\n8822 2312\nAddress\nMoon Chun Memorial College\nUniversity of Macau, W11\nShiu Pong College (SPC)\nWeb\nspc.rc.um.edu.mo\nEmail\nspc.enquiry@um.edu.mo\nPhone\n8822 9630\nFax\n8822 2351\nAddress\nShiu Pong College\nUniversity of Macau, S9\nStanley Ho East Asia College (SEAC)\nWeb\nsheac.rc.um.edu.mo\nEmail\nseacollege@um.edu.mo\nPhone\n8822 9319\nFax\n8822 2434\nAddress\nStanley Ho East Asia College\nUniversity of Macau, W13\nAcademic/ Academic Support/ Administrative Units\nCentre for Continuing Education (CCE)\nWeb\ncce.um.edu.mo?lang=en\nEmail\ncce.enquiry@um.edu.mo\nPhone\n8822 4545\nFax\n2883 8321\nAddress\nG/F\nBOC Centennial Building\nUniversity of Macau, E3\nCentre for Teaching and Learning Enhancement (CTLE)\nWeb\nctle.um.edu.mo\nEmail\nctle@um.edu.mo\nPhone\n8822 4583\nFax\n8822 2349\nAddress\nRoom 3114\nCentral Teaching Building\nUniversity of Macau, E6\nState Key Laboratory of Analog and Mixed-Signal VLSI (AMSV)\nWeb\nime.um.edu.mo\nEmail\namsv.enquiry@um.edu.mo\nPhone\n8822 4700\nFax\n8822 2441\nAddress\n3/F\nResearch Building\nUniversity of Macau, N21\nState Key Laboratory of Internet of Things for Smart City (IOTSC)\nWeb\nskliotsc.um.edu.mo\nEmail\niotsc.enquiry@um.edu.mo\nPhone\n8822 4200\nFax\n8822 2466\nAddress\nRoom 5012\nResearch Building\nUniversity of Macau, N21\nState Key Laboratory of Mechanism and Quality of Chinese Medicine (MQCM)\nWeb\nsklqrcm.um.edu.mo\nEmail\nicms.enquiry@um.edu.mo\nPhone\n8822 4685\nFax\n2884 1358\nAddress\nResearch Building\nUniversity of Macau, N22\nAcademic Affairs Office (AAO)\nWeb\naao.um.edu.mo\nEmail\naao@um.edu.mo\nPhone\n8822 4807\nFax\n8822 2424\nAddress\nRoom 2026\nAdministration Building\nUniversity of Macau, N6\n— Registry\nWeb\nreg.um.edu.mo\nEmail\nregistry@um.edu.mo\nPhone\n8822 4007\nFax\n8822 2425\nAddress\nRoom G002\nAdministration Building\nUniversity of Macau, N6\nGraduate School (GRS)\nWeb\ngrs.um.edu.mo\nEmail\ngradschool@um.edu.mo\nPhone\n8822 4898\nFax\n8822 2327\nAddress\nRoom G001\nAdministration Building\nUniversity of Macau, N6\nStudent Affairs Office (SAO)\nWeb\num.edu.mo/sao/en/sao_index.php\nEmail\nsao@um.edu.mo\nPhone\n8822 4842\nFax\n8822 2370\nAddress\n2/F\nStudent Activity Centre\nUniversity of Macau, E31\n— Student Resources Section\nWeb\nsrs.sao.um.edu.mo\nEmail\nsao.services@um.edu.mo / sao.pgh@um.edu.mo\nPhone\n8822 9902 / 88222660\nFax\n8822 2368 / 88222371\nAddress\n2/F\nStudent Activity Centre\nUniversity of Macau, E31\n— Student Counselling Section\nWeb\nhttps://scs.sao.um.edu.mo/\nEmail\nsao.counsellor@um.edu.mo\nPhone\n8822 9000\nFax\n8822 2369\nAddress\n2/F\nStudent Activity Centre\nUniversity of Macau, E31\n— Student Development Section\nWeb\nsds.sao.um.edu.mo\nEmail\nsao.leadership@um.edu.mo / sao.development@um.edu.mo\nPhone\n8822 4890\nFax\n8822 2346\nAddress\n2/F\nStudent Activity Centre\nUniversity of Macau, E31\nLibrary (LIB)\nWeb\nlibrary.um.edu.mo/lib_homepage_en\nEmail\nlib_suggestion@um.edu.mo\nPhone\n8822 8187, 8822 8170\nFax\n8822 2442\nAddress\n6/F\nUM Wu Yee Sun Library\nUniversity of Macau, E2\n— Library Resources & Development Section\nPhone\n8822 8170\nFax\n8822 2442\nAddress\n6/F\nUM Wu Yee Sun Library\nUniversity of Macau, E2\n— Library Services & Outreach Section\nPhone\n8822 8160\nFax\n8822 2442\nAddress\n6/F\nUM Wu Yee Sun Library\nUniversity of Macau, E2\nCampus Management and Development Office (CMDO)\nWeb\ncmdo.um.edu.mo\nEmail\ncmdo.suggestion@um.edu.mo\nPhone\n8822 8679\nFax\n8822 2385\nAddress\nRoom 3018\nAdministration Building\nUniversity of Macau, N6\n— Construction and Facilities Maintenance Section\nWeb\ncfm.cmdo.um.edu.mo\nEmail\ncfm_enquiry@um.edu.mo\nPhone\n8822 8094\nFax\n8822 2310\nAddress\nRoom 3025\nAdministration Building\nUniversity of Macau, N6\n— Electrical and Mechanical Section\nWeb\nems.cmdo.um.edu.mo\nEmail\nems.suggestion@um.edu.mo\nPhone\n8822 8474\nFax\n8822 2467\nAddress\nRoom 3019\nAdministration Building\nUniversity of Macau, N6\n— Campus Services Section\nWeb\ncss.cmdo.um.edu.mo\nEmail\ncss.suggestion@um.edu.mo\nPhone\n8822 8460\nFax\n8822 2438\nAddress\nRoom 3013\nAdministration Building\nUniversity of Macau, N6\n— Security and Facilities Services Section\nWeb\nsfs.cmdo.um.edu.mo\nEmail\nsfs.suggestion@um.edu.mo\nPhone\n8822 8536\nFax\n8822 2436\nAddress\nRoom 3012\nAdministration Building\nUniversity of Macau, N6\nCommunications Office (CO)\nWeb\nco.um.edu.mo\nEmail\nco@um.edu.mo\nPhone\n8822 8400\nFax\n8822 2360\nAddress\nRoom G012\nAdministration Building\nUniversity of Macau, N6\n— Public Relations Section\nWeb\nco.um.edu.mo\nEmail\nco@um.edu.mo\nPhone\n8822 8400\nFax\n8822 2360\nAddress\nRoom G012\nAdministration Building\nUniversity of Macau, N6\nFinance Office (FO)\nWeb\nfo.um.edu.mo\nEmail\nfo@um.edu.mo\nPhone\n8822 8349\nFax\n8822 2362\nAddress\nRoom 1012\nAdministration Building\nUniversity of Macau, N6\n— Accounts Section\nPhone\n8822 8349\nFax\n8822 2363\nAddress\nRoom 1012\nAdministration Building\nUniversity of Macau, N6\n— Treasury Section\nPhone\n8822 8054\nFax\n8822 2365\nAddress\nRoom 1012\nAdministration Building\nUniversity of Macau, N6\n— Budget Section\nPhone\n8822 4862\nFax\n8822 2363\nAddress\nRoom 1012\nAdministration Building\nUniversity of Macau, N6\nInformation and Communication Technology Office (ICTO)\nWeb\nicto.um.edu.mo\nEmail\nicto.suggestion@um.edu.mo\nPhone\n8822 8617, 8822 8688, 8822 8611\nFax\n8822 2408\nAddress\nRoom 2017\nAdministration Building\nUniversity of Macau, N6\n— Academic Computing and Technology Services Section\nWeb\nicto.um.edu.mo/about-icto/academic-computing-and-technology-services-section-acts\nPhone\n8822 8617, 8822 8688, 8822 8611\nFax\n8822 2408\nAddress\nRoom 2071\nAnthony Lau Building\nUniversity of Macau, E4\n— Infrastructure and User Services Section\nWeb\nicto.um.edu.mo/about-icto/infrastructure-and-user-services-section-ius\nPhone\n8822 8600\nFax\n8822 2408\nAddress\nRoom 2062\nAnthony Lau Building\nUniversity of Macau, E4\n— Information Management Section\nWeb\nicto.um.edu.mo/about-icto/information-management-section-ims\nPhone\n8822 8500\nFax\n8822 2408\nAddress\nRoom 2012\nAdministration Building\nUniversity of Macau, N6\nOffice of Administration (ADMO)\nWeb\nadmo.um.edu.mo\nPhone\n8822 8597\nFax\n8822 2410\nAddress\nRoom 4018\nAdministration Building\nUniversity of Macau, N6\n— Human Resources Section\nWeb\nhrs.admo.um.edu.mo\nPhone\n8822 8597\nFax\n8822 2410\nAddress\nRoom 4018\nAdministration Building\nUniversity of Macau, N6\n— Procurement Section\nWeb\npct.admo.um.edu.mo\nPhone\n8822 8573, 8822 8487\nFax\n8822 2364\nAddress\nRoom 4012\nAdministration Building\nUniversity of Macau, N6\nResearch Services and Knowledge Transfer Office (RSKTO)\nWeb\num.edu.mo/rskto\nEmail\nrskto@um.edu.mo\nPhone\n8822 4399\nFax\n8822 2430\nAddress\nRoom 5011\nAdministration Building\nUniversity of Macau, N6\nAlumni and Development Office (ADO)\nWeb\nado.um.edu.mo\nEmail\nado@alum.um.edu.mo\nPhone\n8822 4244\nFax\n8822 2316\nAddress\nRoom 2021\nAdministration Building\nUniversity of Macau, N6\nGlobal Affairs Office (GAO)\nWeb\ngao.um.edu.mo\nEmail\ngao.enquiry@um.edu.mo\nPhone\n8822 4330\nFax\n8822 2347\nAddress\nRoom G018\nAdministration Building\nUniversity of Macau, N6\nInternal Audit Office (IAO)\nAddress\nRoom 5010\nAdministration Building\nUniversity of Macau, N6\nOffice of Health, Safety and Environmental Affairs (HSEO)\nWeb\nhseo.um.edu.mo\nEmail\nhseo.suggestion@um.edu.mo\nPhone\n8822 4436\nFax\n8822 2352\nAddress\nRoom 4011\nAdministration Building\nUniversity of Macau, N6\nOffice of Sports Affairs (OSA)\nWeb\nsports.osa.um.edu.mo\nEmail\nosa.suggestion@um.edu.mo\nPhone\n8822 4057\nFax\n8822 2407\nAddress\nRoom 1017\nUM Sports Complex\nUniversity of Macau, N8\nStrategy and Planning Office (SPO)\nWeb\nspo.um.edu.mo\nEmail\nspo.enquiry@um.edu.mo\nPhone\n8822 8072\nFax\n8822 2422\nAddress\nRoom 6019\nAdministration Building\nUniversity of Macau, N6\nUniversity Council Office\nUniversity Council Office (UCO)\nWeb\nuc.um.edu.mo\nEmail\nuco@um.edu.mo\nPhone\n8822 4380\nFax\n8822 2333\nAddress\nRoom 6011\nAdministration Building\nUniversity of Macau, N6\nContact Us\nAcademic Contacts\nUnit Contacts\n-->\nAddress\nUniversity of Macau\nAvenida da Universidade\nTaipa, Macau, China\nPhone\n+853 8822 8833\nFax\n+853 8822 8822\nEmail\ninfo@um.edu.mo\nWeb\nwww.um.edu.mo\nLibrary\nAlmanac\nProcurement\nFaculties, Colleges and Units\nFaculties & Institutes\nResidential Colleges\nOther Academic Units\nAcademic Support & Administrative Units\nAbout UM\nUM Introduction\nInternational Reputation\nSocietal Support\nHistory\nFacts & Figures\nInformation For\nUM Students\nStaff\nAlumni\nMedia\nVisitors\nDonors\nPartners\nNews & Events\nNews\nEvents\nCampus Photos\nUM in Videos\nQuick Links\nMap\nLibrary\nUniversity Almanac\nProcurement Notice\nPrivacy Policy\nSitemap\nApplying\nVisiting\nGiving\nCareers\nContacts\nCopyright ©2026 University of Macau\nFacebook\nX\nInstagram\nPinterest\nPage load link\nGo to Top",
+  "status": "正文已取得"
+}

@@ -1,0 +1,515 @@
+{
+  "url": "https://cca.nuaa.edu.cn/_t862/2026/0627/c15585a402933/page.htm",
+  "checked_at_beijing": "2026-10-08T21:09:33.281849+08:00",
+  "links": [
+    {
+      "label": "学校主页",
+      "url": "http://www.nuaa.edu.cn/"
+    },
+    {
+      "label": "OAS办公网",
+      "url": "https://oas.nuaa.edu.cn/Airlines/index.jsp"
+    },
+    {
+      "label": "财务系统入口",
+      "url": "http://10.0.100.15/adm/log.php"
+    },
+    {
+      "label": "管理入口",
+      "url": "http://site.nuaa.edu.cn/"
+    },
+    {
+      "label": "",
+      "url": "http://cca.nuaa.edu.cn/_t862/main.htm"
+    },
+    {
+      "label": "首页",
+      "url": "http://cca.nuaa.edu.cn/_t862/main.htm"
+    },
+    {
+      "label": "学院概况",
+      "url": "https://cca.nuaa.edu.cn/_t862/4765/list.htm"
+    },
+    {
+      "label": "学院介绍",
+      "url": "https://cca.nuaa.edu.cn/_t862/4776/list.htm"
+    },
+    {
+      "label": "领导题词",
+      "url": "https://cca.nuaa.edu.cn/_t862/4777/list.htm"
+    },
+    {
+      "label": "现任领导",
+      "url": "https://cca.nuaa.edu.cn/_t862/4778/list.htm"
+    },
+    {
+      "label": "历任领导",
+      "url": "https://cca.nuaa.edu.cn/_t862/4779/list.htm"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://cca.nuaa.edu.cn/_t862/9858/list.htm"
+    },
+    {
+      "label": "学院机关办公室",
+      "url": "https://cca.nuaa.edu.cn/_t862/9907/list.htm"
+    },
+    {
+      "label": "学系",
+      "url": "https://cca.nuaa.edu.cn/_t862/9908/list.htm"
+    },
+    {
+      "label": "民航工程中心",
+      "url": "https://cca.nuaa.edu.cn/_t862/9909/list.htm"
+    },
+    {
+      "label": "民航科学技术研究院",
+      "url": "https://cca.nuaa.edu.cn/_t862/9910/list.htm"
+    },
+    {
+      "label": "董事会培训中心",
+      "url": "https://cca.nuaa.edu.cn/_t862/9911/list.htm"
+    },
+    {
+      "label": "师资队伍",
+      "url": "https://cca.nuaa.edu.cn/_t862/4768/list.htm"
+    },
+    {
+      "label": "师资概况",
+      "url": "https://cca.nuaa.edu.cn/_t862/4792/list.htm"
+    },
+    {
+      "label": "空中交通系",
+      "url": "https://cca.nuaa.edu.cn/4848/list.htm"
+    },
+    {
+      "label": "交通运输系",
+      "url": "https://cca.nuaa.edu.cn/_t862/4794/list.htm"
+    },
+    {
+      "label": "民航工程系",
+      "url": "https://cca.nuaa.edu.cn/_t862/4795/list.htm"
+    },
+    {
+      "label": "土木与机场工程系",
+      "url": "https://cca.nuaa.edu.cn/_t862/tmgcx/list.htm"
+    },
+    {
+      "label": "教授",
+      "url": "https://cca.nuaa.edu.cn/_t862/4797/list.htm"
+    },
+    {
+      "label": "副教授",
+      "url": "https://cca.nuaa.edu.cn/_t862/4798/list.htm"
+    },
+    {
+      "label": "讲师",
+      "url": "https://cca.nuaa.edu.cn/_t862/4799/list.htm"
+    },
+    {
+      "label": "学科科研",
+      "url": "https://cca.nuaa.edu.cn/_t862/9804/list.htm"
+    },
+    {
+      "label": "江苏省重点学科",
+      "url": "https://cca.nuaa.edu.cn/_t862/9913/list.htm"
+    },
+    {
+      "label": "特色学科",
+      "url": "https://cca.nuaa.edu.cn/_t862/9914/list.htm"
+    },
+    {
+      "label": "重点实验室",
+      "url": "https://cca.nuaa.edu.cn/_t862/9915/list.htm"
+    },
+    {
+      "label": "科研方向",
+      "url": "https://cca.nuaa.edu.cn/_t862/9916/list.htm"
+    },
+    {
+      "label": "成果介绍",
+      "url": "https://cca.nuaa.edu.cn/_t862/9917/list.htm"
+    },
+    {
+      "label": "学术交流",
+      "url": "https://cca.nuaa.edu.cn/_t862/9918/list.htm"
+    },
+    {
+      "label": "人才培养",
+      "url": "https://cca.nuaa.edu.cn/_t862/9805/list.htm"
+    },
+    {
+      "label": "本科生培养",
+      "url": "https://cca.nuaa.edu.cn/_t862/4769/list.htm"
+    },
+    {
+      "label": "研究生培养",
+      "url": "https://cca.nuaa.edu.cn/_t862/4770/list.htm"
+    },
+    {
+      "label": "学生工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/4773/list.htm"
+    },
+    {
+      "label": "在职学历教育",
+      "url": "https://cca.nuaa.edu.cn/_t862/9921/list.htm"
+    },
+    {
+      "label": "行业培训",
+      "url": "https://cca.nuaa.edu.cn/_t862/9922/list.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "https://cca.nuaa.edu.cn/_t862/9859/list.htm"
+    },
+    {
+      "label": "联合实验室",
+      "url": "https://cca.nuaa.edu.cn/_t862/9924/list.htm"
+    },
+    {
+      "label": "国际合作项目",
+      "url": "https://cca.nuaa.edu.cn/_t862/9925/list.htm"
+    },
+    {
+      "label": "国际学术交流",
+      "url": "https://cca.nuaa.edu.cn/_t862/10216/list.htm"
+    },
+    {
+      "label": "国际教育培训",
+      "url": "https://cca.nuaa.edu.cn/_t862/10217/list.htm"
+    },
+    {
+      "label": "新闻动态",
+      "url": "https://cca.nuaa.edu.cn/_t862/9928/list.htm"
+    },
+    {
+      "label": "党群工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/4772/list.htm"
+    },
+    {
+      "label": "工作动态",
+      "url": "https://cca.nuaa.edu.cn/_t862/4816/list.htm"
+    },
+    {
+      "label": "组织设置",
+      "url": "https://cca.nuaa.edu.cn/_t862/4817/list.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://cca.nuaa.edu.cn/_t862/4818/list.htm"
+    },
+    {
+      "label": "党校工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/4819/list.htm"
+    },
+    {
+      "label": "董事会",
+      "url": "https://cca.nuaa.edu.cn/_t862/4774/list.htm"
+    },
+    {
+      "label": "董事会概况",
+      "url": "https://cca.nuaa.edu.cn/_t862/4825/list.htm"
+    },
+    {
+      "label": "董事会风采",
+      "url": "https://cca.nuaa.edu.cn/_t862/4826/list.htm"
+    },
+    {
+      "label": "董事会新闻",
+      "url": "https://cca.nuaa.edu.cn/_t862/4827/list.htm"
+    },
+    {
+      "label": "联系我们",
+      "url": "https://cca.nuaa.edu.cn/_t862/4828/list.htm"
+    },
+    {
+      "label": "管理文件",
+      "url": "https://cca.nuaa.edu.cn/_t862/9806/list.htm"
+    },
+    {
+      "label": "下载专区",
+      "url": "https://cca.nuaa.edu.cn/_t862/xzzq/list.htm"
+    },
+    {
+      "label": "一周日程",
+      "url": "https://cca.nuaa.edu.cn/_t862/yzrc/list.htm"
+    },
+    {
+      "label": "学院概况",
+      "url": "https://cca.nuaa.edu.cn/_t862/4765/list.htm"
+    },
+    {
+      "label": "学院介绍",
+      "url": "https://cca.nuaa.edu.cn/_t862/4776/list.htm"
+    },
+    {
+      "label": "领导题词",
+      "url": "https://cca.nuaa.edu.cn/_t862/4777/list.htm"
+    },
+    {
+      "label": "现任领导",
+      "url": "https://cca.nuaa.edu.cn/_t862/4778/list.htm"
+    },
+    {
+      "label": "历任领导",
+      "url": "https://cca.nuaa.edu.cn/_t862/4779/list.htm"
+    },
+    {
+      "label": "师资队伍",
+      "url": "https://cca.nuaa.edu.cn/_t862/4768/list.htm"
+    },
+    {
+      "label": "师资概况",
+      "url": "https://cca.nuaa.edu.cn/_t862/4792/list.htm"
+    },
+    {
+      "label": "空中交通系",
+      "url": "https://cca.nuaa.edu.cn/4848/list.htm"
+    },
+    {
+      "label": "交通运输系",
+      "url": "https://cca.nuaa.edu.cn/_t862/4794/list.htm"
+    },
+    {
+      "label": "民航工程系",
+      "url": "https://cca.nuaa.edu.cn/_t862/4795/list.htm"
+    },
+    {
+      "label": "土木与机场工程系",
+      "url": "https://cca.nuaa.edu.cn/_t862/tmgcx/list.htm"
+    },
+    {
+      "label": "教授",
+      "url": "https://cca.nuaa.edu.cn/_t862/4797/list.htm"
+    },
+    {
+      "label": "副教授",
+      "url": "https://cca.nuaa.edu.cn/_t862/4798/list.htm"
+    },
+    {
+      "label": "讲师",
+      "url": "https://cca.nuaa.edu.cn/_t862/4799/list.htm"
+    },
+    {
+      "label": "学科科研",
+      "url": "https://cca.nuaa.edu.cn/_t862/9804/list.htm"
+    },
+    {
+      "label": "江苏省重点学科",
+      "url": "https://cca.nuaa.edu.cn/_t862/9913/list.htm"
+    },
+    {
+      "label": "特色学科",
+      "url": "https://cca.nuaa.edu.cn/_t862/9914/list.htm"
+    },
+    {
+      "label": "重点实验室",
+      "url": "https://cca.nuaa.edu.cn/_t862/9915/list.htm"
+    },
+    {
+      "label": "科研方向",
+      "url": "https://cca.nuaa.edu.cn/_t862/9916/list.htm"
+    },
+    {
+      "label": "成果介绍",
+      "url": "https://cca.nuaa.edu.cn/_t862/9917/list.htm"
+    },
+    {
+      "label": "学术交流",
+      "url": "https://cca.nuaa.edu.cn/_t862/9918/list.htm"
+    },
+    {
+      "label": "人才培养",
+      "url": "https://cca.nuaa.edu.cn/_t862/9805/list.htm"
+    },
+    {
+      "label": "本科生培养",
+      "url": "https://cca.nuaa.edu.cn/_t862/4769/list.htm"
+    },
+    {
+      "label": "研究生培养",
+      "url": "https://cca.nuaa.edu.cn/_t862/4770/list.htm"
+    },
+    {
+      "label": "学生工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/4773/list.htm"
+    },
+    {
+      "label": "在职学历教育",
+      "url": "https://cca.nuaa.edu.cn/_t862/9921/list.htm"
+    },
+    {
+      "label": "行业培训",
+      "url": "https://cca.nuaa.edu.cn/_t862/9922/list.htm"
+    },
+    {
+      "label": "学生工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/4773/list.htm"
+    },
+    {
+      "label": "队伍建设",
+      "url": "https://cca.nuaa.edu.cn/_t862/4820/list.htm"
+    },
+    {
+      "label": "学工新闻",
+      "url": "https://cca.nuaa.edu.cn/_t862/4821/list.htm"
+    },
+    {
+      "label": "学工简报",
+      "url": "https://cca.nuaa.edu.cn/_t862/4822/list.htm"
+    },
+    {
+      "label": "公示公告",
+      "url": "https://cca.nuaa.edu.cn/_t862/4823/list.htm"
+    },
+    {
+      "label": "就业信息",
+      "url": "https://cca.nuaa.edu.cn/_t862/4824/list.htm"
+    },
+    {
+      "label": "党群工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/4772/list.htm"
+    },
+    {
+      "label": "工作动态",
+      "url": "https://cca.nuaa.edu.cn/_t862/4816/list.htm"
+    },
+    {
+      "label": "组织设置",
+      "url": "https://cca.nuaa.edu.cn/_t862/4817/list.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://cca.nuaa.edu.cn/_t862/4818/list.htm"
+    },
+    {
+      "label": "党校工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/4819/list.htm"
+    },
+    {
+      "label": "董事会",
+      "url": "https://cca.nuaa.edu.cn/_t862/4774/list.htm"
+    },
+    {
+      "label": "董事会概况",
+      "url": "https://cca.nuaa.edu.cn/_t862/4825/list.htm"
+    },
+    {
+      "label": "董事会风采",
+      "url": "https://cca.nuaa.edu.cn/_t862/4826/list.htm"
+    },
+    {
+      "label": "董事会新闻",
+      "url": "https://cca.nuaa.edu.cn/_t862/4827/list.htm"
+    },
+    {
+      "label": "联系我们",
+      "url": "https://cca.nuaa.edu.cn/_t862/4828/list.htm"
+    },
+    {
+      "label": "管理文件",
+      "url": "https://cca.nuaa.edu.cn/_t862/9806/list.htm"
+    },
+    {
+      "label": "下载专区",
+      "url": "https://cca.nuaa.edu.cn/_t862/xzzq/list.htm"
+    },
+    {
+      "label": "一周日程",
+      "url": "https://cca.nuaa.edu.cn/_t862/yzrc/list.htm"
+    },
+    {
+      "label": "|-党政工作/人才人事",
+      "url": "https://cca.nuaa.edu.cn/_t862/15583/list.htm"
+    },
+    {
+      "label": "|-教育教学",
+      "url": "https://cca.nuaa.edu.cn/_t862/15586/list.htm"
+    },
+    {
+      "label": "|-学科科研",
+      "url": "https://cca.nuaa.edu.cn/_t862/15585/list.htm"
+    },
+    {
+      "label": "|-学生工作",
+      "url": "https://cca.nuaa.edu.cn/_t862/15587/list.htm"
+    },
+    {
+      "label": "首页",
+      "url": "https://cca.nuaa.edu.cn/_t862/main.htm"
+    },
+    {
+      "label": "通知公告",
+      "url": "https://cca.nuaa.edu.cn/_t862/4835/list.htm"
+    },
+    {
+      "label": "学科科研",
+      "url": "https://cca.nuaa.edu.cn/_t862/15585/list.htm"
+    },
+    {
+      "label": "民航飞机健康监测与智能维护重点实验室开放课题项目申请书.doc",
+      "url": "https://cca.nuaa.edu.cn/_upload/article/files/d2/16/a03b31594593b88cecfcbebfbd35/6bb2d4f9-bceb-4ae2-b214-a2fc3ed33f02.doc"
+    },
+    {
+      "label": "2026年度实验室拟自主课题指南.doc",
+      "url": "https://cca.nuaa.edu.cn/_upload/article/files/d2/16/a03b31594593b88cecfcbebfbd35/9640aab5-b5d0-472b-ab39-f02c50ed159b.doc"
+    },
+    {
+      "label": "国家空管飞行流量管理技术重点实验室",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=9816&articleId=155935"
+    },
+    {
+      "label": "智能诊断与专家系统研究室",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=9816&articleId=155934"
+    },
+    {
+      "label": "机场系统工程研究所",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=9816&articleId=155932"
+    },
+    {
+      "label": "民航工程系",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=9816&articleId=155931"
+    },
+    {
+      "label": "土木工程系",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=9816&articleId=152259"
+    },
+    {
+      "label": "中国民用航空局",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155951"
+    },
+    {
+      "label": "中国民用空中交通管理局",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155950"
+    },
+    {
+      "label": "交通运输部",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155949"
+    },
+    {
+      "label": "国际民航组织(ICAO)",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155947"
+    },
+    {
+      "label": "国际航空运输协会(IATA)",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155946"
+    },
+    {
+      "label": "美国联邦航空局(FAA)",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155945"
+    },
+    {
+      "label": "国际机场理事会(ACI)",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155944"
+    },
+    {
+      "label": "联合航空当局(JAA)",
+      "url": "https://cca.nuaa.edu.cn/_redirect?siteId=146&columnId=10030&articleId=155943"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://cca.nuaa.edu.cn/_t862/2026/0627/c15585a402933/page.htm",
+  "content_type": "text/html",
+  "text": "关于申请2026年度南京航空航天大学基本科研业务费民航飞机健康监测与智能维护重点实验室自主课题的通知\n学校主页\n|\nOAS办公网\n|\n财务系统入口\n|\n管理入口\nEnglish\n首页\n学院概况\n学院介绍\n领导题词\n现任领导\n历任领导\n机构设置\n学院机关办公室\n学系\n民航工程中心\n民航科学技术研究院\n董事会培训中心\n师资队伍\n师资概况\n空中交通系\n交通运输系\n民航工程系\n土木与机场工程系\n教授\n副教授\n讲师\n学科科研\n江苏省重点学科\n特色学科\n重点实验室\n科研方向\n成果介绍\n学术交流\n人才培养\n本科生培养\n研究生培养\n学生工作\n在职学历教育\n行业培训\n国际合作\n联合实验室\n国际合作项目\n国际学术交流\n国际教育培训\n新闻动态\n党群工作\n工作动态\n组织设置\n规章制度\n党校工作\n董事会\n董事会概况\n董事会风采\n董事会新闻\n联系我们\n管理文件\n下载专区\n一周日程\n学院概况\n学院介绍\n领导题词\n现任领导\n历任领导\n师资队伍\n师资概况\n空中交通系\n交通运输系\n民航工程系\n土木与机场工程系\n教授\n副教授\n讲师\n学科科研\n江苏省重点学科\n特色学科\n重点实验室\n科研方向\n成果介绍\n学术交流\n人才培养\n本科生培养\n研究生培养\n学生工作\n在职学历教育\n行业培训\n学生工作\n队伍建设\n学工新闻\n学工简报\n公示公告\n就业信息\n党群工作\n工作动态\n组织设置\n规章制度\n党校工作\n董事会\n董事会概况\n董事会风采\n董事会新闻\n联系我们\n管理文件\n下载专区\n一周日程\n-->\n通知公告\n|-\n党政工作/人才人事\n|-\n教育教学\n|-\n学科科研\n|-\n学生工作\n学科科研\n当前位置：\n首页\n通知公告\n学科科研\n关于申请2026年度南京航空航天大学基本科研业务费民航飞机健康监测与智能维护重点实验室自主课题的通知\n时间:2026-06-27\n作者:\n来源:民航学院\n点击:\n328\n次\n各有关单位：\n为推动我校省部级以上科研基地的运行建设，支持民航飞机健康监测与智能维护重点实验室发展，开展具有前瞻性自主选题研究工作，提升重点实验室的原始创新能力，根据财政部、教育部《关于中央高校基本科研业务费管理的意见》等相关管理文件要求，现组织开展2026年度南京航空航天大学基本科研业务费民航飞机健康监测与智能维护重点实验室自主课题申请工作。有关事项通知如下：\n一、申请类别\n资助民航飞机健康监测与智能维护重点实验室开展符合其研究方向和发展规划的创新课题研究以及促进其水平提升的科研活动。\n项目研究周期2年。\n资助强度：\n每个项目拟资助3万元。\n申请人资格：校内外具有行业科研背景的中级职称以上研究人员或科研机构、单位负责人。\n二、经费主要用途\n该经费主要用于支持实验室设立自主课题。\n三、经费开支范围\n根据《中央高校基本科研业务费专项资金管理暂行办法》（财教〔2021〕283号），经费开支范围包括：设备费、业务费、劳务费等内容。\n项目经费开支标准要严格按照国家有关科技经费管理的规定执行，不得开支有工资收入的人员工资、奖金、津补贴和福利支出，不得购置大型仪器设备，不得分摊学校公共管理和运行经费，不得偿还债务，不得支付罚款、捐赠、赞助、投资等。\n四、注意事项\n开放课题评审立项后，负责人为校内人员的，列项目子账号，将经费拨至子账号；负责人为校外人员的，经费通过合同外协方式转至校外课题负责人。同时将获得资助的开放课题申请书报科研院条件办备案。\n项目申请截止日期2026年6月29日，\n项目申请人须通过所在单位签字盖章后提交，逾期不再受理。申请书格式见附件1。\n提交材料要求：\n申请书纸质版一份，电子版一份。\n联系方式：\n联系人：蔡景\n联系电话：\n13851438416\nEmail\n：\ncaijing@nuaa.edu.cn\n地址：将军路校区民航大楼\n1012C\n办公室\n附件：1.\n民航飞机健康监测与智能维护重点实验室开放课题项目申请书.doc\n2.\n2026年度实验室拟自主课题指南.doc\n民航飞机健康监测与智能维护重点实验室\n2026\n年\n6\n月\n27\n日\n分享：\n打开微信，点击底部的'发现'，使用'扫一扫'即可将网页分享至朋友圈。\n\">\n地址：江苏省南京市江宁区将军大道29号南京航空航天大学\n邮编：211106\n联系电话：025-84891154\n-->\n院内导航\n国家空管飞行流量管理技术重点实验室\n|\n智能诊断与专家系统研究室\n|\n机场系统工程研究所\n|\n民航工程系\n|\n土木工程系\n|\n友情链接\n中国民用航空局\n|\n中国民用空中交通管理局\n|\n交通运输部\n|\n国际民航组织(ICAO)\n|\n国际航空运输协会(IATA)\n|\n美国联邦航空局(FAA)\n|\n国际机场理事会(ACI)\n|\n联合航空当局(JAA)\n|\n微信公众号\n版权所有 © 2019 南京航空航天大学民航学院 ALL RIGHTS RESERVED",
+  "status": "正文已取得"
+}

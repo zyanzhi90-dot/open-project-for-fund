@@ -1,0 +1,699 @@
+{
+  "url": "https://www.cuhk.edu.hk/english/research/laboratory.html",
+  "checked_at_beijing": "2026-10-08T21:18:29.221356+08:00",
+  "links": [
+    {
+      "label": "",
+      "url": "https://www.cuhk.edu.hk/english/"
+    },
+    {
+      "label": "MyCUHK",
+      "url": "http://portal.cuhk.edu.hk/"
+    },
+    {
+      "label": "Library",
+      "url": "http://www.lib.cuhk.edu.hk/en"
+    },
+    {
+      "label": "CUHK A-Z",
+      "url": "https://www.cuhk.edu.hk/english/cuhk-information.html"
+    },
+    {
+      "label": "Giving to CUHK",
+      "url": "https://www.cuhk.edu.hk/english/giving.html"
+    },
+    {
+      "label": "Shortcuts",
+      "url": "https://www.cuhk.edu.hk/english/research/laboratory.html"
+    },
+    {
+      "label": "Postgraduate Admissions",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/"
+    },
+    {
+      "label": "Undergraduate Admissions",
+      "url": "http://admission.cuhk.edu.hk/"
+    },
+    {
+      "label": "University Almanac",
+      "url": "https://www.res.cuhk.edu.hk/general-information/almanac/"
+    },
+    {
+      "label": "Facts and Figures",
+      "url": "https://factsfigures.cuhk.edu.hk/"
+    },
+    {
+      "label": "ITSC",
+      "url": "http://www.itsc.cuhk.edu.hk/"
+    },
+    {
+      "label": "Library",
+      "url": "http://www.lib.cuhk.edu.hk/en"
+    },
+    {
+      "label": "Knowledge Transfer",
+      "url": "https://kto.cuhk.edu.hk/"
+    },
+    {
+      "label": "University Publications",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/university-publication.html"
+    },
+    {
+      "label": "CU Learning Management System",
+      "url": "https://blackboard.cuhk.edu.hk/"
+    },
+    {
+      "label": "Registration & Examinations",
+      "url": "http://www.res.cuhk.edu.hk/en-gb/"
+    },
+    {
+      "label": "Student Job Link",
+      "url": "https://cpdc.osa.cuhk.edu.hk/student/login"
+    },
+    {
+      "label": "Email",
+      "url": "http://www.cuhk.edu.hk/o365"
+    },
+    {
+      "label": "System Availability",
+      "url": "https://www.itsc.cuhk.edu.hk/en/service-status/"
+    },
+    {
+      "label": "Campus Map",
+      "url": "https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html"
+    },
+    {
+      "label": "Career Opportunities",
+      "url": "https://www.hro.cuhk.edu.hk/en-GB/career-opportunities"
+    },
+    {
+      "label": "Campus Transportation",
+      "url": "https://www.cuhk.edu.hk/english/campus/campus-transportation.html"
+    },
+    {
+      "label": "Souvenir Counter",
+      "url": "https://souvenir.cuhk.edu.hk/en/"
+    },
+    {
+      "label": "简",
+      "url": "https://www.cuhk.edu.hk/english/research/laboratory.html"
+    },
+    {
+      "label": "繁",
+      "url": "https://www.cuhk.edu.hk/english/research/laboratory.html"
+    },
+    {
+      "label": "STUDENTS",
+      "url": "https://www.cuhk.edu.hk/english/university/students.html"
+    },
+    {
+      "label": "STAFF",
+      "url": "https://www.cuhk.edu.hk/english/university/employment.html"
+    },
+    {
+      "label": "ALUMNI",
+      "url": "https://www.cuhk.edu.hk/english/university/cuhk-alumni.html"
+    },
+    {
+      "label": "MEDIA",
+      "url": "https://www.cuhk.edu.hk/english/university/press-release-events.html"
+    },
+    {
+      "label": "VISITORS",
+      "url": "https://www.cuhk.edu.hk/english/university/visitors.html"
+    },
+    {
+      "label": "",
+      "url": "https://www.cuhk.edu.hk/english/"
+    },
+    {
+      "label": "简",
+      "url": "https://www.cuhk.edu.hk/english/research/laboratory.html"
+    },
+    {
+      "label": "繁",
+      "url": "https://www.cuhk.edu.hk/english/research/laboratory.html"
+    },
+    {
+      "label": "About CUHK",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/message.html"
+    },
+    {
+      "label": "Message from the Vice-Chancellor and President",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/message.html"
+    },
+    {
+      "label": "Introducing CUHK",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/university-intro.html"
+    },
+    {
+      "label": "Introducing CUHK-Shenzhen",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/cuhk-shenzhen.html"
+    },
+    {
+      "label": "Mission & Vision, Motto & Emblem",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/mission.html"
+    },
+    {
+      "label": "Governance",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/governance.html"
+    },
+    {
+      "label": "Strategic Plan 2026—2030",
+      "url": "https://cuhk2030.cuhk.edu.hk/"
+    },
+    {
+      "label": "CUHK External Engagement",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/cuhk-external-engagement.html"
+    },
+    {
+      "label": "CUHK Facts & Figures",
+      "url": "https://factsfigures.cuhk.edu.hk/"
+    },
+    {
+      "label": "General Education",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/general-education.html"
+    },
+    {
+      "label": "Enrichment Programmes",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/enrichment-programmes.html"
+    },
+    {
+      "label": "Milestones",
+      "url": "http://www.cuhk.edu.hk/ugallery/en/zone-a.html"
+    },
+    {
+      "label": "Administrative Units",
+      "url": "https://www.cuhk.edu.hk/english/cuhk-information.html?area=admin-services"
+    },
+    {
+      "label": "CUHK Visuals",
+      "url": "https://cuhk.canto.global/v/CUHKVisuals/?utm_source=cuhk.edu.hk&utm_medium=sitelink&utm_campaign=home"
+    },
+    {
+      "label": "University Publications",
+      "url": "https://www.cuhk.edu.hk/english/aboutus/university-publication.html"
+    },
+    {
+      "label": "Admissions",
+      "url": "https://www.cuhk.edu.hk/english/admissions/admissions.html"
+    },
+    {
+      "label": "Admissions",
+      "url": "https://www.cuhk.edu.hk/english/admissions/admissions.html"
+    },
+    {
+      "label": "Undergraduate Studies",
+      "url": "http://admission.cuhk.edu.hk/"
+    },
+    {
+      "label": "Postgraduate Studies",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/"
+    },
+    {
+      "label": "Sub-degree and Continuing Education",
+      "url": "http://www.scs.cuhk.edu.hk/en"
+    },
+    {
+      "label": "Exchange Programmes",
+      "url": "http://www.oal.cuhk.edu.hk"
+    },
+    {
+      "label": "Summer Programmes",
+      "url": "http://www.summer.cuhk.edu.hk/"
+    },
+    {
+      "label": "Colleges",
+      "url": "https://www.cuhk.edu.hk/english/college/system.html"
+    },
+    {
+      "label": "A Unique College System",
+      "url": "https://www.cuhk.edu.hk/english/college/system.html"
+    },
+    {
+      "label": "Our Colleges",
+      "url": "https://www.cuhk.edu.hk/english/college/info.html"
+    },
+    {
+      "label": "Chung Chi College",
+      "url": "https://www.cuhk.edu.hk/english/college/chung-chi-college.html"
+    },
+    {
+      "label": "New Asia College",
+      "url": "https://www.cuhk.edu.hk/english/college/new-asia-college.html"
+    },
+    {
+      "label": "United College",
+      "url": "https://www.cuhk.edu.hk/english/college/united-college.html"
+    },
+    {
+      "label": "Shaw College",
+      "url": "https://www.cuhk.edu.hk/english/college/shaw-college.html"
+    },
+    {
+      "label": "Morningside College",
+      "url": "https://www.cuhk.edu.hk/english/college/morningside-college.html"
+    },
+    {
+      "label": "S.H. Ho College",
+      "url": "https://www.cuhk.edu.hk/english/college/shho-college.html"
+    },
+    {
+      "label": "CW Chu College",
+      "url": "https://www.cuhk.edu.hk/english/college/c-w-chu-college.html"
+    },
+    {
+      "label": "Wu Yee Sun College",
+      "url": "https://www.cuhk.edu.hk/english/college/wu-yee-sun-college.html"
+    },
+    {
+      "label": "Lee Woo Sing College",
+      "url": "https://www.cuhk.edu.hk/english/college/lee-woo-sing-college.html"
+    },
+    {
+      "label": "Faculties",
+      "url": "https://www.cuhk.edu.hk/english/faculties/faculty-graduate-school.html"
+    },
+    {
+      "label": "Faculties",
+      "url": "https://www.cuhk.edu.hk/english/faculties/faculty-graduate-school.html"
+    },
+    {
+      "label": "Faculty of Arts",
+      "url": "https://www.cuhk.edu.hk/english/faculties/arts.html"
+    },
+    {
+      "label": "Faculty of Business Administration",
+      "url": "https://www.cuhk.edu.hk/english/faculties/business-administration.html"
+    },
+    {
+      "label": "Faculty of Education",
+      "url": "https://www.cuhk.edu.hk/english/faculties/education.html"
+    },
+    {
+      "label": "Faculty of Engineering",
+      "url": "https://www.cuhk.edu.hk/english/faculties/engineering.html"
+    },
+    {
+      "label": "Faculty of Law",
+      "url": "https://www.cuhk.edu.hk/english/faculties/law.html"
+    },
+    {
+      "label": "Faculty of Medicine",
+      "url": "https://www.cuhk.edu.hk/english/faculties/medicine.html"
+    },
+    {
+      "label": "Faculty of Science",
+      "url": "https://www.cuhk.edu.hk/english/faculties/science.html"
+    },
+    {
+      "label": "Faculty of Social Science",
+      "url": "https://www.cuhk.edu.hk/english/faculties/social-science.html"
+    },
+    {
+      "label": "Zhizhen School of Interdisciplinary Mathematical Sciences",
+      "url": "https://www.zsims.cuhk.edu.hk/en/"
+    },
+    {
+      "label": "Graduate School",
+      "url": "https://www.cuhk.edu.hk/english/faculties/graduate-school.html"
+    },
+    {
+      "label": "Other Academic Units",
+      "url": "https://www.cuhk.edu.hk/english/faculties/other-academic-units.html"
+    },
+    {
+      "label": "Teaching & Learning",
+      "url": "https://www.cuhk.edu.hk/english/teaching/teaching-quality.html"
+    },
+    {
+      "label": "Teaching & Learning",
+      "url": "https://www.cuhk.edu.hk/english/teaching/teaching-quality.html"
+    },
+    {
+      "label": "Senate Committee on Teaching and Learning",
+      "url": "https://www.cuhk.edu.hk/english/teaching/senate-committee.html"
+    },
+    {
+      "label": "Quality Assurance",
+      "url": "https://www.cuhk.edu.hk/english/teaching/internal-quality-assurance.html"
+    },
+    {
+      "label": "Academic Curriculum",
+      "url": "https://www.cuhk.edu.hk/english/teaching/university-curriculum.html"
+    },
+    {
+      "label": "Facilities & Resources",
+      "url": "https://www.cuhk.edu.hk/english/teaching/cuhk-facilities.html"
+    },
+    {
+      "label": "Units Supporting Teaching & Learning",
+      "url": "https://www.cuhk.edu.hk/english/teaching/teaching-supporting-units.html"
+    },
+    {
+      "label": "Research & Impact",
+      "url": "https://www.cuhk.edu.hk/english/research/university-research.html"
+    },
+    {
+      "label": "Research & Impact",
+      "url": "https://www.cuhk.edu.hk/english/research/university-research.html"
+    },
+    {
+      "label": "CUHK InnoHK Centres",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres.html"
+    },
+    {
+      "label": "Centre for Neuromusculoskeletal Restorative Medicine",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres/neuromusculoskeletal.html"
+    },
+    {
+      "label": "Centre for Novostics",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres/novostics.html"
+    },
+    {
+      "label": "Centre for Perceptual and Interactive Intelligence",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres/perceptual-and-interactive-intelligence.html"
+    },
+    {
+      "label": "Hong Kong Centre for Logistics Robotics",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres/logistics-robotics.html"
+    },
+    {
+      "label": "Microbiota I-Center",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres/microbiota.html"
+    },
+    {
+      "label": "Multi-Scale Medical Robotics Centre",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres/multi-scale-medical-robotics.html"
+    },
+    {
+      "label": "CUHK Innovation Limited",
+      "url": "https://www.cuhk.edu.hk/english/research/cuhk-innovation-limited.html"
+    },
+    {
+      "label": "Research Resources",
+      "url": "https://www.cuhk.edu.hk/english/research/research-resources.html"
+    },
+    {
+      "label": "Institutional Research Information System Portal (IRIS Portal)",
+      "url": "https://research.cuhk.edu.hk/"
+    },
+    {
+      "label": "Four Strategic Areas of Research",
+      "url": "https://www.cuhk.edu.hk/english/research/research-study.html"
+    },
+    {
+      "label": "China Studies",
+      "url": "https://www.cuhk.edu.hk/english/research/research-study/china-studies.html"
+    },
+    {
+      "label": "Translational Biomedicine",
+      "url": "https://www.cuhk.edu.hk/english/research/research-study/translational-biomedicine.html"
+    },
+    {
+      "label": "Information and Automation Technology",
+      "url": "https://www.cuhk.edu.hk/english/research/research-study/info-and-auto-tech.html"
+    },
+    {
+      "label": "Environment and Sustainability",
+      "url": "https://www.cuhk.edu.hk/english/research/research-study/environment-and-sustain.html"
+    },
+    {
+      "label": "Areas of Excellence",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence.html"
+    },
+    {
+      "label": "Centre for Medical Engineering of Molecular and Biological Probes",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/medical-engineering.html"
+    },
+    {
+      "label": "Aging, Skeletal Degeneration and Regeneration",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/skeletal-regeneration.html"
+    },
+    {
+      "label": "Probing the Fundamental Structure of Matter with High Energy Particle Collisions",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/god-particle.html"
+    },
+    {
+      "label": "Centre for Genomic Studies on Plant-Environment Interaction for Sustainable Agriculture and Food Security",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/genomic-studies.html"
+    },
+    {
+      "label": "Centre for Organelle Biogenesis and Function",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/organelle-biogenesis.html"
+    },
+    {
+      "label": "The Historical Anthropology of Chinese Society",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/hist-ant-chinese-society.html"
+    },
+    {
+      "label": "Institute of Network Coding",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/network-coding.html"
+    },
+    {
+      "label": "Centre for Research into Circulating Fetal Nucleic Acids",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/fetal-nucleic-acids.html"
+    },
+    {
+      "label": "Chinese Medicine Research and Further Development",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/chinese-medicine.html"
+    },
+    {
+      "label": "Centre for Plant and Agricultural Biotechnology",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/plant-agr-biotech.html"
+    },
+    {
+      "label": "Information Technology",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence/information-technology.html"
+    },
+    {
+      "label": "State Key Laboratories",
+      "url": "https://www.cuhk.edu.hk/english/research/laboratory.html"
+    },
+    {
+      "label": "SKL of Translational Oncology (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/oncology.html"
+    },
+    {
+      "label": "SKL of Agrobiotechnology (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/agrobiotechnology.html"
+    },
+    {
+      "label": "SKL of Research on Bioactivities and Clinical Applications of Medicinal Plants (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/phytochemistry.html"
+    },
+    {
+      "label": "SKL of Synthetic Chemistry",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/synthetic-chemistry.html"
+    },
+    {
+      "label": "SKL of Digestive Disease (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/digestive-disease.html"
+    },
+    {
+      "label": "Research Institutes & Centres",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes.html"
+    },
+    {
+      "label": "Research Institutes",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes.html"
+    },
+    {
+      "label": "Faculty / Department Research Units",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes/research-units.html"
+    },
+    {
+      "label": "Joint Research Units",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes/joint-research-units.html"
+    },
+    {
+      "label": "Unicorn Companies",
+      "url": "https://www.cuhk.edu.hk/english/research/unicorn-companies.html"
+    },
+    {
+      "label": "Campus",
+      "url": "https://www.cuhk.edu.hk/english/campus/campus.html"
+    },
+    {
+      "label": "Campus",
+      "url": "https://www.cuhk.edu.hk/english/campus/campus.html"
+    },
+    {
+      "label": "Sustainable Campus",
+      "url": "https://www.cuhk.edu.hk/english/campus/sustainable-campus.html"
+    },
+    {
+      "label": "Facilities & Services",
+      "url": "https://www.cuhk.edu.hk/english/campus/accommodation.html"
+    },
+    {
+      "label": "Health & Safety",
+      "url": "https://www.cuhk.edu.hk/english/campus/health-safety.html"
+    },
+    {
+      "label": "Campus Transportation",
+      "url": "https://www.cuhk.edu.hk/english/campus/campus-transportation.html"
+    },
+    {
+      "label": "Campus Map",
+      "url": "https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html"
+    },
+    {
+      "label": "Campus Regulations",
+      "url": "https://www.cuhk.edu.hk/english/campus/campus-regulations.html"
+    },
+    {
+      "label": "Home",
+      "url": "https://www.cuhk.edu.hk/english/index.html"
+    },
+    {
+      "label": "Research & Impact",
+      "url": "https://www.cuhk.edu.hk/english/research/university-research.html"
+    },
+    {
+      "label": "Research & Impact",
+      "url": "https://www.cuhk.edu.hk/english/research/university-research.html"
+    },
+    {
+      "label": "CUHK InnoHK Centres",
+      "url": "https://www.cuhk.edu.hk/english/research/innohk-centres.html"
+    },
+    {
+      "label": "CUHK Innovation Limited",
+      "url": "https://www.cuhk.edu.hk/english/research/cuhk-innovation-limited.html"
+    },
+    {
+      "label": "Research Resources",
+      "url": "https://www.cuhk.edu.hk/english/research/research-resources.html"
+    },
+    {
+      "label": "Institutional Research Information System Portal (IRIS Portal)",
+      "url": "https://research.cuhk.edu.hk/"
+    },
+    {
+      "label": "Five Strategic Areas of Research",
+      "url": "https://www.cuhk.edu.hk/english/research/research-study.html"
+    },
+    {
+      "label": "Areas of Excellence",
+      "url": "https://www.cuhk.edu.hk/english/research/excellence.html"
+    },
+    {
+      "label": "State Key Laboratories",
+      "url": "https://www.cuhk.edu.hk/english/research/laboratory.html"
+    },
+    {
+      "label": "Research Institutes & Centres",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes.html"
+    },
+    {
+      "label": "Research Institutes",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes.html"
+    },
+    {
+      "label": "Faculty / Department Research Units",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes/research-units.html"
+    },
+    {
+      "label": "Joint Research Units",
+      "url": "https://www.cuhk.edu.hk/english/research/institutes/joint-research-units.html"
+    },
+    {
+      "label": "Unicorn Companies",
+      "url": "https://www.cuhk.edu.hk/english/research/unicorn-companies.html"
+    },
+    {
+      "label": "State Key Laboratory of Translational Oncology (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/oncology.html"
+    },
+    {
+      "label": "State Key Laboratory of Agrobiotechnology (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/agrobiotechnology.html"
+    },
+    {
+      "label": "State Key Laboratory of Digestive Disease (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/digestive-disease.html"
+    },
+    {
+      "label": "State Key Laboratory of Quantum Information Technologies and Materials (CUHK)",
+      "url": "https://www.cuhk.edu.hk/english/research/statekeylab/quantum.html"
+    },
+    {
+      "label": "IRIS System Information",
+      "url": "https://iris.cuhk.edu.hk/"
+    },
+    {
+      "label": "CUHK Facts & Figures",
+      "url": "https://factsfigures.cuhk.edu.hk/"
+    },
+    {
+      "label": "",
+      "url": "https://www.facebook.com/CUHKofficial "
+    },
+    {
+      "label": "",
+      "url": "https://www.youtube.com/user/CUHKchannel"
+    },
+    {
+      "label": "",
+      "url": "https://www.instagram.com/thechineseuniversityofhongkong/"
+    },
+    {
+      "label": "",
+      "url": "https://www.linkedin.com/school/13045 "
+    },
+    {
+      "label": "",
+      "url": "https://twitter.com/cuhkofficial"
+    },
+    {
+      "label": "",
+      "url": "https://www.weibo.com/cuhkofficial"
+    },
+    {
+      "label": "",
+      "url": "https://www.xiaohongshu.com/user/profile/64f6cdad00000000020110c9?xhsshare=CopyLink&appuid=641b0946000000001201173c&apptime=1695044808"
+    },
+    {
+      "label": "",
+      "url": "https://namecard.xiaoyuzhoufm.com/lu7n9"
+    },
+    {
+      "label": "",
+      "url": "https://open.spotify.com/show/033gnLlipLQCHYEIh8a9ay?si=0AxDaOxJT76FjvK9eKnMpQ&utm_source=copy-link"
+    },
+    {
+      "label": "Contact Us",
+      "url": "https://www.cuhk.edu.hk/english/contact.html"
+    },
+    {
+      "label": "Site Map",
+      "url": "https://www.cuhk.edu.hk/english/site-information.html"
+    },
+    {
+      "label": "Send Your Comment",
+      "url": "https://www.cuhk.edu.hk/english/comment.html"
+    },
+    {
+      "label": "Accessibility",
+      "url": "https://www.cuhk.edu.hk/english/web-accessibility.html"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "https://www.cuhk.edu.hk/english/privacy.html"
+    },
+    {
+      "label": "Disclaimer",
+      "url": "https://www.cuhk.edu.hk/english/disclaimer.html"
+    },
+    {
+      "label": "Career Opportunities",
+      "url": "https://www.hro.cuhk.edu.hk/en-gb/career-opportunities"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://www.cuhk.edu.hk/english/research/laboratory.html",
+  "content_type": "text/html",
+  "text": "﻿\nState Key Laboratories | Research & Impact | CUHK\nMyCUHK\n|\nLibrary\n|\nCUHK A-Z\n|\nGiving to CUHK\n|\nShortcuts\nPostgraduate Admissions\nUndergraduate Admissions\nUniversity Almanac\nFacts and Figures\nITSC\nLibrary\nKnowledge Transfer\nUniversity Publications\nCU Learning Management System\nRegistration & Examinations\nStudent Job Link\nEmail\nSystem Availability\nCampus Map\nCareer Opportunities\nCampus Transportation\nSouvenir Counter\n简\n|\n繁\nSTUDENTS\n|\nSTAFF\n|\nALUMNI\n|\nMEDIA\n|\nVISITORS\nToggle navigation\n\n简\n|\n繁\nAbout CUHK\nMessage from the Vice-Chancellor and President\nIntroducing CUHK\nIntroducing CUHK-Shenzhen\nMission & Vision, Motto & Emblem\nGovernance\nStrategic Plan 2026—2030\nCUHK External Engagement\nCUHK Facts & Figures\nGeneral Education\nEnrichment Programmes\nMilestones\nAdministrative Units\nCUHK Visuals\nUniversity Publications\nAdmissions\nAdmissions\nUndergraduate Studies\nPostgraduate Studies\nSub-degree and Continuing Education\nExchange Programmes\nSummer Programmes\nColleges\nA Unique College System\nOur Colleges\nChung Chi College\nNew Asia College\nUnited College\nShaw College\nMorningside College\nS.H. Ho College\nCW Chu College\nWu Yee Sun College\nLee Woo Sing College\nFaculties\nFaculties\nFaculty of Arts\nFaculty of Business Administration\nFaculty of Education\nFaculty of Engineering\nFaculty of Law\nFaculty of Medicine\nFaculty of Science\nFaculty of Social Science\nZhizhen School of Interdisciplinary Mathematical Sciences\nGraduate School\nOther Academic Units\nTeaching & Learning\nTeaching & Learning\nSenate Committee on Teaching and Learning\nQuality Assurance\nAcademic Curriculum\nFacilities & Resources\nUnits Supporting Teaching & Learning\nResearch & Impact\nResearch & Impact\nCUHK InnoHK Centres\nCentre for Neuromusculoskeletal Restorative Medicine\nCentre for Novostics\nCentre for Perceptual and Interactive Intelligence\nHong Kong Centre for Logistics Robotics\nMicrobiota I-Center\nMulti-Scale Medical Robotics Centre\n-->\nCUHK Innovation Limited\nResearch Resources\nInstitutional Research Information System Portal (IRIS Portal)\nFour Strategic Areas of Research\nChina Studies\nTranslational Biomedicine\nInformation and Automation Technology\nEnvironment and Sustainability\n-->\nAreas of Excellence\nCentre for Medical Engineering of Molecular and Biological Probes\nAging, Skeletal Degeneration and Regeneration\nProbing the Fundamental Structure of Matter with High Energy Particle Collisions\nCentre for Genomic Studies on Plant-Environment Interaction for Sustainable Agriculture and Food Security\nCentre for Organelle Biogenesis and Function\nThe Historical Anthropology of Chinese Society\nInstitute of Network Coding\nCentre for Research into Circulating Fetal Nucleic Acids\nChinese Medicine Research and Further Development\nCentre for Plant and Agricultural Biotechnology\nInformation Technology\n-->\nState Key Laboratories\nSKL of Translational Oncology (CUHK)\nSKL of Agrobiotechnology (CUHK)\nSKL of Research on Bioactivities and Clinical Applications of Medicinal Plants (CUHK)\nSKL of Synthetic Chemistry\nSKL of Digestive Disease (CUHK)\n-->\nResearch Institutes & Centres\nResearch Institutes\nFaculty / Department Research Units\nJoint Research Units\nUnicorn Companies\n-->\nCampus\nCampus\nSustainable Campus\nFacilities & Services\nHealth & Safety\nCampus Transportation\nCampus Map\nCampus Regulations\nShortcuts\n( MyCUHK | Library | CUHK A-Z...)\nResearch & Impact\nHome\nResearch & Impact\nState Key Laboratories\nResearch & Impact\nResearch & Impact\nCUHK InnoHK Centres\nCUHK Innovation Limited\nResearch Resources\nInstitutional Research Information System Portal (IRIS Portal)\nFive Strategic Areas of Research\nAreas of Excellence\nState Key Laboratories\nResearch Institutes & Centres\nResearch Institutes\nFaculty / Department Research Units\nJoint Research Units\nUnicorn Companies\n-->\nState Key Laboratories\nChina's rapid economic rise and its burgeoning prosperity can be attributed in many ways to reforms made in the 1980s to liberalize various aspects of its economy. Another important initiative during the period was the establishment of the State Key Laboratory Scheme in 1984. Its premise is to enable the country's most accomplished scientists and scholars to conduct pioneering research to further support China's technological and economic development. With the approval of the Ministry of Science and Technology of China, CUHK has established the following four state key laboratories.\nState Key Laboratory of Translational Oncology (CUHK)\nState Key Laboratory of Agrobiotechnology (CUHK)\nState Key Laboratory of Digestive Disease (CUHK)\nState Key Laboratory of Quantum Information Technologies and Materials (CUHK)\nQuick Links\nIRIS System Information\nCUHK Facts & Figures\nWeChat ID: CUHK-Official\nContact Us\n|\nSite Map\n|\nSend Your Comment\n|\nAccessibility\n|\nPrivacy Policy\n|\nDisclaimer\n|\nCareer Opportunities\nCopyright © 2026. All Rights Reserved. The Chinese University of Hong Kong.",
+  "status": "正文已取得"
+}

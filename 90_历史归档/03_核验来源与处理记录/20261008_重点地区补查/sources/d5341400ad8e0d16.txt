@@ -1,0 +1,921 @@
+ 
+SKL
+-
+IoTSC(UM) 
+Guidelines for Open Research Project Application
+s
+ 
+ 
+1
+ 
+State Key Laboratory of Internet of Things
+ 
+for Smart City
+ 
+(University of Macau)
+ 
+Guidelines for 
+Open 
+Research 
+Project Application
+s
+ 
+202
+6 
+-
+ 
+202
+7
+ 
+I.
+ 
+Introduction
+ 
+The State Key Laboratory of Internet of Things for Smart City (University of Macau) 
+(hereinafter 
+referred to as
+ 
+“
+The Lab
+”
+)
+,
+ 
+is
+ 
+the first 
+nation
+al
+ 
+S
+tate 
+K
+ey 
+L
+aboratory 
+i
+n China dedicated to the 
+field of Internet of Things (IoT) for smart cities.
+ 
+Through technological innovation and 
+a 
+focus 
+on fundamental scientific 
+problems
+, 
+The Lab 
+revolves around 
+five 
+core research directions: 
+I
+ntelligent 
+S
+ensing and 
+N
+etwork 
+C
+ommunication, 
+U
+rban 
+B
+ig 
+D
+ata and 
+I
+ntelligent 
+T
+echnology, 
+S
+mart 
+E
+nergy, 
+I
+ntelligent 
+T
+ransportation, and 
+P
+ublic 
+S
+afety and 
+D
+isaster 
+P
+revention
+.
+ 
+Its primary 
+objective is to develop cutting
+-
+edge IoT technologies essential for building smart cities, while 
+proposing 
+fundamental 
+and common theories, algorithms, and systems, and creating 
+demonstr
+ation applications for smart cities. By deeply integrating IoT modules, 
+The Lab 
+strives 
+to realize diverse intelligent applications, promote the intelligence and interconnectivity of 
+Macao
+ 
+society
+, and make unique contributions to the development of the Gu
+angdong, Hong 
+Kong, and Macao Greater Bay Area.
+ 
+Under
+ 
+the 
+devel
+opment policy
+ 
+“
+openness, 
+union
+, mobility
+,
+ 
+and competition
+”
+, 
+The Lab
+ 
+encourages 
+interdisciplinary and 
+high
+-
+quality
+ 
+academic 
+research
+. 
+It actively facilitates 
+cooperation and exchanges with 
+domestic and international research institutions, aiming to 
+explore new research areas, establish novel technological platforms, and drive technological 
+advancements in related fields.
+ 
+These efforts are aimed at achieving a series of high
+-
+quality 
+independe
+nt innovations, 
+thereby supporting 
+the 
+knowledge 
+transf
+er
+ 
+and economic development 
+of
+ 
+Macao
+.
+ 
+ 
+SKL
+-
+IoTSC(UM) 
+Guidelines for Open Research Project Application
+s
+ 
+ 
+2
+ 
+In pursuit of this objective, The Lab has recently 
+released
+ 
+its Guidelines for Open Research 
+Project Application 202
+6 
+-
+ 
+2027
+ 
+(
+This 
+Guideline
+)
+ 
+and is currently inviting applications in various 
+research domains. The Lab strongly encourages researchers, both from domestic and 
+international backgrounds, with a keen interest in the IoT field for smart cities to proactively 
+submit their applications.
+ 
+We eagerly anticipate partnering with exceptional research teams to 
+collectively advance the progress of this field.
+ 
+II.
+ 
+Eligib
+ility
+ 
+1.
+ 
+The Call for 
+Open Research Project 
+(
+hereinafter referred to as “Th
+e
+ 
+Project”
+) 
+is 
+open
+ 
+to 
+r
+esearchers from domestic and 
+international
+ 
+universities, 
+academic
+ 
+institutions, 
+enterprises
+, etc
+.
+ 
+The applicant m
+ust be a holder of a doctorate’s degree 
+or
+ 
+have
+ 
+been 
+working in a position
+ 
+of 
+assistant professor or above
+.
+ 
+2.
+ 
+Applicants are encouraged to 
+carry out the
+ 
+research collaboration with members of 
+The 
+Lab
+ 
+and
+ 
+there 
+must have at least one full
+-
+time faculty member of 
+The Lab
+ 
+as a 
+collaborator
+ 
+(
+hereinafter referred to as “
+Collaborator
+”
+) 
+for
+ 
+each project
+.
+ 
+3.
+ 
+The 
+Project 
+concerned
+ 
+shall 
+conform to the research 
+direction
+s
+ 
+of 
+The Lab
+. 
+The
+ 
+projects 
+leading to
+ 
+significan
+t
+ 
+and 
+frontier
+ 
+research outputs
+,
+ 
+having potential for international 
+collaboration, or the PI being
+ 
+an 
+ex
+cellen
+t
+ 
+young 
+scientist
+ 
+will be preferred for financial 
+support.
+ 
+4.
+ 
+The application proposals
+ 
+shall
+ 
+be
+ 
+submitted through email
+.
+ 
+PI
+s
+ 
+shall seek 
+endorsement
+ 
+from 
+their
+ 
+organization
+s
+ 
+by
+ 
+stamping on 
+t
+he application form
+ 
+before 
+submitting the 
+proposal
+s
+ 
+to The Lab
+.
+ 
+III.
+ 
+ 
+S
+cope of The Project
+ 
+Following 
+key 
+areas have been identified
+, 
+including but not limited 
+to:
+ 
+1.
+ 
+Intelligent sensing and network communication
+ 
+2.
+ 
+Urban big data and intelligent technology 
+ 
+3.
+ 
+Smart energy
+ 
+ 
+SKL
+-
+IoTSC(UM) 
+Guidelines for Open Research Project Application
+s
+ 
+ 
+3
+ 
+4.
+ 
+Intelligent transportation 
+ 
+5.
+ 
+Public safety and disaster prevention
+ 
+IV.
+ 
+ 
+A
+pplication procedure
+ 
+1.
+ 
+Applicants
+ 
+download and fill 
+out
+ 
+the 
+“
+SK
+L
+-
+IoTSC 
+Application Form for the Open 
+Research 
+Project
+”
+ 
+through
+ 
+the website
+ 
+and
+ 
+submit the completed 
+application
+ 
+proposal
+ 
+to The Lab 
+after 
+stamp
+ing
+ 
+on 
+the application form
+.
+ 
+2.
+ 
+Th
+is
+ 
+open call will be closed
+ 
+on
+ 
+15
+ 
+August
+ 
+202
+5
+. 
+ 
+3.
+ 
+The project proposals will be
+ 
+reviewed and assessed
+ 
+by SKL
+-
+IoTSC ORP Review 
+Committee 
+(
+hereinafter referred to as “Th
+e
+ 
+Committee
+”
+)
+. 
+The 
+list of 
+approved
+ 
+projects 
+will be 
+announced
+ 
+on 
+The Lab
+’
+s
+ 
+website and 
+the notifications will be delivered
+ 
+to 
+PIs
+ 
+via
+ 
+email
+ 
+in due course
+.
+ 
+V.
+ 
+Financial support
+ 
+and project duration
+ 
+1.
+ 
+T
+he grant released for the approved project is for the specific 
+p
+roject
+ 
+within the 
+stipulated period
+.
+ 
+T
+he released grant should be exclusively spent on 
+T
+he 
+P
+roject
+ 
+in 
+accordance with the 
+fina
+ncial gui
+delines of 
+the 
+University of Macau (UM)
+ 
+and 
+the 
+Management Methods 
+for Open Research Project
+ 
+(
+hereinafter referred to as 
+“
+The Method
+”
+)
+.
+ 
+2.
+ 
+The maximum 
+grant 
+of each 
+project
+ 
+shall not exceed MOP 
+8
+0,000
+.
+ 
+The 
+PI
+ 
+shall be
+ 
+responsible
+ 
+for
+ 
+the 
+fund 
+utilization 
+and 
+management
+ 
+in accordance with the 
+relevant
+ 
+financial 
+regulations
+.
+ 
+PIs/Institutions receiving funds would assume financial and other 
+administrative responsibility 
+for
+ 
+T
+he 
+P
+roject
+.
+ 
+3.
+ 
+The 
+P
+roject should be time
+-
+bound normally for 
+a 
+duration of 2
+4
+ 
+months
+ 
+and
+ 
+will 
+commence
+ 
+on 1
+ 
+January 202
+6
+.
+ 
+4.
+ 
+The PI 
+will be required to furnish 
+a 
+progress report
+ 
+and a final report 
+on all aspects of 
+T
+he 
+P
+roject including
+ 
+expenditure incurred on various approved items during the period.
+ 
+5.
+ 
+Upon completion of the project, it is crucial that all allocated funding be fully utilized. 
+ 
+SKL
+-
+IoTSC(UM) 
+Guidelines for Open Research Project Application
+s
+ 
+ 
+4
+ 
+Failure to do so may result in the non
+-
+issuance of the project closure certificate. In the 
+case of any leftover balances, IOTSC reserves the right to manage them ce
+ntrally.
+ 
+VI.
+ 
+ 
+Knowledge
+ 
+management and sharing
+ 
+1.
+ 
+The intellectual property rights owned by each Party prior to the implementation of The 
+Project shall remain vested in the respective Party and shall not be changed by joint 
+development or participation in The Project. For any c
+ommercial use of existing 
+intellectual property rights, discussions must be held with the owning party and a 
+permission to use agreement must be signed.
+ 
+2.
+ 
+The ownership of scientific and technological achievements and intellectual property 
+rights jointly dev
+eloped during The Project, shall be co
+-
+owned by completion Parties. 
+The details shall be negotiated by the completion Parties and determined in writing 
+according to each proposal through mutual negotiation. Any Party (including either 
+Party in this Agreeme
+nt) that intends to use the jointly developed scientific and 
+technological achievements or intellectual property rights for commercial or industrial 
+operation must obtain written confirmation about the ranking and distribution ratio from 
+the completion Par
+ties in advance. They must then discuss with the completion Parties 
+(owners) of the scientific and technological achievements or intellectual property rights 
+and sign an authorization contract before proceeding.
+ 
+3.
+ 
+Details regarding patent applications, award
+ 
+applications, and other related matters shall 
+be jointly negotiated and confirmed in writing by all Parties for each specific plan.
+ 
+4.
+ 
+The scientific and technological achievements and intellectual property rights jointly 
+developed during The Project by the 
+Parties can be used free of charge for teaching and 
+scientific purposes.
+ 
+VII.
+ 
+Acknowledgements
+ 
+ 
+SKL
+-
+IoTSC(UM) 
+Guidelines for Open Research Project Application
+s
+ 
+ 
+5
+ 
+1.
+ 
+The PI
+ 
+is encouraged to publish
+ 
+high
+-
+quality 
+research 
+papers 
+jointly 
+with
+ 
+the 
+Collaborator of The Lab
+, appl
+y
+ 
+for awards
+ 
+and
+ 
+patents, 
+and
+ 
+accelerat
+e
+ 
+knowledge 
+transfer.
+ 
+2.
+ 
+The 
+acknowledgment
+s
+ 
+for publications, awards
+, patents
+, and 
+knowledge transfer
+ 
+shall
+ 
+be
+: 
+The research outputs of this Open Research Project Programme
+ 
+are funded by the 
+Science and Technology Development Fund (001/2024/SKL) and the State Key 
+Laboratory of Internet of Things for Smart City (University of Macau) Open Research 
+Project (Ref. No.: SKL
+-
+IoTSC(UM)/ORPXX/
+202
+6
+)
+.
+ 
+In Chinese: 
+本 開 放 課 題 的 研 究 成 果 由 澳 門 特 別 行 政 區 科 學 技 術 發 展 基 金
+（
+001/2024/SKL
+） 、
+智慧城市物聯網
+全
+國
+重點實驗室
+（
+澳門大學
+）
+開放課題
+（
+編號
+：
+SKL
+-
+IoTSC(UM)/ORPXX/202
+6
+）
+資助
+。
+ 
+VIII.
+ 
+O
+ther
+ 
+provisions
+ 
+1.
+ 
+For matters not 
+addressed
+ 
+in This Guideline
+, please contact 
+The Lab
+ 
+at
+ 
+Tel: +853 8822 
+4200; Email: 
+iotsc.enquiry@um.edu.mo
+.
+ 
+2.
+ 
+Subject to the 
+nature of The Project that
+ 
+the 
+research
+ 
+must
+ 
+be 
+accomplished 
+together
+ 
+with the Collaborator of The Lab
+. Hence, t
+he
+ 
+DL No.122/84/M dated 15/12/1984, 
+subsequently amended by the Law No. 5/2021 
+(
+Regime das desp
+esas
+ 
+obras e aquisic
+ão
+ 
+de bens e servi
+ços
+)
+ 
+is not applica
+ble.
+ 
+3.
+ 
+This 
+Guideline
+ 
+is made in English
+.
+ 
+4.
+ 
+The 
+State Key Laboratory of Internet of Things for Smart City (University of Macau)
+ 
+reserves all rights for final explanation.
+ 
+IX.
+ 
+ 
+Contact information
+ 
+The
+ 
+address
+：
+ 
+ 
+State Key Laboratory of 
+Internet of Things
+ 
+for 
+Smart City 
+(University of Macau)
+ 
+University of Macau, N21
+-
+5012
+ 
+ 
+SKL
+-
+IoTSC(UM) 
+Guidelines for Open Research Project Application
+s
+ 
+ 
+6
+ 
+Avenida da Universidade, Taipa
+, 
+Macau, China
+ 
+Telephone
+：
+ 
++853 8822 
+4200
+ 
+Email
+：
+iotsc.
+enq
+uiry@um.edu.mo
+ 

@@ -1,0 +1,299 @@
+{
+  "url": "https://cs.gdut.edu.cn/kxyj/kypt.htm",
+  "checked_at_beijing": "2026-10-08T21:18:29.221356+08:00",
+  "links": [
+    {
+      "label": "",
+      "url": "https://cs.gdut.edu.cn/index.htm"
+    },
+    {
+      "label": "学校主页",
+      "url": "https://www.gdut.edu.cn/"
+    },
+    {
+      "label": "English",
+      "url": "https://cs.gdut.edu.cn/English/About_us.htm"
+    },
+    {
+      "label": "首页",
+      "url": "https://cs.gdut.edu.cn/index.htm"
+    },
+    {
+      "label": "学院简介",
+      "url": "https://cs.gdut.edu.cn/xyjj/xygk.htm"
+    },
+    {
+      "label": "学院概况",
+      "url": "https://cs.gdut.edu.cn/xyjj/xygk.htm"
+    },
+    {
+      "label": "领导班子",
+      "url": "https://cs.gdut.edu.cn/xyjj/ldbz.htm"
+    },
+    {
+      "label": "机构设置",
+      "url": "https://cs.gdut.edu.cn/xyjj/jgsz.htm"
+    },
+    {
+      "label": "发展沿革",
+      "url": "https://cs.gdut.edu.cn/xyjj/fzyg.htm"
+    },
+    {
+      "label": "人才招聘",
+      "url": "https://cs.gdut.edu.cn/xyjj/rczp.htm"
+    },
+    {
+      "label": "教师队伍",
+      "url": "https://cs.gdut.edu.cn/jsdw/szgl.htm"
+    },
+    {
+      "label": "师资概览",
+      "url": "https://cs.gdut.edu.cn/jsdw/szgl.htm"
+    },
+    {
+      "label": "高层次人才",
+      "url": "https://cs.gdut.edu.cn/jsdw/gccrc.htm"
+    },
+    {
+      "label": "正高",
+      "url": "https://cs.gdut.edu.cn/jsdw/zg.htm"
+    },
+    {
+      "label": "副高",
+      "url": "https://cs.gdut.edu.cn/jsdw/fg.htm"
+    },
+    {
+      "label": "中级及以下",
+      "url": "https://cs.gdut.edu.cn/jsdw/zjjyx.htm"
+    },
+    {
+      "label": "教辅行政",
+      "url": "https://cs.gdut.edu.cn/jsdw/jfxz.htm"
+    },
+    {
+      "label": "党建工作",
+      "url": "https://cs.gdut.edu.cn/djgz/zzjg.htm"
+    },
+    {
+      "label": "组织架构",
+      "url": "https://cs.gdut.edu.cn/djgz/zzjg.htm"
+    },
+    {
+      "label": "党务通知",
+      "url": "https://cs.gdut.edu.cn/djgz/dwtz.htm"
+    },
+    {
+      "label": "党建动态",
+      "url": "https://cs.gdut.edu.cn/djgz/djdt.htm"
+    },
+    {
+      "label": "支部生活",
+      "url": "https://cs.gdut.edu.cn/djgz/zbsh.htm"
+    },
+    {
+      "label": "学习园地",
+      "url": "https://cs.gdut.edu.cn/djgz/xxyd.htm"
+    },
+    {
+      "label": "本科教育",
+      "url": "https://cs.gdut.edu.cn/bkjy/bkzs.htm"
+    },
+    {
+      "label": "本科招生",
+      "url": "https://cs.gdut.edu.cn/bkjy/bkzs.htm"
+    },
+    {
+      "label": "工程认证",
+      "url": "https://cs.gdut.edu.cn/bkjy/gcrz.htm"
+    },
+    {
+      "label": "专业介绍",
+      "url": "https://cs.gdut.edu.cn/bkjy/zyjs.htm"
+    },
+    {
+      "label": "研究生教育",
+      "url": "https://cs.gdut.edu.cn/yjsjy/xkyxwd.htm"
+    },
+    {
+      "label": "学科与学位点",
+      "url": "https://cs.gdut.edu.cn/yjsjy/xkyxwd.htm"
+    },
+    {
+      "label": "培养方案",
+      "url": "https://cs.gdut.edu.cn/yjsjy/pyfa.htm"
+    },
+    {
+      "label": "导师风采",
+      "url": "https://cs.gdut.edu.cn/yjsjy/dsfc/bssds.htm"
+    },
+    {
+      "label": "联合培养基地",
+      "url": "https://cs.gdut.edu.cn/yjsjy/lhpyjd.htm"
+    },
+    {
+      "label": "科学研究",
+      "url": "https://cs.gdut.edu.cn/kxyj/kygk.htm"
+    },
+    {
+      "label": "科研概况",
+      "url": "https://cs.gdut.edu.cn/kxyj/kygk.htm"
+    },
+    {
+      "label": "学科建设",
+      "url": "https://cs.gdut.edu.cn/kxyj/xkjs.htm"
+    },
+    {
+      "label": "科研团队",
+      "url": "https://cs.gdut.edu.cn/kxyj/kytd.htm"
+    },
+    {
+      "label": "科研平台",
+      "url": "https://cs.gdut.edu.cn/kxyj/kypt.htm"
+    },
+    {
+      "label": "科研成果",
+      "url": "https://cs.gdut.edu.cn/kxyj/kycg.htm"
+    },
+    {
+      "label": "实验室建设",
+      "url": "https://cs.gdut.edu.cn/sysjs/zxjj.htm"
+    },
+    {
+      "label": "中心简介",
+      "url": "https://cs.gdut.edu.cn/sysjs/zxjj.htm"
+    },
+    {
+      "label": "实验教学",
+      "url": "https://cs.gdut.edu.cn/sysjs/syjx.htm"
+    },
+    {
+      "label": "实验教改",
+      "url": "https://cs.gdut.edu.cn/sysjs/syjg.htm"
+    },
+    {
+      "label": "实验设备",
+      "url": "https://cs.gdut.edu.cn/sysjs/sysb.htm"
+    },
+    {
+      "label": "实验平台",
+      "url": "https://cs.gdut.edu.cn/sysjs/sypt/ptlb.htm"
+    },
+    {
+      "label": "实验安全",
+      "url": "https://cs.gdut.edu.cn/sysjs/syaq.htm"
+    },
+    {
+      "label": "实验竞赛",
+      "url": "https://cs.gdut.edu.cn/sysjs/syjs.htm"
+    },
+    {
+      "label": "规章制度",
+      "url": "https://cs.gdut.edu.cn/sysjs/gzzd.htm"
+    },
+    {
+      "label": "学生工作",
+      "url": "https://cs.gdut.edu.cn/xsgz/xgdt.htm"
+    },
+    {
+      "label": "学工动态",
+      "url": "https://cs.gdut.edu.cn/xsgz/xgdt.htm"
+    },
+    {
+      "label": "学生组织",
+      "url": "https://cs.gdut.edu.cn/xsgz/xszz.htm"
+    },
+    {
+      "label": "学子风采",
+      "url": "https://cs.gdut.edu.cn/xsgz/xzfc.htm"
+    },
+    {
+      "label": "创新创业",
+      "url": "https://cs.gdut.edu.cn/xsgz/cxcy.htm"
+    },
+    {
+      "label": "就业指南",
+      "url": "https://cs.gdut.edu.cn/xsgz/jyzn.htm"
+    },
+    {
+      "label": "校友之窗",
+      "url": "https://cs.gdut.edu.cn/xyzc/xyh.htm"
+    },
+    {
+      "label": "校友会",
+      "url": "https://cs.gdut.edu.cn/xyzc/xyh.htm"
+    },
+    {
+      "label": "校友风采",
+      "url": "https://cs.gdut.edu.cn/xyzc/xyfc.htm"
+    },
+    {
+      "label": "校友活动",
+      "url": "https://cs.gdut.edu.cn/xyzc/xyhd.htm"
+    },
+    {
+      "label": "资源下载",
+      "url": "https://cs.gdut.edu.cn/zyxz/xz.htm"
+    },
+    {
+      "label": "行政",
+      "url": "https://cs.gdut.edu.cn/zyxz/xz.htm"
+    },
+    {
+      "label": "教务",
+      "url": "https://cs.gdut.edu.cn/zyxz/jw.htm"
+    },
+    {
+      "label": "学工",
+      "url": "https://cs.gdut.edu.cn/zyxz/xg.htm"
+    },
+    {
+      "label": "实验中心",
+      "url": "https://cs.gdut.edu.cn/zyxz/syzx.htm"
+    },
+    {
+      "label": "科研概况",
+      "url": "https://cs.gdut.edu.cn/kxyj/kygk.htm"
+    },
+    {
+      "label": "学科建设",
+      "url": "https://cs.gdut.edu.cn/kxyj/xkjs.htm"
+    },
+    {
+      "label": "科研团队",
+      "url": "https://cs.gdut.edu.cn/kxyj/kytd.htm"
+    },
+    {
+      "label": "科研平台",
+      "url": "https://cs.gdut.edu.cn/kxyj/kypt.htm"
+    },
+    {
+      "label": "科研成果",
+      "url": "https://cs.gdut.edu.cn/kxyj/kycg.htm"
+    },
+    {
+      "label": "首页",
+      "url": "https://cs.gdut.edu.cn/index.htm"
+    },
+    {
+      "label": "科学研究",
+      "url": "https://cs.gdut.edu.cn/kxyj/kygk.htm"
+    },
+    {
+      "label": "科研平台",
+      "url": "https://cs.gdut.edu.cn/kxyj/kypt.htm"
+    },
+    {
+      "label": "",
+      "url": "https://cs.gdut.edu.cn/index.htm"
+    },
+    {
+      "label": "粤ICP备05008833号",
+      "url": "https://beian.miit.gov.cn/#/Integrated/index"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://cs.gdut.edu.cn/kxyj/kypt.htm",
+  "content_type": "text/html",
+  "text": "﻿\n科研平台-广东工业大学计算机学院\n学校主页\n|\nEnglish\n|\n首页\n学院简介\n学院概况\n领导班子\n机构设置\n发展沿革\n人才招聘\n教师队伍\n师资概览\n高层次人才\n正高\n副高\n中级及以下\n教辅行政\n党建工作\n组织架构\n党务通知\n党建动态\n支部生活\n学习园地\n本科教育\n本科招生\n工程认证\n专业介绍\n研究生教育\n学科与学位点\n培养方案\n导师风采\n联合培养基地\n科学研究\n科研概况\n学科建设\n科研团队\n科研平台\n科研成果\n实验室建设\n中心简介\n实验教学\n实验教改\n实验设备\n实验平台\n实验安全\n实验竞赛\n规章制度\n学生工作\n学工动态\n学生组织\n学子风采\n创新创业\n就业指南\n校友之窗\n校友会\n校友风采\n校友活动\n资源下载\n行政\n教务\n学工\n实验中心\n科学研究\n科研概况\n学科建设\n科研团队\n科研平台\n科研成果\n科研平台\n当前位置:\n首页\n>>\n科学研究\n>>\n科研平台\n学院设有11个科研平台，包含1个国家地方联合工程研究中心，2个广东省重点实验室和8个广东省工程技术研究中心，同时兼有2个广东省实验教学示范中心。\n• 国家级平台（1个）\n国家地方联合工程研究中心（2016）\n•广东省重点实验室（2个）\n信息物理融合系统重点实验室（2016）\n高端厨房电器技术企业重点实验室（合作）\n• 广东省轨道交通创新团队（2015）\n• 广东省工程技术研究中心（8个）\n知识工程与协同计算（2017）\n面向行业服务的大数据挖掘与应用（2016）\n人机交互与视频分析（2016）\n大数据安全与服务（2015）\n物联网与控制专用芯片及系统智能化（2013）\n信息物理融合系统（2012）\n广东省医疗大数据应用工程技术研究中心（合作）\n广东省商用密码应用工程技术研究中心（合作）\n• 广东省实验教学示范中心（2个）\n软件工程（2018）\n高校计算机与网络（2008）\n• 广东省超算应用技术创新联盟\n• 广东省信息安全技术产学研联盟（示范基地）\n• 广东省突发事件应急技术研究中心（合作）\n• 云计算与物联网创新创业基地（合作）\n广州市番禺区广州大学城外环西路100号(510006)\n粤ICP备05008833号\n联系我们\n电话：020-39322279\n邮箱：jsj@gdut.edu.cn\n邮编：510006\n扫一扫\n官方微信\n官方微博\n官方抖音\n官方网站",
+  "status": "正文已取得"
+}

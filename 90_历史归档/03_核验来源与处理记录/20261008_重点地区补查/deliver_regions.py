@@ -1,6 +1,29 @@
-# 全国机器人与医工开放项目
+import pathlib,json,hashlib,shutil
+H=pathlib.Path(__file__).resolve().parent;ROOT=H.parents[2].resolve()
+V=json.loads((H/'validation_regions.json').read_text(encoding='utf8'))
+assert V['visual_review']=='passed'
+name='全国机器人开放课题_个人申报台账_重点地区补查版_20261008.xlsx'
+old=ROOT/'全国机器人开放课题_个人申报台账_严格重筛版_20261008.xlsx'
+new=ROOT/name;source=H/name
+archive=ROOT/'90_历史归档/02_旧版与输出记录/20261008_重点地区补查前交付版'/old.name
+for p in [old,new,source,archive]:assert p.resolve().is_relative_to(ROOT),p
+assert old.exists() and not new.exists() and not archive.exists()
+assert hashlib.sha256(source.read_bytes()).hexdigest()==V['sha256']
+archive.parent.mkdir(parents=True,exist_ok=True)
+oldhash=hashlib.sha256(old.read_bytes()).hexdigest()
+shutil.copy2(source,new)
+assert hashlib.sha256(new.read_bytes()).hexdigest()==V['sha256']
+shutil.move(str(old),str(archive))
+assert hashlib.sha256(archive.read_bytes()).hexdigest()==oldhash
+assert [p.name for p in ROOT.glob('*.xlsx')]==[name]
+for fn in ['AGENTS.md','项目说明.md']:
+ p=ROOT/fn;s=p.read_text(encoding='utf8').replace(old.name,name)
+ if fn=='项目说明.md':
+  s=s.replace('本轮重筛后137个独立详情条目；首页12条正式受理公告、历史75条、待核46条、其他资助4条','本轮重点地区补查后148个独立详情条目；首页13条正式受理公告、历史78条、待核53条、其他资助4条')
+ p.write_text(s,encoding='utf8')
+readme=f'''# 全国机器人与医工开放项目
 
-当前交付：[全国机器人开放课题_个人申报台账_重点地区补查版_20261008.xlsx](全国机器人开放课题_个人申报台账_重点地区补查版_20261008.xlsx)。
+当前交付：[{name}]({name})。
 
 正式要求见[后续补充检索规则](后续补充检索规则.md)。按公告具体机器人、具身智能、人机交互及相关智能装备任务筛选，客观记录条件，不作能力评价、评分或申报推荐。首页严格六列，受理中不代表个人已满足申报条件。
 
@@ -21,7 +44,12 @@
 遵循AGENTS.md，每次完成修改后运行以下脚本提交并推送main；远程有未合入变更时停止，不强推或改写历史。
 
 ```powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\sync-github.ps1
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\\scripts\\sync-github.ps1
 ```
 
 遵守.gitignore，个人未公开面上申请书、凭据、依赖和运行缓存不上传。
+'''
+(ROOT/'README.md').write_text(readme,encoding='utf8')
+V.update({'delivered':str(new),'archived_previous':str(archive),'previous_sha256':oldhash,'root_only_one_excel':True})
+(H/'validation_regions.json').write_text(json.dumps(V,ensure_ascii=False,indent=2),encoding='utf8')
+print(json.dumps({'delivered':str(new),'previous_archived':str(archive),'root_excel_count':1},ensure_ascii=False))

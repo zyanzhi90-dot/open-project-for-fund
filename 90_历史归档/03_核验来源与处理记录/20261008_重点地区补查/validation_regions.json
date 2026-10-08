@@ -1,0 +1,31 @@
+{
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\03_核验来源与处理记录\\20261008_重点地区补查\\全国机器人开放课题_个人申报台账_重点地区补查版_20261008.xlsx",
+  "stats": {
+    "details": 148,
+    "01申报总览": 13,
+    "06历史项目": 78,
+    "07待核项目": 53,
+    "08其他资助": 4,
+    "new": 11,
+    "institutions_scoped": 69
+  },
+  "input_sha256_unchanged": true,
+  "prior_137_tasks_terms_unchanged_regions_updated": true,
+  "original_199_and_hidden_archives_unchanged": true,
+  "home_six_columns_and_13_formal_open_calls": true,
+  "unique_148_ids_dates_links_filters_freeze_and_order_valid": true,
+  "sha256": "6009a4097a2410f68b49256c0f67956dcb05c243255b7641379432b1bd660ba5",
+  "visual_review": "passed",
+  "visual_views_reviewed": [
+    "home",
+    "home_new",
+    "new_conditions",
+    "new_outputs",
+    "coverage",
+    "new_pending"
+  ],
+  "delivered": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_重点地区补查版_20261008.xlsx",
+  "archived_previous": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\02_旧版与输出记录\\20261008_重点地区补查前交付版\\全国机器人开放课题_个人申报台账_严格重筛版_20261008.xlsx",
+  "previous_sha256": "729e05d41164262990099f704a2c8599da43631910ee98151b53a742bc1f6008",
+  "root_only_one_excel": true
+}

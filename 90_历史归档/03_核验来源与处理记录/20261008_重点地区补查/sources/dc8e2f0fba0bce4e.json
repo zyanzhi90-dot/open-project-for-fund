@@ -1,0 +1,635 @@
+{
+  "url": "https://www.nju.edu.cn/info/1056/421891.htm",
+  "checked_at_beijing": "2026-10-08T21:09:33.285850+08:00",
+  "links": [
+    {
+      "label": "",
+      "url": "https://www.nju.edu.cn/index.htm"
+    },
+    {
+      "label": "学习教育",
+      "url": "https://zjg.nju.edu.cn/index.htm#anchor1"
+    },
+    {
+      "label": "电子邮箱",
+      "url": "https://mail.nju.edu.cn/"
+    },
+    {
+      "label": "信息公开",
+      "url": "https://xxgk.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "捐赠",
+      "url": "https://njuedf.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "网上办事服务大厅",
+      "url": "https://ehall.nju.edu.cn/ywtb-portal/official/index.html#/hall"
+    },
+    {
+      "label": "OA",
+      "url": "https://oa.nju.edu.cn"
+    },
+    {
+      "label": "English",
+      "url": "http://www.nju.edu.cn/en"
+    },
+    {
+      "label": "南大概况",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm"
+    },
+    {
+      "label": "南大简介",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm"
+    },
+    {
+      "label": "现任领导",
+      "url": "https://www.nju.edu.cn/ndgk/xrld.htm"
+    },
+    {
+      "label": "历任领导",
+      "url": "https://www.nju.edu.cn/ndgk/lrld.htm"
+    },
+    {
+      "label": "南大校史",
+      "url": "https://dawww.nju.edu.cn/xswh/ndxs.htm"
+    },
+    {
+      "label": "南大标识",
+      "url": "https://www.nju.edu.cn/ndgk/ndbs.htm"
+    },
+    {
+      "label": "南大新闻",
+      "url": "https://www.nju.edu.cn/xww/zhxw.htm"
+    },
+    {
+      "label": "学院部门",
+      "url": "https://www.nju.edu.cn/xybm.htm"
+    },
+    {
+      "label": "招生就业",
+      "url": "https://www.nju.edu.cn/zsjy/zs.htm"
+    },
+    {
+      "label": "招生",
+      "url": "https://www.nju.edu.cn/zsjy/zs.htm"
+    },
+    {
+      "label": "奖助学金",
+      "url": "https://www.nju.edu.cn/zsjy/jzxj.htm"
+    },
+    {
+      "label": "就业指导",
+      "url": "https://www.nju.edu.cn/zsjy/jyzd.htm"
+    },
+    {
+      "label": "人才招聘",
+      "url": "https://rczp.nju.edu.cn/"
+    },
+    {
+      "label": "本科生",
+      "url": "https://jw.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "研究生",
+      "url": "https://grawww.nju.edu.cn/"
+    },
+    {
+      "label": "留学生",
+      "url": "https://hwxy.nju.edu.cn/"
+    },
+    {
+      "label": "非学历教育",
+      "url": "http://fxljyglzx.nju.edu.cn"
+    },
+    {
+      "label": "远程教育",
+      "url": "https://de.nju.edu.cn/"
+    },
+    {
+      "label": "学生交流",
+      "url": "https://stuex.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "科技动态",
+      "url": "https://www.nju.edu.cn/xww/kjdt.htm"
+    },
+    {
+      "label": "社科动态",
+      "url": "https://www.nju.edu.cn/xww/skdt.htm"
+    },
+    {
+      "label": "科研机构",
+      "url": "https://www.nju.edu.cn/kxyj/kyjg.htm"
+    },
+    {
+      "label": "成果查询",
+      "url": "http://114.212.186.134/pub/?id=42"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nju.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "https://wb.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "http://vr.nju.edu.cn/#/"
+    },
+    {
+      "label": "鼓楼服务大厅",
+      "url": "https://www.nju.edu.cn/xyfw/glfwdt.htm"
+    },
+    {
+      "label": "南大校历",
+      "url": "https://jw.nju.edu.cn/24809/list.htm"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nju.edu.cn/"
+    },
+    {
+      "label": "档案馆 校史馆",
+      "url": "https://dawww.nju.edu.cn/"
+    },
+    {
+      "label": "信息化服务",
+      "url": "https://itsc.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "心理健康教育与研究中心",
+      "url": "https://njuxlzx.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "后勤服务",
+      "url": "https://www.nju.edu.cn/xyfw/hqfw.htm"
+    },
+    {
+      "label": "在线支付",
+      "url": "https://njupay.nju.edu.cn"
+    },
+    {
+      "label": "超算服务",
+      "url": "https://hpcc.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "学习教育",
+      "url": "https://zjg.nju.edu.cn/index.htm#anchor1"
+    },
+    {
+      "label": "电子邮箱",
+      "url": "https://mail.nju.edu.cn/"
+    },
+    {
+      "label": "信息公开",
+      "url": "https://xxgk.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "捐赠",
+      "url": "https://njuedf.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "网上办事服务大厅",
+      "url": "https://ehall.nju.edu.cn/ywtb-portal/official/index.html#/hall"
+    },
+    {
+      "label": "OA",
+      "url": "https://oa.nju.edu.cn"
+    },
+    {
+      "label": "English",
+      "url": "http://www.nju.edu.cn/en"
+    },
+    {
+      "label": "南大概况",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm"
+    },
+    {
+      "label": "南大简介",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm"
+    },
+    {
+      "label": "现任领导",
+      "url": "https://www.nju.edu.cn/ndgk/xrld.htm"
+    },
+    {
+      "label": "历任领导",
+      "url": "https://www.nju.edu.cn/ndgk/lrld.htm"
+    },
+    {
+      "label": "南大校史",
+      "url": "https://dawww.nju.edu.cn/xswh/ndxs.htm"
+    },
+    {
+      "label": "南大标识",
+      "url": "https://www.nju.edu.cn/ndgk/ndbs.htm"
+    },
+    {
+      "label": "南大新闻",
+      "url": "https://www.nju.edu.cn/xww/zhxw.htm"
+    },
+    {
+      "label": "学院部门",
+      "url": "https://www.nju.edu.cn/xybm.htm"
+    },
+    {
+      "label": "招生就业",
+      "url": "https://www.nju.edu.cn/zsjy/zs.htm"
+    },
+    {
+      "label": "招生",
+      "url": "https://www.nju.edu.cn/zsjy/zs.htm"
+    },
+    {
+      "label": "奖助学金",
+      "url": "https://www.nju.edu.cn/zsjy/jzxj.htm"
+    },
+    {
+      "label": "就业指导",
+      "url": "https://www.nju.edu.cn/zsjy/jyzd.htm"
+    },
+    {
+      "label": "人才招聘",
+      "url": "https://rczp.nju.edu.cn/"
+    },
+    {
+      "label": "本科生",
+      "url": "https://jw.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "研究生",
+      "url": "https://grawww.nju.edu.cn/"
+    },
+    {
+      "label": "留学生",
+      "url": "https://hwxy.nju.edu.cn/"
+    },
+    {
+      "label": "非学历教育",
+      "url": "http://fxljyglzx.nju.edu.cn"
+    },
+    {
+      "label": "远程教育",
+      "url": "https://de.nju.edu.cn/"
+    },
+    {
+      "label": "学生交流",
+      "url": "https://stuex.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "科技动态",
+      "url": "https://www.nju.edu.cn/xww/kjdt.htm"
+    },
+    {
+      "label": "社科动态",
+      "url": "https://www.nju.edu.cn/xww/skdt.htm"
+    },
+    {
+      "label": "科研机构",
+      "url": "https://www.nju.edu.cn/kxyj/kyjg.htm"
+    },
+    {
+      "label": "成果查询",
+      "url": "http://114.212.186.134/pub/?id=42"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nju.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "https://wb.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "http://vr.nju.edu.cn/#/"
+    },
+    {
+      "label": "鼓楼服务大厅",
+      "url": "https://www.nju.edu.cn/xyfw/glfwdt.htm"
+    },
+    {
+      "label": "南大校历",
+      "url": "https://jw.nju.edu.cn/24809/list.htm"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nju.edu.cn/"
+    },
+    {
+      "label": "档案馆 校史馆",
+      "url": "https://dawww.nju.edu.cn/"
+    },
+    {
+      "label": "信息化服务",
+      "url": "https://itsc.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "心理健康教育与研究中心",
+      "url": "https://njuxlzx.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "后勤服务",
+      "url": "https://www.nju.edu.cn/xyfw/hqfw.htm"
+    },
+    {
+      "label": "在线支付",
+      "url": "https://njupay.nju.edu.cn"
+    },
+    {
+      "label": "超算服务",
+      "url": "https://hpcc.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "",
+      "url": "https://www.nju.edu.cn/index.htm"
+    },
+    {
+      "label": "学习教育",
+      "url": "https://zjg.nju.edu.cn/index.htm#anchor1"
+    },
+    {
+      "label": "电子邮箱",
+      "url": "https://mail.nju.edu.cn/"
+    },
+    {
+      "label": "信息公开",
+      "url": "https://xxgk.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "捐赠",
+      "url": "https://njuedf.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "网上办事服务大厅",
+      "url": "https://ehall.nju.edu.cn/ywtb-portal/official/index.html#/hall"
+    },
+    {
+      "label": "OA",
+      "url": "https://oa.nju.edu.cn"
+    },
+    {
+      "label": "English",
+      "url": "http://www.nju.edu.cn/en"
+    },
+    {
+      "label": "南大概况",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm"
+    },
+    {
+      "label": "南大简介",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm"
+    },
+    {
+      "label": "现任领导",
+      "url": "https://www.nju.edu.cn/ndgk/xrld.htm"
+    },
+    {
+      "label": "历任领导",
+      "url": "https://www.nju.edu.cn/ndgk/lrld.htm"
+    },
+    {
+      "label": "南大校史",
+      "url": "https://dawww.nju.edu.cn/xswh/ndxs.htm"
+    },
+    {
+      "label": "南大标识",
+      "url": "https://www.nju.edu.cn/ndgk/ndbs.htm"
+    },
+    {
+      "label": "南大新闻",
+      "url": "https://www.nju.edu.cn/xww/zhxw.htm"
+    },
+    {
+      "label": "学院部门",
+      "url": "https://www.nju.edu.cn/xybm.htm"
+    },
+    {
+      "label": "招生就业",
+      "url": "https://www.nju.edu.cn/zsjy/zs.htm"
+    },
+    {
+      "label": "招生",
+      "url": "https://www.nju.edu.cn/zsjy/zs.htm"
+    },
+    {
+      "label": "奖助学金",
+      "url": "https://www.nju.edu.cn/zsjy/jzxj.htm"
+    },
+    {
+      "label": "就业指导",
+      "url": "https://www.nju.edu.cn/zsjy/jyzd.htm"
+    },
+    {
+      "label": "人才招聘",
+      "url": "https://rczp.nju.edu.cn/"
+    },
+    {
+      "label": "本科生",
+      "url": "https://jw.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "研究生",
+      "url": "https://grawww.nju.edu.cn/"
+    },
+    {
+      "label": "留学生",
+      "url": "https://hwxy.nju.edu.cn/"
+    },
+    {
+      "label": "非学历教育",
+      "url": "http://fxljyglzx.nju.edu.cn"
+    },
+    {
+      "label": "远程教育",
+      "url": "https://de.nju.edu.cn/"
+    },
+    {
+      "label": "学生交流",
+      "url": "https://stuex.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "科技动态",
+      "url": "https://www.nju.edu.cn/xww/kjdt.htm"
+    },
+    {
+      "label": "社科动态",
+      "url": "https://www.nju.edu.cn/xww/skdt.htm"
+    },
+    {
+      "label": "科研机构",
+      "url": "https://www.nju.edu.cn/kxyj/kyjg.htm"
+    },
+    {
+      "label": "成果查询",
+      "url": "http://114.212.186.134/pub/?id=42"
+    },
+    {
+      "label": "学术期刊",
+      "url": "https://www.nju.edu.cn/kxyj/xsqk.htm"
+    },
+    {
+      "label": "国际合作",
+      "url": "https://wb.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "校园地图",
+      "url": "http://vr.nju.edu.cn/#/"
+    },
+    {
+      "label": "鼓楼服务大厅",
+      "url": "https://www.nju.edu.cn/xyfw/glfwdt.htm"
+    },
+    {
+      "label": "南大校历",
+      "url": "https://jw.nju.edu.cn/24809/list.htm"
+    },
+    {
+      "label": "图书馆",
+      "url": "http://lib.nju.edu.cn/"
+    },
+    {
+      "label": "档案馆 校史馆",
+      "url": "https://dawww.nju.edu.cn/"
+    },
+    {
+      "label": "信息化服务",
+      "url": "https://itsc.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "心理健康教育与研究中心",
+      "url": "https://njuxlzx.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "后勤服务",
+      "url": "https://www.nju.edu.cn/xyfw/hqfw.htm"
+    },
+    {
+      "label": "在线支付",
+      "url": "https://njupay.nju.edu.cn"
+    },
+    {
+      "label": "超算服务",
+      "url": "https://hpcc.nju.edu.cn/main.htm"
+    },
+    {
+      "label": "首页",
+      "url": "https://www.nju.edu.cn/index.htm"
+    },
+    {
+      "label": "媒体传真",
+      "url": "https://www.nju.edu.cn/mtcz.htm"
+    },
+    {
+      "label": "综合新闻",
+      "url": "https://www.nju.edu.cn/xww/zhxw.htm"
+    },
+    {
+      "label": "校园动态",
+      "url": "https://www.nju.edu.cn/xww/xydt.htm"
+    },
+    {
+      "label": "媒体传真",
+      "url": "https://www.nju.edu.cn/xww/mtcz.htm"
+    },
+    {
+      "label": "科技动态",
+      "url": "https://www.nju.edu.cn/xww/kjdt.htm"
+    },
+    {
+      "label": "社科动态",
+      "url": "https://www.nju.edu.cn/xww/skdt.htm"
+    },
+    {
+      "label": "理论园地",
+      "url": "https://www.nju.edu.cn/xww/llyd.htm"
+    },
+    {
+      "label": "讲话与部署",
+      "url": "https://www.nju.edu.cn/xww/jhybs.htm"
+    },
+    {
+      "label": "影像南大",
+      "url": "https://www.nju.edu.cn/xww/yxnd.htm"
+    },
+    {
+      "label": "综合新闻",
+      "url": "https://www.nju.edu.cn/xww/zhxw.htm"
+    },
+    {
+      "label": "校园动态",
+      "url": "https://www.nju.edu.cn/xww/xydt.htm"
+    },
+    {
+      "label": "媒体传真",
+      "url": "https://www.nju.edu.cn/xww/mtcz.htm"
+    },
+    {
+      "label": "科技动态",
+      "url": "https://www.nju.edu.cn/xww/kjdt.htm"
+    },
+    {
+      "label": "社科动态",
+      "url": "https://www.nju.edu.cn/xww/skdt.htm"
+    },
+    {
+      "label": "理论园地",
+      "url": "https://www.nju.edu.cn/xww/llyd.htm"
+    },
+    {
+      "label": "讲话与部署",
+      "url": "https://www.nju.edu.cn/xww/jhybs.htm"
+    },
+    {
+      "label": "影像南大",
+      "url": "https://www.nju.edu.cn/xww/yxnd.htm"
+    },
+    {
+      "label": "谈哲敏校长率团访问比利时、奥地利 促进科教...\r\n                                                2026.09.24",
+      "url": "https://www.nju.edu.cn/info/1055/484321.htm"
+    },
+    {
+      "label": "我敢闯，我会创！江苏大学生创新大赛（2026...\r\n                                                2026.09.22",
+      "url": "https://www.nju.edu.cn/info/1055/484141.htm"
+    },
+    {
+      "label": "一图读懂，南京大学“奋进行动2030”来了！\r\n                                                2026.09.16",
+      "url": "https://www.nju.edu.cn/info/1055/483671.htm"
+    },
+    {
+      "label": "南京大学举行2026级本科生开学典礼暨“开学...\r\n                                                2026.09.13",
+      "url": "https://www.nju.edu.cn/info/1055/483351.htm"
+    },
+    {
+      "label": "南京大学举行2026级研究生开学典礼暨新生开...\r\n                                                2026.09.12",
+      "url": "https://www.nju.edu.cn/info/1055/483341.htm"
+    },
+    {
+      "label": "2026.09.24\r\n                                                    谈哲敏校长率团访问比利时、奥地利 促进科教合作 推动文明互鉴",
+      "url": "https://www.nju.edu.cn/info/1055/484321.htm"
+    },
+    {
+      "label": "2026.09.22\r\n                                                    我敢闯，我会创！江苏大学生创新大赛（2026）在南大收官",
+      "url": "https://www.nju.edu.cn/info/1055/484141.htm"
+    },
+    {
+      "label": "2026.09.16\r\n                                                    一图读懂，南京大学“奋进行动2030”来了！",
+      "url": "https://www.nju.edu.cn/info/1055/483671.htm"
+    },
+    {
+      "label": "",
+      "url": "https://www.nju.edu.cn/index.htm"
+    },
+    {
+      "label": "苏ICP备10085945号",
+      "url": "https://beian.miit.gov.cn/"
+    }
+  ],
+  "http_status": 200,
+  "final_url": "https://www.nju.edu.cn/info/1056/421891.htm",
+  "content_type": "text/html",
+  "text": "﻿\n南京大学：新增新工科“至诚班” 新建机器人与自动化学院-南京大学\n-->\n学习教育\n|\n电子邮箱\n|\n信息公开\n|\n捐赠\n|\n网上办事服务大厅\n|\nOA\n|\nEnglish\n南大概况\n南大简介\n现任领导\n历任领导\n南大校史\n南大标识\n南大新闻\n学院部门\n招生就业\n招生\n奖助学金\n就业指导\n人才招聘\n教育教学\n本科生\n研究生\n留学生\n非学历教育\n远程教育\n学生交流\n科学研究\n科技动态\n社科动态\n科研机构\n成果查询\n学术期刊\n国际合作\n校园服务\n校园地图\n鼓楼服务大厅\n南大校历\n图书馆\n档案馆 校史馆\n信息化服务\n心理健康教育与研究中心\n后勤服务\n在线支付\n超算服务\n学习教育\n|\n电子邮箱\n|\n信息公开\n|\n捐赠\n|\n网上办事服务大厅\n|\nOA\n|\nEnglish\n请输入您搜索的信息！\n-->\n南大概况\n南大简介\n现任领导\n历任领导\n南大校史\n南大标识\n南大新闻\n学院部门\n招生就业\n招生\n奖助学金\n就业指导\n人才招聘\n教育教学\n本科生\n研究生\n留学生\n非学历教育\n远程教育\n学生交流\n科学研究\n科技动态\n社科动态\n科研机构\n成果查询\n学术期刊\n国际合作\n校园服务\n校园地图\n鼓楼服务大厅\n南大校历\n图书馆\n档案馆 校史馆\n信息化服务\n心理健康教育与研究中心\n后勤服务\n在线支付\n超算服务\n学习教育\n|\n电子邮箱\n|\n信息公开\n|\n捐赠\n|\n网上办事服务大厅\n|\nOA\n|\nEnglish\n南大概况\n南大简介\n现任领导\n历任领导\n南大校史\n南大标识\n南大新闻\n学院部门\n招生就业\n招生\n奖助学金\n就业指导\n人才招聘\n教育教学\n本科生\n研究生\n留学生\n非学历教育\n远程教育\n学生交流\n科学研究\n科技动态\n社科动态\n科研机构\n成果查询\n学术期刊\n国际合作\n校园服务\n校园地图\n鼓楼服务大厅\n南大校历\n图书馆\n档案馆 校史馆\n信息化服务\n心理健康教育与研究中心\n后勤服务\n在线支付\n超算服务\n×\n媒体传真\n首页\n/\n媒体传真\n/\n正文\n综合新闻\n校园动态\n媒体传真\n科技动态\n社科动态\n理论园地\n讲话与部署\n影像南大\n媒体传真\n综合新闻\n校园动态\n媒体传真\n科技动态\n社科动态\n理论园地\n讲话与部署\n影像南大\n南京大学：新增新工科“至诚班” 新建机器人与自动化学院\n发布时间：2025-05-27\n点击次数：\n作者：金凤    责编：万辉辉 王欣雨\n来源：科技日报\n摄影\n是否显示转载出处\n是\n是否显示文末logo\n是\n-->\n毕业生的成就是衡量一所大学教育质量的标尺之一。在2024年度“中国科学十大进展”中，南京大学（以下简称“南大”）物理学院教授杜灵杰的“凝聚态物质中引力子模的实验发现”和南大天文学院教授王涛的“发现超大质量黑洞影响宿主星系形成演化的重要证据”共同入围。值得关注的是，这两位学者均毕业于南大。\n“南京大学致力于办中国最好的本科教育，今年，我们推出一系列举措，进一步扛起拔尖创新人才培养使命。”5月27日，南大招办主任陈琳接受科技日报记者采访时介绍，南大今年在强基计划中新增两个新工科培养方向，在苏州校区新增自动化（机器人方向）招生专业，在“至诚班”中探索超常规培养新模式。\n南大自2020年起实施强基计划，旨在选拔培养有志于服务国家重大战略需求且综合素质优秀或基础学科拔尖的学生。\n陈琳介绍，南大2025年强基计划在数学与应用数学专业新增“智能科学”培养方向，在物理学专业新增“电子科学”培养方向。\n“智能科学方向依托人工智能学院培养，由人工智能领域著名学者周志华教授领衔，本科生大三前就能进入课题组，还可以到华为等头部企业开展实训。”陈琳说，电子科学方向则依托集成电路学院，汇聚了2位院士在内的师资团队，拥有多个国家级科研平台，配备超过6000平方米的集成电路实训平台，联袂顶尖企业开设20余门实训课程。\n南大苏州校区自2023年迎来首批本科生后，已形成“8个新工科学院+10个前沿研究院+4个高端研究中心”的学科架构、“基础研究—技术攻关—产业应用”的创新体系与“实验室—研究院—企业”的政产学研生态。\n陈琳表示，今年，南大苏州校区新成立机器人与自动化学院，新增自动化（机器人方向）招生专业，围绕“智能控制”与“机器人技术”两大关键领域，聚焦智能制造、智能机器人与决策控制等前沿方向，开设“创新创业实验班”个性化培养模式，提供“入学即接轨产业”的实践平台。\n2025年，南大“最强理科班”匡亚明学院持续深化大理科班杰出人才培养模式的改革，通过强化基础学科、项目制培养和个性化培养方案，“让基础更基础、让前沿更开放、让实践更真实、让学习更自由”，培育适应未来交叉人才成长的土壤。\n“匡亚明学院持续扩大招生规模，学院按照理科大类招生，低年级不分专业，学生可以100%自由选择分流方向，100%自由选择学科导师和学业导师，100%自主申请国际交流，100%入选‘拔尖计划’培养计划，80%以上毕业生进入本校及国内外名校深造。”陈琳说。\n南京大学今年推出“至诚班”，围绕人工智能、集成电路、计算机科学与技术、软件工程等国家人才紧缺且学科力量顶尖的新工科领域，探索超常规培养新模式。围绕一体化培养、强化实践和产教融合等三大改革要点，“至诚班”构建了以产业需求为导向、中央企业深度参与的人才培养体系。\n“班级由院士领衔，知名学者担任导师，实行‘3+1+X’一体化培养模式。”陈琳说，“至诚班”本科阶段强化科教融合，培养科学思维，研究生阶段推行高校—中央企业“校企双导”产教融合机制，以实际技术难题驱动人才培养，为学生提供国家级科研平台+头部企业实训平台+国际一流训练项目的完备培养资源，聚焦国家重大战略需求与学科前沿方向，培育堪当民族复兴大任的战略型科技领军人才。\n为应对新一轮科技革命与产业变革新机遇，促进数字经济与实体经济深度融合，加快推进数字产业化和产业数字化，赋能传统产业转型升级，南京大学2025年还新增软件工程+工商管理（软工商业创新班）、软件工程+经济学（软工经济创新班）两个双学士学位复合型人才培养项目。\n软工商业创新班达到毕业要求的学生可申请工学和管理学双学士学位。软工经济创新班达到毕业要求的学生可申请工学和经济学双学士学位。此外，今年计算机金融实验班、德语法学实验班、智能系统集成实验班、大数据传播实验班等四个双学士学位复合型人才培养项目也将继续在普通类本科批次招生。\n“我们希望给学生充足的自由选择权和发展权，让学生发现自己，成为独一无二的自己。”陈琳说。\n【转载本网文章请注明出处】\n最新阅读\n谈哲敏校长率团访问比利时、奥地利 促进科教...\n2026.09.24\n我敢闯，我会创！江苏大学生创新大赛（2026...\n2026.09.22\n一图读懂，南京大学“奋进行动2030”来了！\n2026.09.16\n南京大学举行2026级本科生开学典礼暨“开学...\n2026.09.13\n南京大学举行2026级研究生开学典礼暨新生开...\n2026.09.12\n最新动态\n2026.09.24\n谈哲敏校长率团访问比利时、奥地利 促进科教合作 推动文明互鉴\n2026.09.22\n我敢闯，我会创！江苏大学生创新大赛（2026）在南大收官\n2026.09.16\n一图读懂，南京大学“奋进行动2030”来了！\n仙林校区\n南京市栖霞区仙林大道163号\n(86)-25-89683186\n(86)-25-83302728（fax）\n210023\n鼓楼校区\n南京市鼓楼区汉口路22号\n(86)-25-83593186\n(86)-25-83302728（fax）\n210093\n浦口校区\n南京市浦口区学府路8号\n(86)-25-58646684\n210089\n苏州校区\n苏州市太湖大道1520号\n(86)-25-89681766\n(86)-512-68768001\n215163\nCopyright © Nanjing University All Rights Reserved |\n苏ICP备10085945号\nwebmaster@nju.edu.cn",
+  "status": "正文已取得"
+}
