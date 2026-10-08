@@ -1,0 +1,11 @@
+{
+  "url": "https://iimt.cczu.edu.cn/_upload/article/files/66/cf/d34982dd443fadb6643895fc49a6/fa8ee5aa-6fe2-479c-9f00-98c2fcb0d0b0.pdf",
+  "name": "04 常科发〔2026〕21号 关于组织申报2026年常州市科技计划项目的通知.pdf",
+  "ids": [
+    "M175"
+  ],
+  "referer": "https://iimt.cczu.edu.cn/2026/0519/c22023a415871/page.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 229175 out of 255435 bytes received\r\n"
+}

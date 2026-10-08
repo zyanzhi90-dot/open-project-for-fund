@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="zh-hans" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="各有关单位、科研团队及相关研究人员：深圳市人工智能与机器人研究院（简称“AIRS”）是由深圳市政府、香港中文大学（深圳）联合多个世界顶级研究机构共同建立的十大基础研究机构之一，是深圳人工智能与机器人领域的重要科技创新平台。自2019年成立以来，AIRS专注于前沿人工智能科技的研究与创新，致力于将研究成果转化为产业界所需的工业能力。AIRS重点聚焦多尺度腔道内介入手术机器人、异构多机器人敏捷协作系统、人工智能驱动的智慧低碳等研究领域，已形成较好的科研平台、人才队伍和产业转化基础。" />
+<meta name="keywords" content="AIRS、人工智能、机器人、机器学习、群体协作、运动智能、人机谐作、群体智能、计算机视觉、高性能计算、特种机器人、智能机器人、手术机器人、医疗机器人、微纳机器人、微纳米" />
+<link rel="canonical" href="http://airs.cuhk.edu.cn/article/1429" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/cuhk_ui/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="zh-hans" href="http://airs.cuhk.edu.cn/article/1429" />
+<link rel="canonical" href="http://airs.cuhk.edu.cn/article/1429" />
+<link rel="shortlink" href="http://airs.cuhk.edu.cn/node/1429" />
+
+    <title>深圳市人工智能与机器人研究院 2026年度医疗机器人方向开放课题征集通知 | 深圳市人工智能与机器人研究院</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_7aXWyseaWD1XcyOyxmgFqZhoPZM8gdbvg62M6HCsZbc.css?delta=0&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkdFSAyEMRX-IWbqt-juZ7BJLKpAVQjv49W61dTojqy-B5BzuA8FSSIHTiWaVbOdSholRlBumY_Fs8LcwY6DkMMO4g11fyFILBRif_hOe-8IrU3AwiWs96ikLHGDfY4GLwrjvx37DP9gLHHps8YsKbIRmVBYo2gL18CZQnAJtv7tQ-vDrEtayLkPM_dft_TKop0jGtcRnhMrW5bpgeBjESKk-9Jg4opI5vVfKbZ2AigTlxd5OM1f_djWnysH9dLfgM9Ol2K86RHE10CddbN29" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_cgYuq-j66E0ZUAPgy9H6zhLvlPHngUWx4Cnda0GF0jQ.css?delta=1&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkdFSAyEMRX-IWbqt-juZ7BJLKpAVQjv49W61dTojqy-B5BzuA8FSSIHTiWaVbOdSholRlBumY_Fs8LcwY6DkMMO4g11fyFILBRif_hOe-8IrU3AwiWs96ikLHGDfY4GLwrjvx37DP9gLHHps8YsKbIRmVBYo2gL18CZQnAJtv7tQ-vDrEtayLkPM_dft_TKop0jGtcRnhMrW5bpgeBjESKk-9Jg4opI5vVfKbZ2AigTlxd5OM1f_djWnysH9dLfgM9Ol2K86RHE10CddbN29" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/ie.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/main.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/fonts.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/animate.css?tewqia" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_7n3MoDl7BXWjStZlUeFe1CmD7N336_Fi8rt4Sz6875U.css?delta=6&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkdFSAyEMRX-IWbqt-juZ7BJLKpAVQjv49W61dTojqy-B5BzuA8FSSIHTiWaVbOdSholRlBumY_Fs8LcwY6DkMMO4g11fyFILBRif_hOe-8IrU3AwiWs96ikLHGDfY4GLwrjvx37DP9gLHHps8YsKbIRmVBYo2gL18CZQnAJtv7tQ-vDrEtayLkPM_dft_TKop0jGtcRnhMrW5bpgeBjESKk-9Jg4opI5vVfKbZ2AigTlxd5OM1f_djWnysH9dLfgM9Ol2K86RHE10CddbN29" />
+<link rel="stylesheet" media="all" href="/themes/custom/cuhk_ui/css/icons.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/cuhk_ui/css/fonts.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/cuhk_ui/css/misc.css?tewqia" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_m5k6cK7qo2qMAE0PQ3bnojHuWLDWtu5bYFdAheg3Z9g.css?delta=10&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkdFSAyEMRX-IWbqt-juZ7BJLKpAVQjv49W61dTojqy-B5BzuA8FSSIHTiWaVbOdSholRlBumY_Fs8LcwY6DkMMO4g11fyFILBRif_hOe-8IrU3AwiWs96ikLHGDfY4GLwrjvx37DP9gLHHps8YsKbIRmVBYo2gL18CZQnAJtv7tQ-vDrEtayLkPM_dft_TKop0jGtcRnhMrW5bpgeBjESKk-9Jg4opI5vVfKbZ2AigTlxd5OM1f_djWnysH9dLfgM9Ol2K86RHE10CddbN29" />
+
+    <script src="/sites/default/files/js/js_JXFg9WMCUWwkyAOyGJGRO54iDN060sB8fYKZapT-E_c.js?scope=header&amp;delta=0&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJxdUUFywjAM_BAh9BE99FzuGcVWE4EjeSwZCK9vWgpROj7tzq6lXYEqWkd8wmBS2pPue6BYOxMeTrSLM9MFukptXylFh2OpGZIXiJhagbw36DdCyVGu7ChNFM5bHLE4YpqQq8NXmLMQmzoOmCYwdEyC-6x0R6_KRQYukvymX3T7ePfTMBI4jClRVvLf9HoUSUbZcYMcl5e3OabP8Dst1PG81vZEf6U94RJgWLZ9wh-7bu2hqsmkmJbzvMhHOy8XWjMiDeMq6AvwOhQ4jFKajemyFC4NVJOcYG4KZqCyy6B6lRI75FDmbO1_4uEPwoZsrRoYqVFYI4wIyyW7t0N3-AYz3-t2"></script>
+<script src="/sites/default/files/asset_injector/js/baidu_tongji-8cb9b8837c9b064af8d128e4a2d59d17.js?tewqia"></script>
+
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+      <meta name="renderer" content="webkit">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+  </head>
+  <body class="workspace-live page-node page-node-type-article">
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page" id="page">
+
+    
+  
+  
+  
+    
+              
+              
+        <div class="hero-slider">
+          
+  <div id="block-zhucaidanheader100" data-block-plugin-id="block_content:92d30ac1-4ad0-4ba5-a487-e2b0e9267b09" class="block">
+
+  
+    
+
+            <div class="entity-widget-menu_10_0 entity-widget-entity-type-block_content">
+
+<div class="header-10-0 header-3-1 header-wrapper sticky-header ">
+  <div class="sticky-wrapper clearfix position-relative flex flex-nowrap">
+    <div class="header-container py-20 flex-grow flex-shrink">
+      <div class="search-mobile-form inside-min hidden border-bottom">
+        <form action="/search">
+          <button type="submit" class="btn btn-base btn-radius f-r outside-min-l">
+            搜索
+          </button>
+          <div class="search-input overflow-hidden">
+            <input type="text" name="keywords" class="form-text form-element-full form-element-radius"
+                   placeholder="输入关键字"/>
+          </div>
+        </form>
+      </div>
+      <div class="hidden-md hidden-lg f-l outside-min-l menu-mobile-toggle">
+        <a href="javascript:void(0)"><i class="icon icon-plus"></i> </a>
+      </div>
+      <div class="hidden-md hidden-lg f-r outside-min-r search-mobile-toggle">
+        <a href="javascript:void(0)"> <i class="icon icon-search"></i> </a>
+      </div>
+      <div class="header-logo">
+        <a href="http://airs.cuhk.edu.cn/">
+          <img src="/sites/default/files/styles/crop_freeform/public/2021-11/logo-airs--black%20%281%29.png?itok=Nmul0XVu" alt="">
+        </a>
+      </div>
+      <div class="second-menu hidden md|flex justify-end items-center">
+        
+  <div class="language-switcher-language-url block" id="block-languageswitcher" role="navigation" data-block-plugin-id="language_block:language_interface">
+
+  
+    
+
+            
+
+<div class="dropdown">        <i class="icon icon-earth"></i>
+        <a href="/en" class="language-link en" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">English</a>
+        </div>
+      
+  </div>
+
+        <div class="search d_ib">
+          <a class="outside-min-lr uppercase" href="javascript:void(0);">
+            <i class="icon icon-search"></i>
+          </a>
+          <div class="search-form clearfix bg-lighter">
+            <i class="icon icon-close"></i>
+            <form action="/search" class="t-c">
+              <label>
+                <input type="text" name="keywords" class=" form-text form-element-radius" placeholder="输入关键字"/>
+                <button class="btn btn-base btn-radius" type="submit">搜索</button>
+              </label>
+            </form>
+          </div>
+        </div>
+      </div>
+            <ul class="menu menu-desktop w-full hidden md|display-block xl|text-right">
+                <li class="menu-item d_ib ">
+                    <a href="/about">研究院概况<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/about">
+                    研究院简介
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/contact">
+                    联系我们
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="/team">科研力量</a>
+                            </li>
+                <li class="menu-item d_ib ">
+                    <a href="/research">科学研究<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/research">
+                    科学研究
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/publications">
+                    学术发表
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="https://airs-academy.cuhk.edu.cn/">AIRS学院<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/">
+                    AIRS学院
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/yanxuexiangmu">
+                    研学项目
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/saishihuodong">
+                    赛事活动
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/chanyepeixun">
+                    产业培训
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib active">
+                    <a href="/partners">生态合作<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l active">
+                                  <a href="/article/1429">
+                    开放项目
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/partners">
+                    合作伙伴
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="/news">最新动态<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/news">
+                    新闻动态
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/in-the-media">
+                    媒体聚焦
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/events">
+                    活动
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/page/1226">
+                    灵巧手大赛
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="https://airs.zhiye.com/">人才招聘</a>
+                            </li>
+                <li class="menu-item d_ib ">
+                    <a href="/node/1434">更多<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/node/1434">
+                    招标与询价公告
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+              </ul>
+            <div class="menu-mobile hidden-lg hidden-md">
+                <ul class="menu t-c">
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/about">研究院概况</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/about">研究院简介</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/contact">联系我们</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                                    <a href="/team">科研力量</a>
+                                  </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/research">科学研究</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/research">科学研究</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/publications">学术发表</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/yanxuexiangmu">研学项目</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/saishihuodong">赛事活动</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/chanyepeixun">产业培训</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item active">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/partners">生态合作</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item active">
+                                      <a href="/article/1429">开放项目</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/partners">合作伙伴</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/news">最新动态</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/news">新闻动态</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/in-the-media">媒体聚焦</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/events">活动</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/page/1226">灵巧手大赛</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                                    <a href="https://airs.zhiye.com/">人才招聘</a>
+                                  </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/node/1434">更多</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/node/1434">招标与询价公告</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                  </ul>
+                <div class="spacer-sm"></div>
+
+        <div class="back-to-home outside-min-b">
+          <a class="" href="">
+            <i class="icon icon-home"></i>           </a>
+        </div>
+
+        
+  <div class="language-switcher-language-url block" id="block-languageswitcher" role="navigation" data-block-plugin-id="language_block:language_interface">
+
+  
+    
+
+            
+
+<div class="dropdown">        <i class="icon icon-earth"></i>
+        <a href="/en" class="language-link en" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">English</a>
+        </div>
+      
+  </div>
+
+        <div class="spacer-md"></div>
+      </div>
+    </div>
+
+    <div class="menu-desktop-all--open corsor-pointer hidden-xs hidden-sm">
+      <img src="/themes/custom/cuhk_ui/templates/ui/images/AIRS/header-10-0--menu-open.png" alt="">
+    </div>
+
+    <div class="menu-desktop-all hidden-xs hidden-sm">
+      <div class="menu-container flex items-start"
+        data-toggle="bgImage"
+        data-image-url="/sites/default/files/styles/crop_freeform/public/2021-11/header-10-0--0.png?itok=7shcLku3"
+      >
+        <div class="w-full flex flex-nowrap items-stretch">
+          <div class="flex flex-grow justify-between items-center px-30 py-20">
+            <div class="header-logo">
+              <a href="http://airs.cuhk.edu.cn/">
+                <img src="/sites/default/files/styles/crop_freeform/public/2021-11/logo%E5%85%A8%E7%99%BD_0.png?itok=9pZ2l6rf" alt="">
+              </a>
+            </div>
+            <div class="second-menu flex items-center">
+              
+  <div class="language-switcher-language-url block" id="block-languageswitcher" role="navigation" data-block-plugin-id="language_block:language_interface">
+
+  
+    
+
+            
+
+<div class="dropdown">        <i class="icon icon-earth"></i>
+        <a href="/en" class="language-link en" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">English</a>
+        </div>
+      
+  </div>
+
+              <div class="search d_ib">
+                <a class="outside-min-lr uppercase" href="javascript:void(0);">
+                  <i class="icon icon-search"></i>
+                </a>
+                <div class="search-form clearfix bg-lighter">
+                  <i class="icon icon-close"></i>
+                  <form action="/search" class="t-c">
+                    <label>
+                      <input type="text" name="keywords" class=" form-text form-element-radius" placeholder="输入关键字"/>
+                      <button class="btn btn-base btn-radius" type="submit">搜索</button>
+                    </label>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="menu-desktop-all--close corsor-pointer">
+            <img src="/themes/custom/cuhk_ui/templates/ui/images/AIRS/header-10-0--menu-close.png" alt="">
+          </div>
+        </div>
+                <ul class="menu hidden-xs hidden-sm w-full flex flex-nowrap justify-center">
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/about">研究院概况</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/about">研究院简介</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/contact">联系我们</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/team">科研力量</a>
+                                  </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/research">科学研究</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/research">科学研究</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/publications">学术发表</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/yanxuexiangmu">研学项目</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/saishihuodong">赛事活动</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/chanyepeixun">产业培训</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 active">
+                        <a class="h3" href="/partners">生态合作</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 active">
+                                      <a class="h4" href="/article/1429">开放项目</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/partners">合作伙伴</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/news">最新动态</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/news">新闻动态</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/in-the-media">媒体聚焦</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/events">活动</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/page/1226">灵巧手大赛</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="https://airs.zhiye.com/">人才招聘</a>
+                                  </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/node/1434">更多</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/node/1434">招标与询价公告</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                  </ul>
+              </div>
+    </div>
+  </div>
+</div>
+</div>
+      
+  </div>
+
+  
+  </div>
+    
+      <div id="main" class="main" role="main">
+
+    
+                      <div data-drupal-messages-fallback class="hidden"></div>
+
+  
+        
+        
+        
+                      
+  <div id="block-cuhk-ui-breadcrumbs" data-block-plugin-id="system_breadcrumb_block" class="block">
+
+  
+    
+
+              <nav role="navigation" aria-labelledby="system-breadcrumb" class="breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">面包屑</h2>
+    <ul class="list list-none flex list-breadcrumb">
+                        <li class="mb-0">
+                
+                  <a href="/">首页</a>
+                </li>
+                        <li class="space mb-0"><i class="icon icon-right"></i></li>
+          <li class="mb-0">
+                
+                  <a href="/partners">生态合作</a>
+                </li>
+                        <li class="space mb-0"><i class="icon icon-right"></i></li>
+          <li class="mb-0">
+                
+                  开放项目
+                </li>
+                        <li class="space mb-0"><i class="icon icon-right"></i></li>
+          <li class="mb-0">
+                
+                  深圳市人工智能与机器人研究院 2026年度医疗机器人方向开放课题征集通知
+                </li>
+          </ul>
+  </nav>
+
+      
+  </div>
+
+  
+        
+    
+                
+                
+                                <div class="" role="content" id="content">
+                
+<div id="block-cuhk-ui-content" data-block-plugin-id="system_main_block" class="block block-system">
+  
+    
+    	  		<article class="node node--type-article node--view-mode-full clearfix">
+  
+    
+
+  <div>
+      <div class="header header-sm">
+    <div class="block-region-top">
+  <div data-block-plugin-id="category_banner_block" class="block">
+
+  
+    
+
+                
+      
+  </div>
+
+  <div data-block-plugin-id="block_content:3807f74d-f952-49f6-8dc1-963d554acd50" class="block">
+
+  
+    
+
+            <div class="entity-widget-basic_block entity-widget-entity-type-block_content"><div class="spacer-md">&nbsp;&nbsp;</div>
+</div>
+      
+  </div>
+</div>
+  </div>
+  <div class="content inner-sm" id="print-content">
+    <div class="block-region-content">
+  <div data-block-plugin-id="node_title_block" class="block">
+
+  
+    
+
+                  <div class="page-header ">
+      <h2 class="page-title">深圳市人工智能与机器人研究院 2026年度医疗机器人方向开放课题征集通知</h2>
+              <div class="page-signs">
+          <span>2026-07-24</span>          <span></span>
+                  </div>
+          </div>
+      
+      
+  </div>
+
+  <div data-block-plugin-id="entity_field:node:body" class="block">
+
+  
+    
+
+            
+            <div class="field field-body field-type-text-with-summary field-label-hidden field-item"><p><span times new>各有关单位、科研团队及相关研究人员：</span></p><p><span times new>深圳市人工智能与机器人研究院（简称</span><span lang="EN-US" times new>“AIRS”</span><span times new>）是由深圳市政府、香港中文大学（深圳）联合多个世界顶级研究机构共同建立的十大基础研究机构之一，是深圳人工智能与机器人领域的重要科技创新平台。自</span><span lang="EN-US" times new>2019</span><span times new>年成立以来，</span><span lang="EN-US" times new>AIRS</span><span times new>专注于前沿人工智能科技的研究与创新，致力于将研究成果转化为产业界所需的工业能力。</span><span lang="EN-US" times new>AIRS</span><span times new>重点聚焦多尺度腔道内介入手术机器人、异构多机器人敏捷协作系统、人工智能驱动的智慧低碳等研究领域，已形成较好的科研平台、人才队伍和产业转化基础。</span></p><p><span times new>为进一步发挥</span><span lang="EN-US" times new>AIRS</span><span times new>在人工智能、机器人及多尺度腔道内介入手术机器人方向的科研平台优势，推动医疗机器人关键技术创新、临床应用拓展和产学研医协同转化，现启动</span><span lang="EN-US" times new>2026</span><span times new>年度医疗机器人方向开放课题征集工作。有关事项通知如下。</span></p><p><span style="font-size:18px;"><span times new><strong>一、资助方向</strong></span></span></p><p><span times new>本年度开放课题主要面向医疗机器人及肺小结节精准诊疗相关研究，重点支持与</span><span lang="EN-US" times new>AIRS</span><span times new>医疗机器人方向发展密切相关的前沿探索、关键技术攻关和临床转化研究。课题资助总计不超过</span><span lang="EN-US" times new>5</span><span times new>项，不限制每个方向数量。具体资助方向如下：</span></p><p><span lang="EN-US" times new>1. </span><span times new>支气管镜机器人关键技术研究。围绕支气管镜机器人在精准抵达、感知导航、智能控制、影像融合和系统评价等方面的关键技术开展研究。</span></p><p><span lang="EN-US" times new>2. </span><span times new>支气管镜机器人临床应用研究。围绕肺小结节精准诊断与微创治疗需求，探索支气管镜机器人在活检、消融、在体诊断、定位标记及多技术联合应用等场景中的临床价值。</span></p><p><span lang="EN-US" times new>3. </span><span times new>肺小结节诊疗新型器械与耗材研究。围绕肺小结节经自然腔道精准诊疗需求，开展适配支气管镜机器人平台的新型介入器械、诊疗工具及配套耗材研究。</span></p><p><span lang="EN-US" times new>4. </span><span times new>医疗机器人前沿交叉研究。鼓励围绕人工智能、具身智能、医学影像、柔性机器人、医工交叉和临床转化等方向，开展具有原创性、前瞻性和转化潜力的交叉研究。</span></p><p><span style="font-size:18px;"><span times new><strong>二、资助原则</strong></span></span></p><p><span times new>本次开放课题坚持</span><span lang="EN-US" times new>“</span><span times new>开放合作、鼓励创新、医工交叉、促进转化</span><span lang="EN-US" times new>”</span><span times new>的原则，重点支持具有明确科学问题、临床价值和转化前景的研究项目。课题遴选将重点关注创新性、协同性、研究基础、平台条件和成果转化潜力等方面。</span></p><p><span lang="EN-US" times new>AIRS</span><span times new>将根据申报课题的总体质量和开放课题年度安排择优支持。对研究基础好、协同成效显著、后续转化前景明确的课题，可在平台资源使用、成果转化、重大项目联合申报等方面给予进一步支持。</span></p><p><span times new>课题的资助方式为前资助，拨付机制为立项后一次性拨付。</span></p><p><span style="font-size:18px;"><span times new><strong>三、申请条件</strong></span></span></p><p><span lang="EN-US" times new>1. </span><span times new>国内高校、科研院所、医疗机构、企业及其他创新主体的相关领域科研人员均可申请。</span></p><p><span lang="EN-US" times new>2. </span><span times new>申请人一般应具有副高级及以上专业技术职称或博士学位；具有突出工程技术能力、临床研究基础或成果转化经验者，可适当放宽。</span></p><p><span lang="EN-US" times new>3. </span><span times new>鼓励临床医生、工程技术专家、人工智能与机器人研究人员联合申报。</span></p><p><span lang="EN-US" times new>4. </span><span times new>鼓励申请团队与</span><span lang="EN-US" times new>AIRS</span><span times new>相关研究团队开展实质性合作，围绕医疗机器人关键技术、临床场景验证和成果转化共同凝练研究课题。</span></p><p><span lang="EN-US" times new>5. </span><span times new>已承担</span><span lang="EN-US" times new>AIRS</span><span times new>相关开放课题但未按要求完成阶段性任务或结题要求的，原则上不得重复申请。单人同一年度仅能申报</span><span lang="EN-US" times new>1</span><span times new>项开放课题。</span></p><p><span style="font-size:18px;"><span times new><strong>四、资助额度与执行期限</strong></span></span></p><p><span lang="EN-US" times new>1. </span><span times new>开放课题执行期限原则上为</span><span lang="EN-US" times new>1</span><span times new>年。</span></p><p><span lang="EN-US" times new>2. </span><span times new>每项课题资助额度原则上为</span><span lang="EN-US" times new>10</span><span times new>万元，具体资助金额可根据课题研究内容、预期成果和评审意见确定。</span></p><p><span lang="EN-US" times new>3. </span><span times new>课题经费主要用于与课题研究直接相关的材料费、测试加工费、差旅费、会议费、出版</span><span lang="EN-US" times new>/</span><span times new>文献</span><span lang="EN-US" times new>/</span><span times new>信息传播</span><span lang="EN-US" times new>/</span><span times new>知识产权事务费、专家咨询费、劳务费等。</span></p><p><span lang="EN-US" times new>4. </span><span times new>课题经费使用应符合国家、地方、课题承担单位及</span><span lang="EN-US" times new>AIRS</span><span times new>相关科研经费管理要求。</span></p><p><span style="font-size:18px;"><span times new><strong>五、申报材料</strong></span></span></p><p><span times new>申请人需提交以下材料：</span></p><p><span lang="EN-US" times new>1. </span><span times new>《深圳市人工智能与机器人研究院医疗机器人方向开放课题申请书》；</span></p><p><span lang="EN-US" times new>2. </span><span times new>《项目诚信与科研伦理承诺书》；</span></p><p><span lang="EN-US" times new>3. </span><span times new>申请人及主要参与人员简历；</span></p><p><span lang="EN-US" times new>4. </span><span times new>近五年与申请课题相关的代表性成果；</span></p><p><span lang="EN-US" times new>5. </span><span times new>申请人所在单位审核意见及盖章材料；</span></p><p><span lang="EN-US" times new>6. </span><span times new>涉及人体研究、动物实验、临床数据、医学影像数据、医疗器械样机或医用耗材验证的，应根据课题实际情况补充伦理审批、数据合规、样机安全性或相关说明材料。</span></p><p><span style="font-size:18px;"><span times new><strong>六、评审与立项</strong></span></span></p><p><span lang="EN-US" times new>AIRS</span><span times new>将组织专家对申报课题进行评审，重点围绕创新性、协同性、研究基础、平台条件和成果转化潜力等方面进行综合评价。</span></p><p><span times new>评审可采用形式审查、专家评审、答辩评审和</span><span lang="EN-US" times new>AIRS</span><span times new>审批相结合的方式。经评审通过的课题，正式列为深圳市人工智能与机器人研究院医疗机器人方向开放课题。</span></p><p><span style="font-size:18px;"><span times new><strong>七、过程管理与结题要求</strong></span></span></p><p><span lang="EN-US" times new>1. </span><span times new>课题立项后，课题负责人应按照批准的研究内容、技术路线、年度计划和预期成果组织实施。</span></p><p><span lang="EN-US" times new>2. AIRS</span><span times new>将根据课题执行情况组织中期检查、阶段性交流或现场评估。</span></p><p><span lang="EN-US" times new>3. </span><span times new>课题负责人应按要求提交中期进展报告和结题报告。</span></p><p><span lang="EN-US" times new>4. </span><span times new>课题结题时，应提交研究总结、成果清单、经费执行说明及相关证明材料。</span></p><p><span lang="EN-US" times new>5. </span><span times new>结题成果可包括论文、算法模型、样机、耗材样品、测试报告、动物实验结果、临床研究方案、伦理批件、临床数据集、标准草案、联合项目申报材料等。</span></p><p><span style="font-size:18px;"><span times new><strong>八、成果管理与知识产权</strong></span></span></p><p><span lang="EN-US" times new>1. </span><span times new>开放课题形成的论文、样机、耗材、算法模型、数据成果、技术报告等成果，应按照</span><span lang="EN-US" times new>AIRS</span><span times new>与课题承担单位签署的相关协议执行。</span></p><p><span lang="EN-US" times new>2. 依托AIRS开放课题形成的成果，在发表论文、申报奖项或进行成果宣传时，应按约定标注AIRS相关信息。</span></p><p><span lang="EN-US" times new>3. 一般情况下，开放项目科研成果不得用于申请专利；若开放项目科研成果用于申请专利，专利权人须为研究院。科技成果转化收益的分配另行约定。</span></p><p><span lang="EN-US" times new>4. </span><span times new>涉及临床数据、患者信息、医学影像数据、动物实验、人体研究、医疗器械样机或医用耗材验证的，应严格遵守科研伦理、数据安全、隐私保护和医疗器械相关法规要求。</span></p><p><span style="font-size:18px;"><span times new><strong>九、科研诚信要求</strong></span></span></p><p><span times new>申请人应保证申报材料真实、完整、准确，不存在抄袭、剽窃、伪造、篡改研究内容、研究基础和成果材料等科研失信行为。开放课题申报、评审、实施和结题全过程应遵守科研诚信、科研伦理、学术规范、财经纪律和相关法律法规要求。申请人须签署《项目诚信与科研伦理承诺书》。</span></p><p><span style="font-size:18px;"><span times new><strong>十、申报方式</strong></span></span></p><p><span lang="EN-US" times new>1. </span><span times new>申请人须按要求填写《深圳市人工智能与机器人研究院医疗机器人方向开放课题申请书》，并提交相关附件材料。</span></p><p><span lang="EN-US" times new>2. </span><span times new>申报材料需由申请人所在单位审核盖章后提交。</span></p><p><span lang="EN-US" times new>3. </span><span times new>电子版材料请以</span><span lang="EN-US" times new>PDF</span><span times new>格式提交，文件命名格式建议为：申请人姓名</span><span lang="EN-US" times new>-</span><span times new>承担单位</span><span lang="EN-US" times new>-</span><span times new>课题名称</span><span lang="EN-US" times new>-AIRS</span><span times new>医疗机器人开放课题申请。</span></p><p><span lang="EN-US" times new>4. </span><span times new>申报截止日期：</span><span lang="EN-US" times new>2026</span><span times new>年</span><span lang="EN-US" times new>8</span><span times new>月</span><span lang="EN-US" times new>15</span><span times new>日。</span></p><p><span style="font-size:18px;"><span times new><strong>十一、联系方式</strong></span></span></p><p><span times new>联系人：姜晓磊</span></p><p><span times new>联系电话：</span><span lang="EN-US" times new>13810411418</span></p><p><span times new>电子邮箱：</span><span lang="EN-US" times new>jiangxiaolei@cuhk.edu.cn</span></p><p><span times new>通讯地址：深圳市龙岗区雅宝路</span><span lang="EN-US" times new>1</span><span times new>号星河</span><span lang="EN-US" times new>WORLD G2</span><span times new>座</span><span lang="EN-US" times new>14</span><span times new>层</span></p><p>&nbsp;</p><p>&nbsp;</p><p class="text-align-right"><span lang="EN-US" times new>深圳市人工智能与机器人研究院</span></p><p class="text-align-right"><span lang="EN-US" times new>2026</span><span lang="EN-US" times new>年</span><span lang="EN-US" times new>7</span><span lang="EN-US" times new>月</span><span lang="EN-US" times new>24</span><span lang="EN-US" times new>日</span></p></div>
+      
+      
+  </div>
+
+  <div data-block-plugin-id="views_block:front_content-block_node_video" class="block">
+
+  
+    
+
+            <div class="views-element-container"><div class="list-8-0 js-view-dom-id-096baeed972b322385bcf518dcbab591e218a47b16da3023c71a65dfdb0f803b">
+  
+  
+  
+
+      <header>
+      
+    </header>
+  
+  
+  
+
+      <div class="list-body"><div><div></div></div></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+      
+  </div>
+
+  <div data-block-plugin-id="views_block:front_content-block_article_images" class="block">
+
+  
+    
+
+            <div class="views-element-container"><div class="photo-wall-1-0 row js-view-dom-id-fd53c3e21cdb06a4123d67c6bfac0a6348ca5d2c93ca487d544c589c42f19329">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+      
+  </div>
+
+  <div data-block-plugin-id="entity_field:node:attached_medias" class="block">
+
+  
+    
+
+            
+      <div class="field field-attached-medias field-type-entity-reference field-label-hidden field-items">
+              <div class="field-item"><div>
+  
+  <div class="spacer-md"></div>
+  <div class="list-8-0">
+    <div class="list-body">
+                                                                <div class="list-content">  
+        <span class="list-icon">
+          <i class="icon icon-file-word-fill"></i>
+        </span>      
+        <a class="list-icon-2" href="/sites/default/files/2026-07/%E9%99%84%E4%BB%B61%E3%80%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A0%94%E7%A9%B6%E9%99%A2%E5%8C%BB%E7%96%97%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B9%E5%90%91%E5%BC%80%E6%94%BE%E8%AF%BE%E9%A2%98%E5%AE%9E%E6%96%BD%E5%8A%9E%E6%B3%95%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89.docx" target="_blank">
+          <i class="icon icon-download"></i>
+        </a>      
+        <div class="list-text">32.95 KB</div>      
+        <div class="list-title">附件1、深圳市人工智能与机器人研究院医疗机器人方向开放课题实施办法（试行）.docx</div>    
+      </div>
+          </div>
+  </div>
+
+</div>
+</div>
+              <div class="field-item"><div>
+  
+  <div class="spacer-md"></div>
+  <div class="list-8-0">
+    <div class="list-body">
+                                                                <div class="list-content">  
+        <span class="list-icon">
+          <i class="icon icon-file-word-fill"></i>
+        </span>      
+        <a class="list-icon-2" href="/sites/default/files/2026-07/%E9%99%84%E4%BB%B62%E3%80%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A0%94%E7%A9%B6%E9%99%A2%E5%8C%BB%E7%96%97%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B9%E5%90%91%E5%BC%80%E6%94%BE%E8%AF%BE%E9%A2%98%E7%94%B3%E8%AF%B7%E4%B9%A6.docx" target="_blank">
+          <i class="icon icon-download"></i>
+        </a>      
+        <div class="list-text">31.03 KB</div>      
+        <div class="list-title">附件2、深圳市人工智能与机器人研究院医疗机器人方向开放课题申请书.docx</div>    
+      </div>
+          </div>
+  </div>
+
+</div>
+</div>
+              <div class="field-item"><div>
+  
+  <div class="spacer-md"></div>
+  <div class="list-8-0">
+    <div class="list-body">
+                                                                <div class="list-content">  
+        <span class="list-icon">
+          <i class="icon icon-file-word-fill"></i>
+        </span>      
+        <a class="list-icon-2" href="/sites/default/files/2026-07/%E9%99%84%E4%BB%B63%E3%80%81%E9%A1%B9%E7%9B%AE%E8%AF%9A%E4%BF%A1%E4%B8%8E%E7%A7%91%E7%A0%94%E4%BC%A6%E7%90%86%E6%89%BF%E8%AF%BA%E4%B9%A6.docx" target="_blank">
+          <i class="icon icon-download"></i>
+        </a>      
+        <div class="list-text">30.08 KB</div>      
+        <div class="list-title">附件3、项目诚信与科研伦理承诺书.docx</div>    
+      </div>
+          </div>
+  </div>
+
+</div>
+</div>
+          </div>
+  
+      
+  </div>
+</div>
+  </div>
+  <div class="footer footer-sm">
+    <div class="block-region-bottom">
+  <div data-block-plugin-id="block_content:3807f74d-f952-49f6-8dc1-963d554acd50" class="block">
+
+  
+    
+
+            <div class="entity-widget-basic_block entity-widget-entity-type-block_content"><div class="spacer-md">&nbsp;&nbsp;</div>
+</div>
+      
+  </div>
+</div>
+  </div>
+
+  </div>
+</article>
+
+  	  </div>
+
+
+  
+        </div>
+                
+                
+        
+    
+  </div>
+  
+    
+    
+</div>
+
+
+
+      
+  <div id="block-yejiaozidifooter70" data-block-plugin-id="block_content:e192d567-3050-4ec9-80f4-60785387ad6a" class="block">
+
+  
+    
+
+            <div class="entity-widget-footer_7_0 entity-widget-entity-type-block_content"><div class="footer-7-0 py-30 md|pt-50 md|pb-100 bg-center bg-no-repeat bg-cover mode--dark"
+  data-toggle="bgImage"
+  data-image-url="/sites/default/files/styles/crop_freeform/public/2021-11/footer-7-0--1.png?itok=j-BZ_XC4"
+>
+  <div class="inner">
+    <div class="flex md|justify-between flex-wrap lg|flex-nowrap -mb-20">
+      <div class="md|mr-30 lg|mr-60 mb-20 lg|w-5/12">
+        <div class="footer-logo">
+          <img src="/sites/default/files/styles/crop_freeform/public/2021-11/footer_logo_0.png?itok=_UuAZy0p" alt="">
+        </div>
+        <div class="footer-qrcode mt-20">
+          <span class="mb-10 text-18 font-bold">关注我们</span>
+          <ul class="list-none mt-10 flex md|flex-nowrap -mx-10">
+                        <li class="qrcode-item relative mb-0 px-10">
+                              <i class="icon corsor-pointer p-10 rounded-full border-1 border-solid icon-wechat-fill">
+                <span class="hidden">&nbsp;</span>
+              </i>
+                                          <div class="qrcode-image p-10 bg-white shadow-md rounded-5">
+                <img class="max-w-none" src="/sites/default/files/styles/crop_freeform/public/2021-12/wechat.jpg?itok=ervGNdYz" alt="">
+              </div>
+                          </li>
+                        <li class="qrcode-item relative mb-0 px-10">
+                              <a href="https://space.bilibili.com/602058860" target="_blank">
+                <i class="icon corsor-pointer p-10 rounded-full border-1 border-solid icon-bilibili">
+                  <span class="hidden">&nbsp;</span>
+                </i>
+              </a>
+                                        </li>
+                        <li class="qrcode-item relative mb-0 px-10">
+                              <a href="https://www.linkedin.com/company/szairs" target="_blank">
+                <i class="icon corsor-pointer p-10 rounded-full border-1 border-solid icon-linkedin">
+                  <span class="hidden">&nbsp;</span>
+                </i>
+              </a>
+                                        </li>
+                      </ul>
+        </div>
+      </div>
+      <div class="footer-links mb-20 lg|w-7/12">
+        <ul class="list-none flex md|justify-between md|flex-nowrap -mx-15">
+                    <li class="mb-20 md|mb-0 px-15 lg|px-30 w-6/12 md|w-auto md|flex-1">
+            <span class="text-18 mb-20 pb-15">联系我们</span>
+            <ul class="list-none">
+                            <li class="mb-10">
+                                <p>地址:深圳市龙岗区坂田街道雅宝路1号星河WORLD G2-14层</p>
+                              </li>
+                            <li class="mb-10">
+                                <p>电话:+86(0)755-23518114</p>
+                              </li>
+                          </ul>
+          </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="footer-6-0"><div class="footer-content">版权所有 © 深圳市人工智能与机器人研究院&nbsp;<a href="http://www.miitbeian.gov.cn/">粤ICP备14099122-1号</a>&nbsp; <a href="https://bszs.conac.cn/sitename?method=show&amp;id=3A819D0DFA35B30BE06310291AAC16ED" target="_blank"><img src="/sites/default/files/inline-images/blue_0.png" data-entity-uuid="953aebdc-9362-4c4d-aa7d-56b6ff70f5af" data-entity-type="file" width="2.88%" height="2.88%" loading="lazy"></a></div></div></div>
+      
+  </div>
+
+  
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1429","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"zh-hans"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"multiselect":{"widths":250},"password_encrypt":{"passkey":"9a1063f49f7d9e67"},"cuhk_content_statistics":{"url":"\/counter\/node\/1429"},"themepath":"themes\/custom\/cuhk_ui","ajax":[],"user":{"uid":0,"permissionsHash":"0fecf117cd0eb2227a33933675227887e6cb9b1d3f9b1c9b94f21bc1959e7616"}}</script>
+<script src="/sites/default/files/js/js_8jZU-4rj7pGpQohaG8le-mrPcZzYt6SYELkqavE1_ec.js?scope=footer&amp;delta=0&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJxdUUFywjAM_BAh9BE99FzuGcVWE4EjeSwZCK9vWgpROj7tzq6lXYEqWkd8wmBS2pPue6BYOxMeTrSLM9MFukptXylFh2OpGZIXiJhagbw36DdCyVGu7ChNFM5bHLE4YpqQq8NXmLMQmzoOmCYwdEyC-6x0R6_KRQYukvymX3T7ePfTMBI4jClRVvLf9HoUSUbZcYMcl5e3OabP8Dst1PG81vZEf6U94RJgWLZ9wh-7bu2hqsmkmJbzvMhHOy8XWjMiDeMq6AvwOhQ4jFKajemyFC4NVJOcYG4KZqCyy6B6lRI75FDmbO1_4uEPwoZsrRoYqVFYI4wIyyW7t0N3-AYz3-t2"></script>
+<script src="/themes/custom/cuhk_ui/fonts/cuhk_ui.js?tewqia"></script>
+<script src="/sites/default/files/js/js_hl0ejoyZBZ9uLU2fY-F9S2iNyDsmtadUVXffVLSfaZQ.js?scope=footer&amp;delta=2&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJxdUUFywjAM_BAh9BE99FzuGcVWE4EjeSwZCK9vWgpROj7tzq6lXYEqWkd8wmBS2pPue6BYOxMeTrSLM9MFukptXylFh2OpGZIXiJhagbw36DdCyVGu7ChNFM5bHLE4YpqQq8NXmLMQmzoOmCYwdEyC-6x0R6_KRQYukvymX3T7ePfTMBI4jClRVvLf9HoUSUbZcYMcl5e3OabP8Dst1PG81vZEf6U94RJgWLZ9wh-7bu2hqsmkmJbzvMhHOy8XWjMiDeMq6AvwOhQ4jFKajemyFC4NVJOcYG4KZqCyy6B6lRI75FDmbO1_4uEPwoZsrRoYqVFYI4wIyyW7t0N3-AYz3-t2"></script>
+
+  </body>
+</html>
+
+<!-- Generate by boost at 2026-09-29 09:37:11 (Asia/Shanghai) -->

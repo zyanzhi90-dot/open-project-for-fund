@@ -1,0 +1,11 @@
+{
+  "url": "https://sxy.qhit.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2120963825&wbfileid=459155320F7953CDFD942D6430639765",
+  "name": "2026年青海省大数据金融与人工智能应用技术重点实验室开放基金项目申报指南.pdf",
+  "ids": [
+    "M128"
+  ],
+  "referer": "https://sxy.qhit.edu.cn/info/1060/3767.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 285798 out of 616726 bytes received\r\n"
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iaii.cas.cn/hzjl/kjhz/202607/P020260715554478223089.doc",
+  "name": "江苏省工业人工智能重点实验室开放课题申请书.doc",
+  "ids": [
+    "M073"
+  ],
+  "referer": "https://iaii.cas.cn/hzjl/kjhz/202607/t20260715_8248969.html",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 141512 out of 499323 bytes received\r\n"
+}

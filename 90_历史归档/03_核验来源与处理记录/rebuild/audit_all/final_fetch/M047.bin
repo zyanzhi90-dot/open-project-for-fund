@@ -1,0 +1,1014 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>先进制造智能化技术教育部重点实验室</title>
+	<meta name="keywords" content="先进制造智能化技术教育部重点实验室室">
+	<meta name="description" content="先进制造智能化技术教育部重点实验室于2007年12月获教育部批准筹建，2011年3月正式通过验收进入教育部重点实验室序列，同年11月通过教育部重点实验室评估">
+	<link rel="shortcut icon" href="/resources/images/favicon.ico" type="image/x-icon" />
+	<script src="/resources/plugins/jquery-3.6.1.min.js"></script>
+	<script src="/resources/js/jquery/jquery-migrate-3.0.1.min.js"></script>
+	<script type="text/javascript" src="/resources/js/nav_0907.js"></script>
+
+	<link type="text/css" href="/resources/css/system.css?v=1791441442847" rel="stylesheet">
+	<link type="text/css" href="/resources/css/sudyNav.css?v=1791441442847" rel="stylesheet">
+	<link type="text/css" href="/resources/css/simplenews.css?v=1791441442847" rel="stylesheet">
+	
+	<link rel="stylesheet" type="text/css" href="/resources/css/common.css?v=1791441442847">
+	<link rel="stylesheet" type="text/css" href="/resources/css/index.css?v=1791441442847">
+	<link rel="stylesheet" type="text/css" href="/resources/css/index.vsb.css">
+	<link rel="stylesheet" type="text/css" href="/resources/css/content.css?v=1791441442847">
+	<link rel="stylesheet" type="text/css" href="/resources/css/sys.css?v=1791441442847">
+	<link rel="stylesheet" type="text/css" href="/resources/css/device.css?v=1791441442847">
+	
+	<link rel="stylesheet" href="/resources/swiper/swiper.min.css">
+	<script src="/resources/swiper/swiper.min.js" charset="utf-8"></script>
+	
+	<script>
+		var u = navigator.userAgent;
+		var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
+		var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+		if(isAndroid || isIOS){
+			document.write('<link rel="stylesheet" type="text/css" href="/resources/css/media_h5.css?v=1791441442847">');
+		}
+	</script>
+	
+</head>
+<body>
+
+
+
+
+
+
+<div class="top">
+	<div class="topbox">
+		<div class="logo">
+			<a href="/home/index"><img src="/resources/images/logo.png" width="940" height="125"></a>
+		</div>
+		<!-- <a href="/manage/index" class="fr top_btn">登录管理后台</a> -->
+	</div>
+</div>
+
+<div class="nav">
+	<div class="navbox"> 
+		<ul class="f_nav">
+			<li><a href="/home/index" class="nav_0">首页</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_1">实验室概况</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_2">学术研究</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_3">师资队伍</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_4">新闻中心</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_5">人才培养</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_6">交流合作</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_7">平台建设</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_8">开放课题</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_9">设备管理</a></li>
+		    
+		</ul>
+	</div>
+	
+	<div class="subnavbg" style="display: none;">
+		<div class="subnavbox">
+			<div class="subnav" id="nav_0" style="display: none;"></div> 
+		    
+		    	
+		    	<div class="subnav" id="nav_1" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(33,1,0,'实验室概况')" class="sec_menu_pc  sec_menu_pc_0">实验室简介</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(34,1,1,'实验室概况')" class="sec_menu_pc  sec_menu_pc_1">组织机构</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(35,1,2,'实验室概况')" class="sec_menu_pc  sec_menu_pc_2">学术委员会</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_2" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(39,2,0,'学术研究')" class="sec_menu_pc  sec_menu_pc_0">研究方向</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(40,2,1,'学术研究')" class="sec_menu_pc  sec_menu_pc_1">研究动态</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(41,2,2,'学术研究')" class="sec_menu_pc  sec_menu_pc_2">研究成果</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_3" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(37,3,0,'师资队伍')" class="sec_menu_pc  sec_menu_pc_0">固定人员</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(38,3,1,'师资队伍')" class="sec_menu_pc  sec_menu_pc_1">流动人员</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_4" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(32,4,0,'新闻中心')" class="sec_menu_pc  sec_menu_pc_0">新闻动态</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(30,4,1,'新闻中心')" class="sec_menu_pc  sec_menu_pc_1">通知公告</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(56,4,2,'新闻中心')" class="sec_menu_pc  sec_menu_pc_2">学校新闻</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_5" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(42,5,0,'人才培养')" class="sec_menu_pc  sec_menu_pc_0">研究生培养</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(43,5,1,'人才培养')" class="sec_menu_pc  sec_menu_pc_1">博士后培养</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(44,5,2,'人才培养')" class="sec_menu_pc  sec_menu_pc_2">毕业研究生</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_6" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(46,6,0,'交流合作')" class="sec_menu_pc  sec_menu_pc_0">交流合作</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(63,6,1,'交流合作')" class="sec_menu_pc  sec_menu_pc_1">学术报告</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_7" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(69,7,0,'平台建设')" class="sec_menu_pc  sec_menu_pc_0">国家机械工业重点实验室</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(68,7,1,'平台建设')" class="sec_menu_pc  sec_menu_pc_1">协同创新中心</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_8" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(48,8,0,'开放课题')" class="sec_menu_pc  sec_menu_pc_0">申请通知</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(49,8,1,'开放课题')" class="sec_menu_pc  sec_menu_pc_1">资助统计</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(50,8,2,'开放课题')" class="sec_menu_pc  sec_menu_pc_2">文件下载</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_9" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(58,9,0,'设备管理')" class="sec_menu_pc  sec_menu_pc_0">管理制度</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(52,9,1,'设备管理')" class="sec_menu_pc  sec_menu_pc_1">设备列表</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(54,9,2,'设备管理')" class="sec_menu_pc  sec_menu_pc_2">预约列表</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(53,9,3,'设备管理')" class="sec_menu_pc  sec_menu_pc_3">共享设备</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(66,9,4,'设备管理')" class="sec_menu_pc  sec_menu_pc_4">会议室预约</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(60,9,5,'设备管理')" class="sec_menu_pc  sec_menu_pc_5">后台登录</a>
+							</li>
+						
+					</ul>
+				</div>
+		     
+		</div>
+	</div>
+</div>
+
+<div class="app_nav_wrap" id="navbar">
+	<div class="app_nav_title" id="navTitle">首页</div>
+	<a onclick="history.back(-1)" class="app_nav_back">
+		<img src="/resources/images/nav_back_white.png" class="nav_back" alt="返回">
+	</a>
+	
+	<div class="app_menu_img">
+		<img src="/resources/images/menu_icon.png"   onclick="openMenu();"  id="menuIco"  class="sec_menu_ico" alt="菜单"/>
+		
+		<img src="/resources/images/close_white.png" onclick="closeMenu();" id="menuClose" class="sec_menu_close" alt="关闭"/>
+		
+		
+		<div class="app_menu_sec_wrap" id="secMenuWrap">
+			<ul class="f_nav">
+				<li class="sec_menu_li">
+					<a onclick="openIndex();" class="sec_menu">首页</a>
+					<span></span>
+				</li>
+				
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(33,1,'实验室概况')" class="sec_menu nav_1">实验室概况</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(39,2,'学术研究')" class="sec_menu nav_2">学术研究</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(37,3,'师资队伍')" class="sec_menu nav_3">师资队伍</a>
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(32,4,'新闻中心')" class="sec_menu nav_4">新闻中心</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(42,5,'人才培养')" class="sec_menu nav_5">人才培养</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(46,6,'交流合作')" class="sec_menu nav_6">交流合作</a>
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(69,7,'平台建设')" class="sec_menu nav_7">平台建设</a>
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(48,8,'开放课题')" class="sec_menu nav_8">开放课题</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(58,9,'设备管理')" class="sec_menu nav_9">设备管理</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    <li class="sec_menu_li">
+			    	<a href="/manage/index" class="sec_menu">管理后台</a>
+			    </li>
+			</ul>
+		</div>
+		
+	</div>
+</div>
+<script>
+
+	var u = navigator.userAgent;
+	var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
+	var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+	if(isAndroid || isIOS){
+		var menuIndex = sessionStorage.getItem("menuIndex");
+	   	menuIndex = menuIndex >-1?menuIndex:0;
+	   	sessionStorage.setItem("menuIndex",menuIndex);
+	   	$(".sec_menu_li").eq(menuIndex).addClass('sec_menu_li_active');
+	   	var navTitle = sessionStorage.getItem("navTitle");
+	   	if(navTitle != null){
+	   		$("#navTitle").html(navTitle);
+	   	}
+	}else{
+		var firstMenuIndex = sessionStorage.getItem("firstMenuIndex");
+		var menuIndex = sessionStorage.getItem("secMenuIndex");
+		firstMenuIndex = firstMenuIndex>-1?firstMenuIndex:1;
+		menuIndex = menuIndex >-1?menuIndex:0;
+		sessionStorage.setItem("firstMenuIndex",firstMenuIndex);
+		sessionStorage.setItem("secMenuIndex",menuIndex);
+		$("#nav_" + firstMenuIndex + " .sec_menu_pc_" + menuIndex).addClass('sec_menu_pc_active');
+	}
+
+   	
+   	
+   	function openMenu(){
+   		$("#menuIco").hide();
+   		$("#menuClose").css("display","block");
+   		$("#secMenuWrap").show();
+   	}
+   	function closeMenu(){
+   		$("#menuClose").hide();
+   		$("#menuIco").css("display","block");
+   		$("#secMenuWrap").hide();
+   	}
+
+	function openIndex(){
+		sessionStorage.setItem("menuIndex",0);
+		sessionStorage.setItem("navTitle","首页");
+		sessionStorage.setItem("tabIndex",0);
+		window.location.href = "/home/index";
+	}
+	function openUrl(id,index,categoryName){
+		sessionStorage.setItem("menuIndex",index);
+		sessionStorage.setItem("navTitle",categoryName);
+		sessionStorage.setItem("tabIndex",0);
+		window.location.href = "/home/category/news/" + id;
+	}
+	
+	function openUrlPc(id,index,secIndex,categoryName){
+		if(id==60){
+			window.open("/manage/index") ;
+		}else{
+			sessionStorage.setItem("firstMenuIndex",index);
+			sessionStorage.setItem("secMenuIndex",secIndex);
+			window.location.href = "/home/category/news/" + id;	
+		}
+		
+	}
+</script>
+
+
+<div class="banner">
+
+	<div class="swiper-container  index_banner_wrap">
+		<ul class="swiper-wrapper">
+			
+				<li class="swiper-slide" v-for="(item,index) in bannerList" >
+					<a onclick="openPage(0)" class="each_banner swiper-item">
+						<div class="banner_img_wrap">
+							<img src="/60852429bdc14e87b58a77d65a90b946.jpg" class="banner_img"/>
+							<div class="banner_title"><div class="banner_title_cont">实验室成员合影</div></div>
+						</div>
+					</a>
+				</li>
+			
+				<li class="swiper-slide" v-for="(item,index) in bannerList" >
+					<a onclick="openPage(0)" class="each_banner swiper-item">
+						<div class="banner_img_wrap">
+							<img src="/5d1e75a8a3734276b083d8b11ea23a07.jpg" class="banner_img"/>
+							<div class="banner_title"><div class="banner_title_cont">实验室环境</div></div>
+						</div>
+					</a>
+				</li>
+			
+
+		</ul>
+	</div> 
+
+	
+</div>
+
+<div class="box1">
+	<div class="box1-left">
+		<div class="title">
+			<span>新闻动态</span>
+
+			<a href="/home/category/news/32" target="_blank" class="more_btn"><img src="/resources/images/more.png"></a>
+			
+			<!-- h5 -->
+			<a href="/home/category/news/32" class="more_btn_h5"><img src="/resources/images/more_ico.png"></a>
+			
+		</div>
+		<div class="news">
+			<div class="left-first" frag="窗口6">
+				<a href="/home/news/160" target="_blank"  id="wp_news_w6"> 
+					<img src="/632f4b5d21bd4228ba83cef4bcee009f.jpg" onerror="javascript:this.src='/resources/images/imgn_xwdt.png';" >
+					<div style="padding-top: 10px" class="news_img_title">
+						<div class="index_news_one">先进制造智能化技术教育部重点实验室召开2026年度建设推进会（2026年6月30日）</div>
+					</div>
+				</a> 
+			</div>
+			<div frag="窗口16">
+				<div id="wp_news_w16"> 
+				    
+				    	<ul>
+						
+								
+						
+							
+								<li><a href="/home/news/159" target="_blank" class="index_news">先进制造智能化技术教育部重点实验室召开建设推进会（2026年2月2日）</a><span>2026-02-04</span></li>
+								
+						
+							
+								<li><a href="/home/news/141" target="_blank" class="index_news">先进制造智能化技术教育部重点实验室召开建设指标落实推进会（2024.7.20）</a><span>2024-07-25</span></li>
+								
+						
+							
+								<li><a href="/home/news/140" target="_blank" class="index_news">先进制造智能化技术教育部重点实验室召开2024年度建设工作会（2024.1.8）</a><span>2024-01-10</span></li>
+								
+						
+							
+								<li><a href="/home/news/134" target="_blank" class="index_news">党委书记赵琳深入机械动力工程学院切削及刀具技术团队调研（2023.10.26）</a><span>2023-10-31</span></li>
+								
+						
+							
+								<li><a href="/home/news/132" target="_blank" class="index_news">我校切削及刀具技术团队举办李振加教授九十寿辰暨学术传承人才培养座谈会（2023.10.15）</a><span>2023-10-19</span></li>
+								
+						
+							
+								<li><a href="/home/news/131" target="_blank" class="index_news">我校机械动力工程学院刘献礼教授喜获2023年度中国机械工业技术发明一等奖（2023.10.14）</a><span>2023-10-18</span></li>
+								
+						
+							
+								<li><a href="/home/news/129" target="_blank" class="index_news">机械动力工程学院举行2023年度深圳吉兰丁智能制造创新奖学金颁发仪式（2023.9.26）</a><span>2023-10-02</span></li>
+								
+						
+							
+								<li><a href="/home/news/128" target="_blank" class="index_news">实验室召开2022年度开放课题研究进度交流会（2022.9.25）</a><span>2023-09-27</span></li>
+								
+						
+							
+								<li><a href="/home/news/124" target="_blank" class="index_news">学校召开先进制造智能化技术教育部重点实验室学术委员会会议暨评估工作推进会（2023.9.20）</a><span>2023-09-24</span></li>
+								
+						
+							
+								<li><a href="/home/news/123" target="_blank" class="index_news">先进制造智能化技术教育部重点实验室师生参加  “第十七届切削与先进制造技术学术会议”并做报告（2023.8.2）</a><span>2023-09-04</span></li>
+								
+						
+					</ul>
+				    
+					
+				</div> 
+				
+				<!-- h5 -->
+				<div id="wp_news_w16_h5"> 
+					<div class="qhlist">
+						
+						<ul>
+							
+								<li>
+									<div class="date">
+										<div class="day">03</div>
+										<div class="yearM">2026/07</div>
+									</div>
+									<p><a href="/home/news/160" class="index_notice">先进制造智能化技术教育部重点实验室召开2026年度建设推进会（2026年6月30日）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">04</div>
+										<div class="yearM">2026/02</div>
+									</div>
+									<p><a href="/home/news/159" class="index_notice">先进制造智能化技术教育部重点实验室召开建设推进会（2026年2月2日）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">25</div>
+										<div class="yearM">2024/07</div>
+									</div>
+									<p><a href="/home/news/141" class="index_notice">先进制造智能化技术教育部重点实验室召开建设指标落实推进会（2024.7.20）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">10</div>
+										<div class="yearM">2024/01</div>
+									</div>
+									<p><a href="/home/news/140" class="index_notice">先进制造智能化技术教育部重点实验室召开2024年度建设工作会（2024.1.8）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">31</div>
+										<div class="yearM">2023/10</div>
+									</div>
+									<p><a href="/home/news/134" class="index_notice">党委书记赵琳深入机械动力工程学院切削及刀具技术团队调研（2023.10.26）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">19</div>
+										<div class="yearM">2023/10</div>
+									</div>
+									<p><a href="/home/news/132" class="index_notice">我校切削及刀具技术团队举办李振加教授九十寿辰暨学术传承人才培养座谈会（2023.10.15）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">18</div>
+										<div class="yearM">2023/10</div>
+									</div>
+									<p><a href="/home/news/131" class="index_notice">我校机械动力工程学院刘献礼教授喜获2023年度中国机械工业技术发明一等奖（2023.10.14）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">02</div>
+										<div class="yearM">2023/10</div>
+									</div>
+									<p><a href="/home/news/129" class="index_notice">机械动力工程学院举行2023年度深圳吉兰丁智能制造创新奖学金颁发仪式（2023.9.26）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">27</div>
+										<div class="yearM">2023/09</div>
+									</div>
+									<p><a href="/home/news/128" class="index_notice">实验室召开2022年度开放课题研究进度交流会（2022.9.25）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">24</div>
+										<div class="yearM">2023/09</div>
+									</div>
+									<p><a href="/home/news/124" class="index_notice">学校召开先进制造智能化技术教育部重点实验室学术委员会会议暨评估工作推进会（2023.9.20）</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">04</div>
+										<div class="yearM">2023/09</div>
+									</div>
+									<p><a href="/home/news/123" class="index_notice">先进制造智能化技术教育部重点实验室师生参加  “第十七届切削与先进制造技术学术会议”并做报告（2023.8.2）</a></p>
+								</li>
+							
+						</ul>
+						
+					</div>
+				
+				
+				    
+					
+				</div> 
+				
+			</div>
+		</div>
+	</div>
+  
+	<div class="box1-right each_section_h5">
+		<div class="each_cont_h5">
+			<div class="titleqh">
+				<div class="title">
+					<span>通知公告</span>
+					<a href="/home/category/news/30" target="_blank" class="more_btn"><img src="/resources/images/more.png"></a>
+					
+					<!-- h5 -->
+					<a href="/home/category/news/30" class="more_btn_h5"><img src="/resources/images/more_ico.png"></a>
+				</div>
+			</div>
+			<div class="qhcontent" frag="窗口26">
+				<div id="wp_news_w26"> 
+					<div class="qhlist">
+						
+						<ul>
+							
+								<li>
+									<div class="date">
+										<div class="day">25</div>
+										<div class="yearM">2023/09</div>
+									</div>
+									<p><a href="/home/news/127" target="_blank" class="index_notice">《机械制造过程级数字孪生技术及应用白皮书》宣讲及相关技术交流学术讲座通知</a></p>
+								</li>
+							
+								<li>
+									<div class="date">
+										<div class="day">01</div>
+										<div class="yearM">2023/02</div>
+									</div>
+									<p><a href="/home/news/100" target="_blank" class="index_notice">关于先进制造智能化技术教育部重点实验室 2022年开放课题申请的通知</a></p>
+								</li>
+							
+						</ul>
+						
+						
+					</div>
+					
+					<div class="qhlist  qhlist_h5">
+						
+						<ul>
+							
+								<li class="clearfix">
+									<a href="/home/news/127" target="_blank" class="index_notice">
+										<div class="fl notice_ico">
+											<img src="/resources/images/h5_notice_ico.png" />
+										</div>
+										<div class="fl notice_cont">
+											<div class="notice_title">《机械制造过程级数字孪生技术及应用白皮书》宣讲及相关技术交流学术讲座通知</div>
+											<div class="notice_time">2023-09-25</div>
+										</div>
+									</a>
+								</li>
+							
+								<li class="clearfix">
+									<a href="/home/news/100" target="_blank" class="index_notice">
+										<div class="fl notice_ico">
+											<img src="/resources/images/h5_notice_ico.png" />
+										</div>
+										<div class="fl notice_cont">
+											<div class="notice_title">关于先进制造智能化技术教育部重点实验室 2022年开放课题申请的通知</div>
+											<div class="notice_time">2023-02-01</div>
+										</div>
+									</a>
+								</li>
+							
+						</ul>
+						
+						
+					</div>
+					
+				</div> 
+			</div>
+		</div>
+	</div>
+	
+</div>
+
+<div class="box2">
+	<div class="box2-left  each_section_h5" frag="窗口7">
+		<div id="wp_news_w7" class="each_cont_h5"> 
+			<div class="title">
+				<span>学术研究</span>
+				
+				<a href="/home/category/news/41" target="_blank" class="more_btn">
+					<img src="/resources/images/more.png">
+				</a>
+				
+				<!-- h5 -->
+				<a href="/home/category/news/41" class="more_btn_h5">
+					<img src="/resources/images/more_ico.png">
+				</a>
+				
+			</div>
+			
+			
+			    <div class="firstnew">
+					<a href="/home/news/102" target="_blank" class="new_img_wrap">
+						<img src="" onerror="javascript:this.src='/resources/images/imgn_xsyj.png';"  height="176">
+					
+						<!-- h5 -->
+						<div style="padding-top: 10px" class="news_img_title  news_img_title_h5">
+							<div class="index_news_one">百吨级核乏燃料储运容器铸件制备技术</div>
+						</div>
+					</a>
+					
+				</div>
+				<ul>
+					
+						<li><a href="/home/news/102" target="_blank" class="index_academic">百吨级核乏燃料储运容器铸件制备技术</a></li>
+					
+						<li><a href="/home/news/101" target="_blank" class="index_academic">典型难加工合金材料切削关键技术及刀具开发与应用</a></li>
+					
+						<li><a href="/home/news/62" target="_blank" class="index_academic">我校先进制造智能化技术教育部重点实验室建设项目顺利通过验收</a></li>
+					
+						<li><a href="/home/news/40" target="_blank" class="index_academic">先进制造智能化技术教育部重点实验室研究方向</a></li>
+					
+				</ul>
+			
+			
+		</div> 
+	</div>
+	
+	<div class="box2-left  each_section_h5" frag="窗口27">
+		<div id="wp_news_w27" class="each_cont_h5"> 
+			<div class="title">
+				<span>交流合作</span>
+				<a href="/home/category/news/63"  target="_blank" class="more_btn">
+					<img src="/resources/images/more.png">
+				</a>
+				
+				<!-- h5 -->
+				<a href="/home/category/news/63"  class="more_btn_h5">
+					<img src="/resources/images/more_ico.png">
+				</a>
+				
+			</div>
+			
+			
+				<div class="firstnew">
+					<a href="/home/news/137" target="_blank" class="new_img_wrap">
+						<img src="" onerror="javascript:this.src='/resources/images/imgn_jlhz.png';"  height="176">
+						<!-- h5 -->
+						<div style="padding-top: 10px" class="news_img_title news_img_title_h5">
+							<div class="index_news_one">北京建筑大学田广东教授应邀来机械学院作学术讲座</div>
+						</div>
+					</a>
+				</div>
+				<ul>
+					
+						<li><a href="/home/news/137" target="_blank" class="index_academic">北京建筑大学田广东教授应邀来机械学院作学术讲座</a></li>
+					
+						<li><a href="/home/news/136" target="_blank" class="index_academic">航空工业哈飞集团有限责任公司到机械学院进行合作交流</a></li>
+					
+						<li><a href="/home/news/130" target="_blank" class="index_academic">机械动力工程学院举办机械制造过程级数字孪生技术学术讲座</a></li>
+					
+						<li><a href="/home/news/114" target="_blank" class="index_academic">机械动力工程学院与黑龙江航天云网科技发展有限责任公司洽谈合作</a></li>
+					
+						<li><a href="/home/news/113" target="_blank" class="index_academic">机械动力工程学院召开2023年度国家自然科学基金申报研讨会</a></li>
+					
+				</ul>
+			
+		</div> 
+	</div>
+	
+	<div class="box2-left box2-right  each_section_h5" frag="窗口17">
+		<div id="wp_news_w17" class="each_cont_h5"> 
+			<div class="title">
+				<span>人才培养</span>
+				<a href="/home/category/news/42" target="_blank" class="more_btn">
+					<img src="/resources/images/more.png">
+				</a>
+				
+				<!-- h5 -->
+				<a href="/home/category/news/42" class="more_btn_h5">
+					<img src="/resources/images/more_ico.png">
+				</a>
+				
+			</div>
+			
+				<div class="firstnew">
+					<a href="/home/news/158" target="_blank" class="new_img_wrap">
+						<img src="" onerror="javascript:this.src='/resources/images/imgn_rcpy.png';"  height="176">
+						<!-- h5 -->
+						<div style="padding-top: 10px" class="news_img_title news_img_title_h5">
+							<div class="index_news_one">教学成果：“刀锋”精神铸魂·双擎驱动创新·五维精准评价：培养刀具行业卓越工程师</div>
+						</div>
+					</a>
+				</div>
+				<ul>
+					
+						<li><a href="/home/news/158" target="_blank" class="index_academic">教学成果：“刀锋”精神铸魂·双擎驱动创新·五维精准评价：培养刀具行业卓越工程师</a></li>
+					
+						<li><a href="/home/news/104" target="_blank" class="index_academic">优秀毕业研究生</a></li>
+					
+						<li><a href="/home/news/58" target="_blank" class="index_academic">关于做好2022年度学生实验室安全素质教育学习的通知</a></li>
+					
+						<li><a href="/home/news/44" target="_blank" class="index_academic">我校“思创融合、本研贯通、三方协同，地方高校创新应用型人才培养探索与实践”教学成果通过鉴定</a></li>
+					
+				</ul>
+			
+		</div> 
+	</div>
+	
+</div>
+
+<div class="footLink">
+	<div class="linkbox">
+		<div class="cyLink" frag="窗口37">
+			<div id="wp_news_w37"> 
+				<div class="linkbt">常用链接</div>
+				<ul class="clearfix">
+					<li class="item-1"><a href="http://www.hrbust.edu.cn/" target="_blank" title="哈尔滨理工大学"><img src="/resources/images/foot_hlg.png" class="img-icon" width="auto" height="20"></a></li>
+					<li class="item-2"><a href="http://jixie.hrbust.edu.cn/" target="_blank" title="机械动力工程学院"><img src="/resources/images/foot_jxdl.png" class="img-icon" width="auto" height="20"></a></li>
+					<li class="item-4"><a href="http://zidonghua.hrbust.edu.cn/" target="_blank" title="自动化学院"><img src="/resources/images/foot_zdh.png" class="img-icon" width="auto" height="20"></a></li>
+					<li class="item-3"><a href="http://clxy.hrbust.edu.cn/" target="_blank" title="材料科学与化学工程学院"><img src="/resources/images/foot_cl.png" class="img-icon" width="auto" height="20"></a></li>
+				</ul>
+			</div> 
+		</div>
+		<div class="yqLink" frag="窗口47">
+			<div id="wp_news_w47"> 
+				<div class="linkbt">友情链接</div>
+				<ul class="clearfix">
+					<li class="item-1"><a href="http://www.moe.gov.cn/" target="_blank" title="中华人民共和国教育部"><img src="/resources/images/foot_2jyb.png"></a></li>
+					<li class="item-2"><a href="http://djz.hrbust.edu.cn/" target="_blank" title="工程电介质及其应用教育部重点实验室"><img src="/resources/images/foot_2de.png"></a></li>
+					<li class="item-3"><a href="http://www.hljkjt.gov.cn/" target="_blank" title="黑龙江省科学技术厅"><img src="/resources/images/foot_2kj.png"></a></li>
+					<li class="item-4"><a href="https://www.nsfc.gov.cn/" target="_blank" title="NSFC"><img src="/resources/images/foot_nsfc.png"></a></li>
+				</ul>
+			</div> 
+		</div>
+	</div>
+</div>
+
+<div class="footLink_h5">
+	<div class="linkbox">
+		<div class="box2-left box2-right  each_section_h5">
+			<div id="wp_news_w37" class="each_cont_h5"> 
+				<div class="title">
+					<span>常用链接</span>
+				</div>
+
+				<ul>
+					<li class="item-1 footLink_item"><a href="http://www.hrbust.edu.cn/" target="_blank" title="哈尔滨理工大学"><img src="/resources/images/foot_hlg.png" class="img-icon" width="auto" height="30"></a></li>
+					<li class="item-2 footLink_item"><a href="http://jixie.hrbust.edu.cn/" target="_blank" title="机械动力工程学院"><img src="/resources/images/foot_jxdl.png" class="img-icon" width="auto" height="30"></a></li>
+					<li class="item-3 footLink_item"><a href="http://zidonghua.hrbust.edu.cn/" target="_blank" title="自动化学院"><img src="/resources/images/foot_zdh.png" class="img-icon" width="auto" height="30"></a></li>
+					<li class="item-4 footLink_item"><a href="http://clxy.hrbust.edu.cn/" target="_blank" title="材料科学与化学工程学院"><img src="/resources/images/foot_cl.png" class="img-icon" width="auto" height="30"></a></li>
+				</ul>
+			</div> 
+		</div>
+		
+		
+		
+		<div class="yqLink">
+			<div id="wp_news_w47"> 
+				<div class="linkbt">友情链接</div>
+				<ul>
+					<li><a href="http://www.moe.gov.cn/" target="_blank" title="中华人民共和国教育部">-中华人民共和国教育部-</a></li>
+					<li><a href="http://djz.hrbust.edu.cn/" target="_blank" title="工程电介质及其应用教育部重点实验室">-工程电介质及其应用教育部重点实验室-</a></li>
+					<li><a href="http://www.hljkjt.gov.cn/" target="_blank" title="黑龙江省科学技术厅">-黑龙江省科学技术厅-</a></li>
+					<li><a href="https://www.nsfc.gov.cn/" target="_blank" title="NSFC">-NSFC-</a></li>
+				</ul>
+			</div> 
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="foot">
+	<div class="footbox">
+		<div class="footlogo"><img src="/resources/images/logo_f.png" width="800"></div>
+		
+		<div class="ewm"></div>
+		<div class="sdlogo"></div>
+		<div class="copyright">
+			<p>	</p><p><br/></p><p>先进制造智能化技术教育部重点实验室-哈尔滨理工大学</p><p>Key Laboratory of Advanced Manufacturing and Intelligent Technology, Ministry of Education, Harbin University of Science and Technology, Harbin, 150080, P. R. China<br/></p><p>地址：黑龙江省哈尔滨市南岗区学府路52号&nbsp; &nbsp; &nbsp;</p><p>邮编：150080</p><p><br/></p><p><br/></p><p>	</p>
+		</div>
+	</div>
+	
+	<!-- h5 -->
+	<div class="footbox_h5  clearfix">
+		<img src="/resources/images/footer_h5_logo.png">
+		<div><p>	</p><p><br/></p><p>先进制造智能化技术教育部重点实验室-哈尔滨理工大学</p><p>Key Laboratory of Advanced Manufacturing and Intelligent Technology, Ministry of Education, Harbin University of Science and Technology, Harbin, 150080, P. R. China<br/></p><p>地址：黑龙江省哈尔滨市南岗区学府路52号&nbsp; &nbsp; &nbsp;</p><p>邮编：150080</p><p><br/></p><p><br/></p><p>	</p></div>
+	</div>
+	
+</div>
+
+
+
+<script type="text/javascript">   
+	 /* jQuery(".banner").slide({
+		mainCell:".bd ul",autoPlay:true,effect:"leftLoop"
+	 }) */;
+	$(".titleqh span").first().children().addClass("curb");
+    $(".qhlist").first().show().siblings().hide();
+    $(".titleqh span").mouseenter(function(){
+        $(this).children().addClass("curb");
+        $(this).siblings().children().removeClass("curb");
+        $(".qhlist").eq($(this).index()).show().siblings().hide();
+    });
+    $(".titleqh span").click(function(){
+        $(this).children().addClass("curb");
+        $(this).siblings().children().removeClass("curb");
+        $(".qhlist").eq($(this).index()).show().siblings().hide();
+    });
+    
+    var swiper = new Swiper('.swiper-container', {
+		autoplay: {
+			slidesPerView: 1.2,
+			centeredSlides:true,
+			spaceBetween: 20,
+			delay: 2000,
+			stopOnLastSlide: false,
+			disableOnInteraction: false,
+			autoplayDisableOnInteraction : false
+		},
+		loop : true,
+		loopAdditionalSlides : 1
+	});
+    
+    function openPage(newsId){
+    	if(newsId==undefined || newsId==0){
+    		return
+    	}
+    	window.open("/home/news/"+newsId)
+    }
+</script> 
+</body>
+</html>

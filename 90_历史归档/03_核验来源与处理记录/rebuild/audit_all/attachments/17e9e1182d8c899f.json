@@ -1,0 +1,11 @@
+{
+  "url": "https://skl.nuaa.edu.cn/_upload/article/files/87/4c/f46a23944fa080e00343d3d0ab42/716af943-0c12-4c99-9377-eeffa39677a8.pdf",
+  "name": "2027年度航空航天结构力学及控制全国重点实验室开放课题申请指南.pdf",
+  "ids": [
+    "M152"
+  ],
+  "referer": "https://skl.nuaa.edu.cn/2026/0905/c4738a409560/page.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 231836 out of 331658 bytes received\r\n"
+}

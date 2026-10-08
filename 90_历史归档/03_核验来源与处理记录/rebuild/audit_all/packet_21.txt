@@ -1,0 +1,705 @@
+
+===== M164 澳门大学 模拟与混合信号集成电路全国重点实验室（SKL-AMSV） =====
+URL https://ime.um.edu.mo/zh-hans/open-research-project/guidelines/
+旧数据 {"year": "年度待核", "date": "2026-02-28", "amount": "最高澳门币10万元/项，期限一般24个月（历史记录）", "qualification": "境内外大学、科研机构等研究人员；博士学位或助理教授及以上；至少一名实验室全职成员为合作者；申请材料需依托单位盖章", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+Guidelines - University of Macau | State Key Laboratory of Analog and Mixed-Signal VLSI
+Skip to content
+Guidelines
+首页/开放课题/Guidelines
+Guidelinessurenachong Chong Weng Ian2026-01-20T18:02:59+08:00
+State Key Laboratory of Analog and Mixed-Signal VLSI (University of Macau)
+Guidelines for Open Research Project Applications 2026
+I. Introduction
+The State Key Laboratory of Analog and Mixed-Signal VLSI (University of Macau) (hereinafter referred to as “SKL-AMSV”), was established by the University of Macau to conduct cutting-edge research on state-of-the-art electronics and other related emerging fields with research emphasis in analog and mixed-signal circuits specially focusing in wireless/wireline RF transceivers and data converters for high-speed and low-power applications. SKL-AMSV also actively develops research in power management circuits and microfluidic chips, developing solutions for Lab-on-Chip and eventually Lab-on-CMOS applications.
+Under the development policy “openness, union, mobility, and competition”, SKL-AMSV encourages high-quality applied microelectronics for analog and mixed-signal integrated circuits and multidisciplinary academic research. It actively facilitates cooperation and exchanges with domestic and international research institutions, aiming to explore new research areas, establish novel technological platforms, and drive technological advancements in related fields. These efforts are aimed at achieving a series of high-quality independent innovations, thereby supporting the knowledge transfer and economic development of Macao.
+In pursuit of this objective, SKL-AMSV has recently released its Guidelines for Open Research Project Application 2026 (This Guideline) and is currently inviting applications in various research domains. SKL-AMSV strongly encourages researchers, both from domestic and international backgrounds, with a keen interest in the microelectronics to proactively submit their applications. We eagerly anticipate partnering with exceptional research teams to collectively advance the progress of this field.
+II. Eligibility
+1. The Call for Open Research Project (hereinafter referred to as “The Project”) is open to researchers from domestic and international universities, academic institutions, enterprises, etc. The applicant must be a holder of a doctorate’s degree or have been working in a position of assistant professor or above.
+2. Applicants are encouraged to carry out the research collaboration with members of SKL-AMSV and there must have at least one full-time faculty member of SKL-AMSV as a collaborator (hereinafter referred to as “Collaborator”) for each project.
+3. The Project concerned shall conform to the research directions of SKL-AMSV. The projects leading to significant and frontier research outputs, having potential for international collaboration, or the PI being an excellent young scientist will be preferred for financial support.
+4. The application proposals shall be submitted through email. PIs shall seek endorsement from their organizations by stamping on the application form before submitting the proposals to SKL-AMSV.
+III. Scope of The Project
+Following key areas of applied microelectronics for analog and mixed-signal integrated circuits have been identified, including but not limited to:
+1. Wireless Communication
+2. Data Converters
+3. Power Electronics
+4. Biomedical Electronics
+5. Artificial Intelligence
+6. IoT Electronics
+7. Large-Area Electronics
+8. Quantum Interfaces
+IV. Application procedure
+1. Applicants download and fill out the “SKL-AMSV Application Form for the Open Research Project” through this link (SKL-AMSV Open Research Project Application Form) and submit the completed application proposal to SKL-AMSV after stamping on the application form.
+2. This open call will be closed on 28 February 2026.
+3. The project proposals will be reviewed and assessed by SKL-AMSV ORP Review Committee (hereinafter referred to as “The Committee”). The list of approved projects will be announced on SKL-AMSV’s website and the notifications will be delivered to PIs via email in due course.
+V. Financial support and project duration
+1. The grant released for the approved project is for the specific project within the stipulated period. The released grant should be exclusively spent on The Project in accordance with the financial guidelines of the University of Macau (UM) and the Management Methods for Open Research Project 2026 (hereinafter referred to as “the Method”).
+2. The maximum grant of each project shall not exceed MOP 100,000. The PI shall be responsible for the fund utilization and management in accordance with the relevant financial regulations. PIs/Institutions receiving funds would assume financial and other administrative responsibility for The Project.
+3. The Project should be time-bound normally for a duration of 24 months and will commence on 1 August 2026.
+4. The PI will be required to furnish a progress report and a final report on all aspects of The Project including expenditure incurred on various approved items during the period.
+VI. Knowledge management and sharing
+1. The intellectual property rights acquired before the implementation of The Project shall remain vested in the Party and shall not be changed by joint development or participation in the project. This Agreement shall not be deemed as the transfer or license of the intellectual property rights owned by the respective parties. Any commercial application of these intellectual property rights should be discussed with the owner and a license contract should be signed.
+2. The ownership of scientific and technological achievements and intellectual property rights completed jointly in the project shall be owned by all completion Parties. Any Party (including UM and PI organizations) that intends to carry out any commercial or industrial operation must obtain written confirmation from the completion Parties in advance. They must then discuss with the completion Parties (owners) of the scientific and technological achievements or intellectual property rights and sign an authorization contract before proceeding. The details shall be negotiated by completion Parties and determined in writing according to each proposal through mutual negotiation.
+3. The details regarding patent applications, award applications, and other related matters shall be jointly negotiated by all Parties for each individual plan and confirmed in writing.
+4. The scientific and technological achievements, as well as the intellectual property rights, jointly completed in the project by the Parties, can be used for teaching and scientific purposes free of charge, but only after obtaining the written consent of the completion Parties.
+VII. Acknowledgements
+1. The PI is encouraged to publish high-quality research papers jointly with the Collaborator of SKL-AMSV, apply for awards and patents, and accelerate knowledge transfer.
+2. The acknowledgments for publications, awards, patents, and knowledge transfer shall be: The research outputs of this Open Research Project Programme are funded by the Science and Technology Development Fund of the Macau SAR (0001/2025/NRP) and the Open Research Project of the State Key Laboratory of Analog and Mixed-Signal VLSI (University of Macau) (Ref. No.: SKL-AMSV /ORP/xx/202x).
+In Chinese: 本開放課題的研究成果由澳門特別行政區科學技術發展基金（檔案編號：0001/2025/NRP）、模擬與混合信號集成電路全國重點實驗室（澳門大學）開放課題（編號：SKL-AMSV /ORP/xx/202x）資助。
+VIII. Other provisions
+1. For matters not addressed in This Guideline, please contact SKL-AMSV at Tel: +853 8822 4700; Email: amsv.enquiry@um.edu.mo.
+2. Subject to the nature of The Project that the research must be accomplished together with the Collaborator of SKL-AMSV. Hence, the DL No.122/84/M dated 15/12/1984, subsequently amended by the Law No. 5/2021 (Regime das despesas obras e aquisicão de bens e serviços) is not applicable.
+3. This Guideline is made in English.
+4. The State Key Laboratory of Analog and Mixed-Signal VLSI (University of Macau) reserves all rights for final explanation.
+IX. Contact information
+The address： State Key Laboratory of Analog and Mixed-Signal VLSI (University of Macau)
+University of Macau, N21-3003
+Avenida da Universidade, Taipa, Macau, China
+Telephone： +853 8822 4700
+Email address：amsv.enquiry@um.edu.mo
+Attachment: [Guidelines for SKL-AMSV ORP 2026]
+开放课题
+Guidelines
+Management Methods
+Go to Top
+附件 [{"text": "SKL-AMSV Open Research Project Application Form", "url": "https://ime.um.edu.mo/wp-content/uploads/2026/01/SKL-AMSV-Open-Research-Project-Application-Form-2026.doc"}, {"text": "Guidelines for SKL-AMSV ORP 2026", "url": "https://ime.um.edu.mo/wp-content/uploads/2026/01/SKL-AMSV-Guidelines-for-Open-Research-Project-2026.doc"}, {"text": "入学申请", "url": "https://www.um.edu.mo/study-at-um/admission.html"}]
+
+===== M165 澳门大学 智慧城市物联网全国重点实验室（SKL-IoTSC） =====
+URL https://skliotsc.um.edu.mo/wp-content/uploads/2025/08/IOTSC-Guidelines-for-ORP-2026-2027.pdf
+旧数据 {"year": "年度待核", "date": "2025-08-15", "amount": "每项最高澳门币8万元（历史记录）", "qualification": "官方指南接受境内外人员；需要博士学位或相当科研职务及与实验室全职成员合作，具体以批次申请PDF为准", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+%PDF-1.7
+%����
+32 0 obj
+<>
+endobj
+xref
+32 33
+0000000017 00000 n
+0000001740 00000 n
+0000001806 00000 n
+0000002068 00000 n
+0000002148 00000 n
+0000002672 00000 n
+0000002892 00000 n
+0000029407 00000 n
+0000029608 00000 n
+0000034214 00000 n
+0000034294 00000 n
+0000035219 00000 n
+0000035304 00000 n
+0000035633 00000 n
+0000035840 00000 n
+0000042935 00000 n
+0000045609 00000 n
+0000046309 00000 n
+0000046394 00000 n
+0000046691 00000 n
+0000046892 00000 n
+0000055734 00000 n
+0000056362 00000 n
+0000056573 00000 n
+0000098542 00000 n
+0000098800 00000 n
+0000098838 00000 n
+0000098887 00000 n
+0000172766 00000 n
+0000172915 00000 n
+0000173059 00000 n
+0000173202 00000 n
+0000001526 00000 n
+trailer
+<]>>
+startxref
+0
+%%EOF
+64 0 obj
+<>stream
+x�c```b``3a`e``�bd�0��̕�
+�]x�?7l9
+y�V�"��K�4+�EԀ��5�9��l��ԣ��A�qw���	w:4
+Xu�4��4�<`���a���zBƁ��f��� �."K
+endstream
+endobj
+33 0 obj
+<>
+endobj
+34 0 obj
+<>/ColorSpace <>/XObject <>/Shading <<>>/ExtGState <>/Font <>>>/MediaBox [0 0 595.276 841.89]/Type/Page/Parent 29 0 R/Contents 40 0 R>>
+endobj
+35 0 obj
+<>stream
+x��
+endstream
+endobj
+36 0 obj
+<>stream
+x�]��n�0��<���E��8*�H��b.:C#�$2a��O���j4Y}9��9I6����&��
+Cs�9u}�u��ƛ�?w�YX1m�L���\��,���p�N���O�Y���s�:��yZ���3������g�o}?u�}~x��㧿�lҪ2�?=�}���ś$�>k���។�����Ţ���ױn|���7�U:_�Y��2߷�g�<���:���i��
+(ˌ�"��sbQRb1{%�h�B\"�!�������� Z�h���}#�`D�"�$·`��oQ�[r7,}�D�f��hg���ߒk��ʹ}�}������.��*߂+�͸�ߒg$�͹��\��]����:����Z�:�
+|��_G������������e��1�їɎ��#���;���|�>
+endobj
+38 0 obj
+<>stream
+x���	xǙ?\�=�sO����L��)itR��A |` scn$���q 66Ɖ�cc�$&N|&��A8ޘ�g��eg���
+�$�(q���5�ުn	�dw���<�`�ޮ���z�_��V#���=�E��nڵ�������]�z��۬[���"!̯[�b�''�E�YP�m�3�.8���u��_��t�3��lںj�꧀B��C��+�8��dBh	�>�e��5�?<���!�ҷ��R�W>�Ӄ�g����۶���c� �W���w?�,w dʯ�v�����w5B|��К�-�7?��a��{bp!.�!x;#���_�ìIu#��"�,FËM<�"�>�� 3N�E(�/t�v��w��v���!i*'�	g
+1����U}����=h��YC�ۈ���V嫲;,��f������+91�,��\2��ؖ�6�?����p�sw5��2Q���lՋ�
+mR��DS4[�Jq	K��zuFl)
+�!&�7�Li�*kD0�vd�X���$�`5(\k��z��2���0��Bi1ͤ���:\�N�j�t
+&�Ę�����4��O-����΍�拹}#�s5�3�3��Wk���V�H�m��H
+�#�G4��O�L���8ke&�M�6X�7Xw	�eo��+|��M�����6���)�a��N+2���}�?�Ǡ��)4*��������Ng�Lk����OK���X��_�]��UKO�����z]ZT�B�\�T���nmY����W��٩ݥ}�P��m�w=����TL\qݺu�=�~(�i�2�_ް��t�O��Ҳ�ω�)�Ʉu1J�����0���~�q�z����jC�a|B
+b���zoa0��������8�;�j�������`@'q���ywya������d@��ݫ|˻���y��G&���v[L�����,�uy�Nr�������d6s��\>��g�Z������2���妖;[j���l��_���XZpK�ix�u����\�1%LkLי���4�t�i��!ӣ��L?5����i��z\&6`OK9h;���9�i>�j�P�����[�^��6�a�
+T�X	0���
+y)_���
+�i�^!%��hHs�ܾd�1�6�`6�!c�Y43�a�MUT��t3j��n��q/����6�7�q8���v���S�Te+�ǔ9���s.8����0n��2�`�od��`��5�6x�V���@���U͕��qD=N��w(�"��Z��,~�$v9��P-��4�}��T�ݥ6wL�(�5�h:����iG�C��9�ee�Cb���Cg�\.���9������k~x0��,E��9E�Z��T���d���	��,��Z-����޿a��Ն)��HzvgϕC�o����a��C�X��i�K-�:3�`���C�l����О��^)��4}^ˬ[fNm�c.-O�+$Wm6G匈�`��s�&�����/�.�r��@�Pe~�j��9P3��`أ��?�g��K�����1g8��^H�\c�Ӹ�C�>?��tA'U\0��
+U�0�^�6:f^:}E��y��3�>������*�D'~��M��^�;��#�~�]����_�^r�,9�P�\����C�x�)4^Rn�L&/��Y1a��Z�v�Ƴ�[�;�>� ~�~d�0�G۰�d��"ב��X�;q������Ertv
+��Y,�
+����1��d������;;��<梼�z�V�x4%+Bn+�F�^-�R��N\l:=�
+AW"�R�a�8v�i'�1C���!JE�a��4Y� }�m���yR'��A�DF얎@�&?�\�h2V��??8�F�����.�s��x����i__1Ws�$�d�WhT-�D�קa�i��5��e�2����ƃPc2�����J�d�!Hg[{[���Қ�¨¸:1���@��+�/��n����\]�ns`���+
+�ɐ�����LO������*�9s����ѯ}�O����q;��X�܆J*��:��Z���*�T��H��/Ň�lI��l*�ew O8�3��1T«�쒝�
+��U���v��As�BKBKË�B�������w��u�f��k�k����/=�����Kv[��ی�
+�$���2H���<��LC2�(�f���P(h��v_���=��@'J���nCFo�����J��;��Ƽ�s|Y�7�mz��m"�a�4T�����-y�0fU?���3�̴��n"��3�&��&8w<��+)#��΃(�
+�?}ʹwrC�=D�K�@�� �O�U�g*�r��9�/���U�;t�����l�k �5��A��v���9f��*���h`��?�6������|dsgS7�'M����i��˯�Yi����$�
+mi��/�r�R�H����C��<�<��ѹ���X�;i�ڛ�Z����8
+���A
+P�V��Fe c8�L>�d-�(#ˡx�5O�ƣNYI*2V����@jO�H�K
+�S�O40.'��~�������/$��0�Z��rF�ɰ�	J��IB����Q0��٣]�k]Ķ��Q�a�o%E�E�C:td[;go�`�%r��N�k@	.�tp}	�����P��#���6+7v��>�^�
+�&���I�?�����^���s	�h�����jC�,0��s[�T5uN��g�d�rV��g�G�ǲ��ƬÁ��d��N�*Ⲩ���i�ȉ����d�T�z�)$��&4����i�����z�Z��hլV5�W�^R��HM��s�&�X��Յk2	�v.�L�C�ÛӠ2rGm���dZ����b(a�e>�L	2�]�*7q����}�ǸGM'
+��M���݆ݖ����}ܡ$�k`Ж`'agS( ��	h9`y��hS������O.���[������\��[�u��nj�L]���a������r��#ݑ0��j}�n�s����}���A� 9	Ď�
+5�jgl�u�ɑ;a���f�5�Ȉ9���4@V6�m,i6S�zhv�:�Br5ِ��V�(RTe�BH@�)�"�$�R�X�U�4��I~ �5(C{�ɴv�#�������"������b�Fȏ�4P�II�x��=n����t8�#,/�]x�h�̮
+��928�:b�m��P��g��AƯ�!�`S�b���.7����{����k�+�e�q�> �0��L0�0ӆ�xeSK�_��̧��6'A*�~�6�������-���b!��{ҩ��~}ǫ�=�^�.������6�f�	ʓ��ē��^M/�E��c���bM[�V�MԺTN�.���Tɑ�
+��<-���hL+D����"��}փ9��;+B�PV��11�c���G��R�����%��$�,���bi�XW��F�{�k9�`DY>�5dy/C���A��Y#k�ϩV�����7*��O$;^�Th��\��|��2�1�E������bA��ρ��?_�QA&ܐ������2f��Z]�#(�Kg �t@Ê-����52.y߭}vJG�b�|��
+e�ql��:���9�%]f��]˦��Ιf�}rϊ��쨊� �Lr���	q)��0FS����s��j	�n)�<�/
+�90�Y�h��\�Xr�`KJƗe����bz��Q��5�o�����5�8��;`�����0���Ķ�\����[���l�^����tG�1�B�د��V�<.P=��� H��S<�S�'�C��o�f0�O��a�%8`���bB�^L8�$%a�����I)�Ȗ��P�HR�3��z�LR�)J"�%�����0^v��xx�YuQ��+�[$367z�51�ǣNn<8�y��x��3+��գV'��I�	�\�L$��
+附件 []
+
+===== M166 华中师范大学 智能健康交叉科学中心（开放课题） =====
+URL https://ihealth.ccnu.edu.cn/kxyj/kfkt.htm
+旧数据 {"year": "年度待核", "date": null, "amount": "未记录／待核", "qualification": "原通知网页存在访问权限限制，申请资格与资助额度待查", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+开放课题-智能健康交叉科学中心
+首页
+HOME
+中心概况
+ABOUT US
+中心简介
+Introduction
+机构设置
+Organization
+现任领导
+Leadership
+联系我们
+ABOUT US
+新闻中心
+NEWS
+新闻动态
+News
+通知公告
+Announcement
+学术活动
+Seminar
+科研队伍
+TEAM
+教研人员
+Faculty
+联培教授
+Adjunct Professor
+博士后
+Postdoctoral fellow
+工程师
+Engineer
+研究生
+Graduate Student
+行政人员
+Administrative Staff
+科学研究
+RESEARCH
+开放课题
+Open Topic
+科研方向
+Research Area
+实验装备
+Facilities
+科研成果
+Achievements
+技术应用
+Technology Transfer
+招贤纳士
+JOIN US
+专任教师
+JOIN US
+人才引进
+JOIN US
+博士后
+JOIN US
+博士研究生
+JOIN US
+首页
+HOME
+中心概况
+ABOUT US
+中心简介
+Introduction
+机构设置
+Organization
+现任领导
+Leadership
+联系我们
+ABOUT US
+新闻中心
+NEWS
+新闻动态
+News
+通知公告
+Announcement
+学术活动
+Seminar
+科研队伍
+TEAM
+教研人员
+Faculty
+联培教授
+Adjunct Professor
+博士后
+Postdoctoral fellow
+工程师
+Engineer
+研究生
+Graduate Student
+行政人员
+Administrative Staff
+科学研究
+RESEARCH
+开放课题
+Open Topic
+科研方向
+Research Area
+实验装备
+Facilities
+科研成果
+Achievements
+技术应用
+Technology Transfer
+招贤纳士
+JOIN US
+专任教师
+JOIN US
+人才引进
+JOIN US
+博士后
+JOIN US
+博士研究生
+JOIN US
+首页
+/
+科学研究
+/
+开放课题
+科学研究
+RESEARCH
+开放课题
+科研方向
+实验装备
+科研成果
+技术应用
+人才招聘
+欢迎有志青年加入中心共创未来！
+了解详情
+最新活动
+交叉科学论坛
+智能科学大讲堂（第三期）——用科学可视化实现科学的高效传播
+时间：2025-11-26 14:30:00
+地点：10号楼一楼报告厅
+了解详情
+2026-03
+23
+关于召开华中师范大学智能健康交叉科学中心第一批开放课题答辩评审会的通知
+各相关申报单位及申请人：        依据《华中师范大学智能健康交叉科学中心开放课题申报通知》的相关要求，为进一步推动多学科深度交叉融合，遴选具有创新性和应用价值的优秀课题，经中心研究决定，将于2026年4月7日召开开放课题答辩评审会。现将有关事项通知如下：一、会议时间与地点        1. 会议时间：2026年4月7日（星期二）        2. 会议地点：华中师范大学文科科研楼南楼1511室二、申报材料提交截止时间        2026年4月3日（...
+2026-01
+25
+华中师范大学智能健康交叉科学中心开放课题申报通知
+为贯彻落实习近平总书记关于“四个面向”讲话精神，华中师范大学智能健康交叉科学中心（以下简称“中心”），坚持以国家和湖北省的重大需求为牵引，以交叉科学研究带动核心技术体系突破，推动相关底层系统研发、顶层应用变革升级，推动学科交叉与人才培养的有机协调互动，促进国内外相关学术领域的交流合作，创造良好的交叉科学研究氛围。中心围绕“理论体系构建-系统集成方法-制造技术-重大应用”这一主线，构建起完整的器件与装备理论突破、...
+首页上页1下页尾页
+© 2025-2026 Center for Intelligent Health Interdisciplinary Science. All Rights Reserved.
+联系我们
+地址：
+湖北省武汉市洪山区珞喻路152号华中师范大学文科科研楼南楼15楼
+电话：
+027-67861676
+E-Mail：
+ihealth@ccnu.edu.cn
+关注我们
+微信扫描二维码关注官方公众账号
+© 2025 Center for Intelligent Health Interdisciplinary Science. All Rights Reserved.
+附件 [{"text": "2026-03\r\n                            23\r\n                        \r\n                        \r\n                            \r\n                                关于召开华中师范大学智能健康交叉科学中心第一批开放课题答辩评审会的通知\r\n                            \r\n                            \r\n                                各相关申报单位及申请人：        依据《华中师范大学智能健康交叉科学中心开放课题申报通知》的相关要求，为进一步推动多学科深度交叉融合，遴选具有创新性和应用价值的优秀课题，经中心研究决定，将于2026年4月7日召开开放课题答辩评审会。现将有关事项通知如下：一、会议时间与地点        1. 会议时间：2026年4月7日（星期二）        2. 会议地点：华中师范大学文科科研楼南楼1511室二、申报材料提交截止时间        2026年4月3日（...", "url": "https://ihealth.ccnu.edu.cn/info/1491/2051.htm"}]
+
+===== M167 东南大学 移动通信全国重点实验室 =====
+URL https://ncrl.seu.edu.cn/2026/0803/c15598a578768/page.htm
+旧数据 {"year": "2027", "date": "2026-09-25", "amount": "5-10万元", "qualification": "未核实具体资格；原始混合摘要在本项目“原始资格/来源摘要”字段保留", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+移动通信全国重点实验室  2027年度开放课题申请指南
+首页
+实验室概况
+简介
+工作环境
+仪器设备
+管理条例
+大事记
+学术梯队
+学术委员会
+教学科研队伍
+客座及流动人员
+科学研究
+研究方向
+科研项目
+主要科研成果
+最新一期开放课题
+人才培养
+招生信息
+081000 信息与通信工...
+085208 电子与通信工...
+085400 电子信息(专业...
+开放运行
+开放课题汇总
+访问学者
+科学传播
+学术交流
+邀请著名学者讲学
+主持重要学术会议
+学术会议特邀报告
+参加国内外学术会议
+移动通信全国重点实验室  2027年度开放课题申请指南 发布人:    王瀚颖   发布时间:  2026-08-03      浏览次数:      移动通信全国重点实验室2027年度开放课题申请指南一、基本信息资助对象：国内高等院校、科研院所等具有博士学位的正式在编人员；以下人员不具有申请资格：正承担本室开放课题，目前尚未结题者。曾获得过本室开放课题资助，但未按任务书要求完成规定任务者。已获得过本室3次（含）以上开放课题资助者。资助额度：A类（5-7万元），B类（8-10万元）。资助年限：2年。资助内容：见后“六、2027年度拟资助研究方向”。二、申请流程请在本室网站下载申请书模板，并撰写申请书和申请书摘要。申请书内容应要明确具体。请在2026年9月25日之前将撰写好的申请书、申请书摘要的电子文档发至如下地址：lianmeng@seu.edu.cn（练老师），并将纸质申请书一份签字盖章后，用顺丰邮寄到如下地址：收件人：练老师； 手机：15951800966地址：江苏省南京市江宁区中国江宁无线谷A1号楼单位：东南大学移动通信全国重点实验室邮政编码：211111说明：1）邮寄纸质申请书的邮费请自行付清，本室不接收“对方支付邮费”的快递邮件；2）申请书和申请书摘要的电子版请严格按照“学校-姓名-申请书/申请书摘要”的格式命名。申请书的纸质版需要加盖依托单位公章，并且用订书机装订完整，申请书摘要单独一份不需要盖章。三、评审流程及原则本室收到开放课题申请后，将组织有关专家对申请书进行评审，由学术委员会委员在年度学术委员会会议上根据专家评审情况投票表决是否资助以及资助额度。评审原则：优先资助具有创新意义的课题以及具有较强科研实力、能够发表高质量科研论文的申请者。对曾获得本室开放课题资助的申请者，已资助课题的任务完成情况将作为决定是否资助的重要参考。确定资助名单后，将通过邮件正式通知申请人。四、任务要求资助额度为分两类：A类（5-7万元），B类（8-10万元）。A类需在SCI、EI期刊或EI会议上发表学术论文不少于6篇，其中SCI收录不少于3篇；B类需在SCI、EI期刊或EI会议上发表学术论文不少于8篇，其中SCI收录不少于4篇。申请时应选择类型（A类或B类），具体资助额度由学术委员会根据本年度开放课题基金总额以及申请情况决定。五、课题执行每年12月15日前需提供年度研究进展报告。最后一年提供结题报告（含本单位财务处盖章的经费使用情况表。）六、2027年度拟资助研究方向（在以下五个研究方向中选择一个研究方向撰写申请书，题目可自拟。）01、智能网络与系统理论及应用探索无蜂窝（Cell-Free）新型无线网络架构及大数据采析体系，支持全频段、全域智能融合协同组网；探索资源智能协同利用理论与技术，支持全频段频谱资源、全场景系统资源的高效利用；探索数据-模型双驱动的精准业务适配理论与技术，适应全行业全社会多样性差异化泛在应用；探索网络内生安全机理及理论方法，强化网络空间安全保障。02、无线信道建模与信息理论探明典型频段和场景下大规模无线通信信道的新特性，建立典型频段和场景下统一的大维信道统计表征模型；从信息理论上探明大规模无线通信速率和用户终端容量极限性能以及各种实际约束下系统可达性能，揭示出典型频段和场景下系统频谱和功率效率、速率和用户容量与系统配置之间的理论关系。03、普适无线传输理论与技术面向6G极低时延高速无线传输，探索“空时互换”及空时二维信道香侬信息理论，研究极低时延、极高可靠性空时二维信道编码理论及容量界逼近技术；探索具有普适性的大维空时传输理论与技术，解决信道信息获取瓶颈、系统复杂性以及对典型频段和场景的适应性；探索具有普适性的大维随机接入理论与技术，解决频谱和功率有效性、实时性及可靠性等问题；探索大维计算理论与技术，解决随天线数呈多次幂增长的大维计算瓶颈问题。04、移动通信核心器件与芯片探索低功耗低成本射频集成设计理论与技术，支撑轻量化通信前端系统设计；探索基带处理共性技术架构以及基带芯片自动设计与灵活配置的理论与技术，高效支持各种系统配置和各种业务条件下的基带信号处理，支撑轻量化基带系统设计。05、光子无线移动通信探索光纤使能的大规模光移动通信通信理论与技术，实现无线接入网与光纤固网的无缝对接，以高能效及低建设和运营成本，满足6G移动通信巨流量技术需求以及工业应用等场景低延时高可靠技术需求；为未来移动通信长期发展，开拓全新的方向。相关附件：东南大学移动通信全国重点实验室开放课题申请书摘要.docx东南大学移动通信全国重点实验室开放课题申请书.docx  版权所有：东南大学
+移动通信国家重点实验室 copyright@2006 http://ncrl.seu.edu.cn .all rights reserved.
+附件 [{"text": "东南大学移动通信全国重点实验室开放课题申请书摘要.docx", "url": "https://ncrl.seu.edu.cn/_upload/article/files/7b/4a/1637a22b407f82cd64682a9e86dc/eef72041-94e1-486d-94a0-020532e721bb.docx"}, {"text": "东南大学移动通信全国重点实验室开放课题申请书.docx", "url": "https://ncrl.seu.edu.cn/_upload/article/files/7b/4a/1637a22b407f82cd64682a9e86dc/8bb44729-2e58-438b-b8e8-56754517959a.docx"}]
+
+===== M168 东南大学 能源热转换及其过程测控教育部重点实验室 =====
+URL https://etcc.seu.edu.cn/2026/0428/c7052a566005/page.htm
+旧数据 {"year": "2026", "date": "2026-05-15", "amount": "2万元", "qualification": "未核实具体资格；原始混合摘要在本项目“原始资格/来源摘要”字段保留", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+2026年度实验室开放基金申请通知
+首页
+实验室概况
+学术机构
+科学研究
+合作交流
+人才培养
+联系我们
+English
+2026年度实验室开放基金申请通知
+发布时间：
+2026-04-28
+浏览次数：
+10
+为了促进实验室对外开放，加强与国内外同行交流与合作，吸引和凝聚国内外优秀学者，能源热转换及其过程测控教育部重点实验室现公开发布2026年开放课题基金申请指南，热忱欢迎和邀请相关领域的国内外学者、科研人员与实验室开展合作研究。一、主要资助方向    1.煤高效低碳燃烧理论与技术  2.可再生能源高效热转化与存储理论与技术       3.低碳综合能源系统测控理论与技术二、申报注意事项1.申请人应为热能工程或相关专业，并具有相关研究工作的能力和经历；与承担单位工作和本人承担的课题及成果没有冲突，已获得本实验室开放课题者不得重复申请。2.申请者根据重点实验室上述资助研究方向，认真填写申请书（见附件）。实验室开放基金将优先资助立论清晰、目标明确、研究内容具体、创新性强的研究课题。3.每项开放课题资助额度不超过2万元，研究期限2026.6~2027.5。4.课题研究所获得的成果由实验室和申请者及其所在单位共享，课题相关成果或论文发表必须标注“能源热转换及其过程测控教育部重点实验室开放课题资助”，英文论文应标注“Funded by Open Foundation of KeyLaboratory of Energy Thermal Conversion and Control of Ministry of Education”。5.申请截止日期：2026年5月15日。请各位申请人于截止日期前将电子版申请书发送至101012934@seu.edu.cn。三、联系方式地址：江苏省南京市江宁区东南大学九龙湖校区能环学院807邮编：211102联系人：李明电话：15365116590Email：101012934@seu.edu.cn附件：开放课题申请书.doc
+Copyright © 2012 东南大学能源热转换及其过程测控教育部重点实验室
+技术支持：东南大学党委宣传部
+附件 [{"text": "开放课题申请书.doc", "url": "https://etcc.seu.edu.cn/_upload/article/files/8f/9f/4b4fd1704800874a7670aed83a9b/0c7d7191-dd25-4502-ba47-7801cb05b205.doc"}]
+
+===== M169 南京航空航天大学 空间智能感知与大模型应用联合实验室 =====
+URL https://kyy.nuaa.edu.cn/2026/0604/c5817a400921/page.htm
+旧数据 {"year": "2026", "date": "2026-06-30", "amount": "20万元、一般项目约10万元", "qualification": "未核实具体资格；原始混合摘要在本项目“原始资格/来源摘要”字段保留", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+关于发布空间智能感知与大模型应用联合实验室2026年度开放基金课题申报指南的通知
+南航主页办公网 科研系统 邮件入口管理入口
+机构设置
+部门职责
+机构设置
+机构人员
+科研秘书
+服务指南
+职权清单
+科技政策
+上级科技政策
+学校科技政策
+科研基地
+国家级科研基地
+省部级科研基地
+协同创新中心
+校内科研机构
+技术转移
+业务流程
+合同审批
+项目管理
+涉密项目
+质量管理
+成果鉴定
+成果申报
+专利管理
+软件登记
+学术论文
+成果转化
+常见问题
+质量管理
+法规制度
+证书服务
+管理系统
+质管常见Q&A
+党建学习
+支部建设
+党建学习
+联系我们
+机构设置
+部门职责
+机构设置
+机构人员
+科研秘书
+服务指南
+职权清单
+科技政策
+上级科技政策
+学校科技政策
+科研基地
+国家级科研基地
+省部级科研基地
+协同创新中心
+校内科研机构
+技术转移
+业务流程
+合同审批
+项目管理
+涉密项目
+质量管理
+成果鉴定
+成果申报
+专利管理
+软件登记
+学术论文
+成果转化
+常见问题
+党建学习
+支部建设
+党建学习
+联系我们
+通知公告
+通知公告
+当前位置：首页  通知公告
+关于发布空间智能感知与大模型应用联合实验室2026年度开放基金课题申报指南的通知
+时间:2026-06-04来源:科学技术研究院点击:213次
+“空间智能感知与大模型应用联合实验室”（以下简称“联合实验室”）由环天智慧科技股份有限公司与南京航空航天大学共同筹建。联合实验室瞄准学科前沿，面向商业航天对空间海量数据智能处理应用的迫切需求，开展以空间智能感知与大模型技术为特色的应用基础与高技术创新研究，交叉联合、协力攻关，力争在空间智能感知与大模型应用交叉学科领域取得具有原创性的研究成果，成为空间智能感知与大模型应用领域高层次人才培养基地和科学研究基地，为国民经济建设和国家安全提供强有力的科学和技术保障。一、申报条件与要求（一）申请人须在国内科研机构、高等院校、企事业单位从事与本联合实验室开放基金研究方向相关领域研究工作，具有与申请内容有关的较为扎实的研究基础和工作条件。（二）每位申请人仅限申报一项基金项目（含在研）。须与联合实验室人员共同开展课题研究。（三）申请人需具有良好的科研诚信记录，无科研学术不端行为（如抄袭、篡改数据、虚假成果等）。二、资助额度与周期（一）资助额度本次开放基金课题设重点项目5项，每项的资助金额为20万元；一般项目10项，每项的资助金额为10万元。项目获得资助后，项目负责人自动成为本实验室的客 座研究人员。（二）研究周期课题研究时限均为2年。三、研究方向与内容围绕基于“人工智能+卫星遥感”的理论研究和技术攻关，重点资助以下方向： 方向一：遥感AI大模型与智能处理1.1遥感多模态基础大模型架构与数据集构建1.2星上算力及大模型边缘部署1.3 基于遥感大模型的实时三维重建与场景感知方向二：星座组网规划与卫星技术2.1 星座组网优化与任务规划2.2 卫星自主协同控制与健康管理2.3 星间激光链路与星地激光数传技术2.4 卫星高效热控技术方向三：空天地一体化卫星应用技术3.1 地面卫星微弱信号探测与定位技术3.2 通导融合星载GNSS接收技术3.3 面向碳交易的通导感算一体化监测技术3.4空天地通信与组网技术四、申报流程与材料    申请人根据本指南要求填写立项申请书。立项申请书（一式三份加盖单位公章）寄送到南京市江宁区南京航空航天大学航天学院A425室，并将电子版以“单位-姓名-课题名称”命名，发送至wangbo_nuaa@nuaa.edu.cn，申请书格式见附件。（一）申请书提交截止日期为2026年6月30日，过期不予受理。（二）实验室学术委员会择期组织对申请项目进行评审，通过立项评审后，经联合实验室确认并公示无异议，签订合同任务书后项目正式启动。五、经费管理（一）开放课题经费按课题研究进度拨款。拨款方式：开放基金正式签订合同后拨付30%给课题负责人所在单位；通过中期验收后拨付30%；通过结题验收后拨付40%。（二）开放课题经费主要用于课题科研工作直接需要费用，专款专用，原则上不列支通用软件和设备费。在财政制度规定范围内，课题承担者有权按照工作计划的安排支配费用的使用。（三）对于经费使用不合理或不按进度完成计划课题者，实验室有权调整或停拨资助经费。六、成果管理（一）开放基金课题资助项目所取得的成果（包括收集到的资料、数据、研究报告、相应软件及其测试检验报告等）归研究者与本实验室共同所有，项目结题时相关成果应提交实验室留档。（二）重点项目需围绕课题发表1篇SCI（二区及以上）论文和授权发明专利1项；一般项目需围绕课题发表1篇核心期刊论文和授权发明专利1项。（三）实验室资助发表的所有知识产权成果须与实验室人员共同完成，须署名本实验室为第一完成单位，且实验室人员为第一作者或通讯作者；论文须在论文首页页脚（题注）第一标署“空间智能感知与大模型应用联合实验室开放课题资助（课题编号：XXXXXX ）”。英文标注为：Supported by Open Project Funds for the Joint Laboratory of Spatial Intelligent Perception and Large Model Application (Grant No. XXXXXX).七、联系方式    联系人：    王  博15380759943    江雨韩18696143266    葛立波15850524302                              科学技术研究院                              2026年6月4日空间智能感知与大模型应用联合实验室-申报书模板.docx
+首页
+机构设置
+部门职责
+机构设置
+机构人员
+科研秘书
+服务指南
+职权清单
+党建学习
+支部建设
+党建学习
+科技政策
+上级科技政策
+学校科技政策
+科研基地
+国家级科研基地
+省部级科研基地
+协同创新中心
+校内科研机构
+技术转移
+业务流程
+合同审批
+项目管理
+涉密项目
+质量管理
+成果鉴定
+成果申报
+专利管理
+软件登记
+学术论文
+成果转化
+常见问题
+联系我们
+微信公众号
+首页
+机构设置
+党建学习
+科技政策
+科研基地
+技术转移
+业务流程
+微信公众号
+Copyright @ 2018 南京航空航天大学科学技术研究院 版权所有
+附件 [{"text": "服务指南", "url": "https://kyy.nuaa.edu.cn/fwzn/list.htm"}, {"text": "服务指南", "url": "https://kyy.nuaa.edu.cn/fwzn/list.htm"}, {"text": "空间智能感知与大模型应用联合实验室-申报书模板.docx", "url": "https://kyy.nuaa.edu.cn/_upload/article/files/51/2c/c05057d245a78426f6130c710d13/d739429c-9606-4761-a5c5-0dcb1a66f8f6.docx"}, {"text": "服务指南", "url": "https://kyy.nuaa.edu.cn/fwzn/list.htm"}]
+
+===== M170 南京大学 关键地球物质循环与成矿全国重点实验室 =====
+URL https://lamd.nju.edu.cn/info/1021/1223.htm
+旧数据 {"year": "2026", "date": "2026-04-15", "amount": "10万元", "qualification": "未核实具体资格；原始混合摘要在本项目“原始资格/来源摘要”字段保留", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+2026年度实验室开放研究基金申请通知-南京大学 关键地球物质循环与成矿全国重点实验室
+English
+首页
+实验室概况
+实验室简介
+组织机构
+历届主任
+学术委员会
+学术顾问委员会
+研究方向
+人才队伍
+固定人员
+流动人员
+研究团队
+科学研究
+自主课题
+开放基金
+科研成果
+科研进展
+服务平台
+仪器设备
+分析测试预约
+中国地学界电子探针分析技术平台
+开放交流
+学术会议
+学术报告
+科学普及
+党建工作
+组织概况
+工作动态
+学习资料
+下载专区
+首页
+新闻动态
+通知公告
+实验室概况
+实验室简介
+组织机构
+历届主任
+学术委员会
+学术顾问委员会
+研究方向
+人才队伍
+固定人员
+流动人员
+研究团队
+科学研究
+自主课题
+开放基金
+科研成果
+科研进展
+服务平台
+仪器设备
+分析测试预约
+中国地学界电子探针分析技术平台
+开放交流
+学术会议
+学术报告
+科学普及
+党建工作
+组织概况
+工作动态
+学习资料
+下载专区
+English
+首页
+新闻动态
+通知公告
+通知公告
+当前位置：
+首页
+->
+通知公告
+->
+正文
+2026年度实验室开放研究基金申请通知
+发布日期：2026-04-01
+2026年度关键地球物质循环与成矿全国重点实验室开放研究基金申请通知关键地球物质循环与成矿全国重点实验室依托单位为南京大学，2025年1月通过优化重组获批全国重点实验室。实验室聚焦矿产资源保障国家战略，围绕关键地球物质循环与成矿动力学、圈层相互作用与金属成矿机制、物质循环-成矿示踪与利用新技术等方面开展研究，以提升国家资源保障能力。为进一步推动我国关键地球物质循环与成矿相关领域的基础科学研究和理论创新，充分发挥国家重点实验室国内外合作和高层次人才培养的作用，吸引海内外人才来实验室工作或利用实验室的条件开展高层次、高水平的基础研究，取得高水平的创新成果，实验室特设立开放研究基金。一、实验室主要研究方向与开放基金支持方向1. 关键地球物质循环与成矿动力学聚焦重大地质事件和重要成矿区带，以地球系统科学前沿问题为导向，研究深时、深地物质循环过程，阐明成矿动力学背景。主要研究内容包括：（1）深时物质循环与重大地质事件；（2）深地物质循环与成矿动力学机制。2. 圈层相互作用与金属成矿机制聚焦花岗岩、火山岩与壳幔演化及成矿研究的科学前沿，发挥本实验室在花岗岩成岩成矿、表生作用与关键矿产、壳幔相互作用与成矿的优势，重点解决“跨圈层物质循环与金属矿产聚集的行为与机制”核心科学问题。主要研究内容包括：（1）壳幔相互作用与花岗岩成岩成矿；（2）大陆风化与表生矿产；（3）成矿系统与成矿机制。3. 物质循环-成矿示踪与利用新技术充分发挥综合性大学多学科交叉的优势，研发物质循环-金属矿产示踪与利用的新技术新方法，为金属矿产勘查、绿色开发与高效利用提供新途径。主要研究内容包括：（1）物质循环与成矿过程定量示踪与智能表征；（2）矿产资源高效开发利用与城市矿产。二、开放基金申请办法1. 实验室诚邀海内外相关领域的学者围绕实验室主要研究方向申请课题，来本室开展合作研究，本室将按照“公平公正、择优支持”的原则，采取自由申请、实验室组织评审的程序遴选开放基金课题。2. 2026年度，实验室拟根据实验室主要研究方向设立15-20项左右的开放基金课题，平均资助额度约10万元。研究期限一般为2年，项目执行期为2026.5.1- 2027.12.31。3. 2026度，实验室拟根据实验室主要研究方向面向海外优秀学者设立5-8项左右的开放基金课题，平均资助额度约10万元。研究期限一般为2年（2026.5.1- 2027.12.31），或根据实际情况在两年的范围内进行设计。非教授、副教授或其他tenure职称申请者需提供2名教授的推荐信。4. 欢迎海内外学者自带课题利用本实验室仪器设备开展客座研究，实验室将提供必要的研究条件和技术服务。5.申请书经所在单位同意签字盖章（适用于国内申请者）后，于2026年4月15日前一式2份寄至实验室，并将电子版发邮件至Email：liuning0807@nju.edu.cn（刘宁）。6. 联系方式：邮寄地址：江苏省南京市栖霞区仙林大道163号南京大学仙林校区朱共山楼 卞玮 收 电话 18012128508，邮编：210023附：2026年度实验室开放基金申请书0401.doc
+上一条：
+2026年度重点实验室自主课题申请通知
+下一条：
+2025年度关键地球物质循环与成矿全国重点实验室开放研究基金资助结果
+地址：南京市栖霞区仙林大道163号南京大学仙林校区朱共山楼
+邮编：210046
+Copyright@2026 All Rights Reserved 南京大学关键地球物质循环与成矿全国重点实验室
+附件 [{"text": "2026年度实验室开放基金申请书0401.doc", "url": "https://lamd.nju.edu.cn/__local/8/D4/9F/EA50AD2BEDA431DB458D250E4A1_49E6C93C_17E00.doc?e=.doc"}, {"text": "2026年度重点实验室自主课题申请通知", "url": "https://lamd.nju.edu.cn/info/1021/1224.htm"}]
+
+===== M171 南京医科大学 生殖医学与子代健康全国重点实验室 =====
+URL https://sklrm.njmu.edu.cn/2026/0714/c1970a304596/pagem.htm
+旧数据 {"year": "年度待核", "date": "2026-08-14", "amount": "未记录／待核", "qualification": "未核实具体资格；原始混合摘要在本项目“原始资格/来源摘要”字段保留", "collaboration": "固定成员合作要求待核", "funds": "是否外拨待核", "period": "研究周期待核", "outputs": "成果与署名规则待核", "ip": "知识产权归属待核", "materials": "申请书、盖章及提交方式待核"}
+正文
+生殖医学与子代健康全国重点实验室开放课题申报指南
+导航
+首页
+实验室简介
+实验室机构
+领导班子
+管理部门
+岗位职责
+学术委员会
+出生队列
+研究方向
+生殖调控的分...
+生殖障碍重大...
+重大出生缺陷...
+子代健康影响...
+研究骨干
+胡志斌
+沙家豪
+王学浩
+刘嘉茵
+孔祥清
+郭雪江
+李朝军
+霍然
+李晶
+张爱华
+王强
+吴鑫
+夏彦恺
+刘妍
+马红霞
+王守林
+王晓明
+王美林
+沈彬
+顾爱华
+袁艳
+杨杨
+杨硕
+刘明兮
+张军
+卞舒惠
+冯睿芝
+王曦
+华鹏
+贾龙飞
+顾亚云
+饶钦辉
+研究成果
+学术交流
+仪器设备
+规章制度
+建设与运行管...
+学术委员会工...
+自主研究课题...
+开放基金课题...
+访问学者管理...
+博士后进站申...
+技术人员工作...
+实验室管理制...
+安全卫生管理...
+生物安全管理...
+生物安全操作...
+易燃易爆、精...
+废弃物收集管...
+培养室管理制...
+公共仪器平台...
+研究生奖学金...
+出生队列
+数据库及工具
+学生工作
+党群工作
+党建工作
+分工会工作
+生殖医学与子代健康全国重点实验室开放课题申报指南
+时间：2026-07-14浏览：33
+生殖医学与子代健康全国重点实验室作为国内在生殖健康领域的前沿研究机构，致力于推动生殖科学的基础研究与临床应用发展。实验室旨在汇聚多方智慧，共同探索生殖健康领域的未知与挑战，加速生殖健康领域关键技术的创新与突破，为加快发展新质生产力，实现“健康中国”战略做出重要贡献。实验室积极贯彻全国重点实验室“开放、流动、联合、竞争”的运行机制，促进实验室与国内外同行的合作和交流，加强基础与临床的结合，推动我国生殖健康领域研究和原始创新，使重点实验室成为高水平科学研究和学术交流的基地。结合本实验室研究实际，现发布2026年开放课题指南，具体要求如下：一、资助方向本实验室主要资助符合实验室研究方向，又具有创新意义的基础与临床研究项目。主要资助如下研究方向：方向一：生殖调控的分子基础与生育力促进技术创新研究内容：（1）配子发生与早期胚胎发育的分子基础及调控网络解析；（2）生殖微环境与配子/胚胎的动态交互通讯与功能调控机制研究；（3）生殖细胞与早期胚胎质量的分子评估体系及生育力促进技术创新。方向二：生殖障碍重大疾病机制与临床诊疗策略优化研究内容：（1）生殖障碍重大疾病的临床表型谱系、分子分型及病因学研究；（2）全身系统性稳态失衡与生殖微环境的交互调控机制与干预研究；（3）基于高质量临床证据与人工智能技术的生殖障碍重大疾病诊疗策略优化。方向三：重大出生缺陷的生殖/发育源性研究研究内容：（1）出生缺陷发生的遗传学机制与防治新技术研究；（2）出生缺陷的表观遗传机制研究；（3）神经发育障碍性疾病的生命早期暴露因素解析与交互机制研究。方向四：子代健康影响因素与健康促进研究研究内容：（1）子代健康分子图谱及影响因素研究；（2）辅助生殖子代健康的风险评估与健康促进策略研究；（3）神经发育障碍性疾病的早期风险预测与精准干预研究。二、申请条件和申请程序（一）开放课题申请条件1. 申请人应为本室固定人员以外的国内外各高等院校、科研机构和临床医院的广大科技工作者，一般应具有博士学位或高级职称，且在相关领域已积累良好的前期研究基础。每位申请者每年度限申请一个开放课题。项目负责人正在承担本实验室开放课题尚未结题的，不能再次申报。2. 申请者必须选择一位与本实验室研究方向相近、相关或互补的固定研究人员（副教授以上）作为项目合作者，并开展实质性合作，申请书中须有明确的合作研究计划。本实验室固定研究人员作为项目合作者只能参与申报一项开放课题，且承担的开放课题限项一项。3. 课题申请内容需与本重点实验室发布的开放课题资助方向一致，具有创新性、可行性和科学价值。申请人需展示其在相关领域的研究经验和成果，以及团队成员的专业背景和合作基础，优先支持前期已有合作基础的项目。4. 研究涉及人体研究、实验动物、人工智能的项目，应严格遵守科技伦理、实验动物、人类遗传资源管理等有关规定的要求。开放课题不受理涉密项目，申报材料中有涉密内容的需要作脱密处理后再申报。（二）开放课题申请程序1. 申请人依据研究方向，凝练科学问题，根据开放课题申请指南和重点实验室的研究方向，自行确定项目名称并如实填写《生殖医学与子代健康全国重点实验室开放课题申请书》（见附件1），经所在单位科研主管部门签署意见，加盖公章后将申请书（纸质版）一式四份，提交至重点实验室科研管理与学科建设办公室，同时将申请书电子版发送到 lilufan@njmu.edu.cn，邮件主题请注明“开放课题申请- 申请者姓名-本室合作人姓名”。2. 开放课题的评审由实验室科研管理与学科建设办公室进行形式审查，合格后实验室组织专家对申请任务书进行审查、评审，择优资助，确定资助课题及资助金额后，评审结果将通知申请者。未通过者不再另行通知。3. 项目获批后，申请人与重点实验室签订《生殖医学与子代健康全国重点实验室开放课题任务书》，由申请者所在单位签署审查意见并盖章一式四份提交至重点实验室科研管理与学科建设办公室。三、资助额度与实施周期1. 开放课题的资助强度为5-20万元，研究周期为2年。具体资助项目数量视申请情况及申请书质量等确定，原则上不超10项。2. 本次开放课题研究工作开始日期为2026年10月1 日，结题日期为 2028年10月31日。项目资助期内未完成研究工作的，可申请延期结题，最长延长时间为一年。3. 本次开放课题申请受理截止时间 2026年8月14日24 点（电子申请书以邮件接收到时间为凭，纸质申请书如邮寄以邮戳时间为准）。自本“开放基金课题申报指南”公布之日起，开始接受申请。四、成果形式及要求1. 为体现合作交流效果，开放课题所发表论文要求：课题负责人须为第一（含共同第一）或通讯（含共同通讯）作者，实验室合作专家为通讯（含共同通讯）或其他作者。结题要求共同发表至少1篇南京医科大学认定的高水平期刊（中科院分区2区及以上）论文，其他成果指标按照开放课题申请及任务书执行。2. 凡在实验室开放课题资助下发表的论文或取得的其它成果，均需标注重点实验室名称“生殖医学与子代健康全国重点实验室”（英文“State Key Laboratory of Reproductive Medicine and Offspring Health”）和开放课题的课题号，专利申请、技术成果转让、申报奖励等按国家有关规定办理。未按以上方式标注的，验收时不计入开放课题成果。3. 获批项目申请人需在资助期开始至结束后一年内来实验室以PPT 报告形式做学术交流 1 次以上，具体由实验室/实验室合作专家联系安排。4. 实验室按照《生殖医学与子代健康全国重点实验室开放课题管理办法》相关规定管理开放课题，申请人在课题申请和开展过程中需执行上述文件规定要求，按期提交研究工作阶段报告，简要汇报阶段完成情况、主要阶段成果。5. 开放课题资助经费用于开展科研业务费、材料费和往来差旅费等实验研究所需费用。使用开放课题资助经费应符合实验室开放课题管理办法规定。五、联系方式有意申请者，请访问生殖医学与子代健康全国重点实验室官方网站下载申请书模板，并按照指南要求准备申请材料。如有疑问，可通过电子邮件或电话联系实验室科研管理与学科建设办公室。联系地址：南京市龙眠大道101号，生殖医学与子代健康全国重点实验室邮编：211166联系人：厉璐帆Email: lilufan@njmu.edu.cn电话：025-86869502       生殖医学国家重点实验室开放课题招标指南-2026.pdf       附件1：生殖医学与子代健康全国重点实验室开放课题2026年度申报书.doc
+友情链接
+南京医科大学
+科技部
+国家自然科学基金委
+干细胞与生殖生物学国家重点实验...
+山东大学妇儿与生殖健康研究院
+版权所有 南京医科大学 ,All Right Reserved.
+地址：南京市江宁区龙眠大道101号 电话：86869502    邮政编码：211166
+附件 [{"text": "生殖医学国家重点实验室开放课题招标指南-2026.pdf", "url": "https://sklrm.njmu.edu.cn/_upload/article/files/be/07/823561504d38a66ed47bbf7eadb3/1aedab2b-0286-4611-ba1a-eb30e2a21c78.pdf"}, {"text": "附件1：生殖医学与子代健康全国重点实验室开放课题2026年度申报书.doc", "url": "https://sklrm.njmu.edu.cn/_upload/article/files/be/07/823561504d38a66ed47bbf7eadb3/23f5a92a-ae21-4efe-a984-71f42412e970.doc"}]

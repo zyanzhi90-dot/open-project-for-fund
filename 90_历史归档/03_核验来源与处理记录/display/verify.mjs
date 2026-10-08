@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import {FileBlob,SpreadsheetFile} from '@oai/artifact-tool';
+const root=process.cwd();
+const qa=JSON.parse(await fs.readFile(root+'/tmp/display/qa.json','utf8'));
+const b=await SpreadsheetFile.importXlsx(await FileBlob.load(qa.file));
+const out=await b.inspect({kind:'table',range:"'01申报总览'!A1:F4",tableMaxRows:4,tableMaxCols:6,maxChars:1400});
+console.log(out.ndjson);
+console.log((await b.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#N/A|#NUM!|#NULL!|#SPILL!|#CALC!',options:{useRegex:true,maxResults:10},maxChars:1200})).ndjson);
+const png=await b.render({sheetName:'01申报总览',range:'A1:F8',scale:1.25,format:'png'});
+await fs.writeFile(root+'/tmp/display/final.png',new Uint8Array(await png.arrayBuffer()));
+console.log('Saved workbook readback and render completed.');

@@ -1,0 +1,11 @@
+{
+  "url": "https://ailab.gznc.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2040251211&wbfileid=7944664",
+  "name": "贵州省人工智能与类脑计算全省重点实验室2025年度开放课题申报附件.zip",
+  "ids": [
+    "M127"
+  ],
+  "referer": "https://ailab.gznc.edu.cn/info/1262/1091.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Connection timed out after 7001 milliseconds\r\n"
+}

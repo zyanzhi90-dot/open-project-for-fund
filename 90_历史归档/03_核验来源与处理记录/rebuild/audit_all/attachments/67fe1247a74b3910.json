@@ -1,0 +1,11 @@
+{
+  "url": "https://csicdgz.bit.edu.cn/docs/2026-07/1286a9cae96f4479943644dceb071e55.docx",
+  "name": "申请书.docx",
+  "ids": [
+    "M101"
+  ],
+  "referer": "https://csicdgz.bit.edu.cn/tzgg/6e35c0a49e1740b79cd16785597940ff.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Connection timed out after 7001 milliseconds\r\n"
+}

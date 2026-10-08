@@ -1,0 +1,11 @@
+{
+  "url": "https://jqr.sasu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2133044111&wbfileid=14549983",
+  "name": "附件2：警用智能机器人达州市重点实验室2026年度开放课题任务书.docx",
+  "ids": [
+    "M060"
+  ],
+  "referer": "https://jqr.sasu.edu.cn/info/1009/1061.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18002 milliseconds with 0 bytes received\r\n"
+}

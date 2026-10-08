@@ -1,0 +1,122 @@
+Internal Error ()
+citeturn212view0 [wordlim: 200] Source: open({"ref_id":"https://airs.cuhk.edu.cn/article/1429","lineno":null}); Total lines: 1
+L0: Failed to fetch https://airs.cuhk.edu.cn/article/1429: (400) Timeout fetching
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn212view1 [wordlim: 200] Source: open({"ref_id":"https://chongjian-lab.cqu.edu.cn/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://chongjian-lab.cqu.edu.cn/: (412) Precondition Failed
+--------------------------------------------------------------------------------
+能源与电气工程学院 (https://seee.qhu.edu.cn/tzgg/index.htm)
+citeturn212view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://seee.qhu.edu.cn/tzgg/index.htm","lineno":null}); Total lines: 128
+L0: [Input] [Input: 站内搜索]
+L1:   * cite0†首页 L2:   * cite1†学院概况 L3:     * cite2†学院简介 L4:     * cite3†历史沿革 L5:     * cite4†历任领导 L6:     * cite5†现任领导 L7:     * cite6†组织机构 L8:   * cite7†师资队伍 L9:     * cite8†师资简介 L10:     * cite9†教师名录 L11:   * cite10†科学研究 L12:     * cite11†科研概况 L13:     * cite12†科研项目 L14:     * cite13†科研平台 L15:     * cite14†实验室安全 L16:   * cite15†人才培养 L17:     * cite16†新能源材料与器件 L18:     * cite17†储能科学与工程 L19:     * cite18†电气工程及其自动化 L20:     * cite19†能源动力专业硕士 L21:     * cite20†教育教学审核评估 L22:   * cite21†党建工作 L23:     * cite22†机构设置 L24:     * cite23†党建信息 L25:     * cite24†党建知识 L26:   * cite25†学生工作 L27:     * cite26†学工队伍 L28:     * cite27†团学组织 L29:     * cite28†招生就业 L30:     * cite29†学生活动 L31:   * cite30†相关下载 L32:     * cite31†规章制度 L33:     * cite32†常用文件 L34:     * cite33†两级财政 L35:   * cite34†校友家园 L36:     * cite35†知名校友 L37:     * cite36†校友活动 L38:     * cite37†联系我们 L39: cite38†学校主页†www.qhu.edu.cn L40: 
+L41: cite38†学校主页†www.qhu.edu.cn L42: 
+L43: [Input] [Input: 站内搜索]
+L44: 
+L45:   * cite0†首页 L46:   * cite1†学院概况 L47: 
+L48:     cite2†学院简介 L49:     cite3†历史沿革 L50:     cite4†历任领导 L51:     cite5†现任领导 L52:     cite6†组织机构 L53:   * cite7†师资队伍 L54: 
+L55:     cite8†师资简介 L56:     cite9†教师名录 L57:   * cite10†科学研究 L58: 
+L59:     cite11†科研概况 L60:     cite12†科研项目 L61:     cite13†科研平台 L62:     cite14†实验室安全 L63:   * cite15†人才培养 L64: 
+L65:     cite16†新能源材料与器件 L66:     cite17†储能科学与工程 L67:     cite18†电气工程及其自动化 L68:     cite19†能源动力专业硕士 L69:     cite20†教育教学审核评估 L70:   * cite21†党建工作 L71: 
+L72:     cite22†机构设置 L73:     cite23†党建信息 L74:     cite24†党建知识 L75:   * cite25†学生工作 L76:     cite26†学工队伍 L77:     cite27†团学组织 L78:     cite28†招生就业 L79:     cite29†学生活动 L80:   * cite30†相关下载 L81: 
+L82:     cite31†规章制度 L83:     cite32†常用文件 L84:     cite33†两级财政 L85:   * cite34†校友家园 L86: 
+L87:     cite35†知名校友 L88:     cite36†校友活动 L89:     cite37†联系我们 L90: ## cite39†Image cite40†通知公告 L91: 
+L92: cite0†首页 - cite40†通知公告 L93:   * cite41†青海大学2026年电气工程专业推免研究生面试成绩公示 2026-09-23 L94:   * cite42†关于2026年度新能源系统高端装备和智慧运行教育部工程研究中心开放基金资助立项的通知 2026-04-14 L95:   * cite43†关于2026年度新能源电力系统智慧运行教育部重点实验 室开放基金资助立项的通知 2026-04-14 L96:   * cite44†青海大学2026年硕士研究生复试(调剂)：动力工程复试成绩公示 2026-04-11 L97:   * cite45†青海大学2026年动力工程专业硕士研究生调剂复试名单 2026-04-10 L98:   * cite46†青海大学2026年硕士研究生复试：清洁能源技术、储能技术一志愿复试成绩公示（第二批） 2026-03-30 L99:   * cite47†青海大学2026年硕士研究生复试：动力工程、清洁能源技术、储能技术一志愿复试成绩公示 2026-03-30 L100:   * cite48†电气工程硕士研究生一志愿复试成绩公示 2026-03-29 L101:   * cite49†2026年能源动力研究生复试调剂工作细则 2026-03-26 L102:   * cite50†新能源系统高端装备和智慧运行教育部工程中心开放课题指南（2026） 2026-03-20 L103:   * cite51†新能源电力系统智慧运行教育部重点实验室开放课题指南（2026） 2026-03-20 L104:   * cite52†2025年青海大学能源与电气工程学院动力工程成绩公示（调剂） 2025-04-11 L105: 共 29 条 每页12条 首页 上一页
+L106: 
+L107: cite40†1 cite53†2 cite54†3 L108: 
+L109: cite53†下一页 cite54†尾页 L110: 
+L111: 跳转
+L112: 
+L113: 1
+L114: 
+L115:   * cite40†1 L116:   * cite53†2 L117:   * cite54†3 L118: 
+L119: 地址：青海省西宁市宁大路251号
+L120: 
+L121: 邮箱地址：seee@qhu.edu.cn
+L122: 
+L123: 邮编：810016
+L124: 
+L125: cite55†Image L126: 
+L127: 版权所有@青海大学 青ICP备05000181号-1丨公安备案号： 63010502000029
+--------------------------------------------------------------------------------
+研究小组：天体生物学 (https://www.must.edu.mo/cn/ssi/astrobiology)
+citeturn212view3 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://www.must.edu.mo/cn/ssi/astrobiology","lineno":null}); Total lines: 212
+L0:   * cite0†中文繁體 L1:   * cite1†中文简体 L2:   * cite2†English L3: 
+L4: ##
+L5: ### 请选择你的身份
+L6: 
+L7:   * cite3†学生 L8:   * cite4†教职员 L9:   * cite5†访客 L10:   * cite6†校友 L11:   * cite7†传媒 L12: 
+L13: [Input: 搜索...] 搜索 [Input] [Input] [Input]
+L14:   * cite8†关于科大 L15:     * cite9†科大概况 L16:     * cite10†大学使命 L17:     * cite11†策略规划 L18:     * cite12†大学主管 L19:     * cite13†大学校歌 L20:     * cite14†大学短片 L21:     * cite15†大学刊物 L22:       * cite16†大学年报 L23:       * cite17†大学发展纪念册 L24:     * cite18†组织架构 L25:     * cite19†荣誉博士学位名录 L26:     * cite20†大学地图 L27:   * cite21†入读科大 L28:     * cite22†大学排名 L29:     * cite23†硕士及博士学位†sgs.must.edu.mo L30:     * cite24†学士学位 L31:       * cite24†学士学位招生首页 L32:       * cite25†首选科大 L33:       * cite26†入学申请 L34:       * cite27†校园生活 L35:       * cite28†更多资讯 L36:       * cite29†联络我们 L37:     * cite30†持续教育 L38:     * cite31†学费及其它缴费 L39:       * cite31†报名费付款方式 L40:       * cite32†先修班及学士学位收费标准 L41:       * cite33†学生宿舍收费标准 L42:       * cite34†研究生学费收费标准 L43:   * cite35†学院设置 L44:     * cite36†创新工程学院†fie.must.edu.mo L45:     * cite37†医学部 L46:       * cite38†中医药学院 L47:       * cite39†医学院（药学院） L48:     * cite40†商学院 L49:     * cite41†法学院†fl.must.edu.mo L50:     * cite42†酒店与旅游管理学院†fhtm.must.edu.mo L51:     * cite43†人文艺术学院†fa.must.edu.mo L52:     * cite44†国际学院†uic.must.edu.mo L53:     * cite30†博雅学院 L54:     * cite45†通识教育部†dge.must.edu.mo L55:   * cite46†学术研究 L56:     * cite47†中药质量研究国家重点实验室†skl.must.edu.mo L57:     * cite48†月球与行星科学国家重点实验室 L58:     * cite49†澳门海岸带生态环境国家野外科学观测研究站 L59:     * cite50†国家教育部人文社科重点研究伙伴基地 L60:     * cite51†中国历史研究院澳门历史研究中心 L61:     * cite52†珠海澳科大科技研究院†zhuhai.must.edu.mo L62:     * cite53†研究所 L63:       * cite54†可持续发展研究所 L64:       * cite55†澳门药物及健康应用研究院†miar.must.edu.mo L65:       * cite56†社会和文化研究所 L66:       * cite48†太空科学研究所 L67:       * cite57†澳门系统工程研究所 L68:       * cite58†澳门环境研究院 L69:       * cite59†澳门中药资源经济研究所 L70:       * cite60†澳门智慧城市研究院 L71:       * cite61†下一代互联网国际研究院 L72:       * cite62†澳门材料科学与工程研究院 L73:       * cite63†埃尔文内尔博士生物物理与创新药物实验室†sklqrcm.must.edu.mo L74:   * cite64†学术支援 L75:     * cite65†图书馆†lib.must.edu.mo L76:     * cite66†研究生院†sgs.must.edu.mo L77:     * cite67†教务处/注册处 L78:     * cite68†科研管理处†rtao.must.edu.mo L79:     * cite24†招生处 L80:     * cite69†学生事务处 L81:     * cite70†创业就业发展中心 L82:     * cite71†教学质量督导处 L83:     * cite72†教育发展中心 L84:   * cite73†行政部门 L85:     * cite74†人力资源处†hro.must.edu.mo L86:       * cite75†人力资源处简介 L87:       * cite76†员工福利 L88:       * cite77†内联网†oa.must.edu.mo L89:       * cite77†人事规章†oa.must.edu.mo L90:       * cite78†人才招聘 L91:       * cite79†招聘活动 L92:       * cite80†机构交流 L93:       * cite81†培训概况 L94:       * cite82†非本地员工抵澳须知 L95:       * cite83†相关政府连结 L96:     * cite84†财务处 L97:     * cite85†总务处 L98:       * cite85†总务处简介 L99:       * cite86†我们的服务 L100:       * cite87†招标公告 L101:       * cite88†环保采购政策 L102:       * cite89†环保设施/措施 L103:       * cite90†供应商登记申请 L104:   * cite91†校园生活†sa.must.edu.mo L105:   * cite92†可持续校园†sust.must.edu.mo L106: # Research Group: Astrobiology
+L107: 
+L108: Our team is conducting research in the following fields:
+L109:   * Limits of Life: Bacteria, Archaea, and Fungi (Biodiversity, ecology, adaptations, and bioprospection of marine and extreme environments)
+L110:   * Geobiology: Biosignature and microbial preservation.
+L111:   * Geomicrobiology: Interaction between microbes and minerals or metals and applications for space materials.
+L112:   * Development of new Bioinformatics Tools, Databases, and Lab Techniques.
+L113:   * Astrobiology and Planetary Protection.
+L114: 
+L115: Team Members:
+L116:    | Name  | Title/Position  | Key-Areas  | Contact
+L117: cite93†Image: SSI Academic Andre 60x85 | cite94†André Antunes | Associate Professor/
+L118: Group Head  |
+L119: 
+L120:   * Astrobiology;
+L121:   * Microbiology of Extreme Environments;
+L122:   * Geomicrobiology;
+L123:  |
+L124: cite95†aglantunes@must.edu.mo L125: cite96†Image: SSI Academic David 60x85 | cite97†David C Fernández Remolar | Associate Professor  |
+L126:   * Astrobiology;
+L127:   * Geobiology;
+L128:   * Planetary Geology;
+L129:  |
+L130: cite98†dcfremolar@must.edu.mo L131: cite99†Image: SSI Academic Marta 60x85 | cite100†Marta Filipa Simões | Assistant Professor  |
+L132: 
+L133:   * Astrobiology;
+L134:   * Microbiology;
+L135:   * Applied Mycology;
+L136:  |
+L137: cite101†msimoes@must.edu.mo L138: cite102†Image: SSI HuangTing | cite103†Huang, Ting | Postdoctoral Fellow  |
+L139: 
+L140:   * Mars Analogues;
+L141:  |
+L142: cite104†thuang@must.edu.mo L143: cite105†Image: ZJJ 120 170 | cite106†Zhang, Jun Jie | Postdoctoral Fellow  |
+L144:   * Biomineralization;
+L145:   * Material recycling
+L146:  |
+L147: cite107†zhangjunjie@must.edu.mo L148:    | Hu, Qi Tao  | PhD Student  |
+L149: 
+L150:   * Biosignatures;
+L151:  |
+L152: cite108†Image: SSI pic WuJiaHui | Wu, Jia Hui  | PhD Student  |
+L153: 
+L154:   * New Astrobiology Databases;
+L155:  |
+L156: cite109†Image: SSI HeYang | He, Yang  | PhD Student  |
+L157: 
+L158:   * Limits of Life;
+L159:  |
+L160: 
+L161:  cite110†Image: ab1 | cite111†Image: ab2 | cite112†Image: ab3 L162:  cite113†Image: ab4 | cite114†Image: ab5 |  cite115†Image: ab6 L163:  cite116†Image: ab7 |  cite117†Image: ab8 |  cite118†Image: ab9 L164: ### 月球与行星科学国家重点实验室/太空科学研究所
+L165: 
+L166:   * cite48†首页 L167:   * cite119†管理团队 L168:   * cite120†科研人员 L169:   * cite1†研究小组：天体生物学 L170:   * cite121†研究小组：空间大气 L171:   * cite122†研究小组：天体化学 L172:   * cite123†研究小组：澳门科学卫星 L173:   * cite124†研究小组：行星内部物理化学 L174:   * cite125†研究小组：行星地质 L175:   * cite126†研究小组：行星空间物理 L176:   * cite127†研究小组：行星表面环境与小天体 L177:   * cite128†超算中心 L178:   * cite129†开放课题 L179:   * cite130†课程与招生 L180:     * cite131†地球与行星科学博士课程 L181:     * cite132†地球与行星科学硕士课程 L182:     * cite133†空间大数据分析学硕士课程 L183:     * cite134†导师信息 L184:     * cite135†PhD Application L185: ### 联系我们
+L186: 
+L187: 月球与行星科学国家重点实验室
+L188: 
+L189: 办公室：澳门氹仔伟龙马路
+L190: 　　　　澳门科技大学
+L191: 　　　　A座行政大楼A508室
+L192: 
+L193: 电话： (853) 88972065
+L194: 
+L195: 电邮： cite136†[email protected] L196: 
+L197: cite137†iframe†www.googletagmanager.com L198: 
+L199:   * cite138†科大新闻 L200:   * cite139†科大活动 L201:   * cite21†招生 L202:   * cite140†图书馆†lib.must.edu.mo L203:   * cite141†恶劣天气安排 L204: 
+L205: Copyright © 2011-2025 澳门科技大学 版权所有
+L206: 不得转载 使用本网站之条款及隐私政策
+L207: 
+L208: 电话：（853）28881122
+L209: 传真：（853）28880022
+L210: 
+L211: 地址：中国澳门氹仔伟龙马路
+

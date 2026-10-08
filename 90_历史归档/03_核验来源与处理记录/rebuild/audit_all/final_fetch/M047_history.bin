@@ -1,0 +1,556 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>先进制造智能化技术教育部重点实验室</title>
+	<meta name="keywords" content="先进制造智能化技术教育部重点实验室室">
+	<meta name="description" content="先进制造智能化技术教育部重点实验室于2007年12月获教育部批准筹建，2011年3月正式通过验收进入教育部重点实验室序列，同年11月通过教育部重点实验室评估">
+	<link rel="shortcut icon" href="/resources/images/favicon.ico" type="image/x-icon" />
+	<script src="/resources/plugins/jquery-3.6.1.min.js"></script>
+	<script src="/resources/js/jquery/jquery-migrate-3.0.1.min.js"></script>
+	<script type="text/javascript" src="/resources/js/nav_0907.js"></script>
+
+	<link type="text/css" href="/resources/css/system.css?v=1791441482250" rel="stylesheet">
+	<link type="text/css" href="/resources/css/simplenews.css?v=1791441482250" rel="stylesheet">
+	
+	<link rel="stylesheet" type="text/css" href="/resources/css/common.css?v=1791441482250">
+	<link rel="stylesheet" type="text/css" href="/resources/css/index.vsb.css">
+	<link rel="stylesheet" type="text/css" href="/resources/css/content.css?v=1791441482250">
+	<link rel="stylesheet" type="text/css" href="/resources/css/sys.css?v=1791441482250">
+	<link rel="stylesheet" type="text/css" href="/resources/css/device.css?v=1791441482250">
+	
+	<script>
+		var u = navigator.userAgent;
+		var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
+		var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+		if(isAndroid || isIOS){
+			document.write('<link rel="stylesheet" type="text/css" href="/resources/css/media_h5.css?v=1791441482250">');
+		}
+	</script>
+	
+</head>
+<body>
+
+
+
+
+
+
+<div class="top">
+	<div class="topbox">
+		<div class="logo">
+			<a href="/home/index"><img src="/resources/images/logo.png" width="940" height="125"></a>
+		</div>
+		<!-- <a href="/manage/index" class="fr top_btn">登录管理后台</a> -->
+	</div>
+</div>
+
+<div class="nav">
+	<div class="navbox"> 
+		<ul class="f_nav">
+			<li><a href="/home/index" class="nav_0">首页</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_1">实验室概况</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_2">学术研究</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_3">师资队伍</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_4">新闻中心</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_5">人才培养</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_6">交流合作</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_7">平台建设</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_8">开放课题</a></li>
+		    
+		    	<li><a onclick="return false;" class="nav_9">设备管理</a></li>
+		    
+		</ul>
+	</div>
+	
+	<div class="subnavbg" style="display: none;">
+		<div class="subnavbox">
+			<div class="subnav" id="nav_0" style="display: none;"></div> 
+		    
+		    	
+		    	<div class="subnav" id="nav_1" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(33,1,0,'实验室概况')" class="sec_menu_pc  sec_menu_pc_0">实验室简介</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(34,1,1,'实验室概况')" class="sec_menu_pc  sec_menu_pc_1">组织机构</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(35,1,2,'实验室概况')" class="sec_menu_pc  sec_menu_pc_2">学术委员会</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_2" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(39,2,0,'学术研究')" class="sec_menu_pc  sec_menu_pc_0">研究方向</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(40,2,1,'学术研究')" class="sec_menu_pc  sec_menu_pc_1">研究动态</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(41,2,2,'学术研究')" class="sec_menu_pc  sec_menu_pc_2">研究成果</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_3" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(37,3,0,'师资队伍')" class="sec_menu_pc  sec_menu_pc_0">固定人员</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(38,3,1,'师资队伍')" class="sec_menu_pc  sec_menu_pc_1">流动人员</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_4" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(32,4,0,'新闻中心')" class="sec_menu_pc  sec_menu_pc_0">新闻动态</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(30,4,1,'新闻中心')" class="sec_menu_pc  sec_menu_pc_1">通知公告</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(56,4,2,'新闻中心')" class="sec_menu_pc  sec_menu_pc_2">学校新闻</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_5" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(42,5,0,'人才培养')" class="sec_menu_pc  sec_menu_pc_0">研究生培养</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(43,5,1,'人才培养')" class="sec_menu_pc  sec_menu_pc_1">博士后培养</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(44,5,2,'人才培养')" class="sec_menu_pc  sec_menu_pc_2">毕业研究生</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_6" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(46,6,0,'交流合作')" class="sec_menu_pc  sec_menu_pc_0">交流合作</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(63,6,1,'交流合作')" class="sec_menu_pc  sec_menu_pc_1">学术报告</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_7" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(69,7,0,'平台建设')" class="sec_menu_pc  sec_menu_pc_0">国家机械工业重点实验室</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(68,7,1,'平台建设')" class="sec_menu_pc  sec_menu_pc_1">协同创新中心</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_8" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(48,8,0,'开放课题')" class="sec_menu_pc  sec_menu_pc_0">申请通知</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(49,8,1,'开放课题')" class="sec_menu_pc  sec_menu_pc_1">资助统计</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(50,8,2,'开放课题')" class="sec_menu_pc  sec_menu_pc_2">文件下载</a>
+							</li>
+						
+					</ul>
+				</div>
+		    
+		    	
+		    	<div class="subnav" id="nav_9" style="display: none;"> 
+					<ul>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(58,9,0,'设备管理')" class="sec_menu_pc  sec_menu_pc_0">管理制度</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(52,9,1,'设备管理')" class="sec_menu_pc  sec_menu_pc_1">设备列表</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(54,9,2,'设备管理')" class="sec_menu_pc  sec_menu_pc_2">预约列表</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(53,9,3,'设备管理')" class="sec_menu_pc  sec_menu_pc_3">共享设备</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(66,9,4,'设备管理')" class="sec_menu_pc  sec_menu_pc_4">会议室预约</a>
+							</li>
+						
+							<li class="sec_menu_li_pc">
+								<a onclick="openUrlPc(60,9,5,'设备管理')" class="sec_menu_pc  sec_menu_pc_5">后台登录</a>
+							</li>
+						
+					</ul>
+				</div>
+		     
+		</div>
+	</div>
+</div>
+
+<div class="app_nav_wrap" id="navbar">
+	<div class="app_nav_title" id="navTitle">首页</div>
+	<a onclick="history.back(-1)" class="app_nav_back">
+		<img src="/resources/images/nav_back_white.png" class="nav_back" alt="返回">
+	</a>
+	
+	<div class="app_menu_img">
+		<img src="/resources/images/menu_icon.png"   onclick="openMenu();"  id="menuIco"  class="sec_menu_ico" alt="菜单"/>
+		
+		<img src="/resources/images/close_white.png" onclick="closeMenu();" id="menuClose" class="sec_menu_close" alt="关闭"/>
+		
+		
+		<div class="app_menu_sec_wrap" id="secMenuWrap">
+			<ul class="f_nav">
+				<li class="sec_menu_li">
+					<a onclick="openIndex();" class="sec_menu">首页</a>
+					<span></span>
+				</li>
+				
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(33,1,'实验室概况')" class="sec_menu nav_1">实验室概况</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(39,2,'学术研究')" class="sec_menu nav_2">学术研究</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(37,3,'师资队伍')" class="sec_menu nav_3">师资队伍</a>
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(32,4,'新闻中心')" class="sec_menu nav_4">新闻中心</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(42,5,'人才培养')" class="sec_menu nav_5">人才培养</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(46,6,'交流合作')" class="sec_menu nav_6">交流合作</a>
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(69,7,'平台建设')" class="sec_menu nav_7">平台建设</a>
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(48,8,'开放课题')" class="sec_menu nav_8">开放课题</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    	<li class="sec_menu_li">
+			    		
+			    			
+			    				<a onclick="openUrl(58,9,'设备管理')" class="sec_menu nav_9">设备管理</a>
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    			
+			    		
+			    		<span></span>
+			    	</li>
+			    
+			    <li class="sec_menu_li">
+			    	<a href="/manage/index" class="sec_menu">管理后台</a>
+			    </li>
+			</ul>
+		</div>
+		
+	</div>
+</div>
+<script>
+
+	var u = navigator.userAgent;
+	var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
+	var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+	if(isAndroid || isIOS){
+		var menuIndex = sessionStorage.getItem("menuIndex");
+	   	menuIndex = menuIndex >-1?menuIndex:0;
+	   	sessionStorage.setItem("menuIndex",menuIndex);
+	   	$(".sec_menu_li").eq(menuIndex).addClass('sec_menu_li_active');
+	   	var navTitle = sessionStorage.getItem("navTitle");
+	   	if(navTitle != null){
+	   		$("#navTitle").html(navTitle);
+	   	}
+	}else{
+		var firstMenuIndex = sessionStorage.getItem("firstMenuIndex");
+		var menuIndex = sessionStorage.getItem("secMenuIndex");
+		firstMenuIndex = firstMenuIndex>-1?firstMenuIndex:1;
+		menuIndex = menuIndex >-1?menuIndex:0;
+		sessionStorage.setItem("firstMenuIndex",firstMenuIndex);
+		sessionStorage.setItem("secMenuIndex",menuIndex);
+		$("#nav_" + firstMenuIndex + " .sec_menu_pc_" + menuIndex).addClass('sec_menu_pc_active');
+	}
+
+   	
+   	
+   	function openMenu(){
+   		$("#menuIco").hide();
+   		$("#menuClose").css("display","block");
+   		$("#secMenuWrap").show();
+   	}
+   	function closeMenu(){
+   		$("#menuClose").hide();
+   		$("#menuIco").css("display","block");
+   		$("#secMenuWrap").hide();
+   	}
+
+	function openIndex(){
+		sessionStorage.setItem("menuIndex",0);
+		sessionStorage.setItem("navTitle","首页");
+		sessionStorage.setItem("tabIndex",0);
+		window.location.href = "/home/index";
+	}
+	function openUrl(id,index,categoryName){
+		sessionStorage.setItem("menuIndex",index);
+		sessionStorage.setItem("navTitle",categoryName);
+		sessionStorage.setItem("tabIndex",0);
+		window.location.href = "/home/category/news/" + id;
+	}
+	
+	function openUrlPc(id,index,secIndex,categoryName){
+		if(id==60){
+			window.open("/manage/index") ;
+		}else{
+			sessionStorage.setItem("firstMenuIndex",index);
+			sessionStorage.setItem("secMenuIndex",secIndex);
+			window.location.href = "/home/category/news/" + id;	
+		}
+		
+	}
+</script>
+
+
+<div class="index_con index_con_h5">
+	<div class="sidebar sidebar_h5">
+		<div class="sidenav">
+			<div class="sidemain" portletmode="simpleColumnAnchor"><span class='Column_Anchor'>新闻中心</span></div>
+			<div portletmode="simpleColumnList"  class="accordion_wrap"> 
+				<ul id="accordion" class="accordion">
+					
+						<li  class="tab_li" onclick="goNews(32,0);"><div class="link">新闻动态</div></li>
+					
+						<li  class="tab_li" onclick="goNews(30,1);"><div class="link">通知公告</div></li>
+					
+						<li  class="tab_li" onclick="goNews(56,2);"><div class="link">学校新闻</div></li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="con_text">
+		<div class="passage">
+			<div class="position" frag="窗口8" portletmode="simpleColumnAttri"><span>通知公告</span>
+				<div class="adr">
+					<a href="/home/index" target="_self">首页</a>
+					<span class="possplit">&nbsp;&nbsp;</span>
+					<a onclick="return false;">新闻中心</a>
+					<span class="possplit">&nbsp;&nbsp;</span>
+					<a href="/home/category/news/30">通知公告</a>
+				</div>
+			</div>
+			<div class="listbox" frag="窗口9" portletmode="simpleList"> 
+				<div class="wp_single wp_column_article" id="wp_column_article"> 
+					<div class="wp_entry"> 
+						<div class="wp_articlecontent"> 
+						    <p class="news_title">关于先进制造智能化技术教育部重点实验室 2022年开放课题申请的通知</p>
+						    <p class="news_time"></p>
+							<div id="wp_content_w9_0" class="paging_content"> 
+								   <p></p><p><strong style="font-family: 宋体; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); margin: 0px; padding: 0px;">一、简介</strong><br/></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">先进制造智能化技术教育部重点实验室依托哈尔滨理工大学“机械工程”、“材料科学与工程”和“控制科学与工程”等省重点学科，服务高端装备制造业，重点开展先进切削理论与刀具技术、数字化加工与制造过程智能化技术、高性能复杂件成型加工及智能化技术、高端装备设计及智能化技术四个方向的研究工作。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体;"><span style="margin: 0px; padding: 0px; font-size: 16px;">根据</span><span style="margin: 0px; padding: 0px; font-size: 16px;">“</span><span style="margin: 0px; padding: 0px; font-size: 16px;">开放、联合、流动、竞争</span><span style="margin: 0px; padding: 0px; font-size: 16px;">”</span><span style="margin: 0px; padding: 0px; font-size: 16px;">的运行机制，实验室依据学科布局和发展规划，特设立开放课题，资助与实验室研究方向有关的研究项目，加强高层次科技人才的联合培养，促进高水平成果产出。</span></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">二、</strong></span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:=""><strong style="margin: 0px; padding: 0px;">2022</strong></span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">年开放课题主要资助方向</strong></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">开放课题紧密围绕本实验室的研究方向，鼓励创新性研究，资助具有科学意义和应用前景的基础研究和应用研究项目，具体资助方向如下：</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体;"><span style="margin: 0px; padding: 0px; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">（一）先进切削理论与刀具技术 &nbsp;</strong></span><span style="margin: 0px; padding: 0px; font-size: 16px;">重点资助先进切削理论及加工控形控性技术、切削刀具精准设计制造技术、切削刀具性能评价理论与技术等方面的相关研究。</span></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体;"><span style="margin: 0px; padding: 0px; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">（二）数字化加工与制造过程智能化技术 &nbsp;</strong></span><span style="margin: 0px; padding: 0px; font-size: 16px;">重点资助多轴联动数控加工技术、开放数控系统及智能化技术、加工过程综合优化技术等方面的相关研究。</span></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体;"><span style="margin: 0px; padding: 0px; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">（三）高性能复杂件成型加工及智能化技术 &nbsp;</strong></span><span style="margin: 0px; padding: 0px; font-size: 16px;">重点资助复杂金属件成型基础理论、复杂金属件成型工艺与先进制备技术、复杂金属件成型过程智能调控和无损监测技术、复杂件</span></span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">3D</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">增减材复合制造及其轻量化等方面的相关研究。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体;"><span style="margin: 0px; padding: 0px; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">（四）高端装备设计及智能化技术 &nbsp;</strong></span><span style="margin: 0px; padding: 0px; font-size: 16px;">重点资助动力传动及装备智能设计、复合材料高效成型装备设计及智能化技术、机器人辅助医疗装备及医工学技术等方面的相关研究。</span></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">三、开放课题申请对象及资助额度</strong></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">1.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">开放课题主要资助对象为具有副高以上职称或中级且具有博士学位的教学及科研人员。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">重点实验室</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2022</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">年拟资助课题数为</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">10</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">项，资助金额为</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">5</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">万元</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">/</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">项，项目期限为</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">年，具体执行期为</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2022</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">年</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">12</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">月</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">1</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">日</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">~2024</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">年</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">11</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">月</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">31</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">日。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">四、研究成果管理</strong></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">1.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">开放课题成果的主要体现方式是发表高水平论文。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">研究成果以论文形式发表或申请专利时，应将先进制造智能化技术教育部重点实验室（哈尔滨理工大学）（</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">Key&nbsp;Laboratory of&nbsp;Advanced Manufacturing&nbsp;and&nbsp;Intelligent&nbsp;Technology,&nbsp;Ministry&nbsp;of&nbsp;Education, Harbin University of Science and Technology, Harbin, 150080, P. R. China</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">）作为作者的第一单位。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">3.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">对于获奖或进行技术转让的研究成果，应将先进制造智能化技术教育部重点实验室（哈尔滨理工大学）作为该项成果的主要完成单位之一。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;"><strong style="margin: 0px; padding: 0px;">五、开放课题申请程序和注意事项</strong></span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">1.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">申请人根据实验室开放课题的主要资助研究范围填写《哈尔滨理工大学先进制造智能化技术教育部重点实验室开放课题申请书》，经所在单位学术主管领导签字同意并加盖公章后，</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">份原件快递至本实验室，同时电子版发至：</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">yuecaixu@hrbust.edu.cn</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">。自开放课题申请公告发布之日起，实验室开始接受项目申报，截止日期为</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2022</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">年</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">10</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">月</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">30</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">日。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">2.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">实验室组织有关专家对提交的申请书进行评审，并由实验室学术委员会确定资助项目。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">3.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">申请书下载地址：</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:=""><a href="http://jixie.hrbust.edu.cn/" style="margin: 0px; padding: 0px; color: rgb(35, 35, 35); text-decoration-line: none; font-family: 微软雅黑; font-size: 13px;">http://jixie.hrbust.edu.cn</a></span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">4.&nbsp;</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">申请过程中若有疑问，可通过电子邮件、电话咨询。</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">联系人：岳彩旭 &nbsp;&nbsp;</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">联系电话：</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">13654583962</span></p><p class="cjk" style="margin-top: 0px; margin-bottom: 6px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: 21px; font-family: u5b8bu4f53, Tahoma, Geneva, sans-serif; color: rgb(51, 51, 51); white-space: normal; text-indent: 0.85cm; background: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">联系地址：黑龙江省哈尔滨市南岗区学府路</span><span style="margin: 0px; padding: 0px; font-family: " times="" new="" font-size:="">52</span><span style="margin: 0px; padding: 0px; font-family: 宋体; font-size: 16px;">号哈尔滨理工大学先进制造智能化技术教育部重点实验室。</span></p><p><br/></p><p></p><p style="line-height: 16px;"><img style="vertical-align: middle; margin-right: 2px;" src="/resources/find/dialogs/attachment/fileTypeImages/icon_doc.gif"/><a style="font-size:12px; color:#0066cc;" href="/30d341e881d640e4846247e811ec5a8f.doc" title="先进制造智能化技术教育部重点实验室开放课题申请书（2022）.doc">先进制造智能化技术教育部重点实验室开放课题申请书（2022）.doc</a></p><p><br/></p>
+							</div>
+						</div>
+					</div> 
+				</div> 
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+
+
+
+
+<div class="foot">
+	<div class="footbox">
+		<div class="footlogo"><img src="/resources/images/logo_f.png" width="800"></div>
+		
+		<div class="ewm"></div>
+		<div class="sdlogo"></div>
+		<div class="copyright">
+			<p>	</p><p><br/></p><p>先进制造智能化技术教育部重点实验室-哈尔滨理工大学</p><p>Key Laboratory of Advanced Manufacturing and Intelligent Technology, Ministry of Education, Harbin University of Science and Technology, Harbin, 150080, P. R. China<br/></p><p>地址：黑龙江省哈尔滨市南岗区学府路52号&nbsp; &nbsp; &nbsp;</p><p>邮编：150080</p><p><br/></p><p><br/></p><p>	</p>
+		</div>
+	</div>
+	
+	<!-- h5 -->
+	<div class="footbox_h5  clearfix">
+		<img src="/resources/images/footer_h5_logo.png">
+		<div><p>	</p><p><br/></p><p>先进制造智能化技术教育部重点实验室-哈尔滨理工大学</p><p>Key Laboratory of Advanced Manufacturing and Intelligent Technology, Ministry of Education, Harbin University of Science and Technology, Harbin, 150080, P. R. China<br/></p><p>地址：黑龙江省哈尔滨市南岗区学府路52号&nbsp; &nbsp; &nbsp;</p><p>邮编：150080</p><p><br/></p><p><br/></p><p>	</p></div>
+	</div>
+	
+</div>
+
+
+<script>
+	var tabIndex = sessionStorage.getItem("tabIndex");
+	tabIndex = tabIndex >-1?tabIndex:0;
+	$(".tab_li").eq(tabIndex).addClass('link_active');
+	
+	function goNews(id,tabIndex){
+		sessionStorage.setItem("tabIndex",tabIndex);
+		sessionStorage.setItem("secMenuIndex",tabIndex);
+		if(id==60){
+			window.open("/manage/index") ;
+		}else{
+			window.location.href = "/home/category/news/"+id;
+		}
+	}
+</script>
+</body>
+</html>

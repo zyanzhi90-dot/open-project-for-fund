@@ -1,0 +1,645 @@
+Search | 深圳市人工智能与机器人研究院 (https://airs.cuhk.edu.cn/search)
+citeturn200search0 [wordlim: 200] Crawled: last month; 2026081101-AIRS 2026-2027年度员工下午茶服务A包采购 ... 联系人：武泽鹏联系电话：18033447008邮箱：rickwu@cuhk.edu.cn
+
+[Input: 输入关键字] [Button: 搜索]
+
+
+[Button: 搜索]
+
+[Input: 请输入您要搜索的关键字]
+
+清除全部
+
+### 筛选
+
+[Input]
+
+清除 内容类型
+
+  * [Input] 全部选择
+  * [Input] 文章
+  * [Input] 活动
+  * [Input] 招聘
+  * [Input] 人员
+  * [Input] 媒体聚焦
+  * [Input] 学术发表
+  * [Input] 基本页
+
+排序 [Input]
+
+[Input] 倒序
+
+  * 默认
+  * 正序
+  * 倒序
+
+[Button: 搜索]
+
+相关结果有746个。
+
+[Input: 输入关键字]
+
+[Input] 文章
+
+[Input] 基本页
+
+[Input] Combined Program
+
+[Input] 课程
+
+[Input] 中大映像
+
+[Input] 文件下载
+
+[Input] 活动
+
+[Input] FAQ
+
+[Input] System
+
+[Input] 着陆页
+
+[Input] 媒体聚焦
+
+[Input] 月刊
+
+[Input] 成员
+
+[Input] 校园期刊
+
+[Input] 照片
+
+[Input] 出版文献
+
+[Input] 招聘
+
+[Input] 研究中心
+
+[Input] 站点
+
+[Input] 幻灯片
+
+[Input] 教职人员
+
+[Input] 科研团队
+
+[Input] Webform
+
+Sort by [Select]
+
+顺序 [Select]
+
+[Input]
+
+文章 | 2026-08-12
+
+2026081101-AIRS 2026-2027年度员工下午茶服务A包采购
+作为忆生科技首席科学家，高教授还分享了忆生科技聚焦视觉记忆与运动记忆、打造新一代自主智能系统的创业理念。本次活动充分展示了香港大学、深圳河套学院与AIRS在推动人工智能前沿研究与产业转化方面的积极作为，也为学术界与产业界的深度交流搭建了重要平台。未来，AIRS将深化“学术论坛洞察趋势、联合攻关突破瓶颈、创业孵化培育主体”的三级推进机制，共同破解AI落地物理世界的“卡脖子”难题。助力深圳打造全球领先的具身智能产业高地，为深圳市人工智能与机器人产业的高质量发展注入强劲动能。
+
+文章 | 2026-06-26
+
+AIRS参与的国家重点研发计划“智能机器人”重点专项“揭榜挂帅”项目成功获批
+
+近日，由北京理工华汇智能科技有限公司牵头，深圳市人工智能与机器人研究院（AIRS）作为合作申请单位参与申报的国家重点研发计划“智能机器人”重点专项“揭榜挂帅”项目《高海拔环境下仿生巡检机器人系统与应用示范》成功获批立项。出版文献 | 2026-05-19
+
+Deep Learning-Based Process Control of Microrobot Swarms Guided by Phase Diagrams
+
+* * *
+
+文章 | 2026-05-19
+
+创新性策略实现微纳集群过程控制，成果发表在IEEE T-RO
+
+近日，AIRS俞江帆教授团队在机器人领域顶级期刊 IEEE Transactions on Robotics 上发表以“Deep Learning-Based Process Control of Microrobot Swarms Guided by Phase Diagrams”为题的文章。01期刊介绍IEEE Transactions on Robotics为机器人学领域公认的三大顶级期刊之一（T-RO / IJRR / Sci. Rob.），涉及机器人各个领域的原创理论、算法、设计等，代表了机器人领域最先进的重大进展。 02研究背景微纳米机器人集群因其在生物医学应用中的潜力而受到广泛关注，例如靶向递送、生物传感，以及溶栓治疗等。微纳米机器人集群的自动控制是实现其在复杂环境中应用的关键。然而，现有的控制策略主要聚焦于集群的点对点控制，关注集群在稳态下的控制性能，而集群的过程控制仍然具有很大挑战。--------------------------------------------------------------------------------
+重庆交通大学图书馆电子资源导航平台 (https://libvpn.cqjtu.edu.cn/)
+citeturn200search1 [wordlim: 200] Crawled: today; CNKI知识资源总库 ... 20
+
+通知公告 使用帮助 故障反馈 返回顶部
+
+数据库导航
+
+资源类型：
+
+全部
+
+期刊
+
+图书
+
+报纸
+
+学位论文
+
+会议论文
+
+索引/文摘
+
+专利
+
+综合
+
+标准
+
+多媒体
+
+工具
+
+数据/事实
+
+学习考试
+
+法律法规
+
+学科：
+
+全部
+
+综合
+
+哲学
+
+经济学
+
+法学
+
+教育学
+
+文学
+
+历史学
+
+理学
+
+工学
+
+农学
+
+医学
+
+军事学
+
+管理学
+
+艺术学
+
+共查询到 80条数据库信息
+
+序号
+
+中文数据库
+
+访问地址
+
+1
+
+高校信息素养教育数据库 [Button: 置顶]
+
+访问地址
+
+2
+
+维普智立方
+
+访问地址
+
+3
+
+CNKI知识资源总库
+
+访问地址
+
+  * 包库访问
+  * 镜像访问
+
+4
+
+维普经纶知识资源服务平台
+
+访问地址
+
+5
+
+万方学术学位、会议、标准
+
+访问地址
+
+  * 包库访问
+  * 镜像访问
+
+6
+
+超星数字图书馆
+
+访问地址
+
+7
+
+读秀
+
+访问地址
+
+8
+
+人大复印报刊资料
+
+访问地址
+
+  * 包库访问
+  * 镜像访问
+
+9
+
+我的书斋
+
+访问地址
+
+10
+
+馆藏图书电子版
+
+访问地址
+
+11
+
+万方学术(本地镜像）
+
+访问地址
+
+12
+
+中文在线“书香中国”数字图书馆平台
+
+访问地址
+
+13
+
+中国科学引文数据库（CSCD）
+
+访问地址
+
+14
+
+中国共产党思想理论资源数据库
+
+访问地址
+
+15
+
+国家哲学社会科学学术期刊数据库 [Button: OA ]
+
+访问地址
+
+16
+
+研究生学位论文提交
+
+访问地址
+
+17
+
+百链云图书馆
+
+访问地址
+
+18
+
+中国科学院文献情报中心期刊分区表
+
+访问地址
+
+19
+
+中国河湖大典数据库
+
+访问地址
+
+20
+
+百度文库（高校版）
+
+访问地址
+
+21
+
+大为innojoy专利数据库
+
+访问地址
+
+22
+
+京东读书
+
+访问地址
+
+23
+
+全球案例发现系统
+
+访问地址
+
+24
+
+文泉知识学堂
+
+访问地址
+
+25
+
+中文社会科学引文索引（CSSCI）
+
+访问地址
+
+26
+
+教学参考平台
+--------------------------------------------------------------------------------
+首页 | 深圳市人工智能与机器人研究院 (https://airs.cuhk.edu.cn/?page=0)
+citeturn200search2 [wordlim: 200] Crawled: last week; 全国人大常委会副委员长、民革中央主席郑建邦调研港中大（深圳），AIRS汇报人工智能与机器人科创成果 ... AIRS联合QuantumMind提出首个准实用化的量子—经典混合架构增强大模型
+
+## 新闻动态
+
+Image
+
+全国人大常委会副委员长、民革中央主席郑建邦调研港中大（深圳），AIRS汇报人工智能与机器人科创成果
+
+2026-09-19
+
+Image
+
+AIRS联合QuantumMind提出首个准实用化的量子—经典混合架构增强大模型
+
+2026-09-18
+
+Image
+
+揭示跨形态具身智能训练的计算极限，AIRS理论研究被IEEE Computer接受
+
+2026-09-17
+
+Image
+
+让机器人会思考、动得快又稳的自适应加速器UDYR入选MICRO 2026
+
+2026-09-16
+
+查看更多
+
+## 活动预告
+
+6月
+
+2026
+
+24
+
+Wednesday
+
+AIRS in the AIR
+
+AIRS in the AIR｜生成式重建：构建交互式世界模型
+
+AIRS
+
+4月
+
+21
+
+AIRS in the AIR
+
+AIRS in the AIR |语义通信系列讲座
+
+AIRS
+
+12月
+
+04
+
+AIRS in the AIR
+
+AIRS in the AIR | 公共政策与具身智能研讨会
+
+AIRS
+
+11月
+
+18
+
+AIRS in the AIR
+
+AIRS in the AIR | 仿人机器人运动控制与技能学习
+
+AIRS
+
+9月
+
+26
+
+AIRS in the AIR
+
+AIRS in the AIR | 具身智能大赛道下灵巧手生态发展与智能末端驱动
+
+AIRS
+
+查看更多
+
+## AIRS Channel
+
+22问带你了解AIRS国际联合培养博士后
+
+小样本多智能体协同感知
+
+AI要逆天啦（下集）
+
+AI要逆天啦（上集）
+
+两分钟带你了解AIRS
+
+22问带你了解AIRS国际联合培养博士后
+
+小样本多智能体协同感知
+
+AI要逆天啦（下集）
+
+AI要逆天啦（上集）
+
+两分钟带你了解AIRS
+
+22问带你了解AIRS国际联合培养博士后
+
+小样本多智能体协同感知
+
+## 学术发表
+
+Science Robotics
+
+Cross-robot behavior adaptation through intention alignment, Xi Chen, Yuan Gao, Hangxin Liu, Fangkai Yang, Ali Ghadirzadeh, Jun Yang, Bin Liang, Chongjie Zhang, Tin Lun Lam, Song-Chun Zhu
+
+Journal of Bionic Engineering
+
+Design and Control of a Bionic Inspection Robot for Suspension Bridge Main Cables, Shengkai Liu, Chao Wang, Xiaoqiang Yuan and Ning Ding.
+
+Journal of Field Robotics (JFR)
+
+A cascaded strategy with embodied artificial intelligence: forward kinematics solutions for CCRobot-S, Zhenliang Zheng, Yongyuan Xu, Xuchun He, Tin Lun Lam and Ning Ding.
+
+Science Advances
+
+A ciliated intravascular soft millirobot for multimodal in-flow collective manipulation, YIBIN WANG，YE LI, LEIMING XIE, KAIWEN FANG, CHUNYUN WEI, FENG DUAN, AND JIANGFAN YU
+
+Nature Biomedical Engineering
+
+A miniature endovascular soft robot for active blood flow regulation in occluded vessels, Kaiwen Fang, Yibin Wang, Jiguang Liang, Zhen Yang, Hui Chen, Xingzhou Du, Xiao Li, Peng Song & Jiangfan Yu
+
+Advanced Materials
+
+Multi-legged Magnetic Soft Robot for On-demand Targeted Delivery in Pulmonary Environments, Liqun Zhang, Yibin Wang, Leiming Xie, Hui Chen, Kaiwen Fang, Yu Liu, Xiaopu Wang, Jiangfan Yu
+
+ IROS 2026
+
+StateLinFormer: Stateful Training Enhancing Long-term Memory in Navigation, Zhiyuan Chen, Yuxuan Zhong, Fan Wang, Bo Yu, Pengtao Shao, Shaoshan Liu, Ning Ding
+
+ACM Transactions on Cyber-Physical Systems
+
+AIRSPEED: An Open-source Data Production Platform for Embodied Artificial Intelligence, Xuan Xia, Xianqiao Tong, Bo Yu, Jialin Jiao, Xinmin Ding, Xing He, Hongjun Zhou, Haoran Tong, Yufei Lin, Tongyi Shen, Ning Ding, Shaoshan LiuAuthors Info & Claims
+
+Science Robotics
+
+Cross-robot behavior adaptation through intention alignment, Xi Chen, Yuan Gao, Hangxin Liu, Fangkai Yang, Ali Ghadirzadeh, Jun Yang, Bin Liang, Chongjie Zhang, Tin Lun Lam, Song-Chun Zhu
+
+Journal of Bionic Engineering
+
+Design and Control of a Bionic Inspection Robot for Suspension Bridge Main Cables, Shengkai Liu, Chao Wang, Xiaoqiang Yuan and Ning Ding.
+
+Journal of Field Robotics (JFR)
+
+A cascaded strategy with embodied artificial intelligence: forward kinematics solutions for CCRobot-S, Zhenliang Zheng, Yongyuan Xu, Xuchun He, Tin Lun Lam and Ning Ding.
+
+  * [Button: 1]
+  * [Button: 2]
+  * [Button: 3]
+
+Image
+
+查看更多
+
+关注我们
+
+  * Image
+
+  *   *   * 联系我们
+    * 地址:深圳市龙岗区坂田街道雅宝路1号星河WORLD G2-14层
+
+    * 电话:+86(0)755-23518114
+
+版权所有 © 深圳市人工智能与机器人研究院 粤ICP备14099122-1号   --------------------------------------------------------------------------------
+周浩 (https://mse.hhu.edu.cn/2026/0908/c23698a333982/page.htm)
+citeturn200search3 [wordlim: 200] Published: last month; Crawled: last week; 个人简介：2025年辽宁省杰出青年科学基金获得者，江苏省双创博士计划获得者，以负责人承担多项国家自然基金项目，以第一或通讯作者在Nature Mater.,   Science Adv.，Acta   Mater.，IJP等期刊发表论文190余篇，论文累计引用10000余次，h因子55，担任MRL期刊学术编辑，以及Acta Mater., Scr. ... 5)辽宁省青年科学基金项目A类（原省杰青），2025JH6/101100022，高强高韧非均匀层状异构镁合金原位变形及强韧化机理，100万元，主持，在研。 ... 7)宝钢集团，复相钢种的B2相析出行为研究，37万元，主持，在研。 ... 15)先进制造智能化技术教育部重点实验室开放课题基金，5万元，主持，已结题。
+7)宝钢集团，复相钢种的B2相析出行为研究，37万元，主持，在研。8)宝钢集团，汽车用钢开发与应用技术国家重点实验室开放基金，纳米异构超高强汽车原型钢的研制，40万元，主持，已结题。9)宝钢集团，二种复相钢中的析出和重熔行为研究，42万元，主持，已结题。10)中科院力学研究所合作研究项目，新型中熵合金微观组织表征及变形机制研究，20万元，主持，已结题。11)兵科院宁波分院合作研究项目，双金属带材力学性能分析，30万元，主持，已结题。12)鞍钢集团, 北京研究院合作项目，纳米钛金属制备工艺研究，35万元，主持，已结题。13)江苏省“双创计划”，世界名校类，双创博士，15万元，主持，已结题。14)南京理工大学自主科研项目，Mg-Gd-Y系合金界面偏析及其形成机理研究，10万元，主持，已结题。15)先进制造智能化技术教育部重点实验室开放课题基金，5万元，主持，已结题。--------------------------------------------------------------------------------
+重庆交通大学新闻网 (https://news.cqjtu.edu.cn/?urltype=tree.TreeTempUrl&wbtreeid=1024)
+citeturn200search4 [wordlim: 200] Crawled: 3 weeks ago;   * 重庆交通大学关于推荐申报2026年中国产学研合作促进会科技创新奖的公示 07-21
+# 信息通知
+
+更多
+
+  * 关于认真组织开展2026年第7次教职工政治理论学习的通知 09-10
+  * 推普周：依法推广普及国家通用语言文字 奋进强国建设新征程 09-10
+  * 关于科学城校区实行交通管制的通告 09-04
+  * 2026级研究生入学体检通知 09-04
+  * 2026年秋季学期双校区交通车运行时刻表 09-04
+  * 关于举办“重庆交通大学首届低空经济创新大赛”的通知 08-28
+  * 重庆交通大学2026年同等学力申请硕士学位招生简章 08-11
+  * 关于做好2026年青年骨干教师出国研修项目申报工作的通知 07-24
+  * 重庆交通大学关于推荐申报2026年中国产学研合作促进会科技创新奖的公示 07-21
+  * 2026年暑假及秋季学期开学前交通车运行时刻表 07-21
+
+# 学术信息
+
+更多
+
+  * 生态环境研究中心：Low-Carbon Cementitious Materials for Intelligent Construction on Earth and Beyond 09-05
+--------------------------------------------------------------------------------
+重庆交大教师主页综合门户 (https://teacher.cqjtu.edu.cn/index.jsp)
+citeturn200search5 [wordlim: 200] Crawled: 3 weeks ago; A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+  * 首 页
+  * 杰出人才
+  * 学科列表
+  * 学院列表
+  * 教师查询
+  * 关于主页
+
+  * 学科列表 关于主页
+  * 学院列表
+  * 教师查询
+
+杰出人才
+
+## 按首字母检索
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+重庆 交通大学
+
+Image热点主页
+
+  * 何亮教授 博士学位
+  * 蔡晓禹
+  * 刘伟教授 博士学位
+  * 黄博教授 博士学位
+  * 张天驰副教授 博士学位
+  * 陈仁祥教授 博士学位
+  * 张振源副教授 博士学位
+  * 何丽红教授 博士学位
+  * 宋晨鹏教授 博士学位
+  * 官冬杰
+
+Image最近更新主页
+
+  * 香承杰副教授 博士学位
+  * 李绪勇讲师 博士学位
+  * 曾鹏讲师 博士学位
+  * 李睿副教授 博士学位
+  * 童隆副教授 硕士学位
+  * 万宇教授 博士学位
+  * 冉洪宇讲师 博士学位
+  * 李冠男讲师 博士学位
+  * 石鹏飞副教授 博士学位
+  * 雷奔 博士学位
+
+Image推荐主页
+
+  * 崔利刚教授
+  * 袁晨
+  * 张生军
+  * 焦柳丹
+  * 何秋鸿
+  * 张洪教授 博士学位
+  * 董绍江教授 博士学位
+  * 严仁章教授 博士学位--------------------------------------------------------------------------------
+媒体聚焦 | 深圳市人工智能与机器人研究院 (https://airs.cuhk.edu.cn/in-the-media)
+citeturn200search6 [wordlim: 200] Crawled: 3 months ago; 在此背景下，由深圳市政府与香港中文大学（深圳）于2019年合作建立的AIRS，充分体现了大湾区“产研融合”的特色。
+--------------------------------------------------------------------------------
+new-重庆交通大学--Welcome to Chongqing Jiaotong University ! (https://www.cqjtu.edu.cn/new.htm)
+citeturn200search7 [wordlim: 200] Crawled: today; Copyright ©CQJTU 重庆交通大学 渝ICP备11007697号-1
+--------------------------------------------------------------------------------
+重庆交通大学图书馆 (https://lib.cqjtu.edu.cn/index.htm)
+citeturn200search8 [wordlim: 200] Crawled: 1.3 years ago;     信       箱：zglzyz@cqjtu.edu.cn
+--------------------------------------------------------------------------------
+重庆交通大学党委学生工作部（处）、武装部 (https://xgb.cqjtu.edu.cn/apps/Web/Home/Detail?UYLnsDgnyKoiVTDF6vSqDVAwMC4eqVs6kp7Ajp1YVS0mHMzEwufnUZ6A2Bd3o24_6MOQn0Ws-93mXTfdOdVTW_9sK5KsXadNzFQFqNyeFeE=.shtml)
+citeturn200search9 [wordlim: 200] Published: 4 months ago; Crawled: 3 months ago; 党委学生工作部： 蒋老师62652758 邮箱：xgbbgs@cqjtu.edu.cn
+--------------------------------------------------------------------------------
+重庆交通大学新闻网 (https://news.cqjtu.edu.cn/)
+citeturn200search10 [wordlim: 200] Crawled: yesterday; 2026年09月21日 ... 2026年09月20日
+--------------------------------------------------------------------------------
+重庆交通大学教务处 (https://jw.cqjtu.edu.cn/)
+citeturn200search11 [wordlim: 200] Crawled: today;   * 邮箱：jwc@cqjtu.edu.cn
+--------------------------------------------------------------------------------
+<visual_element id="e1"> (https://airs.cuhk.edu.cn/sites/default/files/2025-06/Survey_Arxiv.pdf)
+citeturn200search12 [wordlim: 200] Published: 1.3 years ago; - Through a detailed survey, this article **maps real-world data collection technologies and simulation data generation technologies**, identifies trade-offs, and highlights recent advances that improve efficiency and diversity of EAI datasets.
+--------------------------------------------------------------------------------
+信息与计算科学专业人才培养方案 (https://jw.cqjtu.edu.cn/__local/5/31/78/B2B81CDC0EDA73792B4A9D8E0DB_FA6496A2_110BE1.pdf)
+citeturn200search13 [wordlim: 200] Published: 7.1 years ago; 序号 None | 课程名程 None | 毕业要求 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 序号 1 | 课程名程 中国近现代史纲要 | 毕业要求 ● | ● | | | | | | | 序号 2 | 课程名程 思想道德修养与法律基础 | 毕业要求 ● | ● | | | | | | | 序号 3 | 课程名程 马克思主义基本原理 | 毕业要求 ● | ● | | | | | | | 序号 4 | 课程名程 毛泽东思想和中国特色社会主义理论体系概论 | 毕业要求 ● | ● | | | | | | | 序号 5 | 课程名程 思想政治理论课综合实践 | 毕业要求 ● | ● | | | | | | | 序号 6 | 课程名程 形势与政策 | 毕业要求 ● | ● | | | | | | | 序号 7 | 课程名程 大学体育（基础课）Ⅰ | 毕业要求 ● | | | | | | | | 序号 8 | 课程名程 大学体育（基础课）Ⅱ | 毕业要求 ● | | | | | | | | 序号 9 | 课程名程 大学体育（专项课）Ⅰ | 毕业要求 ● | | | | | | | | 序号 10 | 课程名程 大学体育（专项课）Ⅱ | 毕业要求 ● | | | | | | | | 序号 11 | 课程名程 军事理论 | 毕业要求 ● | | | | | | | | 序号 12 | 课程名程 军事训练 | 毕业要求 ● | | | | | | | | 序号 13 | 课程名程 大学英语Ⅰ | 毕业要求 ● | | | | | | ● | | 序号 14 | 课程名程 大学英语 Ⅱ | 毕业要求 ● | | | | | | ● | | 序号 15 | 课程名程 大学英语提高课程I | 毕业要求 ● | | | | | | ● | | 序号 16 | 课程名程 大学英语提高课程II | 毕业要求 ● | | | | | | ● | | 序号 17 | 课程名程 大学英语拓展课程I | 毕业要求 ● | | | | | | ● | | 序号 18 | 课程名程 大学英语拓展课程II | 毕业要求 ● | | | | | | ● | | 序号 19 | 课程名程 日语、法语I-II | 毕业要求 ● | | | | | | ● | | 序号 20 | 课程名程 计算机与互联网 | 毕业要求 | | ● | ● | ● | | | | 序号 21 | 课程名程 计算机应用实践 | 毕业要求 | | ● | ● | ● | | | | 序号 22 | 课程名程 程序设计基础（Python 语言） | 毕业要求 | | ● | ● | ● | | | | 序号 23 | 课程名程 科学计算与数据可视化（Matlab） | 毕业要求 | | ● | ● | ● | | | | 序号 24 | 课程名程 职业生涯与就业指导 I | 毕业要求 ● | | | | | | | | ● 序号 25 | 课程名程 职业生涯与就业指导 II | 毕业要求 ● | | | | | | | | ● 序号 26 | 课程名程 就业与职业能力综合实践 | 毕业要求 ● | | | | | | | | ● 序号 27 | 课程名程 创业基础 | 毕业要求 ● | | | | | | | | ●- 7 -
+--------------------------------------------------------------------------------
+车辆工程专业人才培养方案 (https://jw.cqjtu.edu.cn/__local/1/F0/B3/896CF1A6D95439C96227F9E51E1_D62B8435_9DA86.pdf)
+citeturn200search14 [wordlim: 200] Published: 7.1 years ago; 课程 类别 None | 课程 平台 None | 课程 代码 None | 课程名称 （中英文） None | 课程 性质 None | 学分 None | 学时 None | 学时分配 理 论 | 实 验 | 上 机 | 实 践 | 开课 学期 None | 考核 方式 None --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 课程 类别 通识教育 | 课程 平台 思想 政治 | 课程 代码 18210070 | 课程名称 （中英文） 中国近现代史纲要 Conspectus of Chinese Modern History | 课程 性质 必修 | 学分 2.5 | 学时 40 | 学时分配 40 | | | | 开课 学期 1 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 18210071 | 课程名称 （中英文） 思想道德修养与法律基础 Ethics and Principles of Law | 课程 性质 必修 | 学分 2.5 | 学时 40 | 学时分配 40 | | | | 开课 学期 2 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 18210336 | 课程名称 （中英文） 马克思主义基本原理 Basic Principles of Marxism | 课程 性质 必修 | 学分 3 | 学时 48 | 学时分配 48 | | | | 开课 学期 3 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210029 | 课程名称 （中英文） 毛泽东思想和中国特色社会主义理论体系概论 Maoism and the Chinese Characteristic s Socialism Theory System Overview | 课程 性质 必修 | 学分 4 | 学时 64 | 学时分配 64 | | | | 开课 学期 4 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210611 | 课程名称 （中英文） 思想政治理论课综合实践 Ideological and Political Theory Course of Comprehensive Practice | 课程 性质 必修 | 学分 2 | 学时 32 | 学时分配 | | | 32 | 开课 学期 4 | 考核 方式 考查 课程 类别 None | 课程 平台 None | 课程 代码 18210072 | 课程名称 （中英文） 形势与政策 Situation and Policy | 课程 性质 必修 | 学分 2 | 学时 64 | 学时分配 64 | | | | 开课 学期 1-8 | 考核 方式 考试 课程 类别 None | 课程 平台 军事 体育 | 课程 代码 18210075 | 课程名称 （中英文） 大学体育（基础课）I Physical Education (Basic Course) I | 课程 性质 必修 | 学分 1 | 学时 32 | 学时分配 | | | 32 | 开课 学期 1 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 18210427 | 课程名称 （中英文） 大学体育（基础课）II Physical Education (Basic Course) II | 课程 性质 必修 | 学分 1 | 学时 32 | 学时分配 | | | 32 | 开课 学期 2 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210031 | 课程名称 （中英文） 大学体育（专项课）I Physical Education (Special Course)）I | 课程 性质 必修 | 学分 1 | 学时 32 | 学时分配 | | | 32 | 开课 学期 3 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210032 | 课程名称 （中英文） 大学体育（专项课）II Physical Education (Special Course)）II | 课程 性质 必修 | 学分 1 | 学时 32 | 学时分配 | | | 32 | 开课 学期 4 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 18210073 | 课程名称 （中英文） 军事理论 Military Theories | 课程 性质 必修 | 学分 1 | 学时 16 | 学时分配 16 | | | | 开课 学期 1 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 18210074 | 课程名称 （中英文） 军训 Military Training | 课程 性质 必修 | 学分 2 | 学时 32 | 学时分配 | | | 32 | 开课 学期 1 | 考核 方式 考查 课程 类别 None | 课程 平台 外语 | 课程 代码 18210076 | 课程名称 （中英文） 大学英语I College English I | 课程 性质 必修 | 学分 4 | 学时 64 | 学时分配 64 | | | | 开课 学期 1 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 18210428 | 课程名称 （中英文） 大学英语II College English II | 课程 性质 必修 | 学分 4 | 学时 64 | 学时分配 64 | | | | 开课 学期 2 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210920 | 课程名称 （中英文） 大学英语提高课程I College English Upgraded Course I | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 3 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210921 | 课程名称 （中英文） 大学英语提高课程II College English Upgraded Course II | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 4 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210035 | 课程名称 （中英文） 大学英语拓展课程I College English Extended Course I | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 3 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210036 | 课程名称 （中英文） 大学英语拓展课程II College English Extended Course II | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 4 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210229 | 课程名称 （中英文） 日语I JapaneseI | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 3 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210231 | 课程名称 （中英文） 日语II JapaneseII | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 4 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210240 | 课程名称 （中英文） 法语I FrenchI | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 3 | 考核 方式 考试 课程 类别 None | 课程 平台 None | 课程 代码 19210238 | 课程名称 （中英文） 法语II | 课程 性质 选修 | 学分 2 | 学时 32 | 学时分配 32 | | | | 开课 学期 4 | 考核 方式 考试- 4 -
+

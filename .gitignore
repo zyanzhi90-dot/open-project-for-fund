@@ -1,0 +1,17 @@
+# Local dependencies and generated caches
+node_modules/
+pydeps/
+__pycache__/
+*.pyc
+*.inspect.ndjson
+~$*
+*.tmp
+.sync/
+.env
+.env.*
+
+# Personal unpublished proposal: keep local in this public repository
+*面上项目*.pdf
+proposal*.txt
+unrar/
+unrarw64.exe

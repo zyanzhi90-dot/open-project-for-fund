@@ -1,0 +1,11 @@
+{
+  "url": "https://idsse.cas.cn/xwdt/tzgg/202512/P020251223561744453023.docx",
+  "name": "1223附件-深海科学与智能技术全国重点实验室2025年开放课题申请.docx",
+  "ids": [
+    "M121"
+  ],
+  "referer": "https://idsse.cas.cn/xwdt/tzgg/202512/t20251223_8031930.html",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18001 milliseconds with 155344 out of 4248196 bytes received\r\n"
+}

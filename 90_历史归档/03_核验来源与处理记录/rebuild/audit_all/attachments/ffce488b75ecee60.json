@@ -1,0 +1,11 @@
+{
+  "url": "https://cie.ici.um.edu.mo/wp-content/uploads/2026/03/附件一-開放課題具體需求.pdf",
+  "name": "附件一 開放課題具體需求.pdf",
+  "ids": [
+    "M150"
+  ],
+  "referer": "https://e-bulletin.um.edu.mo/notice/500662/",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18001 milliseconds with 218376 out of 245469 bytes received\r\n"
+}

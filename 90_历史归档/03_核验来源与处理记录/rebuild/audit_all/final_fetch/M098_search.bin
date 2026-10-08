@@ -1,0 +1,1520 @@
+<!DOCTYPE html>
+<html lang="zh-hans" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="深圳市十大基础研究机构之一，依托香港中文大学（深圳）设立，联合世界顶级研究机构，重点开展人工智能与机器人的基础、共性、关键技术研究。" />
+<meta name="keywords" content="AIRS、人工智能、机器人、机器学习、群体协作、运动智能、人机谐作、群体智能、计算机视觉、高性能计算、特种机器人、智能机器人、手术机器人、医疗机器人、微纳机器人、微纳米" />
+<link rel="canonical" href="http://airs.cuhk.edu.cn/search" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/cuhk_ui/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Search | 深圳市人工智能与机器人研究院</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_kj4Jc6vLXrBwicajvULaIuD-3Uoc8eklNaSiPHobbnA.css?delta=0&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkWFOwzAMhS9ULesGXMdyG2_xSOMSO9vK6QmwoUmk8MfJ8_f8FMWoSgacTjSaZDeqbgZGMV4wHTVwh78NI0ZKHjP0W9i2DVmKUoT-6T_Dc9twYIoeBvFLiwbKAnvYtVhkNeh37dhv-Ad7gX2LzWE2gZXQjMYCakukFl4FhkOk9bkLpfdQl1BLXYZ0919398vGAk3U-SXxGaGw87nMGB8a00SpPGhMPKFRd3orlJfaAROJxrO7nd1Ywuuncygc_Y-6BZ-ZLuq-6mYSX-q7BzKjDHSdRcnDgWOV6o6UKGP8AP4y6is" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_cgYuq-j66E0ZUAPgy9H6zhLvlPHngUWx4Cnda0GF0jQ.css?delta=1&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkWFOwzAMhS9ULesGXMdyG2_xSOMSO9vK6QmwoUmk8MfJ8_f8FMWoSgacTjSaZDeqbgZGMV4wHTVwh78NI0ZKHjP0W9i2DVmKUoT-6T_Dc9twYIoeBvFLiwbKAnvYtVhkNeh37dhv-Ad7gX2LzWE2gZXQjMYCakukFl4FhkOk9bkLpfdQl1BLXYZ0919398vGAk3U-SXxGaGw87nMGB8a00SpPGhMPKFRd3orlJfaAROJxrO7nd1Ywuuncygc_Y-6BZ-ZLuq-6mYSX-q7BzKjDHSdRcnDgWOV6o6UKGP8AP4y6is" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/ie.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/main.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/fonts.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/dyniva_ui/css/animate.css?tewqia" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_7n3MoDl7BXWjStZlUeFe1CmD7N336_Fi8rt4Sz6875U.css?delta=6&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkWFOwzAMhS9ULesGXMdyG2_xSOMSO9vK6QmwoUmk8MfJ8_f8FMWoSgacTjSaZDeqbgZGMV4wHTVwh78NI0ZKHjP0W9i2DVmKUoT-6T_Dc9twYIoeBvFLiwbKAnvYtVhkNeh37dhv-Ad7gX2LzWE2gZXQjMYCakukFl4FhkOk9bkLpfdQl1BLXYZ0919398vGAk3U-SXxGaGw87nMGB8a00SpPGhMPKFRd3orlJfaAROJxrO7nd1Ywuuncygc_Y-6BZ-ZLuq-6mYSX-q7BzKjDHSdRcnDgWOV6o6UKGP8AP4y6is" />
+<link rel="stylesheet" media="all" href="/themes/custom/cuhk_ui/css/icons.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/cuhk_ui/css/fonts.css?tewqia" />
+<link rel="stylesheet" media="all" href="/themes/custom/cuhk_ui/css/misc.css?tewqia" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_m5k6cK7qo2qMAE0PQ3bnojHuWLDWtu5bYFdAheg3Z9g.css?delta=10&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJyFkWFOwzAMhS9ULesGXMdyG2_xSOMSO9vK6QmwoUmk8MfJ8_f8FMWoSgacTjSaZDeqbgZGMV4wHTVwh78NI0ZKHjP0W9i2DVmKUoT-6T_Dc9twYIoeBvFLiwbKAnvYtVhkNeh37dhv-Ad7gX2LzWE2gZXQjMYCakukFl4FhkOk9bkLpfdQl1BLXYZ0919398vGAk3U-SXxGaGw87nMGB8a00SpPGhMPKFRd3orlJfaAROJxrO7nd1Ywuuncygc_Y-6BZ-ZLuq-6mYSX-q7BzKjDHSdRcnDgWOV6o6UKGP8AP4y6is" />
+
+    <script src="/sites/default/files/js/js_JXFg9WMCUWwkyAOyGJGRO54iDN060sB8fYKZapT-E_c.js?scope=header&amp;delta=0&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJx1UdFuwjAM_CGg7CM2ac_jPXIT0xrSOLIdoHz9MhiQTpr6dJe72ncGVTRH6YDeWLqDbnqgUJxxGg60CnOiE7hCXV8ohgYHKRliK2A2NYG8MegXQs6Bz6mhNJI_LnFAaYhpwlQafIY5MyXThoNEExg2TITrrHTFVpWFhyQc2033dPl8b6dhIGgwxkhZqf1NrzvmaJQbbuBd_fIyx_Tlb9N8GY-v2h7ot7QHrAGGuu0D_th1afdFjSfFWM_zJO_tPF1o6xFpGF-CXiC9hkLyI8t6YTrVwnkNxThHmNeCGUhWGVTPLMFh8jJn6_4Sqx7NUBxeMisGt6dYoXYDJpQa7J_n-_4OYnSJEz63GBHq3d3b1m2bOCB-_Lg5F7edQ732N0IIDSU"></script>
+<script src="/sites/default/files/asset_injector/js/baidu_tongji-8cb9b8837c9b064af8d128e4a2d59d17.js?tewqia"></script>
+
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+      <meta name="renderer" content="webkit">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+  </head>
+  <body class="workspace-live page-search">
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page" id="page">
+
+    
+  
+  
+  
+    
+              
+          
+        <div class="hero-slider">
+          
+  <div id="block-zhucaidanheader100" data-block-plugin-id="block_content:92d30ac1-4ad0-4ba5-a487-e2b0e9267b09" class="block">
+
+  
+    
+
+            <div class="entity-widget-menu_10_0 entity-widget-entity-type-block_content">
+
+<div class="header-10-0 header-3-1 header-wrapper sticky-header ">
+  <div class="sticky-wrapper clearfix position-relative flex flex-nowrap">
+    <div class="header-container py-20 flex-grow flex-shrink">
+      <div class="search-mobile-form inside-min hidden border-bottom">
+        <form action="/search">
+          <button type="submit" class="btn btn-base btn-radius f-r outside-min-l">
+            搜索
+          </button>
+          <div class="search-input overflow-hidden">
+            <input type="text" name="keywords" class="form-text form-element-full form-element-radius"
+                   placeholder="输入关键字"/>
+          </div>
+        </form>
+      </div>
+      <div class="hidden-md hidden-lg f-l outside-min-l menu-mobile-toggle">
+        <a href="javascript:void(0)"><i class="icon icon-plus"></i> </a>
+      </div>
+      <div class="hidden-md hidden-lg f-r outside-min-r search-mobile-toggle">
+        <a href="javascript:void(0)"> <i class="icon icon-search"></i> </a>
+      </div>
+      <div class="header-logo">
+        <a href="http://airs.cuhk.edu.cn/">
+          <img src="/sites/default/files/styles/crop_freeform/public/2021-11/logo-airs--black%20%281%29.png?itok=Nmul0XVu" alt="">
+        </a>
+      </div>
+      <div class="second-menu hidden md|flex justify-end items-center">
+        
+  <div class="language-switcher-language-url block" id="block-languageswitcher" role="navigation" data-block-plugin-id="language_block:language_interface">
+
+  
+    
+
+            
+
+<div class="dropdown">        <i class="icon icon-earth"></i>
+        <a href="/en/search" class="language-link en" hreflang="en" data-drupal-link-system-path="search">English</a>
+        </div>
+      
+  </div>
+
+        <div class="search d_ib">
+          <a class="outside-min-lr uppercase" href="javascript:void(0);">
+            <i class="icon icon-search"></i>
+          </a>
+          <div class="search-form clearfix bg-lighter">
+            <i class="icon icon-close"></i>
+            <form action="/search" class="t-c">
+              <label>
+                <input type="text" name="keywords" class=" form-text form-element-radius" placeholder="输入关键字"/>
+                <button class="btn btn-base btn-radius" type="submit">搜索</button>
+              </label>
+            </form>
+          </div>
+        </div>
+      </div>
+            <ul class="menu menu-desktop w-full hidden md|display-block xl|text-right">
+                <li class="menu-item d_ib ">
+                    <a href="/about">研究院概况<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/about">
+                    研究院简介
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/contact">
+                    联系我们
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="/team">科研力量</a>
+                            </li>
+                <li class="menu-item d_ib ">
+                    <a href="/research">科学研究<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/research">
+                    科学研究
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/publications">
+                    学术发表
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="https://airs-academy.cuhk.edu.cn/">AIRS学院<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/">
+                    AIRS学院
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/yanxuexiangmu">
+                    研学项目
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/saishihuodong">
+                    赛事活动
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="https://airs-academy.cuhk.edu.cn/chanyepeixun">
+                    产业培训
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="/partners">生态合作<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/article/1429">
+                    开放项目
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/partners">
+                    合作伙伴
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="/news">最新动态<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/news">
+                    新闻动态
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/in-the-media">
+                    媒体聚焦
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/events">
+                    活动
+                  </a>
+                              </li>
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/page/1226">
+                    灵巧手大赛
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+                <li class="menu-item d_ib ">
+                    <a href="https://airs.zhiye.com/">人才招聘</a>
+                            </li>
+                <li class="menu-item d_ib ">
+                    <a href="/node/1434">更多<i class="icon icon-down"></i></a>
+                              <div class="sub-menu-container">
+            <ul class="sub-menu t-c inside-tb">
+                            <li class="menu-item d_ib t-l ">
+                                  <a href="/node/1434">
+                    招标与询价公告
+                  </a>
+                              </li>
+                          </ul>
+          </div>
+                  </li>
+              </ul>
+            <div class="menu-mobile hidden-lg hidden-md">
+                <ul class="menu t-c">
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/about">研究院概况</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/about">研究院简介</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/contact">联系我们</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                                    <a href="/team">科研力量</a>
+                                  </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/research">科学研究</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/research">科学研究</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/publications">学术发表</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/yanxuexiangmu">研学项目</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/saishihuodong">赛事活动</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="https://airs-academy.cuhk.edu.cn/chanyepeixun">产业培训</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/partners">生态合作</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/article/1429">开放项目</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/partners">合作伙伴</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/news">最新动态</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/news">新闻动态</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/in-the-media">媒体聚焦</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/events">活动</a>
+                                  </li>
+                                <li class="menu-item ">
+                                      <a href="/page/1226">灵巧手大赛</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item ">
+                                    <a href="https://airs.zhiye.com/">人才招聘</a>
+                                  </li>
+                    <li class="menu-item ">
+                        <i class="icon icon-plus f-r"></i>
+                                    <a href="/node/1434">更多</a>
+                                    <div class="sub-menu-container menu-child">
+              <ul class="sub-menu">
+                                <li class="menu-item ">
+                                      <a href="/node/1434">招标与询价公告</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                  </ul>
+                <div class="spacer-sm"></div>
+
+        <div class="back-to-home outside-min-b">
+          <a class="" href="">
+            <i class="icon icon-home"></i>           </a>
+        </div>
+
+        
+  <div class="language-switcher-language-url block" id="block-languageswitcher" role="navigation" data-block-plugin-id="language_block:language_interface">
+
+  
+    
+
+            
+
+<div class="dropdown">        <i class="icon icon-earth"></i>
+        <a href="/en/search" class="language-link en" hreflang="en" data-drupal-link-system-path="search">English</a>
+        </div>
+      
+  </div>
+
+        <div class="spacer-md"></div>
+      </div>
+    </div>
+
+    <div class="menu-desktop-all--open corsor-pointer hidden-xs hidden-sm">
+      <img src="/themes/custom/cuhk_ui/templates/ui/images/AIRS/header-10-0--menu-open.png" alt="">
+    </div>
+
+    <div class="menu-desktop-all hidden-xs hidden-sm">
+      <div class="menu-container flex items-start"
+        data-toggle="bgImage"
+        data-image-url="/sites/default/files/styles/crop_freeform/public/2021-11/header-10-0--0.png?itok=7shcLku3"
+      >
+        <div class="w-full flex flex-nowrap items-stretch">
+          <div class="flex flex-grow justify-between items-center px-30 py-20">
+            <div class="header-logo">
+              <a href="http://airs.cuhk.edu.cn/">
+                <img src="/sites/default/files/styles/crop_freeform/public/2021-11/logo%E5%85%A8%E7%99%BD_0.png?itok=9pZ2l6rf" alt="">
+              </a>
+            </div>
+            <div class="second-menu flex items-center">
+              
+  <div class="language-switcher-language-url block" id="block-languageswitcher" role="navigation" data-block-plugin-id="language_block:language_interface">
+
+  
+    
+
+            
+
+<div class="dropdown">        <i class="icon icon-earth"></i>
+        <a href="/en/search" class="language-link en" hreflang="en" data-drupal-link-system-path="search">English</a>
+        </div>
+      
+  </div>
+
+              <div class="search d_ib">
+                <a class="outside-min-lr uppercase" href="javascript:void(0);">
+                  <i class="icon icon-search"></i>
+                </a>
+                <div class="search-form clearfix bg-lighter">
+                  <i class="icon icon-close"></i>
+                  <form action="/search" class="t-c">
+                    <label>
+                      <input type="text" name="keywords" class=" form-text form-element-radius" placeholder="输入关键字"/>
+                      <button class="btn btn-base btn-radius" type="submit">搜索</button>
+                    </label>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="menu-desktop-all--close corsor-pointer">
+            <img src="/themes/custom/cuhk_ui/templates/ui/images/AIRS/header-10-0--menu-close.png" alt="">
+          </div>
+        </div>
+                <ul class="menu hidden-xs hidden-sm w-full flex flex-nowrap justify-center">
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/about">研究院概况</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/about">研究院简介</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/contact">联系我们</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/team">科研力量</a>
+                                  </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/research">科学研究</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/research">科学研究</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/publications">学术发表</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/">AIRS学院</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/yanxuexiangmu">研学项目</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/saishihuodong">赛事活动</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="https://airs-academy.cuhk.edu.cn/chanyepeixun">产业培训</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/partners">生态合作</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/article/1429">开放项目</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/partners">合作伙伴</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/news">最新动态</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/news">新闻动态</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/in-the-media">媒体聚焦</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/events">活动</a>
+                                  </li>
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/page/1226">灵巧手大赛</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="https://airs.zhiye.com/">人才招聘</a>
+                                  </li>
+                    <li class="menu-item px-30 ">
+                        <a class="h3" href="/node/1434">更多</a>
+                                    <div class="sub-menu-container mt-20">
+              <ul class="sub-menu inside-tb">
+                                <li class="menu-item py-10 ">
+                                      <a class="h4" href="/node/1434">招标与询价公告</a>
+                                  </li>
+                              </ul>
+            </div>
+                      </li>
+                  </ul>
+              </div>
+    </div>
+  </div>
+</div>
+</div>
+      
+  </div>
+
+  
+  </div>
+    
+      <div id="main" class="main" role="main">
+
+    
+                      <div data-drupal-messages-fallback class="hidden"></div>
+
+  
+        
+        
+        
+                      
+  <div id="block-coursesearchkeywordsfilterblock" data-block-plugin-id="course_search_keywords_filter_block" class="block">
+
+  
+    
+
+            <div class="wgt-search-2-0 inside-tb bg-primary">
+  <div class="inner-sm">
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        <div class="search-body">
+          <form action="">
+                        <div class="search-btn outside-l f-r">
+              <button type="submit" class="btn btn-third btn-radius text-primary bold">搜索</button>
+            </div>
+            <div class="search-input">
+              <input placeholder="请输入您要搜索的关键字" name="keywords"
+                     value="" class="form-text form-element-radius form-element-full outside-min-b"
+                     type="search">
+                                        </div>
+          </form>
+        </div>
+      </div>
+          </div>
+  </div>
+</div>
+
+      
+  </div>
+
+  
+        
+        <div class="spacer-md"></div>
+    <div class="inner">
+      <div class="row row-lg">
+        
+                                <div class="col-xs-12 col-md-3 mb-20 md|mb-0 sidebar" role="sidebar" id="sidebar-first">
+          <div class="sm|mr-20">
+                  
+  <div id="block-searchpagefilter" data-block-plugin-id="block_content:e37fdcf9-1125-4117-92af-dd806c24e0e4" class="block">
+
+  
+    
+
+            <div class="entity-widget-search_filter entity-widget-entity-type-block_content">
+    <div class="aside-nav-2-0">
+    <div class="nav-title ">
+      <a class="f-r outside-min-t underline-hover" href="/search">清除全部</a>
+      <h3>筛选</h3>
+    </div>
+    <form action="/search" method="get" class="search-filter" autocomplete="off">
+      <input type="hidden" name="keywords">
+              <div class="nav-section border-top outside-t inside-t" id="filter-group-0">
+                      <a class="f-r underline-hover group-clear" href="javascript:void(0);" data-group="0">清除</a>
+                                <span class="nav-sub-title">内容类型</span>
+                                                                                        <ul class="filter-checkbox outside-min-t">
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[]" value="" data-val="" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              全部选择
+            </label>
+          </a>
+        </li>
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[article]" value="article" data-val="article" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              文章
+            </label>
+          </a>
+        </li>
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[event]" value="event" data-val="event" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              活动
+            </label>
+          </a>
+        </li>
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[recruitment]" value="recruitment" data-val="recruitment" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              招聘
+            </label>
+          </a>
+        </li>
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[teacher]" value="teacher" data-val="teacher" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              人员
+            </label>
+          </a>
+        </li>
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[media_focus]" value="media_focus" data-val="media_focus" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              媒体聚焦
+            </label>
+          </a>
+        </li>
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[publication]" value="publication" data-val="publication" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              学术发表
+            </label>
+          </a>
+        </li>
+              <li>
+          <a href="javascript:void(0);">
+            <label class="btn-choose btn-choose-square">
+              <input type="checkbox" class="form-checkbox btn-choose-input" name="type[basic_page]" value="basic_page" data-val="basic_page" data-select="type">
+              <i class="btn-choose-mark invisible"></i>
+              基本页
+            </label>
+          </a>
+        </li>
+          </ul>
+  
+                                            </div>
+              <div class="nav-section border-top outside-t inside-t" id="filter-group-1">
+                                <span class="nav-sub-title">排序</span>
+                                                        <input name="sort_by" value="created" type="hidden">
+                                                                              <div class="custom-dropdown full outside-t bg-white">
+      <div class="dropdown-input">
+        <input type="hidden" name="sort_order">
+        <label class="dropdown-label">
+                                                                                                倒序
+        </label>
+        <i class="icon icon-down"></i>
+      </div>
+      <ul class="dropdown-list">
+                  <li  class="active" >
+            <a href="javascript:void(0);" data-val="" data-select="sort_order" data-type="select">默认</a>
+          </li>
+                  <li >
+            <a href="javascript:void(0);" data-val="ASC" data-select="sort_order" data-type="select">正序</a>
+          </li>
+                  <li >
+            <a href="javascript:void(0);" data-val="DESC" data-select="sort_order" data-type="select">倒序</a>
+          </li>
+              </ul>
+    </div>
+  
+                                            </div>
+            <button type="submit" class="btn btn-base btn-radius bold full-width outside-md-t">搜索</button>
+    </form>
+  </div>
+
+  
+  
+  
+  
+  
+</div>
+      
+  </div>
+
+  
+          </div>
+        </div>
+                
+                
+                                <div class="col-xs-12 col-md-9 has-sidebar" role="content" id="content">
+                
+<div id="block-cuhk-ui-content" data-block-plugin-id="system_main_block" class="block block-system">
+  
+    
+    	  		<div class="views-element-container"><div class="list-1-0 search-list bg-white inside-md-l inside-md-tb js-view-dom-id-eb6e21bbd276e1966a9d5c9abb2af7d8ae88d1dd89ddfc19f0ce51e6680b7c92">
+  
+  
+  
+
+      <header>
+      <div class="list-filter inside-min-b"><span>相关结果有746个</span><span>。</span></div>
+
+    </header>
+  
+  <form class="views-exposed-form bef-exposed-form hidden" data-drupal-selector="views-exposed-form-search-page-list" action="/search" method="get" id="views-exposed-form-search-page-list" accept-charset="UTF-8">
+  <div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-keywords js-form-item-keywords">
+      
+      
+      	<input placeholder="输入关键字" data-drupal-selector="edit-keywords" type="text" id="edit-keywords" name="keywords" value="" size="30" maxlength="128" class="form-text form-element form-element-radius" />
+
+          </div>
+<fieldset data-drupal-selector="edit-type" id="edit-type--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend"></span>
+  </legend>
+  <div class="fieldset-wrapper">
+            <div id="edit-type" class="form-checkboxes"><div class="form-checkboxes bef-checkboxes">
+                  <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-article js-form-item-type-article">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-article" type="checkbox" id="edit-type-article" name="type[article]" value="article" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      文章
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-basic-page js-form-item-type-basic-page">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-basic-page" type="checkbox" id="edit-type-basic-page" name="type[basic_page]" value="basic_page" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      基本页
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-combined-program js-form-item-type-combined-program">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-combined-program" type="checkbox" id="edit-type-combined-program" name="type[combined_program]" value="combined_program" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      Combined Program
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-course js-form-item-type-course">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-course" type="checkbox" id="edit-type-course" name="type[course]" value="course" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      课程
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-cuhk-video js-form-item-type-cuhk-video">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-cuhk-video" type="checkbox" id="edit-type-cuhk-video" name="type[cuhk_video]" value="cuhk_video" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      中大映像
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-download js-form-item-type-download">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-download" type="checkbox" id="edit-type-download" name="type[download]" value="download" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      文件下载
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-event js-form-item-type-event">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-event" type="checkbox" id="edit-type-event" name="type[event]" value="event" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      活动
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-faq js-form-item-type-faq">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-faq" type="checkbox" id="edit-type-faq" name="type[faq]" value="faq" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      FAQ
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-introduction-system js-form-item-type-introduction-system">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-introduction-system" type="checkbox" id="edit-type-introduction-system" name="type[introduction_system]" value="introduction_system" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      System
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-landing-page js-form-item-type-landing-page">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-landing-page" type="checkbox" id="edit-type-landing-page" name="type[landing_page]" value="landing_page" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      着陆页
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-media-focus js-form-item-type-media-focus">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-media-focus" type="checkbox" id="edit-type-media-focus" name="type[media_focus]" value="media_focus" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      媒体聚焦
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-monthly-magazine js-form-item-type-monthly-magazine">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-monthly-magazine" type="checkbox" id="edit-type-monthly-magazine" name="type[monthly_magazine]" value="monthly_magazine" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      月刊
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-people js-form-item-type-people">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-people" type="checkbox" id="edit-type-people" name="type[people]" value="people" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      成员
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-periodical js-form-item-type-periodical">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-periodical" type="checkbox" id="edit-type-periodical" name="type[periodical]" value="periodical" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      校园期刊
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-photo js-form-item-type-photo">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-photo" type="checkbox" id="edit-type-photo" name="type[photo]" value="photo" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      照片
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-publication js-form-item-type-publication">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-publication" type="checkbox" id="edit-type-publication" name="type[publication]" value="publication" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      出版文献
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-recruitment js-form-item-type-recruitment">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-recruitment" type="checkbox" id="edit-type-recruitment" name="type[recruitment]" value="recruitment" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      招聘
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-research js-form-item-type-research">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-research" type="checkbox" id="edit-type-research" name="type[research]" value="research" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      研究中心
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-site js-form-item-type-site">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-site" type="checkbox" id="edit-type-site" name="type[site]" value="site" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      站点
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-slideshow js-form-item-type-slideshow">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-slideshow" type="checkbox" id="edit-type-slideshow" name="type[slideshow]" value="slideshow" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      幻灯片
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-teacher js-form-item-type-teacher">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-teacher" type="checkbox" id="edit-type-teacher" name="type[teacher]" value="teacher" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      教职人员
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-team js-form-item-type-team">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-team" type="checkbox" id="edit-type-team" name="type[team]" value="team" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      科研团队
+    </label>
+          </div>
+
+                    <div class="js-form-item form-item form-type-checkbox js-form-type-checkbox form-item-type-webform js-form-item-type-webform">
+      
+      <label class="btn-choose btn-choose-square ">
+      <input data-drupal-selector="edit-type-webform" type="checkbox" id="edit-type-webform" name="type[webform]" value="webform" class="form-checkbox btn-choose-input" />
+
+      <i class="btn-choose-mark invisible"></i>
+      Webform
+    </label>
+          </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-form-item form-item form-type-select js-form-type-select form-item-sort-by js-form-item-sort-by">
+      <label for="edit-sort-by">Sort by</label>
+      
+      <select data-drupal-selector="edit-sort-by" id="edit-sort-by" name="sort_by" class="form-select"><option value="created" selected="selected">发布于</option></select>
+          </div>
+<div class="js-form-item form-item form-type-select js-form-type-select form-item-sort-order js-form-item-sort-order">
+      <label for="edit-sort-order">顺序</label>
+      
+      <select data-drupal-selector="edit-sort-order" id="edit-sort-order" name="sort_order" class="form-select"><option value="ASC">Asc</option><option value="DESC" selected="selected">Desc</option></select>
+          </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">		<input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="搜索" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+  
+
+      <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-08-12
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1435" hreflang="zh-hans">2026081101-AIRS 2026-2027年度员工下午茶服务A包采购</a>
+    </div>
+                  <div class="desc three-line">深圳市人工智能与机器人研究院为保障员工基本需求，将进行2026-2027年度员工下午茶服务A包询价采购。相关事项公告如下：1、项目编号：20260811012、项目名称：AIRS 2026-2027年度员工下午茶服务A包采购3、详细内容：拟采购年度员工下午茶服务，计划选择两家供应商，每个月轮换一次。下午茶要求：（1）以水果形式采购，每个供应商各供应一个月；（2）每天提供6个果盘，每个果盘重量不少于3kg，每个果盘水果样式不少于4种，每周至少3天水果不重样；（3）送达时间：工作日每天15:00前送达；（4）确保为新鲜现切水果，不得使用过夜、变质水果，作业环境符合卫生标准。4、预算金额：95000元5、采购方式：询价采购6、报价截止时间：2026年8月14日 17:007、获取询价文件的方式：定向询价，相关供应商会收到正式的询价邮件。未收到询价邮件者不能报价。联系人：武泽鹏联系电话：18033447008邮箱：rickwu@cuhk.edu.cn</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-29
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1433" hreflang="zh-hans">多智能体协同如何在超大规模真实电网上跑通： “AI调度员明月”入选国家典型成果案例</a>
+    </div>
+                  <div class="desc three-line">7月22日，国家人工智能应用（能源领域电力方向）产业联盟发布“AI+能源电力”典型成果案例汇编。由深圳市人工智能与机器人研究院（AIRS）群体智能中心黄建伟教授、赵俊华教授团队，联合广东电网有限责任公司电力调度控制中心研发的“超大规模省级电网多智能体协同 AI 调度员‘明月’关键技术及应用”，入选“AI+调度”类典型成果案例（该类目全册仅收录2项）。该汇编已于7月17日至20日在上海2026世界人工智能大会（WAIC）期间向全球AI领域专家展示交流。&nbsp;为什么电网是多智能体研究最硬的试验场多智能体系统的理论研究论文很多，能在真实工业系统上跑通的很少。省级电网几乎集齐了所有难点：状态空间极大——百万数量级设备需要全天候监控；决策必须秒级——事故场景下没有反复推演的时间；物理约束不可违背——潮流方程、频率与电压稳定边界是硬约束，不是软惩罚项；不容许试错——没有可供大量采样的在线试错环境；控制主体天然分层——源、网、荷分属不同层级与不同责任主体，本质上是分布式协同问题，而非集中式最优控制问题。&nbsp;“明月”的技术架构“明月”采用多智能体协同+大小模型协同架构，构建了国内首个集感知—决策—控制于一体的智能调度产品体系，落地为国内首个省级大电网AI调度员。三项核心技术创新分别对应三个工程目标：创新一：全域全息感知（“感知全”）依托多模态大模型与VLM-BLIP、知识图谱技术，实现电网全域全息感知与语义融合。要点在于把异构的量测数据、图像数据与调度知识统一到同一语义空间，为上层智能体提供一致的状态表示。创新二：物理—因果双重引导的调度大模型（“高可信”）融合PINN-GNN、Physics-DPO等技术构建调度大模型。这是整个系统可信性的关键：PINN-GNN把电网的物理规律嵌入图神经网络的结构与损失中，Physics-DPO则把物理一致性引入偏好对齐环节——使大模型的输出不仅“看起来合理”，而且受物理规律约束。在不容许试错的场景中，这是大模型能够进入决策回路的前提。创新三：分层多智能体知识嵌入学习框架（“控制快”）针对源—网—荷天然的分层结构，构建分层多智能体知识嵌入学习框架，实现分层并行协同精准控制。知识嵌入的作用是压缩探索空间——在样本昂贵的真实系统中，让智能体从领域知识出发而非从零学习。&nbsp;在真实电网业务场景的验证结果“明月”已在广东电网全面推广…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-27
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1432" hreflang="zh-hans">AIRS携手海纳智能共建“智能产线联合实验室” 共探智能制造新路径</a>
+    </div>
+                  <div class="desc three-line">7月24日，深圳市人工智能与机器人研究院（简称“AIRS”）、海纳智能装备国际控股有限公司（简称“海纳智能”，01645.HK）与其旗下子公司晋江市元枢智能科技有限公司（简称“元枢智能”）正式签署合作框架及首期落地协议，宣布共建“智能产线机器人联合实验室”，聚焦智能制造产线自动化与智能化升级，推动人工智能在卫品装备领域的产业化落地。双方将以联合实验室为抓手，积极搭建沟通桥梁，充分发挥AIRS在人工智能及机器人领域的前沿科研优势与海纳智能在卫品装备制造领域的产业经验，推动资源共享与优势互补，探索创新合作模式，促进产业协同发展。联合实验室将聚焦但不限于以下方向的研发与成果转化：一是制造业产线智能化升级关键技术攻关。依托双方在先进制造与智能算法领域的技术积淀，聚焦产线升级中的共性瓶颈问题，从核心维度切入，研发可规模化推广的智能化升级技术方案，为制造企业降本增效提供技术支撑。二是具身智能机器人在工业场景的落地应用。强调将具身智能技术放到真实工业环境中检验，推动机器人从"程序化执行"向"自适应作业"升级，让具身智能从实验室演示真正走向产线刚需。三是智能上料、视觉检测、数字孪生、运动控制等相关技术的研发与集成。充分发挥各方的优势，打通感知、决策、执行全链路，推动多项技术的协同融合与快速产品化，助力制造业产线实现全流程智能化升级。此次联合实验室的成立，是一次"前沿技术"与"产业场景"的深度融合，也是"研发源头"与"转化终端"的双向打通。未来，AIRS与海纳智能将持续深化技术攻关与场景验证的协同联动，让技术成果快速落地，切实提升产线效率与产品品质，并以真实产业需求反哺技术研发方向，形成"场景出题—技术解题—产业验证"的正向循环，共同探索智能制造产线升级的新范式，为制造业智能化转型贡献可落地的"联合方案"。&nbsp;关于深圳市人工智能与机器人研究院深圳市人工智能与机器人研究院（AIRS）成立于2019年，依托香港中文大学（深圳），由中国工程院院士徐扬生领衔创立。研究院汇聚了两位院士、多位IEEE Fellow及全球前2%顶尖科学家在内的高水平团队，聚焦多尺度介入手术机器人、城市基础设施运维机器人、智慧低碳系统三大方向，掌握微纳集群控制、柔性机器人等世界领先技术。已与招商局集团、华为、中车、南方电网等头部企业深度合作，致力将原创研究转化为服务社会民生的现实生产力，…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-25
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1431" hreflang="zh-hans">AIRS与招商局集团联合研发成果入选央企人工智能高价值场景</a>
+    </div>
+                  <div class="desc three-line">近日，在2026世界人工智能大会期间，国务院国资委发布央企AI高价值场景“百业智景”。由招商局集团申报、深圳市人工智能与机器人研究院（AIRS）联合研发的“肺癌/肺结节微无创一体化手术机器人”成功入选中央企业人工智能战略性高价值场景。&nbsp;技术突破：AI赋能精准医疗该场景面向早期肺癌及肺外周结节的经自然腔道微/无创精准诊疗需求，研发支气管镜机器人系统，构建“术前智能规划—术中精准导航—复杂病灶精准抵达—临床流程优化”的应用场景。通过人工智能技术，将肺结节识别、气道分割、最优路径生成、术中导航辅助等关键环节由经验主导转变为数据驱动和算法辅助，从而显著提升规划效率、操作确定性和临床一致性。&nbsp;共建联合实验室，深化产学研协同AIRS与招商局集团的合作已形成从基础研究到产业转化的完整闭环。2024年1月，双方正式揭牌共建“医疗机器人未来产业联合实验室”，瞄准医疗设备技术“策源地”与产业发展“新赛道”，聚焦脑血管疾病、恶性肿瘤及呼吸系统疾病等领域，开展新型柔性体机器人与多模影像导航技术攻关。联合实验室由师从徐扬生院士的韩龙博士领衔，并设立由徐扬生院士、郑海荣院士等专家组成的战略咨询委员会，为项目推进提供有力支撑。2025年2月，招商局集团董事长缪建民带队调研AIRS，对支气管镜手术机器人项目进展给予高度肯定，并表示将持续深化双方在医疗健康与人工智能领域的合作。同年，双方联合共建的“广东省人工智能与机器人中试平台（康养医疗机器人）”成功获批，计划投资2亿元，打造集研发、中试与验证于一体的综合性平台，为康养医疗机器人产业化提供全链条中试服务；并成立深圳创介医疗科技有限公司作为成果转化主体，加速商业转化。此外，双方在磁控神经介入机器人方向也已取得阶段性成果，成功完成原理样机研发及动物实验验证，适配水凝胶栓塞线圈的机械解脱装置同步通过实验验证，为脑卒中介入诊疗提供新的智能化解决方案。&nbsp;持续深耕，共促新质生产力未来，AIRS将进一步深化与招商局集团的战略协同，继续发挥在柔性体机器人、软体机器人、多模影像导航与异构主从控制等关键技术领域的领先优势，依托联合实验室及中试平台双载体，加速推进支气管镜机器人与磁控神经介入机器人的临床转化与产品落地，推动形成“基础研究—技术攻关—中试验证—临床推广”的创新闭环，…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-24
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1429" hreflang="zh-hans">深圳市人工智能与机器人研究院 2026年度医疗机器人方向开放课题征集通知</a>
+    </div>
+                  <div class="desc three-line">各有关单位、科研团队及相关研究人员：深圳市人工智能与机器人研究院（简称“AIRS”）是由深圳市政府、香港中文大学（深圳）联合多个世界顶级研究机构共同建立的十大基础研究机构之一，是深圳人工智能与机器人领域的重要科技创新平台。自2019年成立以来，AIRS专注于前沿人工智能科技的研究与创新，致力于将研究成果转化为产业界所需的工业能力。AIRS重点聚焦多尺度腔道内介入手术机器人、异构多机器人敏捷协作系统、人工智能驱动的智慧低碳等研究领域，已形成较好的科研平台、人才队伍和产业转化基础。为进一步发挥AIRS在人工智能、机器人及多尺度腔道内介入手术机器人方向的科研平台优势，推动医疗机器人关键技术创新、临床应用拓展和产学研医协同转化，现启动2026年度医疗机器人方向开放课题征集工作。有关事项通知如下。一、资助方向本年度开放课题主要面向医疗机器人及肺小结节精准诊疗相关研究，重点支持与AIRS医疗机器人方向发展密切相关的前沿探索、关键技术攻关和临床转化研究。课题资助总计不超过5项，不限制每个方向数量。具体资助方向如下：1. 支气管镜机器人关键技术研究。围绕支气管镜机器人在精准抵达、感知导航、智能控制、影像融合和系统评价等方面的关键技术开展研究。2. 支气管镜机器人临床应用研究。围绕肺小结节精准诊断与微创治疗需求，探索支气管镜机器人在活检、消融、在体诊断、定位标记及多技术联合应用等场景中的临床价值。3. 肺小结节诊疗新型器械与耗材研究。围绕肺小结节经自然腔道精准诊疗需求，开展适配支气管镜机器人平台的新型介入器械、诊疗工具及配套耗材研究。4. 医疗机器人前沿交叉研究。鼓励围绕人工智能、具身智能、医学影像、柔性机器人、医工交叉和临床转化等方向，开展具有原创性、前瞻性和转化潜力的交叉研究。二、资助原则本次开放课题坚持“开放合作、鼓励创新、医工交叉、促进转化”的原则，重点支持具有明确科学问题、临床价值和转化前景的研究项目。课题遴选将重点关注创新性、协同性、研究基础、平台条件和成果转化潜力等方面。AIRS将根据申报课题的总体质量和开放课题年度安排择优支持。对研究基础好、协同成效显著、后续转化前景明确的课题，可在平台资源使用、成果转化、重大项目联合申报等方面给予进一步支持。课题的资助方式为前资助，拨付机制为立项后一次性拨付。三、申请条件1. 国内高校、科研院所、医疗机构、…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-24
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1430" hreflang="zh-hans">AIRS提出自主终身学习具身智能体，为智能体从“按任务执行”走向“自主探索”提供全新架构范式</a>
+    </div>
+                  <div class="desc three-line">近日，我院冀晓强教授团队的研究成果《ALICE: Autonomous Lifelong Intelligence Framework for Cross-Embodiment via Continuous Internal States Feedback Mechanism》被国际著名期刊 《Future Generation Computer Systems》 收录。期刊主要报道未来生成计算机系统的理论和应用的新研究，其范围涵盖分布式计算、云计算、大数据处理、物联网、人工智能及其在各类工程和科学领域的应用，是颇具影响力的国际主流期刊，在JCR分区Q1。该工作首次系统提出面向“跨具身、长时、持续自主”的智能体框架 ALICE，并配套提出 Continuous Agent Benchmark（CAB），思考大模型智能体如何从“按任务执行”进一步走向“自主探索”。这一研究方向与中国科协7月15日发布的2026年度十大前沿科学问题之一——“具身自主智能的度量与演化”高度契合。&nbsp;01 研究背景研究团队原创性地提出了 ALICE 框架，通过四条独立异步循环——感知（Perception）、思考（Thinking）、执行（Execution）与巩固（Consolidation）——把智能体的认知过程解耦；同时引入显式的内部状态反馈通道 Φ，让智能体能够像“看见”外部环境和身体状态一样感知自己的目标、情绪、推理链与记忆状态，从而在形成有连续性的稳定自我认知和解释。ALICE 的意义不仅在于提出一个新的智能体实现，更在于提供一种新的架构范式：将大模型智能体从“被调用时才推理的工具”提升为“在持续运行的认知核心中自主调度自身”的基础设施，使感知、记忆、决策与执行能够在统一体系中长期协同。由此，智能体将不再只是等待用户指令后完成单次任务，还能够在多环境、多会话、多具身之间保持自我连贯，并为“终身自主智能”提供可迭代、可消融、可评测的研究平台。如果把单个大模型比作智能体的“大脑”，那么 ALICE 更像是面向长时程自主智能体的“操作系统”：它不替代底层模型的推理能力，而是帮助大脑在动态环境中持续感知、记住重要经验、探索新目标、调整目标优先级，并在被打断后自动回到未完成的思考链上。图1 ALICE 动机与总览：从逐个任务完成到持续自主探索&nbsp;02 研究方法与把“…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-17
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1428" hreflang="zh-hans">从“连接智能体”到“组织智能体”：AIRS具身智能中心提出6G群体自适应智能原生平面</a>
+    </div>
+                  <div class="desc three-line">近日，深圳市人工智能与机器人研究院（AIRS）具身智能中心团队的研究成果《Collective Adaptive Intelligence as a Native Plane for 6G Communications》获IEEE通信学会旗舰刊物、国际通信领域具有广泛影响力的权威杂志《IEEE Communications Magazine》接收。该工作首次系统提出面向6G通信智能体网络的群体自适应智能平面（Collective Adaptive Intelligence Plane，CAIP），探索未来6G网络如何从“连接智能体”进一步走向“组织智能体”。这一研究方向与中国科协7月15日发布的2026年度十大前沿科学问题之一—“‘AI+’构建6G通信智能体网络的机理探究”高度契合。两者共同关注的核心是：通信与人工智能如何从功能叠加走向体系融合，使网络具备组织多智能体协同感知、动态分工和集体决策的能力。在灾害救援、机器人集群和智能制造等场景中，即使每个节点都拥有强大的AI模型，一旦任务突然变化、部分节点失效或无线连接恶化，群体仍可能出现信息割裂、角色冲突和决策迟滞。因此，未来6G面临的关键问题不只是让单个节点更智能，而是让分散的智能在网络支持下形成可协调、可适应的整体。&nbsp;聪明的节点，并不会自动形成聪明的网络。为回答这一问题，研究团队原创性地提出了由智能体基座、近实时协同结构和知识平面组成的CAIP架构，分别承担本地行动与快速适应、智能体组群与角色调整，以及共享任务知识和长期经验积累等功能。在此基础上，CAIP将群体形成、语义状态交换、无线资源调度和有限时延协同映射到6G及O-RAN控制框架中，使群体智能有望从应用层的临时功能，演变为未来网络可直接支持的原生能力。CAIP的意义不仅在于增加一个新的网络功能层，更在于为未来6G及6G+通信栈提供一种新的架构范式：将AI从辅助优化工具提升为贯穿终端、接入网、边缘和云端的基础设施，使通信、控制、学习与群体决策能够在统一体系中协同运行。由此，未来网络将不再只是负责连接和数据传输，还能够原生组织智能体、协调群体行为并形成集体智能，为实现“‘AI+’构建6G通信智能体网络”提供关键架构基础。如果把单个智能体的AI模型比作“大脑”，那么CAIP更像是面向智能体群体的“协同操作系统”：它不替代每个智能体的本地智能，…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-13
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1427" hreflang="zh-hans">具身智能开源体系AIRS-EAI正式加入The Linux Foundation 推动全球具身智能基础架构发展</a>
+    </div>
+                  <div class="desc three-line">近日，由深圳市人工智能与机器人研究院（AIRS）具身智能打造的具身智能开源体系正式以 AIRS-EAI（AIRS Embodied AI，项目简称 AIRSEAI）之名加入 The Linux Foundation。该项目源自 AIRS 长期推进的具身智能开源体系 AIRSHIP，未来将以更加开放、中立和国际化的方式，面向机器人本体、感知、控制、数据、模型、评测与多智能体协同等关键环节，构建可复用、可扩展、可持续演进的具身智能基础设施。&nbsp;为什么 the Linux Foundation 重要The Linux Foundation 是全球最具影响力的开源协作平台之一，为开发者、企业、高校和科研机构提供中立可信的项目治理、基础设施支持、社区运营、合规经验与生态连接能力。对于处在产业化早期、技术栈复杂且高度依赖跨机构协同的具身智能而言，进入 Linux Foundation 体系意味着项目可以在更加开放、透明和可持续的框架下汇聚全球贡献者。更重要的是，Linux Foundation 的价值不只在于“托管代码”，而在于帮助开源项目形成长期治理机制：明确接口与标准，沉淀工程实践，降低生态伙伴参与门槛，并促进科研成果、产业应用和国际社区之间形成正循环。AIRS-EAI 加入该体系，将进一步提升 AIRS 在具身智能基础设施、机器人开源生态和国际技术协作中的影响力。&nbsp;从 AIRSHIP 到 AIRS-EAI：AIRS 的具身智能开源体系升级AIRSHIP 是 AIRS 面向具身智能系统长期积累形成的开源基础，其重点并非单一机器人产品，而是围绕“机器人如何感知、移动、操作、学习和协同”构建可插拔、可迁移、可评测的系统能力。此次以 AIRS-EAI 之名加入 Linux Foundation，是 AIRS 对原有开源体系的一次系统升级：从院内项目走向国际开源治理，从单点技术验证走向全栈基础设施建设。在体系设计上，AIRS-EAI 将持续围绕三条主线推进：一是模块化机器人系统，让不同底盘、机械臂、传感器和计算平台可以快速接入；二是数据驱动闭环，让采集、训练、微调、评测、部署形成标准流程；三是面向产业场景的持续演进，让科研成果能够服务消费电子机器人、实验室自动化、城市级多机器人协同等真实需求。&nbsp;为什么要开源：具身智能需要“基础设施级协作”…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">出版文献</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-08
+</span>
+    </div>
+    <div class="title">
+      <a href="/periodical/1426" hreflang="zh-hans">Multi-legged Magnetic Soft Robot for On-demand Targeted Delivery in Pulmonary Environments</a>
+    </div>
+           </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-08
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1425" hreflang="zh-hans">肺支气管精准药物递送！磁控软体机器人相关成果发表在Advanced Materials</a>
+    </div>
+                  <div class="desc three-line">近日，AIRS俞江帆教授团队在Advanced Materials发表以“Multi-legged Magnetic Soft Robot for On-demand Targeted Delivery in Pulmonary Environments”为题的文章，提出一种多足磁性软体机器人，该机器人可以在气管中根据空间宽窄自动切换“行走”模式，穿越黏液，其携带药物抵达病灶后，可通过体外磁场加热“融化”密封盖，定点释放药物，完成后还能原路返回被回收。此项研究为肺部精准、安全送药提出新思路。原文链接：https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.73957&nbsp;01 期刊介绍Advanced Materials是由Wiley出版社于1988年创办的材料科学领域顶级国际期刊。该期刊享有极高的学术声誉，核心聚焦材料化学、物理、纳米技术及生物医用等跨学科前沿领域的高水平研究。该期刊最新影响因子为29.1，JCR分区Q1。&nbsp;02 研究背景支气管内给药是治疗呼吸系统疾病的重要方式。然而，由于吸入式给药主要依赖药物的被动运输，而支气管镜在狭窄、曲折的远端气道中运动和操控能力有限，实现精准的肺部局部药物递送仍面临挑战。无线磁控软体机器人具有柔软、远程可控等优势，已在血管、胃肠道、脑部和生殖道等生理环境中展现出应用潜力。但肺部支气管树结构复杂，并存在黏弹性黏液，这些因素对机器人在气道中的稳定导航和药物递送提出了挑战。因此，开发一种能够穿越复杂支气管树、到达远端支气管，并在目标位置实现按需药物释放和安全回收的磁控软体机器人，可以为肺部精准给药提供新的技术思路。&nbsp;03 研究内容该研究提出了一种用于肺部靶向药物递送的多足磁性软体机器人。机器人具有用于载药的中心空腔，空腔两端采用相变材料进行密封，以减少药物在导航过程中的非目标释放（图1A）。在外部旋转磁场的驱动下，机器人可根据气道环境约束程度，自适应切换滚动、粘滑和爬行三种运动模态。到达目标区域后，通过施加高频交变磁场，利用磁热效应熔化密封材料，从而实现药物的按需释放。完成递送后，机器人可在磁场控制下返回气管插管并被回收（图1B和C）。图1 多足磁性软体机器人的肺部导航、药物释放和回收在外部旋转磁场的驱动下，机器人能够根据周围环境约束，…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-06
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1424" hreflang="zh-hans">全球青年科学家联合建言中国科技开放合作新路径 研究文章获《中国科学院院刊》接收</a>
+    </div>
+                  <div class="desc three-line">近日，由中国科学院新疆生态与地理研究所王猛、深圳市人工智能与机器人研究院（AIRS）刘少山、马来西亚理科大学Chan Siok Yee、世界青年科学家联合会高春波、康斯特大学Francesco Maurelli等多位青年科学家共同撰写的政策研究文章《连接的力量：以全球青年科学家网络为纽带的中国科技开放合作新路径》获《中国科学院院刊》接收。AIRS具身智能中心主任刘少山为本文通讯作者。该文聚焦全球青年科学家合作机制与中国科技开放合作政策建言，系统提出以青年科学家网络推动开放科学、开源协作、国际标准与应用场景协同发展的新路径。本文面向中国科技创新从“引进来”走向“走出去”的战略转型，提出“人才—开源—标准—场景”的四位一体框架，强调依托全球青年科学家网络，把中国在工程实践、开放科学、开源协作和真实应用场景中形成的经验，转化为可复现、可验证、可互认、可采纳的国际规则与标准供给。文章认为，青年科学家处于创新活跃、国际流动性强、跨学科协作密集的关键阶段，是推动中国科技体系深度参与并引领国际合作的重要力量。文章进一步强调，面向新一轮全球科技竞争与合作，中国科研体系的发展不能停留在项目合作、人才引进和单点交流层面，更需要青年科学家主动进入国际组织、开源社区、标准平台和跨国试验场景，在开放协作中提出中国问题、贡献中国方案、塑造中国叙事。青年科学家应当以更强的国际协作意识、更高的开放科学能力和更主动的规则参与能力，推动形成由中国青年科学家积极发起、国际同行广泛参与、技术成果可复现、制度规则可采纳的新型科研合作体系。在开放科学和开源协作层面，文章提出通过代码、数据、模型、实验流程和评测基准的开放共享，降低跨境合作中的搜索成本、信任成本和复现成本；在国际标准和应用场景层面，文章强调应将国内成熟的工程事实进一步沉淀为参考实现、测试用例、场景简报和一致性验证结果，使其能够进入ISO/IEC等国际标准化平台，并通过跨国复现实验和第三方测试形成可审计的证据链。该路径为中国技术从本土实践走向国际公共产品提供了清晰的政策框架。值得关注的是，本文联合多位世界青年科学院（Global Young Academy，GYA）成员及国际青年科技组织代表共同撰写。世界青年科学院是全球青年科学家群体中具有高度代表性和影响力的国际组织，汇聚来自不同国家、地区与学科背景的优秀青年科研人才，长期围绕开放科学、科学政策…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">出版文献</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-03
+</span>
+    </div>
+    <div class="title">
+      <a href="/periodical/1423" hreflang="zh-hans">StateLinFormer: Stateful Training Enhancing Long-term Memory in Navigation</a>
+    </div>
+           </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-07-03
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1422" hreflang="zh-hans">IROS 2026 | 具身智能体如何拥有长期记忆？StateLinFormer突破长时记忆瓶颈</a>
+    </div>
+                  <div class="desc three-line">想象一下，你买了一台家庭服务机器人，但它每次离开客厅后，就会忘记沙发在哪里，只能重新满屋子乱找。缺乏持续利用历史经验的能力，是当前许多具身智能体面临的重要挑战。近日，AIRS 具身智能中心关于&nbsp;StateLinFormer&nbsp;的论文被&nbsp;IROS 2026&nbsp;接收。研究团队通过“状态化训练（Stateful Training）”与线性注意力机制的结合，打破固定上下文窗口限制，大幅提升长时程导航性能与在线环境适应能力。论文标题：StateLinFormer: Stateful Training Enhancing Long-term Memory in Navigation论文链接：https://arxiv.org/abs/2603.23571&nbsp;&nbsp;1.具身智能体的"健忘" 困境目前主流的导航系统往往面临两难：传统建图（如 SLAM）：虽然能够实现精确定位与地图构建，但通常依赖显式地图表示和复杂模块设计，难以像端到端模型一样通过大规模数据获得强泛化能力。基于 Transformer 的端到端模型：靠大规模预训练获得了不错的泛化能力，却受限于固定的上下文窗口 —— 就像记忆力只有几十秒的人，时间一长就忘了之前去过哪里，容易重复探索，也没法在持续运行中慢慢熟悉环境。&nbsp;2.StateLinFormer 的“记忆接力”为了让具身智能体过目不忘，研究人员引入了&nbsp;StateLinFormer&nbsp;模型。它的核心黑科技在于：拒绝“阅后即焚”的训练方式。在传统的序列模型训练中，模型每学完一小段数据（Batch），内部记忆就会被清零（Stateless Training），这就好比你每天上学都把昨天学的知识全忘掉，永远从零基础开始学新内容。这样训练出来的模型，只习惯 "从零开始" 的记忆状态，却从来没学过如何在 "已经积累了大量历史信息" 的状态下做决策。等到真实部署时，智能体需要连续运行几小时甚至更久，训练和推理的场景完全错位，记忆能力自然发挥不出来。StateLinFormer 创新性地采用了状态化训练（Stateful Training）：模型在训练时保留了上一段数据的记忆状态，并直接传递给下一段。这让具身智能体在训练过程中持续经历长时间运行所产生的记忆状态，而不是每隔几分钟就被强行“洗脑”一次。…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-06-27
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1420" hreflang="zh-hans">生成式重建 构建交互式世界模型 | AIRS in the AIR活动回顾</a>
+    </div>
+                  <div class="desc three-line">2026年6月24日，由深圳市人工智能与机器人研究院主办的“AIRS in the AIR”主题系列活动顺利举行。本次活动以“生成式重建：构建交互式世界模型”为主题，特邀香港大学计算机科学系长聘副教授、深圳河套学院人工智能理论及系统中心副主任高盛华博士担任主讲嘉宾。活动吸引了众多人工智能领域的研究人员、创业者和投资机构参与，现场反响热烈。高盛华教授是计算机视觉与人工智能领域具有重要国际影响力的学者。他先后担任上海科技大学教授、香港大学计算机科学系长聘副教授，高教授的研究成果被引用超过2.5万次，Hindex指数达67，并曾多次担任CVPR、NeurIPS、ICCV、ECCV、ICML等国际顶级会议的领域主席，并担任IEEE TPAMI、TMM、TCSVT等权威期刊副主编。分享中，高盛华教授围绕世界模型构建的核心命题，阐述了世界模型作为内部仿真器所应具备的表征、理解和预测三大要素，分析了现有模型在推理与交互能力方面的不足，并介绍了其在生成式3D重建及CUPID框架等方面的创新成果。作为忆生科技首席科学家，高教授还分享了忆生科技聚焦视觉记忆与运动记忆、打造新一代自主智能系统的创业理念。本次活动充分展示了香港大学、深圳河套学院与AIRS在推动人工智能前沿研究与产业转化方面的积极作为，也为学术界与产业界的深度交流搭建了重要平台。未来，AIRS将深化“学术论坛洞察趋势、联合攻关突破瓶颈、创业孵化培育主体”的三级推进机制，共同破解AI落地物理世界的“卡脖子”难题。助力深圳打造全球领先的具身智能产业高地，为深圳市人工智能与机器人产业的高质量发展注入强劲动能。</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-06-26
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1419" hreflang="zh-hans">AIRS参与的国家重点研发计划“智能机器人”重点专项“揭榜挂帅”项目成功获批</a>
+    </div>
+                  <div class="desc three-line">近日，由北京理工华汇智能科技有限公司牵头，深圳市人工智能与机器人研究院（AIRS）作为合作申请单位参与申报的国家重点研发计划“智能机器人”重点专项“揭榜挂帅”项目《高海拔环境下仿生巡检机器人系统与应用示范》成功获批立项。此次立项不仅是国家级重大科研项目申报的重要成果，更是国家面向智能机器人前沿技术突破、真实场景应用和产业化落地作出的重要战略布局。当前，智能机器人特别是仿生机器人、人形机器人正处于从实验室样机和技术展示走向复杂场景规模化应用的关键阶段。该项目面向国家重大需求和产业关键瓶颈，聚焦智能机器人在复杂真实环境中的系统能力突破，具有重要战略意义、技术挑战和产业带动价值。据悉，本次项目申报竞争异常激烈，宇树、云深处、兵器集团、电子集团、哈工大、西工大等国内特种机器人、智能机器人和高端装备领域头部单位均参与申报。最终，项目联合团队凭借深厚的技术积累、鲜明的应用牵引、系统化的攻关方案和强大的跨单位协同能力，在高水平竞争中脱颖而出，成功获得国家重点研发计划立项支持。在本次项目申报过程中，AIRS方由具身智能中心主任刘少山博士牵头，康留旺博士、周鸿钧博士、俞波博士、陈光英、张甜甜等共同参与。团队充分发挥在人工智能、机器人系统、具身智能、产业应用和协同创新方面的专业优势，为项目成功获批作出了重要贡献，也体现了研究院在国家级重大项目组织、前沿技术判断和产业应用转化方面的综合能力。同时，本项目还将积极探索开源技术生态与国家重大科研任务协同创新的新路径。项目研发过程中将借鉴和使用开源项目 AIRSHIP 在具身智能系统架构、机器人数据闭环、仿真验证与应用部署等方面的相关技术积累，为高海拔复杂环境下仿生巡检机器人系统的研发、测试和应用示范提供支撑。项目实施过程中形成的关键技术成果、工程化经验和场景化应用能力，也将通过适当方式回馈 AIRSHIP 开源生态，沉淀为面向特种巡检领域的垂直应用案例，推动开源平台与真实产业场景深度融合。此次项目成功获批，是AIRS持续服务国家战略需求、深耕人工智能与机器人交叉创新、推动智能机器人产业高质量发展的重要成果。未来，AIRS将以此次项目为牵引，持续加强与高校、科研院所、龙头企业和产业平台的协同合作，积极参与国家重大科技任务和关键核心技术攻关，加快推动智能机器人技术从前沿创新走向真实场景、从科研成果走向产业价值，…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">活动</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-06-24
+</span>
+    </div>
+    <div class="title">
+      <a href="/event/1421" hreflang="zh-hans">AIRS in the AIR｜生成式重建：构建交互式世界模型</a>
+    </div>
+           </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-06-10
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1415" hreflang="zh-hans">Postdoctoral Researcher Recruitment </a>
+    </div>
+                  <div class="desc three-line">Postdoctoral Researcher RecruitmentAbout AIRSFounded in 2019 through a partnership between the Shenzhen Municipal Government and The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), AIRS is dedicated to fundamental and applied research in artificial intelligence and robotics. The institute drives technological translation across healthcare, intelligent manufacturing, urban services, and sustainable development, while cultivating world-class research talent and delivering impact for industry and society.AI + Robotics for SocietyAIRS currently has three main research directions:&nbsp;Multi-Scale Intraluminal Interventional Surgical Robots for Human HealthLeveraging flexible body and micro/nano-robot technologies with multi-modal image navigation for minimally invasive diagnosis and treatment of respiratory, cerebrovascular, and oncological diseases.&nbsp;Heterogeneous Multi-Robot Collaboration Systems for Urban Health ServicesDeveloping heterogeneous robot swarm systems for…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-06-10
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1418" hreflang="zh-hans">英国外交大臣库珀到访深圳市人工智能与机器人研究院</a>
+    </div>
+                  <div class="desc three-line">6月3日，深圳市人工智能与机器人研究院（AIRS）具身智能中心主任刘少山陪同正在深圳访问的英国外交大臣库珀参观调研AIRS，并向其介绍医疗手术机器人、微纳机器人及电力作业机器人等多个核心成果的研发与应用进展，双方就人工智能与机器人领域的最新研究成果、产业化路径及国际合作模式进行了深入交流。刘少山向库珀详细介绍了AIRS作为深圳市十大基础研究机构之一，在推动人工智能与机器人技术前沿探索、成果转化及产学研协同方面的实践与成效，重点展示了具身智能领域的最新研究进展。他表示，AIRS高度重视国际科技合作，期待与英国高校、科研机构及企业在医疗健康、智能制造、清洁能源等共同关注的领域开展务实合作，共同推动技术创新与产业应用。此次访问不仅加深了英国政府对深圳科技创新生态的直观了解，也为中英在人工智能、机器人及高端制造等领域的产学研合作奠定了新的基础。未来，AIRS将继续秉持开放合作理念，积极搭建国际协同创新平台，推动人工智能与机器人技术成果惠及更广泛的社会经济领域。</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-05-28
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1414" hreflang="zh-hans">活动回顾｜Agent for Human第一期企业Agent挑战黑客松圆满完成</a>
+    </div>
+                  <div class="desc three-line">2026年5月23-24日，香港中文大学（深圳），由AIRS学院团队组织，和一群开发者们共同完成的“聚会”：「Agent For Human」01企业 Agent 挑战黑客松圆满收官！&nbsp;活动组织机构指导单位龙岗区人工智能（机器人）署联合主办机构深圳市人工智能与机器人研究院AIRS学院OpenAgent产业联盟协办单位香港中文大学（深圳）数据科学学院香港中文大学（深圳）人工智能协会特别鸣谢 活动支持企业深圳市毋界爱而思智能科技有限公司&nbsp;来到现场的活动参与者中，既有来自境内高校（含在校生及毕业生），其中不乏香港中文大学（深圳）、中山大学等学府，还有25%来自港澳地区院校，同时还有留学英国、美国等国，具备丰富海外经历的选手；超55%拥有 AI Agent 相关的开发落地与实战项目经历。活动开场，OpenAgent 产业联盟秘书长、工控兄弟创始人吴益宇发表开幕致辞。香港中文大学（深圳）数据科学学院（SDS）盛孜莹进行赛事规则解读、赛题解析、评分标准说明。&nbsp;60秒，从陌生到默契本次有超过75%的选手为个人报名，在活动前的预热交流当中，优秀的选手们齐聚聊天群，纷纷表达了强烈的组队意愿。为了让大家快速破冰，主办方特意设置了一个“60秒极速Pitch”的组队环节。每人限60秒时间，介绍自己、抛出想法、亮出技术特长，大家在自由交流中互补优势。不少志同道合的小伙伴，就在这短短的几分钟里达成了默契，当场组队成功！&nbsp;48小时，为了解决真实难题组好队，大家就迅速进入状态，从战略推演、风控合规，到执行落地、协作沟通中找到目标赛题方向。围绕企业的真实业务难题，各支队伍开始头脑风暴。拆需求、设计 AI Agent架构、动手开发、反复打磨……两天的埋头创作，大家把对技术的热情，都写进了代码里。&nbsp;成果验收开发结束后，每支队伍轮流登台，展示 AI Agent 作品。讲思路、秀功能、谈如何真正解决企业的实际痛点。评委们现场提问、专业打分，评选出优质项目。赛题方向 A-战略模拟器（Core）打造一款纯依托公开数据源的海外市场战略情报Agent，自动采集多渠道公开信息、结构化分析各海外市场动态，输出每日战略简报，为团队决策提供支撑。赛题方向 B-协作沟通 Agent设计一款面向跨角色团队的选品与主推决策场景的协作沟通Agent，解析选品提案，多视角拆解关注点…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">出版文献</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-05-19
+</span>
+    </div>
+    <div class="title">
+      <a href="/periodical/1413" hreflang="zh-hans">Deep Learning-Based Process Control of Microrobot Swarms Guided by Phase Diagrams</a>
+    </div>
+           </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-05-19
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1410" hreflang="zh-hans">创新性策略实现微纳集群过程控制，成果发表在IEEE T-RO</a>
+    </div>
+                  <div class="desc three-line">近日，AIRS俞江帆教授团队在机器人领域顶级期刊 IEEE Transactions on Robotics 上发表以“Deep Learning-Based Process Control of Microrobot Swarms Guided by Phase Diagrams”为题的文章。01期刊介绍IEEE Transactions on Robotics为机器人学领域公认的三大顶级期刊之一（T-RO / IJRR / Sci. Rob.），涉及机器人各个领域的原创理论、算法、设计等，代表了机器人领域最先进的重大进展。&nbsp;02研究背景微纳米机器人集群因其在生物医学应用中的潜力而受到广泛关注，例如靶向递送、生物传感，以及溶栓治疗等。微纳米机器人集群的自动控制是实现其在复杂环境中应用的关键。然而，现有的控制策略主要聚焦于集群的点对点控制，关注集群在稳态下的控制性能，而集群的过程控制仍然具有很大挑战。本工作创新性地提出了一种基于深度学习和相图引导的微纳米机器人集群过程控制策略，能够实现集群在发生大幅形状变化和长轴旋转的同时进行过程控制，并完成运动和形状重构的协同过程控制，在复杂环境中进行自适应地导航。&nbsp;03研究内容作者首先提出了用深度神经网络（DNN）对复杂集群特性进行建模的方法（图1）。作者设计的深度神经网络包括用于集群形状长宽比建模的SR-DNN，以及用于集群运动学建模的KI-DNN。用于训练神经网络的实验数据在集群运动和连续进行形状重构的过程中被采样获得（图1a左侧），其中集群的形状长宽比与面积的时间序列作为SR-DNN的输入，用于预测集群形状长宽比与控制输入之间的时间依赖关系（图1a右侧）。同时，集群的形状长宽比，运动方向与长轴方向的角度差值，集群面积，以及磁场俯仰角作为KI-DNN的输入，用于获得集群在运动过程中的实时速度（图1a右侧）。SR-DNN和KI-DNN均能高精度地预测输出，使预测值与实际值高度匹配（图1b和c）。图1 用于微纳米机器人集群建模的深度学习方法在微纳米机器人集群的形状重构过程中，集群形状长宽比与长轴方向之间存在耦合关系，一个参数的变化会导致另一个参数产生不可预测的变化，严重影响了集群的过程控制精度。为了解决这一问题，作者设计了一种基于相图的控制器（PDC），用于自动化引导集群的形状重构过程（图2）。…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-05-18
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1409" hreflang="zh-hans">AIRS科艺作品《微纳山水》入选威尼斯国际艺术双年展中国国家馆</a>
+    </div>
+                  <div class="desc three-line">近日，第61届威尼斯国际艺术双年展中国国家馆展览“梦溪”（Dream Stream）在意大利威尼斯军械库展区开幕。AIRS微纳机器人中心主任俞江帆与科学+艺术联合实验室主创艺术家姜苏轩的作品《微纳山水》入选中国国家馆展览，代表中国展示传统与科技交融的艺术，向世界展现东方文脉在数字时代的生命力。同时入选的作品还有游戏科学的《黑神话：悟空》、之江实验室参与创作的《良渚之光》等。《微纳山水》展出现场中国馆展览由中华人民共和国文化和旅游部主办，主题“梦溪”源自北宋沈括的《梦溪笔谈》，这部百科全书中讲述了人文艺术和科学技术的对话与思考。“梦溪”展览，探索“传统出新”的艺术实践和“艺科融合”的当代表达。而《微纳山水》完美实践了这一理念，它通过借微观之形写宏观之意、借科技媒介现传统哲思的方式，回应了“传统文化如何在数字时代焕发新生”的核心命题。《微纳山水》影像帧《微纳山水》源于对显微镜下微纳米机器人运动状态的持续观察。影像并非数字虚构，而是来自实验室中的真实记录（相关研究发表在Science子刊）。微纳米机器人的运动轨迹呈现出类似中国传统水墨中的山水意象与书法笔触。在微观视角下见微知著，以小现大，见山水，见天地。影像同时突破了对机器人“类人”的常规认知，在微观视角下，通过展示微纳米机器人的群聚状态，具象化了协同集群的概念。作品并非简单地将科技作为炫目的外部包装，而是从创作理念的根源上，让科技成为实现和深化传统美学意境的工具。&nbsp;《微纳山水》微纳米机器人影像 6'12” 48x256cm 2026&nbsp;创作者介绍俞江帆，香港中文大学（深圳）理工学院、人工智能学院双聘助理教授、校长青年学者、AIRS微纳机器人中心主任，招商局集团-AIRS医疗机器人未来产业联合实验室学术带头人。他是国家高层次青年人才，主持国家自然科学基金、广东省面上、深圳市重点等项目。他的研究主要集中在医用微型机器人领域，至今发表了80余篇顶级期刊及会议文章、2本专著。姜苏轩，工作于深圳大学公共艺术研究所，AIRS科学+艺术联合实验室主创艺术家。实践跨越科技艺术、公共艺术与跨学科合作研究，长期在艺术、技术与日常经验的交汇处展开工作。其作品展出于SIGGRAPHAsia 2025 Art Gallery、国家大剧院艺术馆、北京798CUBE等重要展览与学术平台，第十届深港城市/建筑双城双年展执行策展人…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-05-11
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1408" hreflang="zh-hans">“APEC研究中心联席会议青年学者论坛”于港中大（深圳）举办，青年学者走进AIRS</a>
+    </div>
+                  <div class="desc three-line">5月7日，APEC首个青年学者论坛——“APEC研究中心联席会议青年学者论坛”在香港中文大学（深圳）启幕。作为2026APEC“中国年”系列活动之一，来自13个经济体的青年学者代表齐聚神仙湖畔，共话“青年、创新与可持续未来”。&nbsp;点击视频观看现场花絮继高密度的学术交锋后，论坛于5月8日组织与会青年学者开展了深圳企业研习与产学研对话。学者们先后走进比亚迪集团、深圳市人工智能与机器人研究院（AIRS）、大疆创新（DJI）、前海国际事务研究院以及前海深港青年梦工场，深度体验了深圳在新能源、人工智能、高端制造及研究智库深港合作等领域的创新活力，将神仙湖畔的思想碰撞延伸为对深圳创新生态的切身感受。在AIRS实验室，研究员高源博士向青年学者介绍AIRS的发展概况，详细讲解了医疗手术机器人、基础设施检修机器人、异构多机器人协同等项目的最新进展；艺术家沈通一带领学者参观AIRSpace“问题的问题”展览，感受科学与艺术的深度融合。&nbsp;&nbsp;论坛引发多家央媒、省市主流媒体及知名港媒的高度关注。人民日报、新华社、央视新闻、光明日报、China Daily、南方日报、深圳特区报、深圳广电集团、Shenzhen Daily、香港大公文汇传媒、香港商报、南华早报等媒体参与报道，陆续通过中英双语图文、视频及深度现场专访，多维立体地向全球传递亚太青年的创新声量，极大提升了本次论坛的国际传播力与社会影响力。部分媒体报道（点击链接跳转）人民网：APEC首个青年学者论坛在深圳举办新华社：亚太经合组织研究中心联席会议青年学者论坛在深圳举办央视新闻：APEC“中国年”系列活动首个青年学者论坛在深圳举办光明日报：共同开创亚太地区美好未来香港商報：APEC首個青年學者論壇在港中大（深圳）舉辦凤凰网：APEC首个青年学者论坛在港中大（深圳）举办South, Nanfang Media Group：First-ever APEC Youth Scholars Forum opens in Shenzhen to explore new drivers of Asia-Pacific growthAmazing Shenzhen: First-ever APEC youth scholars forum opens at CUHK-Shenzhen&nbsp;这场高规格国际会议的顺利举行，…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-05-11
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1407" hreflang="zh-hans">徐扬生教授在APEC研究中心联席会议青年学者论坛上的讲话</a>
+    </div>
+                  <div class="desc three-line">5月7日至8日，“APEC研究中心联席会议青年学者论坛”在香港中文大学（深圳）举行。这是亚太经合组织（APEC）大家庭历史上首次专为青年学者举办的学术论坛，列入了2026APEC“中国年”系列活动。澳大利亚、智利、中国、中国香港、韩国、马来西亚、墨西哥、新西兰、巴布亚新几内亚、秘鲁、菲律宾、俄罗斯、新加坡共13个经济体的青年学者代表及APEC秘书处高级官员出席论坛，并特邀中国澳门学者参与，共话亚太发展新动能。论坛上，港中大（深圳）校长徐扬生教授代表东道主致辞，向与会嘉宾及各合作方致以热烈欢迎与诚挚感谢。他指出，深圳作为全球最年轻的主要城市之一，平均年龄仅32岁，而香港中文大学（深圳）汇聚了来自41个国家和地区的1000多名国际学生，“当不同背景的人们共同学习、共同工作时，理解与创新会变得更加强大。”&nbsp;以下为徐教授全英文讲话全文。Distinguished Executive Director of the APEC Secretariat Mr. Pedrosa, dear guests, colleagues, and most importantly, our young scholars from across the APEC community,Welcome to The Chinese University of Hong Kong, Shenzhen. It’s a pleasure to host this forum jointly with the APEC Research Center of Nankai University, to gather here with representatives from 13 APEC member economies, along with senior officials from the APEC Secretariat, and friends from the media. Your presence today embodies something powerful. That is, ideas, when shared across borders and culture, can shape a better future for our region.This…</div>
+          </div>
+</div>
+<hr></div>
+    <div class="list-body"><div class="list-item not-media not-header inside-md-tb clearfix ">
+  <div class="item-body">
+    <div class="outside-min-b">
+      <span class="sign">文章</span>
+      <span class="separate outside-lr">|</span>
+      <span class="time">2026-04-30
+</span>
+    </div>
+    <div class="title">
+      <a href="/article/1393" hreflang="zh-hans">第二届全国青少年人工智能与机器人活动AIRS LEADS LEAGUE启动报名</a>
+    </div>
+                  <div class="desc three-line">参加青少年科技赛事和交流活动，对孩子来说不只是一次活动，更是一次拿成绩、练能力、见世界、找方向的成长经历。2025年7月，由香港中文大学（深圳）、深圳市人工智能与机器人研究院主办的第一届全国青少年人工智能与机器人活动AIRS LEADS LEAGUE圆满成功，来自各地的同学们在短短数天的交流与比拼中，全情投入、并肩作战，用行动诠释了对科技的热爱，也展现了青春应有的朝气与力量。&nbsp;&nbsp;2026年第二届全国青少年人工智能与机器人活动AIRS LEADS LEAGUE以人工智能与机器人兴趣培养为起点，聚焦工程实践能力、团队协作能力和创新素养提升，立足粤港澳大湾区，面向全国K12阶段青少年，致力于打造兼具专业度与成长价值的青少年科技赛事品牌，提供实践、协作、展示的成长舞台。&nbsp;一、本届活动组织单位指导单位：龙岗区人工智能（机器人）署主办单位：香港中文大学（深圳）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;深圳市人工智能与机器人研究院协办单位：香港中文大学（深圳）教育基金会支持单位：国际水中机器人联盟&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;RoboRacer China组委会&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;广东省具身智能机器人创新中心&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;深圳人工智能与机器人数据聚合服务中心&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;广东粤港澳大湾区硬科技创新研究院&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;西安电子科技大学广州研究院&nbsp;二、活动基本信息活动时间：2026年8月1日至5日活动地点：香港中文大学（深圳）注：活动时间和地点可能因不可控因素发生变动，具体以确认参与通知为准。&nbsp;三、活动项目VEX工程挑战赛组别设置：VEXGO，VIQC（小学和初中…</div>
+          </div>
+</div>
+<hr></div>
+
+    <div class="wgt-pagination-1-0">
+  <div class="pager outside-tb t-r pagination-body" role="navigation" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">分页</h4>
+    <ul class="pager-row js-pager-items">
+                                                      <li class="pager-item-number pager-item is-active">
+                                <a href="?page=0" title="当前页"  aria-current="page">
+          <span class="visually-hidden">
+            当前页
+          </span>1</a>
+      </li>
+            <li class="pager-item-number pager-item">
+                                <a href="?page=1" title="Go to page 2" >
+          <span class="visually-hidden">
+            页面
+          </span>2</a>
+      </li>
+            <li class="pager-item-number pager-item">
+                                <a href="?page=2" title="Go to page 3" >
+          <span class="visually-hidden">
+            页面
+          </span>3</a>
+      </li>
+            <li class="pager-item-number pager-item">
+                                <a href="?page=3" title="Go to page 4" >
+          <span class="visually-hidden">
+            页面
+          </span>4</a>
+      </li>
+            <li class="pager-item-number pager-item">
+                                <a href="?page=4" title="Go to page 5" >
+          <span class="visually-hidden">
+            页面
+          </span>5</a>
+      </li>
+                        <li class="pager-item-ellipsis" role="presentation">&hellip;</li>
+                        <li class="pager-item-next">
+        <a href="?page=1" title="转到下一页" rel="next"
+          >
+          <span class="visually-hidden">下一页</span>
+          <span class="visually-hidden" aria-hidden="true"></span>
+          <i class="icon">&#xe817;</i>
+        </a>
+      </li>
+                        <li class="pager-item-last">
+        <a href="?page=29" title="转到最后一页"
+          >
+          <span class="visually-hidden">末页</span>
+          <span class="visually-hidden" aria-hidden="true">尾页</span>
+          <i class="icon">&#xe7ee;</i>
+        </a>
+      </li>
+          </ul>
+  </div>
+</div>
+
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  	  </div>
+
+
+  
+        </div>
+                
+                
+              </div>
+    </div>
+    
+    
+  </div>
+  
+    
+    
+</div>
+
+
+
+      
+  <div id="block-yejiaozidifooter70" data-block-plugin-id="block_content:e192d567-3050-4ec9-80f4-60785387ad6a" class="block">
+
+  
+    
+
+            <div class="entity-widget-footer_7_0 entity-widget-entity-type-block_content"><div class="footer-7-0 py-30 md|pt-50 md|pb-100 bg-center bg-no-repeat bg-cover mode--dark"
+  data-toggle="bgImage"
+  data-image-url="/sites/default/files/styles/crop_freeform/public/2021-11/footer-7-0--1.png?itok=j-BZ_XC4"
+>
+  <div class="inner">
+    <div class="flex md|justify-between flex-wrap lg|flex-nowrap -mb-20">
+      <div class="md|mr-30 lg|mr-60 mb-20 lg|w-5/12">
+        <div class="footer-logo">
+          <img src="/sites/default/files/styles/crop_freeform/public/2021-11/footer_logo_0.png?itok=_UuAZy0p" alt="">
+        </div>
+        <div class="footer-qrcode mt-20">
+          <span class="mb-10 text-18 font-bold">关注我们</span>
+          <ul class="list-none mt-10 flex md|flex-nowrap -mx-10">
+                        <li class="qrcode-item relative mb-0 px-10">
+                              <i class="icon corsor-pointer p-10 rounded-full border-1 border-solid icon-wechat-fill">
+                <span class="hidden">&nbsp;</span>
+              </i>
+                                          <div class="qrcode-image p-10 bg-white shadow-md rounded-5">
+                <img class="max-w-none" src="/sites/default/files/styles/crop_freeform/public/2021-12/wechat.jpg?itok=ervGNdYz" alt="">
+              </div>
+                          </li>
+                        <li class="qrcode-item relative mb-0 px-10">
+                              <a href="https://space.bilibili.com/602058860" target="_blank">
+                <i class="icon corsor-pointer p-10 rounded-full border-1 border-solid icon-bilibili">
+                  <span class="hidden">&nbsp;</span>
+                </i>
+              </a>
+                                        </li>
+                        <li class="qrcode-item relative mb-0 px-10">
+                              <a href="https://www.linkedin.com/company/szairs" target="_blank">
+                <i class="icon corsor-pointer p-10 rounded-full border-1 border-solid icon-linkedin">
+                  <span class="hidden">&nbsp;</span>
+                </i>
+              </a>
+                                        </li>
+                      </ul>
+        </div>
+      </div>
+      <div class="footer-links mb-20 lg|w-7/12">
+        <ul class="list-none flex md|justify-between md|flex-nowrap -mx-15">
+                    <li class="mb-20 md|mb-0 px-15 lg|px-30 w-6/12 md|w-auto md|flex-1">
+            <span class="text-18 mb-20 pb-15">联系我们</span>
+            <ul class="list-none">
+                            <li class="mb-10">
+                                <p>地址:深圳市龙岗区坂田街道雅宝路1号星河WORLD G2-14层</p>
+                              </li>
+                            <li class="mb-10">
+                                <p>电话:+86(0)755-23518114</p>
+                              </li>
+                          </ul>
+          </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="footer-6-0"><div class="footer-content">版权所有 © 深圳市人工智能与机器人研究院&nbsp;<a href="http://www.miitbeian.gov.cn/">粤ICP备14099122-1号</a>&nbsp; <a href="https://bszs.conac.cn/sitename?method=show&amp;id=3A819D0DFA35B30BE06310291AAC16ED" target="_blank"><img src="/sites/default/files/inline-images/blue_0.png" data-entity-uuid="953aebdc-9362-4c4d-aa7d-56b6ff70f5af" data-entity-type="file" width="2.88%" height="2.88%" loading="lazy"></a></div></div></div>
+      
+  </div>
+
+  
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"zh-hans"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"multiselect":{"widths":250},"password_encrypt":{"passkey":"9a1063f49f7d9e67"},"ajaxTrustedUrl":{"\/search":true},"themepath":"themes\/custom\/cuhk_ui","ajax":[],"user":{"uid":0,"permissionsHash":"0fecf117cd0eb2227a33933675227887e6cb9b1d3f9b1c9b94f21bc1959e7616"}}</script>
+<script src="/sites/default/files/js/js_8jZU-4rj7pGpQohaG8le-mrPcZzYt6SYELkqavE1_ec.js?scope=footer&amp;delta=0&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJx1UdFuwjAM_CGg7CM2ac_jPXIT0xrSOLIdoHz9MhiQTpr6dJe72ncGVTRH6YDeWLqDbnqgUJxxGg60CnOiE7hCXV8ohgYHKRliK2A2NYG8MegXQs6Bz6mhNJI_LnFAaYhpwlQafIY5MyXThoNEExg2TITrrHTFVpWFhyQc2033dPl8b6dhIGgwxkhZqf1NrzvmaJQbbuBd_fIyx_Tlb9N8GY-v2h7ot7QHrAGGuu0D_th1afdFjSfFWM_zJO_tPF1o6xFpGF-CXiC9hkLyI8t6YTrVwnkNxThHmNeCGUhWGVTPLMFh8jJn6_4Sqx7NUBxeMisGt6dYoXYDJpQa7J_n-_4OYnSJEz63GBHq3d3b1m2bOCB-_Lg5F7edQ732N0IIDSU"></script>
+<script src="/themes/custom/cuhk_ui/fonts/cuhk_ui.js?tewqia"></script>
+<script src="/sites/default/files/js/js_9OAPC-UDrvqiEu7fbbAFfeEMgHGQ4prfxSMFwUJjAVM.js?scope=footer&amp;delta=2&amp;language=zh-hans&amp;theme=cuhk_ui&amp;include=eJx1UdFuwjAM_CGg7CM2ac_jPXIT0xrSOLIdoHz9MhiQTpr6dJe72ncGVTRH6YDeWLqDbnqgUJxxGg60CnOiE7hCXV8ohgYHKRliK2A2NYG8MegXQs6Bz6mhNJI_LnFAaYhpwlQafIY5MyXThoNEExg2TITrrHTFVpWFhyQc2033dPl8b6dhIGgwxkhZqf1NrzvmaJQbbuBd_fIyx_Tlb9N8GY-v2h7ot7QHrAGGuu0D_th1afdFjSfFWM_zJO_tPF1o6xFpGF-CXiC9hkLyI8t6YTrVwnkNxThHmNeCGUhWGVTPLMFh8jJn6_4Sqx7NUBxeMisGt6dYoXYDJpQa7J_n-_4OYnSJEz63GBHq3d3b1m2bOCB-_Lg5F7edQ732N0IIDSU"></script>
+<script src="/themes/custom/dyniva_ui/bower_components/laydate/dist/laydate.js?tewqia"></script>
+<script src="/themes/custom/dyniva_ui/js/modules/laydate.js?tewqia"></script>
+
+  </body>
+</html>
+
+<!-- Generate by boost at 2026-08-14 17:40:55 (Asia/Shanghai) -->

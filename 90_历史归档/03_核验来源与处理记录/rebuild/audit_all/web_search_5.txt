@@ -1,0 +1,231 @@
+云南省复杂系统与类脑智能重点实验室（筹）2026 年度开放基金申请指南-昆明理工大学理学院 (https://lxy.kust.edu.cn/info/1151/2522.htm)
+citeturn202search0 [wordlim: 200] Published: 2 months ago; Crawled: last month; 秉承“开放、流动、联合、竞争” 的运行机制，重点实验室按照《云南省重点实验室管理办法》（详见附件 2）和《云南省复杂系统与类脑智能重点实验室（筹）开放课题管理办法》 （详见附件 3）设立开放课题，为吸引省内外从事复杂系统与类脑智能的优秀研究人员参与到重点实验室开展理论与技术合作创新研究，提升重点实验室研究成果水平，助推云南复杂系统理论与类脑智能技术发展，特制定重点实验室 2026 年度开放课题申请指南。 ... 通过脑功能网络分析与认知行为模式及演化规律的挖掘创立高效的类脑智能模型和算法，从而突破生成式大模型在垂直应用场景中的局限，并以此为基础发展类脑智能技术。
+
+Image 首页> 科学研究> 科研平台
+
+## 云南省复杂系统与类脑智能重点实验室（筹）2026 年度开放基金申请指南
+
+作者：张中健 时间：2026-07-21
+
+一、简介
+
+云南省复杂系统与类脑智能重点实验室（筹）（以下简称“实验室” ）由云南省科学技术 厅批准，昆明理工大学牵头建设。为弥补目前云南省在信息科学领域基础研究和人工智能垂 直应用创新的短板，实验室聚焦 AI for Science和 Science for AI双向驱动范式在复杂系统 基础科学研究和类脑智能垂直应用领域创新，推进云南省自然灾害早期预警、精神健康领域、工程事故应急管理和新能源系统调度等复杂系统工程的智能化技术革新，促进“数字云南”产业发展。
+
+秉承“开放、流动、联合、竞争” 的运行机制，重点实验室按照《云南省重点实验室管理办法》（详见附件 2）和《云南省复杂系统与类脑智能重点实验室（筹）开放课题管理办法》 （详见附件 3）设立开放课题，为吸引省内外从事复杂系统与类脑智能的优秀研究人员参与到重点实验室开展理论与技术合作创新研究，提升重点实验室研究成果水平，助推云南复杂系统理论与类脑智能技术发展，特制定重点实验室 2026 年度开放课题申请指南。
+
+二、资助方向
+
+1.脑功能网络分析与认知行为模式
+
+运用 Science for AI 范式探索脑与认知系统复杂性。通过脑功能网络分析与认知行为模式及演化规律的挖掘创立高效的类脑智能模型和算法，从而突破生成式大模型在垂直应用场景中的局限，并以此为基础发展类脑智能技术。
+
+2.复杂系统高阶网络方法
+
+针对现实世界中的群体交互特征，构建高阶网络非线性传播模型。重点考察“群体共识”与“非线性协同”在传播过程中的耦合作用，揭示群体状态相变与复杂协同效应的内在驱动机制。
+
+三、申请要求
+
+1.研究内容须对应指南中的资助方向一致，并在申请书中注明，未按要求注明的申请项目实验室将不予受理。
+
+2.申请者必须联系一位研究方向相关或互补的实验室固定研究人员作为合作者，申请书中有明确的合作研究计划，并且合作者只能参与一项开放基金。
+
+3.申请人需具有高级专业技术职称或博士学位，在相关领域有较好的研究积累，具有从事同类项目 2 年以上的科研经历，主持过省部级以上相关科研项目，并取得重要研究成果（发表 1 篇及以上 SCI 论文），证明材料作为附件与申请书一同提交。
+
+4.实验室鼓励外籍优秀学者申请开放课题，优先考虑满足以下条件之一的人员申请：
+
+（1）与实验室固定研究人员已建立实质性的合作；
+
+（2）拟与实验室固定研究人员共同申请国际合作项目；
+
+（3）在本研究领域已发表高水平研究成果。
+
+四、执行管理
+
+1.申请人必须认真填写实验室《云南省复杂系统与类脑智能重点实验室开放研究基金项目申请书（2026 版）》（详见附件 1），非标准格式的申请不予受理。申请书要求学术思想新颖，立论根据充分，研究目标明确，研究内容具体，研究方法和技术路线合理、可行，并能取得一定进展。
+
+2.在 申 报 阶 段 ， 项 目 申 请 人 将 申 请 书 电 子 版 及 签 字 盖 章 扫 描 版 发 送 至zhangyw@kust.edu.cn ，邮件主题请注明：申请 2026 年度开放基金+姓名。待项目批准后，项目负责人需提交申请书纸质版及合同书纸质版一式三份。
+
+3.实验室本年度开放课题设置重点项目 1 项，支持经费额度不超过 5 万元；面上项目2 项，支持经费额度不超过 3 万元。经费由云南省复杂系统与类脑智能重点实验室（筹）统一管理。
+
+4.本次申请受理截止日期为 2026 年 11 月 30日（以邮件收到时间为凭）。研究周期为2 年，研究工作开始日期为 2027 年 1 月 1日，结题日期为 2028 年 12 月 31日。如研究成果优秀可考虑增加资助额度。
+
+5.重点项目结题成果至少发表以项目负责人作为第一作者（或通讯作者）在中国科学院二区及以上发表 SCI 论文 1 篇；面上项目结题成果至少发表以项目负责人作为第一作者（或通讯作者）发表 SCI/EI 论文 1 篇；综述类、专刊、增刊类不得作为结题成果。结题成果应标注实验室为第一或第二署名单位（中文名：云南省复杂系统与类脑智能重点实验室；英文名：Yunnan Key Laboratory of Complex Systems and Brain-Inspired Intelligence , Kunming 650500, Yunnan ，China），且论文署名中有实验室的合作者。项目资助栏项目应注明“本成果得到云南省复杂系统与类脑智能重点实验室开放基金资助（Supported by the Open Fund Program of Yunnan Key Laboratory of Complex Systems and Brain-Inspired Intelligence）”。
+
+6.开放基金资助课题取得的成果（包括收集到的资料、研究报告、相应软件、源代码、智能设备等）由本实验室、研究者本人及所在单位共享，项目结题时相关成果应提交实验室留档。
+
+7.项目负责人应于开放研究基金项目获批的次年 1月前提交《开放研究基金项目中期进展报告》，项目负责人至少到实验室进行一次项目汇报或学术交流，方可结题。
+
+8.其他未尽事宜详见《云南省复杂系统与类脑智能重点实验室（筹）开放基金管理办法》（试行）（详见附件 3）。
+
+五、联系方式
+
+云南省复杂系统与类脑智能重点实验室（筹）
+
+地址：云南省昆明市呈贡区景明南路 727 号昆明理工大学理学院
+
+邮编：650500
+
+联系人：张永文
+
+电话：18801483701
+
+邮箱：zhangyw@kust.edu.cn
+
+  * 附件〖云南省复杂系统与类脑智能重点实验室（筹）开放基金管理办法（试行）.pdf〗已下载次
+  * 附件〖云南省复杂系统与类脑智能重点实验室开放研究基金项目申请书.doc〗已下载次--------------------------------------------------------------------------------
+关于凝固技术全国重点实验室2026年度开放课题拟资助项目的公示-西北工业大学凝固技术全国重点实验室 (https://sklsp.nwpu.edu.cn/info/2041/13202.htm)
+citeturn202search1 [wordlim: 200] Published: 3 months ago; Crawled: 3 months ago; # 关于凝固技术全国重点实验室2026年度开放课题拟资助项目的公示 ... 根据《凝固技术全国重点实验室（西北工业大学）开放课题管理办法》，凝固技术全国重点实验室组织开展了2026年开放课题的评审工作。
+
+通知公告
+
+### 通知公告
+
+# 关于凝固技术全国重点实验室2026年度开放课题拟资助项目的公示
+
+发布时间：2026-06-25 点击数量：
+
+根据《凝固技术全国重点实验室（西北工业大学）开放课题管理办法》，凝固技术全国重点实验室组织开展了2026年开放课题的评审工作。经专家组评议，现将拟资助开放课题项目予以公示。
+
+如有异议，请在公示之日起三个工作日内（6月29日前）通过来电、电子邮件等方式向凝固技术全国重点实验室反映。
+
+联系人：刘瑞，冯芳  联系电话：029-88492374
+
+电子邮箱：sklsp@nwpu.edu.cn
+
+拟资助课题项目详细信息如下：
+
+序号  | 姓名  | 项目名称  | 批准类型
+1  | 吴甲民  | SiCnw/SiC复合陶瓷的光固化成形及力学性能调控研究  | 重点
+2  | 沈星辰  | 超声定向凝固下SnQ(Q=S,Se)基晶体的组织演变及热电性能研究  | 探索
+3  | 卢红成  | BO 3基元序构量子自旋液体候选材料的单晶生长与磁性研究  | 探索
+--------------------------------------------------------------------------------
+流体及动力机械教育部重点实验室等平台2026年度开放基金课题申报指南 (https://klab.xhu.edu.cn/9e/eb/c2100a237291/page.htm)
+citeturn202search2 [wordlim: 200] Published: 6 months ago; Crawled: 2 weeks ago; ## 流体及动力机械教育部重点实验室等平台2026年度开放基金课题申报指南 ... 开放课题所取得的有关学术成果，均应将“流体及动力机械教育部重点实验室（西华大学）（Key Laboratory of Fluid and Power Machinery, Ministry of Education，Xihua University）”或“流体机械及工程四川省重点实验室（西华大学）（Key Laboratory of Fluid Machinery and Engineering,Sichuan Province，Xihua University）”或“四川省水电能源动力装备技术工程研究中心（西华大学）（Sichuan Provincial Engineering Research Center of Hydroelectric Energy Power Equipment Technology，Xihua University）”标注为作者单位之一，同时应标注受到实验室开放课题的（申请人获批课题编号：XXXX-XXXX）资助。
+
+## 流体及动力机械教育部重点实验室等平台2026年度开放基金课题申报指南
+
+作 者：流体及动力机械发布时间：2026-03-13浏览次数：10
+
+流体及动力机械教育部重点实验室
+
+流体机械及工程四川省重点实验室
+
+四川省水电能源动力装备技术工程研究中心
+
+2026年度开放基金课题申报指南
+
+本重点实验室和工程研究中心是从事应用基础研究的工程类科研平台，着力开展流体动力机械及工程和水电能源动力装备新理论和关键技术研究。
+
+为贯彻重点实验室和工程研究中心“开放、流动、联合、竞争”的方针，支持科技工作者发展我国能源动力领域先进技术的研究工作，特设立本开放课题研究基金，鼓励本领域科技人员围绕本重点实验室和工程研究中心主要研究方向开展研究工作。
+
+一、开放课题申请对象
+
+国内外各高等院校、科研机构、产业部门和其它单位的科技工作者，课题申请者一般应具有博士学位或中级及以上职称，在同等条件下优先资助高学历或高职称研究人员。为保障开放课题顺利执行，建议开放课题申请人邀请本重点实验室或工程研究中心固定人员参与课题研究工作
+
+有本重点实验室和工程研究中心在研或未能结题的课题负责人均不能进行本重点实验室和工程研究中心新开放课题的申报；原则上不接受在读研究生的申报。
+
+二、开放课题支持下述主要方向及其内容的研究
+
+流体及动力机械教育部重点实验室：
+
+①流体机械及工程：多相流理论及空化与泥沙磨损、流体机械先进装备及系统等；
+
+②动力机械及工程：发动机气动力学与稳定性、低碳动力燃烧与控制等；
+
+③新能源转化及控制技术：新能源互补发电系统、能源储存技术等。
+
+流体机械及工程四川省重点实验室：
+
+①流体机械内部流动理论及机理：流体机械内部流动（含多相流）、水力机械空蚀与泥沙磨损、宽功率流体机械稳定性等理论及机理等；
+
+--------------------------------------------------------------------------------
+凝固技术全国重点实验室2026年度开放课题征集通知-西北工业大学凝固技术全国重点实验室 (https://sklsp.nwpu.edu.cn/info/2041/12902.htm)
+citeturn202search3 [wordlim: 200] Published: 5 months ago; Crawled: 5 months ago; # 凝固技术全国重点实验室2026年度开放课题征集通知 ... 凝固技术全国重点实验室以凝固理论和技术为基础和核心，以凝固科学基础、技术创新和工程化应用研究综合集成为主要学术特色，发展材料凝固新原理、新方法和新装备，致力于建成在凝固与相关科学与技术领域代表中国学术水平，在国际凝固及相关领域具有重要影响的科学研究基地、人才培养基地、技术创新基地、学术交流基地和国家公共研究平台。 ... （3）成果转化及应用：以第一完成人所获知识产权进行转化并取得良好效益，或起草国标、国军标、行业技术标准并颁布（前三名），或在解决国家重大需求与经济社会发展问题上提出有价值的新思路、新技术、新机制，在国家重要行业或部门获得应用并取得重要效益。 ... *注：凡在实验室开放课题资助下发表的论文或取得的其它成果，归本实验室和课题负责人所在单位共有，必须与实验室联合署名（与实验室固定人员合作完成），并注明“凝固技术全国重点实验室（西北工业大学）开放课题资助”（英文为：Supported by the Fund of the State Key Laboratory of Solidification Processing (Northwestern Polytechnical University), China）字样，同时加注课题批准号。
+
+# 凝固技术全国重点实验室2026年度开放课题征集通知
+
+发布时间：2026-04-24 点击数量：
+
+凝固技术全国重点实验室以凝固理论和技术为基础和核心，以凝固科学基础、技术创新和工程化应用研究综合集成为主要学术特色，发展材料凝固新原理、新方法和新装备，致力于建成在凝固与相关科学与技术领域代表中国学术水平，在国际凝固及相关领域具有重要影响的科学研究基地、人才培养基地、技术创新基地、学术交流基地和国家公共研究平台。
+
+一、研究方向与课题部署
+
+2026年实验室面向国内外相关科研院所、创新研发平台、企业等征集开放课题。实验室开放课题分为重点项目和探索项目两类。重点类项目每项资助金额为20-30万元，执行期限一般为3年；探索类项目每项资助金额为10-15万元，执行期限一般为2年。
+
+重点课题：面向国家重大战略需求和前沿科学问题，开展系统性的基础研究与原理创新，旨在解决凝固科学与技术中的共性关键难题，孕育具有重大影响力的标志性成果。
+
+探索课题：鼓励学科交叉和原始创新，支持科研人员面向高端装备与重大工程的具体需求，探索新原理、新材料、新工艺、新方法，拓展凝固科学与技术研究方向与应用边界。
+
+资助方向：
+
+（1） 跨时空尺度凝固理论：针对跨时空尺度复杂凝固过程解析的重大科学问题，建立跨时空尺度材料凝固过程的重构方法，深刻理解原子尺度下的材料凝固形核机理，解析材料凝固与固态相变过程的热/动力学，阐明凝固组织的演化行为。
+
+（2） 先进材料凝固制备：以高端装备及重大工程用高性能材料的需求为导向，重点研究铸锭均质化和多尺度组织形成规律、多组元合金凝固组织精准调控、功能基元序构与组织调控、材料使役性能与凝固组织的关联，突破关键材料的凝固制备技术瓶颈。
+
+--------------------------------------------------------------------------------
+先进纤维材料全国重点实验室（东华大学）2026年度开放课题基金申请通知2026 Application Notificationof Open Research Fund (https://research.dhu.edu.cn/2025/0715/c6973a363885/page.htm)
+citeturn202search4 [wordlim: 200] Published: 1.2 years ago; Crawled: last week; 附件2：Image附件2a-先进纤维材料全国重点实验室（东华大学）开放课题申请书 2026.doc
+
+To promote domestic and international academic communication and cooperation, expand the role of SKLAFM as a center for academic exchange and scientific research, and elevate its research standards in related fields, the Open Research Project Fund is established in accordance with the“The Administrative Regulations for the Construction of State Key Laboratories”,“The Administrative Regulations for the Management of Special Funds for State Key Laboratories”and the development plan of SKLAFM. Domestic and international researchers are cordially invited to apply for the Open Research Projects, and joint applications with SKLAFM researchers are strongly encouraged. The Academic Committee of SKLAFM will select open projects based on the principles of “fair competition, scientific peer review, and merit-based support.”
+
+The guidelines for 2026 annual open project are released as follows:
+
+I. Main research fields of the open projects supported by SKLAFM:
+
+1) High-performance fibers and composite.Facing the critical national needs, we specialize in advancing large-scale industrial production technologies and developing innovative material systems for three key categories of high-performance fibers: High-performance carbon fibers (including T-series and MJ-series); Organic high-performance fibers (such as polyimide fibers, aramid fibers, liquid crystal polyarylester fibers, and ultra-high molecular weight polyethylene fibers); Inorganic high-performance fibers (including ceramic fibers, basalt fibers, and alumina fibers). The research covers the entire value chain, from raw material preparation and spinning processes to composite applications in vital sectors like national defense, aerospace, transportation equipment, and extreme environment exploration.
+
+--------------------------------------------------------------------------------
+先进纤维材料全国重点实验室（东华大学）2026年度开放课题基金申请通知 (https://news.dhu.edu.cn/2025/0715/c6411a424493/pagem.htm)
+citeturn202search5 [wordlim: 200] Published: 1.3 years ago; Crawled: last week; 先进纤维材料全国重点实验室 ... Application Notification of 2026
+Domestic andinternational researchers are cordially invited to apply for the Open ResearchProjects, and joint applications with SKLAFM researchers are stronglyencouraged. The Academic Committee of SKLAFM will select open projects based onthe principles of “fair competition, scientific peer review,and merit-based support.”
+
+The guidelines for 2026 annual open project arereleased as follows:
+
+I. Mainresearch fields of the open projects supported by SKLAFM:
+
+1) High-performance fibers and composite. Facing the criticalnational needs, we specialize in advancing large-scale industrial productiontechnologies and developing innovative material systems for three keycategories of high-performance fibers: High-performance carbon fibers(including T-series and MJ-series); Organic high-performance fibers (such aspolyimide fibers, aramid fibers, liquid crystal polyarylester fibers, andultra-high molecular weight polyethylene fibers); Inorganic high-performancefibers (including ceramic fibers, basalt fibers, and alumina fibers). Theresearch covers the entire value chain, from raw material preparation andspinning processes to composite applications in vital sectors like nationaldefense, aerospace, transportation equipment, and extreme environmentexploration.
+
+2)Functional fibers and green manufacturing. Facing thepressing needs of economic development, we focus on driving the high-valuetransformation and green upgrading of the traditional chemical fiber industry. Theefforts center on developing non-petrochemical raw materials (such as recycledwaste chemical fibers and bio-based/bio-derived feedstocks) alongsideinnovative process technologies (including green wet/dry spinning solvents,melt spinning and direct melt spinning, and intelligent production linedesign). Additionally, we advance material functionalization (antibacterial,flame-retardant, and selective permeability properties, excluding energyconversion) and explore high-value-added applications in fields like biomedicalengineering and environmental purification.
+
+--------------------------------------------------------------------------------
+先进纤维材料全国重点实验室（东华大学) 2026年开放课题基金、访问学者基金申请通知 (https://sklafm.dhu.edu.cn/2025/0717/c13760a363953/page.htm)
+citeturn202search6 [wordlim: 200] Published: 1.3 years ago; Crawled: 2 weeks ago; Image先进纤维材料全国重点实验室（东华大学）2026年开放课题基金申报指南先进纤维材料全国重点实验室（原纤维材料改性国家重点实验室，以下简称“实验室”）依托于东华大学，自1992年建立以来，坚持“开放、流动、联合、竞争”八字方针，在凝聚学科人才、促进科研发展、构筑研究平台、扩大学术交流等方面取得了显著成绩，自2003年以来连续四次通过国家评估，2018年获评“优秀类国家重点实验室”。 ... 现将2026年开放课题指南公布如下： 一、资助研究方向(1) 高性能纤维与复合材料：面向国家重大需求，围绕国防军工、航空航天、交通载具、极端环境探索等应用领域，聚焦高端碳纤维（T系列、MJ系列等）、有机高性能纤维（聚酰亚胺纤维、芳纶、液晶聚芳酯纤维、超高分子量聚乙烯纤维等）、无机高性能纤维（陶瓷纤维、玄武岩纤维、氧化铝纤维）在原料制备、纺丝加工、复合应用方面的产业放大技术或新材料体系创新技术。(
+
+先进纤维材料全国重点实验室（东华大学) 2026年开放课题基金、访问学者基金申请通知
+Image先进纤维材料全国重点实验室（东华大学）2026年开放课题基金申报指南先进纤维材料全国重点实验室（原纤维材料改性国家重点实验室，以下简称“实验室”）依托于东华大学，自1992年建立以来，坚持“开放、流动、联合、竞争”八字方针，在凝聚学科人才、促进科研发展、构筑研究平台、扩大学术交流等方面取得了显著成绩，自2003年以来连续四次通过国家评估，2018年获评“优秀类国家重点实验室”。为促进国内外学术合作和交流，扩大全国重点实验室作为学术交流和科学研究中心的作用，提高所在领域的学术研究水平，根据《全国重点实验室建设与管理暂行办法》、《全国重点实验室专项经费管理办法》及实验室发展规划，实验室设立开放课题，诚挚邀请国内外相关领域的研究人员进行申请，与实验室固定人员联合申报。所申请的开放课题将本着“公平竞争、科学评审、择优支持”的原则，经实验室专家组初审，主任办公会审议，由实验室学术委员会审定。--------------------------------------------------------------------------------
+2026上海·松江新材料产业高质量发展大会暨先进纤维材料全国重点实验室第一届学术委员会&技术委员会第二次会议召开 (https://news.dhu.edu.cn/2026/0601/c7759a426615/pagem.htm)
+citeturn202search7 [wordlim: 200] Published: 4 months ago; Crawled: 4 days ago; ### 2026上海·松江新材料产业高质量发展大会暨先进纤维材料全国重点实验室第一届学术委员会&技术委员会第二次会议召开 ... 全重室副主任陈志钢介绍了2026年开放课题与访问学者基金工作情况、期刊刊群建设规划。
+
+会上，全重室副主任严锋围绕科研成果与方向进展、队伍建设与人才培养、开放交流与运行管理等方面作年度工作报告。全重室副主任陈志钢介绍了2026年开放课题与访问学者基金工作情况、期刊刊群建设规划。董杰、游正伟、相恒学、杨建平、朱丽萍五位教授围绕高性能纤维与复合材料、功能纤维与绿色制造、智能纤维与先端应用三个研究方向分别作学术报告。
+
+Image
+
+（先进纤维材料全国重点实验室（SKLAFM）松江科创基地揭牌）
+
+Image
+
+（长三角先进纤维材料创新联合体“链主科创联盟”合作项目签约）
+
+在30日下午举行的2026上海·松江新材料产业高质量发展大会上，多位院士专家以及来自长三角国创中心、上海市科协、松江区、高校、科研院所和链主企业的百余位代表齐聚一堂，共话新材料产业高质量发展新路径。先进纤维材料全国重点实验室（SKLAFM）松江科创基地正式揭牌，该基地将构建从源头创新到成果落地的全链条体系，建成特色鲜明的成果转化及产业创新集聚地。当日，长三角国创中心与江苏集萃先进纤维材料研究所共同发起的“链主科创联盟”首批项目落地。联盟已汇聚20多家行业龙头企业，着力推动实现链主企业出题、科研机构答题、产业链协同落地的新模式。--------------------------------------------------------------------------------
+先进纤维材料全国重点实验室（东华大学）2027年度开放课题基金申请通知 (https://news.dhu.edu.cn/2026/0727/c6411a426980/page.htm)
+citeturn202search8 [wordlim: 200] Published: 2 months ago; Crawled: 4 weeks ago; 30, 2026
+--------------------------------------------------------------------------------
+西北工业大学凝固技术全国重点实验室 (https://sklsp.nwpu.edu.cn/index.htm)
+citeturn202search9 [wordlim: 200] Crawled: 2 weeks ago;   * 趣味实验启童心 科学探索伴成长——凝固技术全国重点实验室之“趣味科学实验探索活动”与“前沿科技科普讲座” 2026-05-25 ...   * 25 2026-06 关于凝固技术全国重点实验室2026年度开放课题拟资助项目的公示
+--------------------------------------------------------------------------------
+通知公告-西北工业大学凝固技术全国重点实验室 (https://sklsp.nwpu.edu.cn/tzgg.htm)
+citeturn202search10 [wordlim: 200] Crawled: 3 months ago; 为深入学习贯彻习近平总书记关于科技创新与科学普及的重要论述，严格落实科技部、中央宣传部、中国科协2026年全国科技活动周工作部署，大力普及前沿科学知识、弘扬新时代科学家精神，充分发挥国家级科研平台科普育人职能，凝固技术全国重点实验室将于2026年5月24日—31日，面向社会公众、广大青少年开展以“奋进‘十五五’ 科技谱新...】 ...   * 24 2026-04 凝固技术全国重点实验室2026年度开放课题征集通知 凝固技术全国重点实验室以凝固理论和技术为基础和核心，以凝固科学基础、技术创新和工程化应用研究综合集成为主要学术特色，发展材料凝固新原理、新方法和新装备，致力于建成在凝固与相关科学与技术领域代表中国学术水平，在国际凝固及相关领域具有重要影响的科学研究基地、人才培养基地、技术创新基地、学术交流基地和国家公共研究平台。
+--------------------------------------------------------------------------------
+先进纤维材料全国重点实验室（东华大学) 2026年开放课题基金、访问学者基金申请通知 (https://sklfpm.dhu.edu.cn/2025/0717/c13760a363953/pagem.htm)
+citeturn202search11 [wordlim: 200] Published: 1.2 years ago; Crawled: 2 weeks ago; 为促进国内外学术交流，以多种形式引进高层次人才，提高重点实验室的学术研究水平，推动高水平学科建设和高层次创新人才培养的作用，根据教育部《关于在高等学校国家重点实验室和教育部重点实验室实行访问学者制度的意见》、《关于在高等学校国家重点实验室和教育部重点实验室重点实验室访问学者专项基金管理办法》的有关规定和《国家重点实验室建设管理办法》、国家教委《高等学校开放实验室管理办法》，纤维材料改性国家重点实验室设立访问学者基金，诚挚邀请国内外相关领域的研究人员进行申请，鼓励与本室固定人员联合申报。 ... 附件2：Image附件2a-先进纤维材料全国重点实验室（东华大学）访问学者申请书 2026.docx
+--------------------------------------------------------------------------------
+第45 卷第5 期
+西华大学学报（自然科学版）
+2026 年 9 月
+Vol. 45，No. 5
+J (https://aj.xhu.edu.cn/xhdxxbzkb/cn/article/pdf/preview/10.12198/j.issn.1673-159X.5621.pdf)
+citeturn202search12 [wordlim: 200] Published: 5 months ago; 流体及动力机械教育部重点实验室(西华大学), 四川 成都610039；4. ... 湍流影响射流物质与主燃室物质的交换，湍动能变化越大，在定容燃烧弹内引起的扰动就越大，燃烧 ... 基金项目：四川省科技计划资助项目（四川省自然科学基金青年科学基金项目）（2023NSFSC0836）；流体机械及工程四川省重点实验室开放基金课题（LTJX-2024005）；教育部“春晖计划”合作科研项目（HZKY20220586）；国防科技重点实验室基金项目（2022-
+--------------------------------------------------------------------------------
+9-16  西华研究生招生指南.cdr (https://yjs.xhu.edu.cn/_upload/article/files/2d/a9/33f94cb14cb99b68c303fb80b01f/52d2ddef-a4b5-47a6-b709-a52ac93af8a8.pdf)
+citeturn202search13 [wordlim: 200] Published: last year; 近3年学生在中国国际大学生创新大赛、“挑战杯”全国大学生课外学术科技作品竞赛等国内外重大竞赛中，获得国家级奖项1200余项，上榜中国研究生创新实践系列大赛年度贡献力TOP100榜单，学生综合素质、专业本领和创新能力受到社会普遍认可和好评，毕业生去向落实率保持在90%左右。 ... 学校建有流体及动力机械教育部重点实验室、智能空地融合载具及管控教育部工程研究中心、XXX材料与表面技术教育部重点实验室3个教育部科研平台、农业农村部（西南）全程机械化科研基地，拥有有深度融入产业发展的汽车测控与安全四川省重点实验室、流体机械及工程四川省重点实验室、食品微生物四川省重点实验室等25个省级科研平台。 ... 坚持开放办学，深化合作交流。 ... （一）2026年我校招收硕士研究生按学习方式分为全日制和非全日制两种类型。 ... 招生人数以2026年国家文件下达为准，后期因正式招生计划下达或实际录取推免硕士生或实际录取卓越工程师培养综合改革专项可能产生各专业拟考试招生计划数发生变动；专业目录上提供的指导教师信息仅供参考，最终导师信息要以导师双选时学校提供的为准，特此说明。
+

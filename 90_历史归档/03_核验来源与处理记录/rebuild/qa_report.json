@@ -1,0 +1,77 @@
+{
+  "records": 199,
+  "grades": {
+    "B": 97,
+    "C": 74,
+    "A": 28
+  },
+  "homepage": [
+    "M056",
+    "M035",
+    "M078",
+    "M142",
+    "M017",
+    "M066",
+    "M068",
+    "M106",
+    "M161",
+    "M029",
+    "M160"
+  ],
+  "coverage_original": 144,
+  "coverage_normalized": 139,
+  "native_hyperlinks": 7725,
+  "formula_errors": [],
+  "raw_cells_preserved": true,
+  "sheets": [
+    {
+      "name": "01 重点申报",
+      "rows": 16,
+      "cols": 9,
+      "freeze": "B5",
+      "filter": "A4:I15"
+    },
+    {
+      "name": "02 地域项目总览",
+      "rows": 204,
+      "cols": 11,
+      "freeze": "C5",
+      "filter": "A4:K203"
+    },
+    {
+      "name": "03 项目完整详情",
+      "rows": 6643,
+      "cols": 7,
+      "freeze": "C5",
+      "filter": "A4:G6642"
+    },
+    {
+      "name": "04 机构检索进度",
+      "rows": 144,
+      "cols": 9,
+      "freeze": "C5",
+      "filter": "A4:I143"
+    },
+    {
+      "name": "90 原始申报总览",
+      "rows": 205,
+      "cols": 11,
+      "freeze": "B7",
+      "filter": "A6:K205"
+    },
+    {
+      "name": "91 原始完整详情",
+      "rows": 205,
+      "cols": 26,
+      "freeze": "B7",
+      "filter": "A6:Z205"
+    },
+    {
+      "name": "92 原始机构覆盖",
+      "rows": 157,
+      "cols": 9,
+      "freeze": "B7",
+      "filter": "A6:I157"
+    }
+  ]
+}

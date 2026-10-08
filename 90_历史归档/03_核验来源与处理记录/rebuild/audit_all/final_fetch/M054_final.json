@@ -1,0 +1,8 @@
+{
+  "id": "M054_final",
+  "url": "https://seee.qhu.edu.cn/docs/2026-03/fd0e1502a79a4adaa673de1be5de9a97.pdf",
+  "status": "failed",
+  "links": [],
+  "text": "",
+  "error": " 13034      0   00:41   00:15   00:26  12439\r 35 534.5k  35 191.4k   0      0  12011      0   00:45   00:16   00:29   9706\r 38 534.5k  38 207.4k   0      0  12061      0   00:45   00:17   00:28   7671\r\ncurl: (28) Operation timed out after 18001 milliseconds with 212396 out of 547406 bytes received\r\n"
+}

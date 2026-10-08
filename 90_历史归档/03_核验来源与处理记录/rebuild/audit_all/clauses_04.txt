@@ -1,0 +1,87 @@
+
+===== M019 潍柴动力等 内燃机与动力系统全国重点实验室 =====
+https://www.skler.cn/home/focus/202606/t20260611_125037.html
+研究项目及成果
+为促进我国内燃机与动力系统领域前沿技术研究，加强学术交流与合作，2026年内燃机与动力系统全国重点实验室（以下简称“实验室”）设立开放基金资助相关课题研究，申请人须围绕实验室资助领域和研究方向开展申报。
+本年度原则上立项开放课题20项，每项资助经费25万元。
+采用“揭榜挂帅”形式，申请人须严格对照《2026年度目标导向类开放课题资助方向》（附件2）明确的研究任务进行申报。
+申请人可在实验室既定的资助领域和研究方向内自由选题，开展前沿技术性探索研究。
+申报课题应围绕上述资助方向，开展针对内燃机与动力系统的创新性、前沿技术研究工作，研究成果需契合产业发展需求，并产出高水平论文等学术成果。
+课题研究期限原则上不超过2年。
+课题申请人须具备副高级及以上专业技术职称或博士学位，本年度仅限申请1项，实验室在研课题负责人不得参与本次申报。
+实验室鼓励青年科技人才踊跃申报，35岁以下青年科技人才担任课题负责人的立项比例原则上不低于20%。
+申报材料应客观、真实、准确填报，后期答辩汇报材料及考核材料不得降低既定研究指标。
+开放课题采用线上申报方式，申请人须通过实验室开放课题管理系统（https://kfkt.weichai.com）完成材料填写与提交。
+系统提交截止后，实验室将统一组织开展形式审查，形式审查通过的课题申请书，将严格按照《内燃机与动力系统全国重点实验室开放课题管理办法》规定程序组织专家评审。
+对获批资助的课题，实验室将会通知申请人，按照有关规定签署技术合同，并依据管理办法开展全过程课题管理工作。
+附件1.2026年度开放课题申请书
+邮箱：skleps@weichai.com
+附件 [{"text": "附件1.2026年度开放课题申请书", "url": "https://www.skler.cn/home/focus/202606/W020260611367694335000.docx"}, {"text": "附件2.2026年度目标导向类开放课题资助方向", "url": "https://www.skler.cn/home/focus/202606/W020260611367694482865.docx"}]
+
+===== M020 中国科学院深圳先进技术研究院 医学成像科学与技术系统全国重点实验室 =====
+https://medimaging.siat.ac.cn/cxqjzx/2026-02/13/article_2026021316251621975.html
+二、资助对象
+1、申请人须为国内外高等院校、科研机构等单位的科研人员并具有博士学位或副高及以上职称；
+2、申请人须与实验室固定科研人员建立合作关系；
+4、同一申请人同期只能主持1项开放课题；
+三、资助计划和执行年限
+一般开放基金拟资助10项，资助经费10万元／项，资助期限为2年；
+企业开放基金拟资助1项，资助经费不超过100万元，资助期限为2年。
+1、申请人下载并填写实验室开放课题申请书；
+2、提交截止时间：2026年3月15日前将电子版申请书（经所在单位同意签字盖章）发送至邮箱guozhong_lab@siat.ac.cn，邮件标题命名为“全重开放课题申请＋申请单位名称＋项目负责人姓名”，逾期将不予受理。
+3、申请人应按照《医学成像科学与技术系统全国重点实验室开放基金管理方法》的要求开展研究工作，课题一经立项，需根据申请书签订任务书，无正当合理的依据不予修改调整。
+联系人：陈老师
+E-mail：guozhong_lab@siat.ac.cn
+附件3 医学成像科学与技术系统全国重点实验室开放基金申请书
+附件 [{"text": "附件1 2026年度医学成像科学与技术系统全国重点实验室开放基金课题申请指南", "url": "https://medimaging.siat.ac.cn/cxqjzx/attachDir/2026/02/2026021316251644718.pdf"}, {"text": "附件2 医学成像科学与技术系统全国重点实验室开放基金管理方法", "url": "https://medimaging.siat.ac.cn/cxqjzx/attachDir/2026/02/2026021316251625182.pdf"}, {"text": "附件3 医学成像科学与技术系统全国重点实验室开放基金申请书", "url": "https://medimaging.siat.ac.cn/cxqjzx/attachDir/2026/02/2026021316251639983.doc"}]
+
+===== M021 南京大学 计算机软件新技术全国重点实验室 =====
+https://keysoftlab.nju.edu.cn/1573/list.htm
+选题范围：1）多模态大模型技术研究及平台构建2）通用视觉理解基础模型关键技术研究3）面向具身场景的智能感知与决策技术4）大模型驱动的自动化知识工程5）大规模复杂场景的智能建模和绘制6）面向大规模数据的基础模型与分布式训练7）智能医药大模型关键技术研究与应用8）大数据驱动的科学发现与复杂系统模拟 三、资助对象与申请条件凡研究方向符合开放课题申请指南，具有一定研究经历，中级职称以上或取得博士学位的研究人员，均可根据课题指南提出课题申请，经本实验室学术委员会按择优支持的原则，经评审后批准开放课题并获得课题基金资助。
+本实验室每年约可资助开放课题项目40个左右，目标导向类课题原则上资助强度不超过4万元/项，自由探索类开放课题原则上资助强度不超过2万元/项。
+资助强度将根据每年科技部下达经费情况、开放课题申请数量及水平进行调整。
+根据财政部、科技部财务政策要求，开放课题经费只能外拨至高等院校、科研院所及相关事业单位；
+企业重点实验室人员需在我室联合一名固定人员共同申报，经费需在南京大学进行报销使用。
+四、申报要求和程序申请人从实验室网页（https://keysoftlab.nju.edu.cn/1611/list.htm）下载并据实填写开放课题基金申请表，由所在单位审批同意、领导签署意见并加盖公章后，请于2026年4月30日前将申请表寄回南京大学计算机软件新技术全国重点实验室（电子版1份、纸质版2份）。
+联 系 人：徐烜通信地址：南京市栖霞区仙林大道163号南京大学仙林校区计算机科学技术楼519室邮  编：210093电  话：+86（025）89683467 18912990005传  真：+86（025）89686596E - mail：keysoftlab@nju.edu.cn网  页：http：//keysoftlab.nju.edu.cn 本实验室热忱欢迎和邀请有关领域的科研人员申请与上述研究方向相关的研究课题，特别欢迎国内外博士后人员来实验室工作，共同推进计算机软件新技术的发展。
+[邮箱] keysoftlab@nju.edu.cn [地址]江苏省南京市栖霞区仙林大道163号计算机科学与技术楼
+附件 [{"text": "开放课题基金指南", "url": "https://keysoftlab.nju.edu.cn/1608/list.htm"}, {"text": "开放课题基金管理办法及实施细则", "url": "https://keysoftlab.nju.edu.cn/1609/list.htm"}, {"text": "开放课题基金申请表", "url": "https://keysoftlab.nju.edu.cn/1611/list.htm"}]
+
+===== M022 南京航空航天大学 航空航天结构力学及控制全国重点实验室 =====
+https://skl.nuaa.edu.cn/2025/1017/c4738a385555/page.htm
+论文、专著、授权专利...
+专项经费预算及执行
+现将有关事项通知如下：一、申请人条件1、具有高级专业技术职务（职称）或已获得博士学位；
+2、申请者须是课题的实际负责人，有足够的时间和精力从事所申请的课题研究；
+3、青年课题主要面向年龄不大于35周岁的青年科技人员和在站博士后。
+在站博士后申请需由依托单位提供书面承诺，保证在获得项目资助后延长其在博士后工作站的期限至项目资助期满，或者出站后继续留在依托单位从事科学研究。
+5、所联系的合作者（即实验室固定人员），每年只能参加一项课题申报，且不得连续两年获同一类型课题资助。
+二、申请须知1、申请人须认真阅读《2026年度航空航天结构力学及控制全国重点实验室开放课题指南》，了解《航空航天结构力学及控制全国重点实验室开放课题管理办法》。
+2、重点项目资助强度约20-30万元∕项，面上项目资助强度约10-12万元∕项，青年项目资助强度约5-8万元∕项；
+上述项目资助期限均为2年（2026年1月1日至2027年12月31日）。
+3、申请人请于2025年11月7日前将开放课题申请书电子版（含电子签名）发送至 skl@nuaa.edu.cn，同时将申请书纸质文件（一式一份），经所在单位签署意见并加盖公章后寄至如下地址： 江苏省南京市秦淮区御道街29号，南京航空航天大学320信箱，航空航天结构力学及控制全国重点实验室办公室，邮编：210016，（只接收中国邮政EMS或挂号信），E-mail: skl@nuaa.edu.cn2026年度航空航天结构力学及控制全国重点实验室开放课题指南.pdf航空航天结构力学及控制全国重点实验室开放课题管理办法(试行).pdf航空航天结构力学及控制全国重点实验室开放课题项目申请书.docApplication Form for Research Fund of SKLMCAS（English）.doc
+附件 [{"text": "2026年度航空航天结构力学及控制全国重点实验室开放课题指南.pdf", "url": "https://skl.nuaa.edu.cn/_upload/article/files/81/a7/10a39aeb4ad68bc0d959082efe39/8815aef9-1a99-4327-b289-e4fde410e805.pdf"}, {"text": "航空航天结构力学及控制全国重点实验室开放课题管理办法(试行).pdf", "url": "https://skl.nuaa.edu.cn/_upload/article/files/81/a7/10a39aeb4ad68bc0d959082efe39/ef287ef5-281c-4596-9f75-2e31364c4aa5.pdf"}, {"text": "航空航天结构力学及控制全国重点实验室开放课题项目申请书.doc", "url": "https://skl.nuaa.edu.cn/_upload/article/files/81/a7/10a39aeb4ad68bc0d959082efe39/9e10afc3-0bc1-49e0-8cb8-816f1520c405.doc"}, {"text": "Application Form for Research Fund of SKLMCAS（English）.doc", "url": "https://skl.nuaa.edu.cn/_upload/article/files/81/a7/10a39aeb4ad68bc0d959082efe39/72e0fcea-ac20-4593-992b-95b0a87bb6be.doc"}]
+
+===== M023 徐工集团 高端工程机械智能制造全国重点实验室 =====
+https://keyanchu.syuct.edu.cn/info/1028/2043.htm
+一、资助对象及要求
+国内外相关领域具有博士学位或副高以上职称的高校/科研机构的科研人员，并有较好研究积累，具备实施课题研究的能力和条件。
+（1）申请课题须覆盖相应指南方向的全部研究内容及考核指标。
+（2）课题研究期限为1年至2年，实验室将组织专家进行会议评审后择优资助，具体金额根据研究内容确定。
+（3）开放课题经评审获批后，需与申请者所在单位签订技术开发（委托）合同，作为后续实验室拨款和检查的依据。
+同时，自课题获批之日起，申请者将成为实验室的流动人员。
+三、成果署名要求
+（2）受本实验室资助的开放课题，发表论文的第一作者或通讯作者应为本实验室固定人员，且该第一作者或通讯作者单位中需标注“高端工程机械智能制造全国重点实验室，State Key Laboratory of Intelligent Manufacturing of Advanced Construction Machinery”。
+申请专利的发明人应包括课题申请人、实验室固定成员，第一专利权人原则上为江苏徐工国重实验室科技有限公司。
+登记的软件著作权中著作权人应包括课题申请人、实验室固定成员。
+鉴定成果应署：“高端工程机械智能制造全国重点实验室”为该项成果的主要完成单位之一。
+（3）研究成果归属与申请者其他已签订合约不发生冲突。
+（1）申请方式：课题申请者应根据本课题申请指南提出的课题名称、主要研究内容、考核指标，填写附件2《高端工程机械智能制造全国重点实验室开放课题申请书》，并由申请者所在单位签字盖章后报送高端工程机械智能制造全国重点实验室，纸质材料胶装一式三份，并将电子版同时发送至邮箱yangyanli@xcmg.com，邮件主题“2026年开放课题申请+课题名称+申请单位+课题负责人”。
+（2）申请时间：截止2026年5月22日18:00时，以收到开放课题申请书电子邮件时间为准。
+附件2：高端工程机械智能制造全国重点实验室开放课题申请书.docx
+附件 [{"text": "附件1：2026年度开放课题申报指南.docx", "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjU5NDU3Mw==&mid=2247486287&idx=1&sn=624128c2226e7118bc58e83155ecb0f2&scene=25&sessionid=&key=daf9bdc5abc4e8d095a8f024ce94a32b7a0323e92eb21b1110978d53533c3c4ed1e4c1e18d58d7f936d082e6e72c228b9d619bae980dd8e03b0e912431f4a32b5ac9ba44f863e55196d36d320ac9ac413e5a8628d74cff10991a48a519e18403a7f57ba9c487971c87a11da094a91665a637bbfe3e6746f6c654ff21c728bf96&ascene=0&uin=MjA4MDIxMTA4Mw%3D%3D&devicetype=UnifiedPCWindows&version=f254191e&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQwQK2zbYgO6wZbcDwuwlzbhLoAQIE97dBBAEAAAAAAAI4C689RtcAAAAOpnltbLcz9gKNyK89dVj0Jrawwxw4z5javZyrGtMml%2FV3ZqG2mPb15uDTYrA9KlHF2NWbgB6hwU5iSkTFUyONmIRSDAwg6vTGTtwlzx4428llbS%2B5datRiIi20Cf3NUDmbUkRBi6gW9u4v9LHI%2BxC%2ByczAq42rVc04ADGzYgaiYYOZmHpxtjnsdZK8TCsoGeBr5ehf5hjfKmZqJjawX63ACkF9%2BrtMZymF2uqoJhA6nIivD4U%2FASsNwozGz0TSIBNsRpzaXvxF0bg6SBo%2FhQoVFI%3D&acctmode=0&pass_ticket=MBZ7HHLDg1vseNLaEswtBJdsAcyR9eG%2FSSp5x8sq7qBVCzBS2lsGdubIc5ChvIM1&wx_header=0"}, {"text": "附件2：高端工程机械智能制造全国重点实验室开放课题申请书.docx", "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjU5NDU3Mw==&mid=2247486287&idx=1&sn=624128c2226e7118bc58e83155ecb0f2&scene=25&sessionid=&key=daf9bdc5abc4e8d095a8f024ce94a32b7a0323e92eb21b1110978d53533c3c4ed1e4c1e18d58d7f936d082e6e72c228b9d619bae980dd8e03b0e912431f4a32b5ac9ba44f863e55196d36d320ac9ac413e5a8628d74cff10991a48a519e18403a7f57ba9c487971c87a11da094a91665a637bbfe3e6746f6c654ff21c728bf96&ascene=0&uin=MjA4MDIxMTA4Mw%3D%3D&devicetype=UnifiedPCWindows&version=f254191e&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQwQK2zbYgO6wZbcDwuwlzbhLoAQIE97dBBAEAAAAAAAI4C689RtcAAAAOpnltbLcz9gKNyK89dVj0Jrawwxw4z5javZyrGtMml%2FV3ZqG2mPb15uDTYrA9KlHF2NWbgB6hwU5iSkTFUyONmIRSDAwg6vTGTtwlzx4428llbS%2B5datRiIi20Cf3NUDmbUkRBi6gW9u4v9LHI%2BxC%2ByczAq42rVc04ADGzYgaiYYOZmHpxtjnsdZK8TCsoGeBr5ehf5hjfKmZqJjawX63ACkF9%2BrtMZymF2uqoJhA6nIivD4U%2FASsNwozGz0TSIBNsRpzaXvxF0bg6SBo%2FhQoVFI%3D&acctmode=0&pass_ticket=MBZ7HHLDg1vseNLaEswtBJdsAcyR9eG%2FSSp5x8sq7qBVCzBS2lsGdubIc5ChvIM1&wx_header=0"}, {"text": "下一篇：转发：科技部国际合作司关于发布国家重点研发计划“政府间国际科技创新合作”重点专项 2026年度第二批联合研发项目申报指南的通知", "url": "https://keyanchu.syuct.edu.cn/info/1028/2042.htm"}]
+
+===== M024 浙江大学 工业控制技术全国重点实验室 =====
+https://sklict.zju.edu.cn/2025/0311/c85587a3136919/page.htm
+全重固定成员查询链接：https://sklict.zju.edu.cn/90387/list.htm申报入口：在线填写https://jinshuju.com/f/aY35qP申报时间：即日起至2026年3月20日关于申报结果请关注重点实验室网站信息和邮件通知，如有疑问，请联系：吴老师  0571-87953813    sklict@zju.edu.cn
+附件 [{"text": "2026-2027年度工业控制技术全国重点实验室开放课题申报指南.pdf", "url": "https://sklict.zju.edu.cn/_upload/article/files/5d/0a/a43000ae4b8a8628f03f2bdc8307/be490fc1-e1fe-45ae-b0ec-33ac7019d56f.pdf"}]

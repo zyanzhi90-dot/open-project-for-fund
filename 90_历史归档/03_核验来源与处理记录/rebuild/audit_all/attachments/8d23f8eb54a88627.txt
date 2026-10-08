@@ -1,0 +1,205 @@
+
+Research Fund of the State Key Laboratory of 
+Mechanics and Control for Mechanical Structures 
+（Nanjing University of Aeronautics and Astronautics）
+
+Application Form
+
+  
+Title of the project
+：
+
+Applicant’s Name
+：
+
+Proposed stay at the host institution
+：
+From   (MM/DD/YY)     to   (MM/DD/YY)
+Contact information in your country
+：
+
+E-Mail
+：
+
+
+
+
+
+Address：No.29, Yudao Street, Nanjing, China , 210016
+ Call：86-025-84896316         Fax：86-025-84896316       E-mail：skl@nuaa.edu.cn
+
+Notes 
+Please send the application form to the SKLMCAS office by email.
+The period of research will be from January 1, 2027 to December 31, 2028.
+The maximum budget for the two-year period is 200,000 RMB.
+The type of research can be “Fundamental” or “Applied fundamental”.
+The deadline for submission is October 10, 2026.
+General information
+Applicant’s information
+Surname
+
+Middle name
+
+Given name
+       
+Gender
+
+Date of birth
+
+Nationality
+
+Highest academic degree
+
+Current employer (if any)
+
+Current position (if any)
+
+Passport number
+
+Contact information in your country
+Office
+
+
+
+
+
+ Home
+
+
+
+
+
+Education(indicate from the latest one):
+  Name of University/Institution, Location (city, country), Degree, Field, From-to 
+
+
+Previous employment (indicate from the latest one)
+  Name of employer, Location (city, country),  Previous employment position, Field, From-to (MM/DD/YY)
+
+
+
+
+
+Academic profile and achievements obtained in the past
+  (No word limits to the description but a concise and comprehensive style preferred)
+
+
+
+
+
+
+
+
+
+
+List of major publications
+  Authors (all), Title, Journal, Vol., No., pp. - , month, year
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Plan
+Title of the project
+
+
+Abstract (limited to 800 words)：
+
+
+
+
+
+
+
+
+
+
+Keywords (limited to 5 keywords, separated by ;):
+
+
+Your research plan (including background, objectives, plan and methodology, and expected outcomes) at the host institution if the application is approved (the number of pages is not limited, but concise descriptions are preferred.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Budget Planning
+Notes：
+Please refer to your contact for regulations and stipulations on budget and expenditure.
+Unexpected or unpredictable expenses are excluded in the budget.
+Budget can not be more than 200,000 RMB yuan.
+Subjects
+Expenditure
+Recommended 
+percentage
+1. Research & Operation（Test/Calculation/Analysis, Power Consumption）
+ FORMTEXT  =sum(tbl_budget b5:b9) 00.0000
+20%
+2. Materials & Supplies(Materials, Reagent, Consumables)
+ FORMTEXT  =sum(tbl_budget b5:b9) 00.0000
+30%
+3. Conference, Travel, and Academic Activities Abroad
+ FORMTEXT  =sum(tbl_budget b5:b9) 00.0000 FORMTEXT 1
+25%
+4. Living allowance during staying at the host institution
+ FORMTEXT  =sum(tbl_budget b5:b9) 00.0000
+25%
+Total
+ FORMTEXT  =sum(tbl_budget b3:b3) + sum(tbl_budget b16:b16) + sum(tbl_budget b19:b20) 0.00.0000
+ FORMTEXT      
+Research Fund(s) from Other Sources
+Grants in China
+ FORMTEXT      
+
+Other(s)
+ FORMTEXT      
+
+Total
+ FORMTEXT  =sum(tbl_budget c22:c23) 00.0000
+Declaration
+
+   I hereby declare that all the statements and information given above are true.
+
+   If the Research Fund is awarded, I will be in line of my duty as a PI to conduct the proposed research project stated in this application.
+
+   Signature------------------           Date----------------

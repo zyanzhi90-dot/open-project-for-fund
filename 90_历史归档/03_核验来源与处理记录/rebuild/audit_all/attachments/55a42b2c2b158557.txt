@@ -1,0 +1,69 @@
+SKL-UPMT ORP (2026)
+	State Key Laboratory of Ultra-precision Machining Technology (SKL-UPMT) Open Research Project 2026
+超精密加工技術全國重點實驗室 2026年度開放課題															
+No.
+序號	Full Name
+姓名	Gender
+性別	Date of Birth
+出生年月	Age
+年齡	Discipline
+專業	Affiliation
+所在單位	Position
+職稱	Project Title
+課題名稱	Abstract
+摘要	Keywords
+關鍵詞	Expected Outcomes
+預期成果	Email
+郵箱	Tel No.
+電話	Corresponding Address
+通訊地址	SKL-UPMT Collaborator
+(must be a SKL-UPMT member) 
+實驗室合作人員姓名
+（必須爲實驗室固定人員）
+mandatory 必填	Remarks (if any)
+其他情况 (如有)
+1			yyyy - mm
+年 - 月						Do NOT exceed 100-150 words
+不超過100-150字		(1) 
+(2) 
+(3)
+……
+e.g. publications, patents, talent cultivation
+如: 文章、專利、人才培養等					
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																

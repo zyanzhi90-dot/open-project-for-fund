@@ -1,0 +1,11 @@
+{
+  "url": "https://www.rails.cn/download/2026/20260722_附件1：动车组和机车牵引与控制国家重点实验室开放课题申请书.doc",
+  "name": "20260722_附件1：动车组和机车牵引与控制国家重点实验室开放课题申请书.doc",
+  "ids": [
+    "M012"
+  ],
+  "referer": "https://www.rails.cn/html/news/11/2026/20260722_69048.html",
+  "status": "failed",
+  "text": "",
+  "error": "'ascii' codec can't encode characters in position 28-29: ordinal not in range(128)"
+}

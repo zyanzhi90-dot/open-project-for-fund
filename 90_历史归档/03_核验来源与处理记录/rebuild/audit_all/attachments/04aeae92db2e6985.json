@@ -1,0 +1,11 @@
+{
+  "url": "https://www.semi.ac.cn/tzgg/202609/P020260917536155022186.docx",
+  "name": "附件1.开放基金课题申请书-光电子材料与器件实验室2026.docx",
+  "ids": [
+    "M141"
+  ],
+  "referer": "https://www.semi.ac.cn/tzgg/202609/t20260917_8284106.html",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 230127 out of 406163 bytes received\r\n"
+}

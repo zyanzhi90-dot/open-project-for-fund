@@ -1,0 +1,11 @@
+{
+  "url": "https://www.gml.ac.cn/core/extend/kindeditor/attached/file/20260725/20260725205936_84634.rar",
+  "name": "/core/extend/kindeditor/attached/file/20260725/20260725205936_84634.rar",
+  "ids": [
+    "M097"
+  ],
+  "referer": "https://www.gml.ac.cn/xxgs/973.html",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18001 milliseconds with 228782 out of 499309 bytes received\r\n"
+}

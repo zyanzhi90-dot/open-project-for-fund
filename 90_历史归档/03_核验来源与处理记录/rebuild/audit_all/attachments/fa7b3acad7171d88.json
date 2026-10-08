@@ -1,0 +1,12 @@
+{
+  "url": "https://www.polyu.edu.hk/sklumt/-/media/department/sklumt/content/open-project/sklupmt-open-project-2026---appn-guidelines_tc-(202512).pdf?rev=772358a84ad64110b4a547b73ff010e6&hash=8328448892E31A45DFC30E4D22BAA02E",
+  "name": "",
+  "ids": [
+    "M122",
+    "M122"
+  ],
+  "referer": "https://www.polyu.edu.hk/sklumt/open-research-project/call-for-application/?sc_lang=tc",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 198304 out of 228460 bytes received\r\n"
+}

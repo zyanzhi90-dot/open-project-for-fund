@@ -1,0 +1,11 @@
+{
+  "url": "http://mccse.seu.edu.cn/userfiles/file/opentask.doc",
+  "name": "《深地科学与工程教育部重点实验室开放课题基金申请书》",
+  "ids": [
+    "M163"
+  ],
+  "referer": "https://duse.scu.edu.cn/News/tz/2026-09-09/261.html",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (6) Could not resolve host: mccse.seu.edu.cn\r\n"
+}

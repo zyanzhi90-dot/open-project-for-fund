@@ -1,0 +1,11 @@
+{
+  "url": "https://bionic.jlu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1503487058&wbfileid=16013941",
+  "name": "吉林大学工程仿生教育部重点实验室开放基金项目管理办法.pdf",
+  "ids": [
+    "M116"
+  ],
+  "referer": "https://bionic.jlu.edu.cn/info/1041/1662.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 139079 out of 191917 bytes received\r\n"
+}

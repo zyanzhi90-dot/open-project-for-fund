@@ -1,0 +1,11 @@
+{
+  "url": "https://sklict.zju.edu.cn/_upload/article/files/6d/7e/0cd8f8d343c09baf09b8f41da45c/b6054cd3-f60e-4737-ac34-3f5481a9dc56.pdf",
+  "name": "浙江大学科研经费管理办法（浙大发计〔2019〕2 号）.pdf",
+  "ids": [
+    "M025"
+  ],
+  "referer": "https://sklict.zju.edu.cn/2025/0704/c85587a3067831/page.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 278159 out of 2912469 bytes received\r\n"
+}

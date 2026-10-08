@@ -1,0 +1,11 @@
+{
+  "url": "https://iimt.cczu.edu.cn/_upload/article/files/66/cf/d34982dd443fadb6643895fc49a6/d97e9345-0eb6-4f20-94c1-813f64c1a119.pdf",
+  "name": "05 科研诚信承诺书（项目负责人、承担单位）-基础研究专项.pdf",
+  "ids": [
+    "M175"
+  ],
+  "referer": "https://iimt.cczu.edu.cn/2026/0519/c22023a415871/page.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 181143 out of 187769 bytes received\r\n"
+}

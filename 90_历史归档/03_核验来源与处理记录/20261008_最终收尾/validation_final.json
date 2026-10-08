@@ -1,0 +1,24 @@
+{
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_最终核验版_20261008.xlsx",
+  "stats": {
+    "原记录": 199,
+    "保留原记录": 167,
+    "有效独立条目": 166,
+    "剔除": 32,
+    "状态": {
+      "受理中·条件待核": 27,
+      "截止待确认": 5,
+      "线索待核": 16,
+      "已截止": 118
+    },
+    "剔除资格不符": 4,
+    "正式开放课题公告": 150,
+    "线索记录": 12,
+    "其他资助": 4
+  },
+  "input_unchanged": true,
+  "original_199_covered": true,
+  "stable_ids_links_dates_filters_freeze_valid": true,
+  "status_order_valid": true,
+  "sha256": "e6ad3077d5c54a7c86658152971cb3a660c6e84f03dca4b7275a9f9b19d48a37"
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.lncc.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1261094099&wbfileid=045071C8960540385EE1D8C6EB100813",
+  "name": "辽宁省桥梁安全工程重点实验室开放基金项目申报通知.pdf",
+  "ids": [
+    "M133"
+  ],
+  "referer": "https://www.lncc.edu.cn/kjc/info/1015/3316.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18001 milliseconds with 244763 out of 375321 bytes received\r\n"
+}

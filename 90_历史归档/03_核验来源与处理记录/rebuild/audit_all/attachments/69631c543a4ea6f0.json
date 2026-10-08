@@ -1,0 +1,11 @@
+{
+  "url": "https://ime.um.edu.mo/wp-content/uploads/2026/01/SKL-AMSV-Open-Research-Project-Application-Form-2026.doc",
+  "name": "SKL-AMSV Open Research Project Application Form",
+  "ids": [
+    "M164"
+  ],
+  "referer": "https://ime.um.edu.mo/zh-hans/open-research-project/guidelines/",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 213138 out of 1294336 bytes received\r\n"
+}

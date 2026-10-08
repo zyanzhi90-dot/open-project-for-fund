@@ -1,0 +1,16 @@
+{
+  "projects_original_retained": 199,
+  "institutions_targeted_checked": 144,
+  "summary_consistent": true,
+  "original_history_fields_retained": true,
+  "native_hyperlinks": 3153,
+  "sheets": [
+    "01申报总览",
+    "02项目完整详情",
+    "03机构检索覆盖",
+    "04本轮信息核验日志"
+  ],
+  "errors": [],
+  "file": "D:\\桌面\\全国机器人与医工开放项目\\outputs\\20261008_robot_fund_audit\\全国机器人开放课题_个人申报台账_信息核验版_20261008.xlsx",
+  "bytes": 989696
+}

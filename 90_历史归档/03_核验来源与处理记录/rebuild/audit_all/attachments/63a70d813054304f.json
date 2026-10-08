@@ -1,0 +1,11 @@
+{
+  "url": "https://sldrce.tongji.edu.cn/_upload/article/files/e4/c6/c75e58a24d0ca9b2fa0cf9fd5fd8/b6ab5a9d-a8dc-4124-adc8-e2098344e295.pdf",
+  "name": "2026开放课题申请指南.pdf",
+  "ids": [
+    "M143"
+  ],
+  "referer": "https://sldrce.tongji.edu.cn/d6/b7/c33242a382647/page.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 192175 out of 289779 bytes received\r\n"
+}

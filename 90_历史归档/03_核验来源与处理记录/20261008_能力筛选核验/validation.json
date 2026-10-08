@@ -1,0 +1,26 @@
+{
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_筛选核验版_20261008.xlsx",
+  "stats": {
+    "original": 199,
+    "retained": 152,
+    "excluded": 47,
+    "pending_fit": 10,
+    "fresh": 135,
+    "states": {
+      "已截止": 105,
+      "日期未过·待确认": 23,
+      "当期受理待核": 8,
+      "已截止·资格受限": 2,
+      "截止日期待核": 6,
+      "截止待确认": 5,
+      "条件待核（基金专项）": 2,
+      "历史已截止·当期待核": 1
+    }
+  },
+  "input_unchanged": true,
+  "home_and_details_consistent": true,
+  "original_199_preserved": true,
+  "institution_grouping_valid": true,
+  "native_filter_freeze_links_valid": true,
+  "sha256": "fde741eb9242b21cb7dd98bd0cd16561ea66ea49dc8e5a46b1e08fd1c64bbcf5"
+}

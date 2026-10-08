@@ -1,0 +1,11 @@
+{
+  "url": "https://webplus.chd.edu.cn/_upload/article/files/85/7a/a998c7f04e7385adf89e465f75cb/d277f732-0b96-4362-a8c2-17f5197aee44.zip",
+  "name": "附件4国民经济行业分类与代码学科分类与代码申报数据代码表.zip",
+  "ids": [
+    "M109"
+  ],
+  "referer": "https://webplus.chd.edu.cn/_s204/2026/0605/c8633a261025/page.psp",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 335572 out of 366456 bytes received\r\n"
+}

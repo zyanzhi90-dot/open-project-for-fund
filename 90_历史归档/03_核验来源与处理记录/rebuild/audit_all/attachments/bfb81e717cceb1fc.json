@@ -1,0 +1,11 @@
+{
+  "url": "https://sklict.zju.edu.cn/_upload/article/files/6d/7e/0cd8f8d343c09baf09b8f41da45c/fcd6b1e3-c9eb-4329-a386-271f8a506d86.pdf",
+  "name": "浙江大学财务办事指南.pdf",
+  "ids": [
+    "M025"
+  ],
+  "referer": "https://sklict.zju.edu.cn/2025/0704/c85587a3067831/page.htm",
+  "status": "failed",
+  "text": "",
+  "error": "curl: (28) Operation timed out after 18000 milliseconds with 196240 out of 2611327 bytes received\r\n"
+}
