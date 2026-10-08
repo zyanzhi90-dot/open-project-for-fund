@@ -1,0 +1,32 @@
+{
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\03_核验来源与处理记录\\20261008_严格重筛\\全国机器人开放课题_个人申报台账_严格重筛版_20261008.xlsx",
+  "stats": {
+    "重筛独立条目": 166,
+    "任务证据保留": 93,
+    "方向/指南待核": 44,
+    "本轮新增剔除": 29,
+    "累计剔除原记录": 61,
+    "详情独立条目": 137,
+    "首页当前正式公告": 12,
+    "历史项目": 75,
+    "待核项目": 46,
+    "其他资助": 4,
+    "原记录覆盖": 199
+  },
+  "input_unchanged": true,
+  "original_199_covered": true,
+  "all_166_have_screening_and_11_field_records": true,
+  "current_home_only_formal_open_window": true,
+  "links_filters_dates_freeze_valid": true,
+  "regional_deadline_order_valid": true,
+  "sha256": "729e05d41164262990099f704a2c8599da43631910ee98151b53a742bc1f6008",
+  "visual_review": "passed",
+  "visible_sheets_checked": 8,
+  "images_checked": 17,
+  "row_height_estimated_clipping": 0,
+  "visual_scope": "首页12条全部检查；详情分栏、最长经费和成果、受限附件项目；机构覆盖、日志、旧/新剔除、历史首尾、待核、其他资助代表区域。全表逐行行高估算无截断。联系人修正后重绘受影响待核图，其余16个区域显示内容未变。",
+  "delivered_output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_严格重筛版_20261008.xlsx",
+  "prior_delivery_archived": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\02_旧版与输出记录\\20261008_严格重筛前交付版\\全国机器人开放课题_个人申报台账_最终核验版_20261008.xlsx",
+  "archived_sha256": "e6ad3077d5c54a7c86658152971cb3a660c6e84f03dca4b7275a9f9b19d48a37",
+  "root_single_current_xlsx": true
+}

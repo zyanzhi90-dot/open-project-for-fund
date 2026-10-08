@@ -1,0 +1,24 @@
+{
+  "id": "M100",
+  "fetch_date": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://news.cqjtu.edu.cn/system/_content/download.jsp?owner=1252782971&urltype=news.DownloadAttachUrl&wbfileid=15041515",
+      "kind": "附件1申报指南",
+      "text": "",
+      "status": "未取得：网页工具已确认附件下载需要验证码",
+      "urllib_fetch_status": "未取得：URLError",
+      "browser_result": "请输入验证码下载附件",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "url": "https://news.cqjtu.edu.cn/system/_content/download.jsp?owner=1252782971&urltype=news.DownloadAttachUrl&wbfileid=15041517",
+      "kind": "附件3管理办法",
+      "text": "",
+      "status": "未取得：网页工具已确认附件下载需要验证码",
+      "urllib_fetch_status": "未取得：URLError",
+      "browser_result": "请输入验证码下载附件",
+      "checked_at": "2026-10-08"
+    }
+  ]
+}

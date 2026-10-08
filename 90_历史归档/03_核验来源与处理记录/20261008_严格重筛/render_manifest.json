@@ -1,0 +1,138 @@
+[
+  {
+    "file": "renders/home_1.png",
+    "sheet": "01申报总览",
+    "range": "A1:F7",
+    "status": "passed",
+    "sha256": "b52c20bdfd74574249d033c480772183d467134d1fc1fb65c30129f88ddebaba",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/home_2.png",
+    "sheet": "01申报总览",
+    "range": "A8:F13",
+    "status": "passed",
+    "sha256": "015cc88e1325c6df1a10ff4aff1b33a5e11aff42d2d1833fbfe2c70bb444ea00",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/detail_identity.png",
+    "sheet": "02项目完整详情",
+    "range": "A1:J3",
+    "status": "passed",
+    "sha256": "146766cc10c6ce22d47eaaafd163a44b433377554a2bdf9334f5816dbcb679c5",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/detail_conditions.png",
+    "sheet": "02项目完整详情",
+    "range": "K1:N3",
+    "status": "passed",
+    "sha256": "e0ee7057eb064b82f32484590bf29c17c7631cf53b9f286a51b73433f429352f",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/detail_outputs.png",
+    "sheet": "02项目完整详情",
+    "range": "O1:S3",
+    "status": "passed",
+    "sha256": "1dc890b79931baf2ac22fe0d2393499d230e4bc6a080c7778a34bb32d063ba3d",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/detail_sources.png",
+    "sheet": "02项目完整详情",
+    "range": "T1:AA3",
+    "status": "passed",
+    "sha256": "cc97ef30c3e2cc8354d92ef4cf00c99b1ccea0cc0565ba3f35dfd7c099760c0b",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/detail_long_funds.png",
+    "sheet": "02项目完整详情",
+    "range": "K119:N119",
+    "status": "passed",
+    "sha256": "5de850c9375452bad968ad4e883b8a4e754ce98fac1163a292112107924b7cd5",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/detail_long_outputs.png",
+    "sheet": "02项目完整详情",
+    "range": "O129:S129",
+    "status": "passed",
+    "sha256": "ece70c0662a1bee041669f5f421605f3c19e33b7e8f0f8841df233d29866199f",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/detail_blocked.png",
+    "sheet": "02项目完整详情",
+    "range": "K4:Q4",
+    "status": "passed",
+    "sha256": "e4536e816d4a6a4bbf49b234b9c974ce6bd6bc38d5ac304acdf9c067f5d2f13d",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/coverage.png",
+    "sheet": "03机构检索覆盖",
+    "range": "A1:I8",
+    "status": "passed",
+    "sha256": "73f92e28e15c927eedfc2ef2833bd247b19d0be1bdf9ebffe8be3467e920f3b9",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/log.png",
+    "sheet": "04本轮信息核验日志",
+    "range": "A1:H3",
+    "status": "passed",
+    "sha256": "7c6693aa0369beecdf8c714c8322a4e3910b7b87d483118e45e7d19030f54464",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/excluded_prior.png",
+    "sheet": "05剔除记录",
+    "range": "A1:G4",
+    "status": "passed",
+    "sha256": "e475fa70b0477b8e7571fc71da364beee59af85c8708b1e7770f4f23400b462b",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/excluded_new.png",
+    "sheet": "05剔除记录",
+    "range": "A34:G37",
+    "status": "passed",
+    "sha256": "b4f1058e7223964d8881041c8864437033fbf6dcbaf0744a8312c1119763d20d",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/history_first.png",
+    "sheet": "06历史项目",
+    "range": "A1:F5",
+    "status": "passed",
+    "sha256": "a873de392b551115432b4457a8a65caee6489e464272be168b9b31a501057849",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/history_last.png",
+    "sheet": "06历史项目",
+    "range": "A73:F76",
+    "status": "passed",
+    "sha256": "c19f2dfae792faec479cbc18dbb8fe6fc5a03c4b3e046a1ffe8c2fbd24877bcc",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/pending.png",
+    "sheet": "07待核项目",
+    "range": "A1:H4",
+    "status": "passed",
+    "sha256": "653e656a5db4f34c3518ccef0d6f30fb211d51f66e2d3e48a71fd3800296ef16",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  },
+  {
+    "file": "renders/other.png",
+    "sheet": "08其他资助",
+    "range": "A1:H5",
+    "status": "passed",
+    "sha256": "9a6b80036a77df6923e3a77ef31c203dfc8384af8f2804a2b3ad12fec0a68244",
+    "observations": "已逐张目视检查：文字可读、换行正常、无可见截断或相互覆盖。"
+  }
+]
