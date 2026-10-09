@@ -1295,12 +1295,13 @@
   {
     "id": "N067",
     "category": "一、网页或附件受阻：用浏览器获取原件",
-    "action": "下载2025申请表及导师/专家推荐函3份DOCX；补福工大科研〔2024〕14号管理办法/任务合同（如可取得），确认外拨、报销支付、IP及设备费与原则不买固定资产范围。正文≤2万/SCI或EI期刊第一实验室/2025-07-15截止已核，不重复正文。历史项目/待核，文件名前加N067。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "action": "下载2025申请表及导师/专家推荐函3份DOCX；补福工大科研〔2024〕14号管理办法/任务合同（如可取得），确认外拨、报销支付、IP及设备费与原则不买固定资产范围。正文≤2万/SCI或EI期刊第一实验室/2025-07-15截止已核，不重复正文。历史项目/待核，文件名前加N067。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。 管理办法正式入口已找到但工具仅标题空白，请浏览器保存正文/附件；无需新类别。",
     "urls": [
       "https://hyy.fjut.edu.cn/2025/0617/c10557a255474/page.htm",
       "https://hyy.fjut.edu.cn/_upload/article/files/15/f8/616d9ddd4ed5bfba493285fd8e64/c5ae681d-4957-4f8d-8c86-2c44aeda189d.docx",
       "https://hyy.fjut.edu.cn/_upload/article/files/15/f8/616d9ddd4ed5bfba493285fd8e64/cae13612-d973-47f3-960a-4bb5099b9bc6.docx",
-      "https://hyy.fjut.edu.cn/_upload/article/files/15/f8/616d9ddd4ed5bfba493285fd8e64/11bf6763-ed19-4179-9276-dc7594edaa16.docx"
+      "https://hyy.fjut.edu.cn/_upload/article/files/15/f8/616d9ddd4ed5bfba493285fd8e64/11bf6763-ed19-4179-9276-dc7594edaa16.docx",
+      "https://kyc.fjut.edu.cn/2024/1203/c6913a244712/page.htm"
     ],
     "contact": "周老师15005997434；ZhouPD@fjut.edu.cn；福州闽侯上街学府南路69号旗山南区新技术研究楼3024，350118。"
   },
@@ -1338,6 +1339,93 @@
     "action": "保存南信校级科研平台完整目录TXT或网页PDF，首超时；省部25条已取得无需重传。保留机器人/装备/感知平台名网址及2026—2027对外开放指南附件（若有），文件名前加覆盖-NUIST校级。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
     "urls": [
       "https://www.nuist.edu.cn/kxyj/xjkypt.htm"
+    ],
+    "contact": "未确认基金联系人"
+  },
+  {
+    "id": "N070",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存2027实验室业务费开放基金完整指南TXT或网页PDF及全部附件，首次不可访问；补具体实验室/年度任务、校外负责人资格限项合作、金额期限、经费外拨报销、成果IP提交与联系人，不因2027标题写当期可申请。历史项目/待核，文件名前加N070。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://iem.ac.cn/zxgl/info?id=4400"
+    ],
+    "contact": "本批联系人未取得。"
+  },
+  {
+    "id": "N071",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载2026申请DOC/高质量期刊目录/校学术期刊目录3附件，官网附件下载页或工具异常未获原件；补具体机器人或智能检测装备任务，核B/C/D是学校目录、署名三方案、外拨报销支付。正文3万/先1万/09-15 17:00已取，勿重复正文。历史项目/待核，文件名前加N071。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://highway.chd.edu.cn/info/1015/24577.htm",
+      "https://highway.chd.edu.cn/system/_content/download.jsp?owner=942513268&urltype=news.DownloadAttachUrl&wbfileid=18223154",
+      "https://highway.chd.edu.cn/system/_content/download.jsp?owner=942513268&urltype=news.DownloadAttachUrl&wbfileid=18223156"
+    ],
+    "contact": "申请邮箱yao.li@chd.edu.cn；公告未载专门电话。学院公共029-82334453不是确认基金咨询电话。"
+  },
+  {
+    "id": "N072",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载青科低空2024申请DOCX，首次工具不支持；补资助金额、外拨报销/垫支支付合同、成果数量署名IP。正文多模态避障/编队、首拨≤40%、2024-05-15前已取。历史项目/待核，文件名前加N072。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://sjkx.qust.edu.cn/info/1061/1542.htm",
+      "https://sjkx.qust.edu.cn/system/_content/download.jsp?owner=1950452003&urltype=news.DownloadAttachUrl&wbfileid=13246650"
+    ],
+    "contact": "赵琦；zhaoqi_1995@163.com；青岛崂山松岭路99号数据科学学院。基金个人电话未载，学院公共0532-88959390。"
+  },
+  {
+    "id": "N073",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载安徽建筑工程机械2022管理办法/申请书/任务书3DOC，首次不支持；补经费外拨报销/IP、CSCD与EI会议组合及签章。标题年度2022、实际2023-02-20截止；校外约3万，校内主任2万不属于本人的类别。历史项目/待核，文件名前加N073。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://www.ahjzu.edu.cn/2023/0209/c145a209128/page.htm",
+      "https://www.ahjzu.edu.cn/_upload/article/files/55/7e/a1bd4404493cace7e1659ca46a5c/fad1ccf2-60e2-4ba3-a892-f61d58f0ca48.doc",
+      "https://www.ahjzu.edu.cn/_upload/article/files/55/7e/a1bd4404493cace7e1659ca46a5c/4ecf7c4c-aedf-4765-9fe6-f34c61954ae9.doc",
+      "https://www.ahjzu.edu.cn/_upload/article/files/55/7e/a1bd4404493cace7e1659ca46a5c/6a3d104d-ac0a-4c95-8e37-37f7f70cb037.doc"
+    ],
+    "contact": "袁彬13721033638、0551-63828102；yuanbinwork@163.com；合肥紫云路292号南校区机电楼。"
+  },
+  {
+    "id": "N074",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存安徽地下探测2023完整正文TXT或网页PDF及所有附件；正文页尾首次续读超时。补深海探测装备具体任务、金额、资格周期截止、外拨报销、成果IP/提交联系；已取前段合作和成果不重复提供。历史项目/待核，文件名前加N074。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://www.ahjzu.edu.cn/cptulab/2023/1129/c13219a225180/page.htm"
+    ],
+    "contact": "本批联系人未取得。"
+  },
+  {
+    "id": "覆盖-CWXU省部",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存无锡学院省部级科研平台完整目录TXT或网页PDF，首次超时；保留名网址及机器人/装备/感知2026—2027正式开放指南附件若有。市厅3条和核心零部件介绍已取，文件名前加覆盖-CWXU省部。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://www.cwxu.edu.cn/kxyj/kypt1/sbjkypt.htm"
+    ],
+    "contact": "未确认基金联系人"
+  },
+  {
+    "id": "覆盖-CWXU车联网",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存无锡市车联网重点实验室完整介绍及对外开放课题年度公告/附件若有，首次简介超时；市厅目录已取得无需重传，文件名前加覆盖-CWXU车联网。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://www.cwxu.edu.cn/info/1395/17282.htm"
+    ],
+    "contact": "未确认基金联系人"
+  },
+  {
+    "id": "覆盖-JXUST平台",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存江西理工科研平台完整分页目录TXT或网页PDF，首次不可访问；保留国家/省/教育厅/校级平台名及网址，附机器人装备相关2026—2027开放指南附件若有；文件名前加覆盖-JXUST平台。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://kjc.jxust.edu.cn/kypt/1.htm"
+    ],
+    "contact": "未确认基金联系人"
+  },
+  {
+    "id": "覆盖-TJUT国家目录",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "浏览天津理工国家级科研基地目录，工具页面只导航和页码，无名单也未明确共0；若浏览器有平台请保存完整目录TXT/网页PDF，否则复制页面实际显示情况。市15/部4目录已取不重复，文件名前加覆盖-TJUT国家目录。保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://kjc.tjut.edu.cn/kyjd/gjjkyjd.htm"
     ],
     "contact": "未确认基金联系人"
   }
