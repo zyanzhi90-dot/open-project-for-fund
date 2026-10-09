@@ -1,0 +1,1 @@
+window.Wp3Config = {pdf: {scale: 'page-fit'}}

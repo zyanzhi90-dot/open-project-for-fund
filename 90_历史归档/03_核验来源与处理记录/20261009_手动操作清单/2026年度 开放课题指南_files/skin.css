@@ -1,0 +1,237 @@
+﻿img {
+	vertical-align: middle;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	text-decoration: none;
+	color: #a86fa4;
+}
+h1 {
+	margin: 0px 0px 5px 0px;
+	font-size: 20px;
+	font-weight: normal;
+	background: url(caption.png) no-repeat;
+	padding-left: 35px;
+}
+h1.caption {
+	border-bottom: #000000 1px solid;
+}
+h3 {
+	margin: 0px 0px 5px 0px;
+	font-size: 16px;
+	font-weight: normal;
+}
+table {
+	width: 100%;
+	color: #000000;
+	font-size: 12px;
+	line-height: 1.8;
+}
+body {
+	margin: 0px;
+	font-family: tahoma, arial, verdana, sans-serif;
+	background: url(bg.jpg);
+	background-attachment: fixed;
+}
+.borderLeftTop {
+	background: url(borderLeft.png) no-repeat;
+	padding-left: 5px;
+}
+.borderRightTop {
+	background: url(borderRight.png) right top;
+	height: 5px;
+}
+.borderLeftBottom {
+	margin-bottom: 10px;
+	background: url(borderLeft.png) left bottom no-repeat;
+	padding-left: 5px;
+}
+.borderRightBottom {
+	background: url(borderRight.png) right bottom;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+#frame {
+	width: 90%;
+	max-width: 1940px;
+}
+#menu {
+	padding: 5px;
+}
+#menu img {
+	padding-top: 5px;
+}
+#menu a {
+	display: inline-block;
+	font-size: 14px;
+	line-height: 1.0;
+	padding: 10px;
+}
+#menu a:hover {
+	background: #a86fa4;
+	color: #fafafa;
+}
+#menu a.highlight {
+	background: #a86fa4;
+	color: #fafafa;
+}
+#menu2 {
+	width: 230px;
+	padding: 40px 20px 40px 40px;
+}
+#menu2 b {
+	display: block;
+	border-bottom: #000000 2px solid;
+	font-size: 20px;
+	font-family: 微软雅黑;
+}
+#menu2 a {
+	display: block;
+	font-size: 14px;
+	padding-top: 10px;
+	margin-left: 25px;
+	border-bottom: #000000 1px solid;
+}
+#list {
+	padding: 40px 50px;
+}
+#list td {
+	font-size: 14px;
+	border-bottom: #000000 1px dotted;
+}
+#content {
+	padding: 40px 50px;
+	font-size: 14px;
+}
+#content a {
+	color: #005293;
+}
+#content a:hover {
+	color: #a86fa4;
+}
+#sideRight {
+	width: 250px;
+	padding: 40px;
+	border-left: #ddd 1px solid;
+}
+#sideRight b {
+	display: block;
+	border-bottom: #000000 2px solid;
+	font-size: 20px;
+	font-family: 微软雅黑;
+}
+#foot {
+	padding: 15px 30px;
+	background: #000000;
+	color: #fafafa;
+	font-size: 12px;
+}
+#foot span {
+	color: #999;
+}
+#foot span a {
+	color: #999;
+}
+.block {
+	padding: 20px;
+}
+a.block:hover {
+	background: #a86fa4;
+	color: #fafafa;
+}
+a.block {
+	display: block;
+}
+.textSmall {
+	font-size: 12px;
+}
+.textBig {
+	font-size: 16px;
+}
+.textGray {
+	color: #999;
+}
+.textHighlight {
+	color: #a86fa4;
+}
+.textOneLine {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.pageNumber {
+	font-size: 12px;
+	margin-top: 20px;
+}
+.pageNumber a {
+	border: #000000 1px solid;
+	padding: 3px 5px;
+}
+.tableListBorder {
+	border-left: 1px dotted #000000;
+	border-top: 1px solid #000000;
+}
+.tableListBorder th {
+	background: #fafafa;
+	border-bottom: 1px dotted #000000;
+	border-right: 1px dotted #000000;
+	text-align: left;
+	padding-left: 3px;
+	color: #666;
+}
+.tableListBorder td {
+	border-bottom: 1px dotted #000000;
+	border-right: 1px dotted #000000;
+	padding-left: 3px;
+}
+.tableForm {
+	display: none;
+}
+.fieldEditable {
+	width: 100%;
+	font-size: 14px;
+}
+
+
+.selected1,.parent1 {    background: #a86fa4 !important;
+    color: #fafafa !important;
+}
+.kg {padding:20px;}
+.wp_entry td {border:0 !important;    padding: 20px 0;}
+.gd {min-height:700px;}
+
+
+
+.wp_articlecontent img {
+    max-width: 730px;
+    height: auto;
+}
+
+.c #wp_content_w17_0 table {
+    width: 100% !important;
+    margin: 0 auto;
+}
+
+
+ .wp_articlecontent table img {
+    width: 150px;
+    height: 200px;
+}
+
+.dtjt8_div_img .number .current{background:rgb(168, 111, 164);}
+.dtjt8_div_img .number .nomal{background:#fff;opacity: 1;color:rgb(168, 111, 164);border:1px solid rgb(168, 111, 164);}
+.dtjt8_div_img .number .current{border:1px solid rgb(168, 111, 164);}
+
+.dtjt8_div_img .number{
+    bottom: 8px;}
+.dtjt8_div_img {
+    width: 100% !important;
+}
+div#wp_column_article a:hover font {
+    color: #a86fa4;
+}
+
