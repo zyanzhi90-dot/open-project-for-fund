@@ -746,5 +746,27 @@
       "https://www.polyu.edu.hk/rclae/"
     ],
     "contact": "info.rclae@polyu.edu.hk"
+  },
+  {
+    "id": "N037",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载2025—2026跨尺度微纳制造开放基金申请书和个人简历；复制开放合作机制/现行开放基金管理办法；2份DOCX与机制页首次超时，不重复尝试。另仅在后续拟申报时向杨珅确认非985/211依托单位是否受理、2021经费外拨条款是否沿用及外拨份额。文件名前加N037，放原03_人工补充/用户回传资料。",
+    "urls": [
+      "https://cmnm.cust.edu.cn/kfyjl/kfkt/deeaacf5c4cd4a4c99d931f74f0fd8d9.htm",
+      "https://cmnm.cust.edu.cn/docs//2025-11/3b260bcd606e40549bd7b11fd8ff3d70.docx",
+      "https://cmnm.cust.edu.cn/docs//2025-11/f971c8633e45462a8fb0cd60cd81c28a.docx",
+      "https://cmnm.cust.edu.cn/yxgl/gzzd/79712.htm"
+    ],
+    "contact": "杨珅；yangshen@cust.edu.cn；0431-85582815；15764395100"
+  },
+  {
+    "id": "N038",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载2026青海大学新能源系统高端装备和智慧运行教育部工程研究中心正式6页指南；重点需第6页截止时点、收件邮箱/联系人、知识产权及提交补充条款。前5页已读，PDF末页渲染首次超时。2026-04-14立项公告已发布，非当前窗口；不用拿2025文件替代。保存文件名前加N038，放原03_人工补充/用户回传资料。",
+    "urls": [
+      "https://seee.qhu.edu.cn/docs/2026-03/030d356bfc944682adbfd3d82afac1e0.pdf",
+      "https://seee.qhu.edu.cn/tzgg/5f84aa3029584f37ada867a1af4cae66.htm"
+    ],
+    "contact": "具体申报联系人在未取得末页；学院公开邮箱seee@qhu.edu.cn仅作一般联系入口。"
   }
 ]
