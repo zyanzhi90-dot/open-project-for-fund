@@ -376,5 +376,216 @@
       "https://www.whvcse.edu.cn/info/2289/209518.htm"
     ],
     "contact": "万民标18717124817；gcyjzx2025@163.com"
+  },
+  {
+    "id": "N017",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "申请书DOC返回乱码，需原文件；仍缺管理办法/合同的经费、成果、知识产权及访问条款。 保存原通知完整正文及全部相关附件；文件名前加N017。",
+    "urls": [
+      "https://oe.sjtu.edu.cn/msg.php?id=1333",
+      "https://oe.sjtu.edu.cn/dfile.php?id=1678"
+    ],
+    "contact": "陆瑶13818586481；luyao0130@sjtu.edu.cn"
+  },
+  {
+    "id": "N020",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "附件1指南验证码，附件4管理规定受限；需具体研究任务、金额、资格、合作、经费及外拨、成果、IP；已核周期与截止。 保存原通知完整正文及全部相关附件；文件名前加N020。",
+    "urls": [
+      "https://znss.hbpu.edu.cn/info/1018/1423.htm",
+      "https://znss.hbpu.edu.cn/system/_content/download.jsp?owner=1656020627&urltype=news.DownloadAttachUrl&wbfileid=15816472",
+      "https://znss.hbpu.edu.cn/system/_content/download.jsp?owner=1656020627&urltype=news.DownloadAttachUrl&wbfileid=15816479"
+    ],
+    "contact": "何老师15271653457；409054206@qq.com"
+  },
+  {
+    "id": "N021",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "2026正文打开失败；需完整正文及全部指南/管理/申请附件，逐项填截止、资格、金额、经费、周期、成果、IP和提交方式。 保存原通知完整正文及全部相关附件；文件名前加N021。",
+    "urls": [
+      "https://robot.wit.edu.cn/info/1017/1552.htm"
+    ],
+    "contact": "见原通知"
+  },
+  {
+    "id": "N022",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "正文502失败，需2026完整指南和附件，先筛具体任务再核金额、资格、合作、经费、周期、成果、IP及提交。 保存原通知完整正文及全部相关附件；文件名前加N022。",
+    "urls": [
+      "https://www.gxust.edu.cn/dzxy/info/1103/3308.htm"
+    ],
+    "contact": "见原通知"
+  },
+  {
+    "id": "N023",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "公告502失败；需完整正文、指南及管理附件；先判定具体任务，相关者再填资格、金额、截止及经费、成果等。 保存原通知完整正文及全部相关附件；文件名前加N023。",
+    "urls": [
+      "https://asir.ac.cn/xwdt/202606/t20260610_841383.html"
+    ],
+    "contact": "见原通知"
+  },
+  {
+    "id": "N024",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "官网下载公告跳转微信后无法打开；需完整原通知及附件。稳定支持基金‘指南征集’不等于正式课题受理，未混入本条。 保存原通知完整正文及全部相关附件；文件名前加N024。",
+    "urls": [
+      "https://nkluav.nwpu.edu.cn/tzgg.htm",
+      "https://mp.weixin.qq.com/s/zcsoQ8hZehU5uTKJqS6w7A"
+    ],
+    "contact": "见原通知"
+  },
+  {
+    "id": "M001",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存完整公告及附件，核对年度到底2025还是2026；官方搜索标题与现有台账年度冲突，不重复建项目。",
+    "urls": [
+      "https://msv.sjtu.edu.cn/notice/156.html"
+    ],
+    "contact": "见官方页面联系人"
+  },
+  {
+    "id": "M135",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存西华大学2026三平台共享指南及附件，先核具体任务，再补截止、经费、资格、周期和成果；页面412后停止。",
+    "urls": [
+      "https://klab.xhu.edu.cn/9e/eb/c2100a237291/page.htm"
+    ],
+    "contact": "见官方页面联系人"
+  },
+  {
+    "id": "覆盖-NX",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存完整国家/自治区重点实验室目录（含依托单位），页面超时。 文件名前加覆盖-NX。",
+    "urls": [
+      "https://kjt.nx.gov.cn/kjzy/cxtx/zdsys/202309/t20230914_4264687.html"
+    ],
+    "contact": "见官方页面联系人"
+  },
+  {
+    "id": "覆盖-GZ",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "复制或下载2021年65家完整名单；名单未完整提取，后续读取超时；不视为2026全量目录。 文件名前加覆盖-GZ。",
+    "urls": [
+      "https://kjt.guizhou.gov.cn/zwgk/xxgkml/zdlyxxgk/zdkjjz/202110/t20211015_70915490.html"
+    ],
+    "contact": "见官方页面联系人"
+  },
+  {
+    "id": "覆盖-HLJ",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载“2023年度黑龙江省重点实验室备案名单.docx”（15家）；附件下载失败，名单仅为新增批次。 文件名前加覆盖-HLJ。",
+    "urls": [
+      "https://kjt.hlj.gov.cn/kjt/c113908/202312/c00_31692237.shtml"
+    ],
+    "contact": "见官方页面联系人"
+  },
+  {
+    "id": "覆盖-CITYU",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "复制完整研究中心目录与机器人相关中心名称/入口；403。 文件名前加覆盖-CITYU。",
+    "urls": [
+      "https://www.cityu.edu.hk/zh-cn/research/centres"
+    ],
+    "contact": "见官方页面联系人"
+  },
+  {
+    "id": "覆盖-BIT",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存仿生机器人与系统实验室开放课题设置原页及相关年度文件；超时。 文件名前加覆盖-BIT。",
+    "urls": [
+      "https://robot.bit.edu.cn/kycg/kfktszqk/b133486.htm"
+    ],
+    "contact": "见官方页面联系人"
+  },
+  {
+    "id": "N019",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "启动新闻称详细指南将近期发布；尚未取得正式公告、截止、金额、周期、经费、成果及IP条款。不能认定当前受理。",
+    "urls": [
+      "https://www.ncsti.gov.cn/kjdt/xwjj/202606/t20260608_249135.html"
+    ],
+    "contact": "从新闻中的共建单位/平台联系；不是要求重复下载已读新闻"
+  },
+  {
+    "id": "N025",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "2026年度正式公告已核；申请表/合同及管理办法未取得，仍缺金额、经费、验收指标、IP；与M029的2027年度分开，不能互相套用。",
+    "urls": [
+      "https://imet.hust.edu.cn/info/1031/2733.htm"
+    ],
+    "contact": "周佳卉、吴昊027-87559416；imet@hust.edu.cn；dmet@hust.edu.cn"
+  },
+  {
+    "id": "N026",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "需经费管理办法的科目/报销和合同对额外结题指标的约定；农机经历及固定人员合作待个人确认。2027新年度指南未取得。",
+    "urls": [
+      "https://st.gzu.edu.cn/2026/0518/c17883a273474/page.htm"
+    ],
+    "contact": "宋晓燕13523049176；方中明13297000816；songxy@gzu.edu.cn"
+  },
+  {
+    "id": "N027",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "年度已截止；申报模板未取得，合同细化验收/拨款和允许科目待核。SCI‘二区’及核心期刊口径正文未定义，不自行指定分区体系。",
+    "urls": [
+      "https://kyy.nuaa.edu.cn/2026/0604/c5817a400921/page.htm"
+    ],
+    "contact": "王博15380759943；江雨韩18696143266；葛立波15850524302；wangbo_nuaa@nuaa.edu.cn"
+  },
+  {
+    "id": "覆盖-GD",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载或复制完整名单及依托单位；首次打开超时停止。 这是历史/新增批次目录，作平台发现参考，不代替2026全量母目录。文件名前加覆盖-GD，放原用户回传资料目录。",
+    "urls": [
+      "https://gdstc.gd.gov.cn/attachment/0/503/503027/4019700.pdf"
+    ],
+    "contact": "名单页面，不要求基金申报咨询"
+  },
+  {
+    "id": "覆盖-ZJ批次",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载或复制完整名单及依托单位；首次打开超时停止。 这是历史/新增批次目录，作平台发现参考，不代替2026全量母目录。文件名前加覆盖-ZJ批次，放原用户回传资料目录。",
+    "urls": [
+      "https://kjt.zj.gov.cn/art/2020/11/5/art_1229225203_4107454.html"
+    ],
+    "contact": "名单页面，不要求基金申报咨询"
+  },
+  {
+    "id": "覆盖-HN",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载或复制完整名单及依托单位；首次打开超时停止。 这是历史/新增批次目录，作平台发现参考，不代替2026全量母目录。文件名前加覆盖-HN，放原用户回传资料目录。",
+    "urls": [
+      "https://kjj.changde.gov.cn/zwgk/public/6617349/8248340.html"
+    ],
+    "contact": "名单页面，不要求基金申报咨询"
+  },
+  {
+    "id": "覆盖-YN",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载或复制完整名单及依托单位；首次打开超时停止。 这是历史/新增批次目录，作平台发现参考，不代替2026全量母目录。文件名前加覆盖-YN，放原用户回传资料目录。",
+    "urls": [
+      "https://kjt.yn.gov.cn/html/2021/dqgs_1221/3010716.html"
+    ],
+    "contact": "名单页面，不要求基金申报咨询"
+  },
+  {
+    "id": "覆盖-GZ国重",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载或复制完整名单及依托单位；首次打开超时停止。 这是历史/新增批次目录，作平台发现参考，不代替2026全量母目录。文件名前加覆盖-GZ国重，放原用户回传资料目录。",
+    "urls": [
+      "https://kjt.guizhou.gov.cn/zwgk/xxgkml/zdlyxxgk/zdkjjz/202110/t20211015_70915524.html"
+    ],
+    "contact": "名单页面，不要求基金申报咨询"
+  },
+  {
+    "id": "覆盖-XJ",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "复制图片中的2024新增22家完整名单及依托单位；正文已读，名单图片未提取。 这是历史/新增批次目录，作平台发现参考，不代替2026全量母目录。文件名前加覆盖-XJ，放原用户回传资料目录。",
+    "urls": [
+      "https://zrzyt.xinjiang.gov.cn/xjgtzy/mtxc/202410/31c9702c70114397a4551a4a2e645151.shtml"
+    ],
+    "contact": "名单页面，不要求基金申报咨询"
   }
 ]
