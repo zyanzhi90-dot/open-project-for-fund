@@ -845,5 +845,33 @@
       "https://cca.nuaa.edu.cn/_t862/2026/0627/c15585a402933/page.htm"
     ],
     "contact": "申报联系人及邮箱未取得"
+  },
+  {
+    "id": "N046",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "输入验证码下载附件1申请书DOC；如公告页另有管理办法一并下载。补机器人/自主装备具体任务证据，无则剔除；外拨、IP、第二邮箱用途需主办方确认，不要求重下已取得公告正文。文件名前加N046。放 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://www.nuc.edu.cn/info/1014/63023.htm",
+      "https://www.nuc.edu.cn/system/_content/download.jsp?owner=1472165184&urltype=news.DownloadAttachUrl&wbfileid=BBFEEDA971110196880E465484B14C3F"
+    ],
+    "contact": "宋天骄15525035460；songtjarvin@nuc.edu.cn；正文另列yuruien@nuc.edu.cn；山西太原尖草坪学院路3号中北大学030051"
+  },
+  {
+    "id": "覆盖-ZUT",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "打开科研团队目录，点2015-12-29“河南省高等学校现代制造装备与仪器重点学科开放实验室项目申请”条目；复制全文为TXT或打印网页PDF，并下载全部原附件。用于核历史开放机制、任务、资金及外部资格，不能当2026项目。文件名前加覆盖-ZUT。放 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://jdxy.zut.edu.cn/kxyj/kytd.htm"
+    ],
+    "contact": "未取得"
+  },
+  {
+    "id": "覆盖-USST",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存上海理工大学科研平台完整列表为网页PDF或TXT，须含平台名称、学院及官方链接。用于逐平台补查；此时未取得正式基金公告，不填写虚构项目。文件名前加覆盖-USST。放 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料。",
+    "urls": [
+      "https://www.usst.edu.cn/_t32/kypt/list.htm"
+    ],
+    "contact": "未取得"
   }
 ]
