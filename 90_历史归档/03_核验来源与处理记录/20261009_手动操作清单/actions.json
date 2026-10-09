@@ -1815,5 +1815,26 @@
       "https://kyy.web.hebust.edu.cn/kypt/kyptml/index.htm"
     ],
     "contact": "目录未载项目联系人"
+  },
+  {
+    "id": "N097",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "完整稳定支持需求XLSX、申请书/指南建议汇总DOCX首验证码；补各指南具体技术指标、资助金额、经费外拨/费用、验收及合作合同。正文要求额外评审规范向胡工孙工取得，不能凭模板填写猜指标。。请在浏览器取得完整正文/申请附件，以编号N097为文件名前缀保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料；正文可复制为TXT。河南科技大学官网正式转发完整年度正文已取；指南/申请书/建议汇总表附件首次验证码停止。全国受理截止与河南科技大学校内提前期限分别记录。",
+    "urls": [
+      "https://kyc.haust.edu.cn/info/1059/13853.htm",
+      "https://kyc.haust.edu.cn/system/_content/download.jsp?owner=1224253321&urltype=news.DownloadAttachUrl&wbfileid=A87E02D95EEF4DF694AC7E3AF673CCF2",
+      "https://kyc.haust.edu.cn/system/_content/download.jsp?owner=1224253321&urltype=news.DownloadAttachUrl&wbfileid=5ABDD971D31F0F2587E05EAF3F265408",
+      "https://kyc.haust.edu.cn/system/_content/download.jsp?owner=1224253321&urltype=news.DownloadAttachUrl&wbfileid=98A9B37AA4EE2EC6FFA4D99CC2EE8CC3"
+    ],
+    "contact": "胡工18943655760；孙工18088684761；hdj28325@163.com。"
+  },
+  {
+    "id": "N098",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "人工保存2026完整正文和指南/管理办法/申请表，先核机器人/自主装备具体任务，再补截止金额资格合作、费用外拨、周期成果/IP/提交。首次超时不重试。。请在浏览器取得完整正文/申请附件，以编号N098为文件名前缀保存到 D:\\桌面\\全国机器人与医工开放项目\\03_人工补充\\用户回传资料；正文可复制为TXT。官方年度标题与页面154行元信息定位；首轮正文未展开，取正文时首次超时停止；未取得可核任务条款，不认为已读完整指南。",
+    "urls": [
+      "https://dxy.cug.edu.cn/info/1035/9306.htm"
+    ],
+    "contact": "项目联系人未取得，不以学院页脚联系人代替。"
   }
 ]
