@@ -1,0 +1,391 @@
+[
+  {
+    "id": "M100",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "通过验证码下载附件1《2026申报指南》和附件3《管理办法》。",
+    "urls": [
+      "https://news.cqjtu.edu.cn/info/1024/68220.htm",
+      "https://news.cqjtu.edu.cn/system/_content/download.jsp?owner=1252782971&urltype=news.DownloadAttachUrl&wbfileid=15041515",
+      "https://news.cqjtu.edu.cn/system/_content/download.jsp?owner=1252782971&urltype=news.DownloadAttachUrl&wbfileid=15041517"
+    ],
+    "contact": "公告联系入口"
+  },
+  {
+    "id": "N012",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载工程仿生2026管理办法PDF及申报模板；管理办法入口有验证码。",
+    "urls": [
+      "https://bionic.jlu.edu.cn/info/1041/1693.htm",
+      "https://bionic.jlu.edu.cn/system/_content/download.jsp?owner=1503487058&urltype=news.DownloadAttachUrl&wbfileid=18114730"
+    ],
+    "contact": "辛老师0431-85095575／85095760-313；xinyi@jlu.edu.cn"
+  },
+  {
+    "id": "N014",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "下载申报RAR附件包，保留原包或解压后的全部文件。",
+    "urls": [
+      "https://jcxy.jxfu.edu.cn/info/1042/14661.htm",
+      "https://jcxy.jxfu.edu.cn/system/_content/download.jsp?owner=2063664427&urltype=news.DownloadAttachUrl&wbfileid=F1546CE1EE4272F24E211B6ABEFF1453"
+    ],
+    "contact": "常老师15377677210；jxchang@jxfu.edu.cn"
+  },
+  {
+    "id": "N015",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "通过验证码下载2026修订管理办法PDF及相关签章模板。",
+    "urls": [
+      "https://www.hnit.edu.cn/kjc/info/1134/7693.htm",
+      "https://www.hnit.edu.cn/system/_content/download.jsp?owner=1438105372&urltype=news.DownloadAttachUrl&wbfileid=11958961"
+    ],
+    "contact": "杜雪林15009295709；1005105362@qq.com"
+  },
+  {
+    "id": "N016",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "通过验证码下载2026中文指南PDF。",
+    "urls": [
+      "https://www.tju.edu.cn/info/4732/81752.htm",
+      "https://www.tju.edu.cn/system/_content/download.jsp?owner=2111843594&urltype=news.DownloadAttachUrl&wbfileid=0B6513F198BAEE0063A23A18FD934464"
+    ],
+    "contact": "hsskl@tju.edu.cn"
+  },
+  {
+    "id": "N011",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "用普通浏览器下载2025官方PDF，提供完整文件；原下载TLS失败。",
+    "urls": [
+      "https://sice.lnpu.edu.cn/__local/6/85/AD/618AB99B1482BA4F1A20906037B_DEDEC0FE_32C8D.pdf"
+    ],
+    "contact": "未取得可靠联系方式；从官方入口查找"
+  },
+  {
+    "id": "M194",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存2026公告主体图片及指南，或将完整网页打印为PDF，提供可读原文；不能仅提交2025材料。",
+    "urls": [
+      "https://vlssm.nju.edu.cn/ad/6d/c22710a830829/page.htm",
+      "https://vlssm.nju.edu.cn/_upload/article/files/c9/cb/f95158dc4afda8ef44fcb5a2000c/f65f8009-c892-4fe7-bc55-b22eaa3f64d0.doc",
+      "https://vlssm.nju.edu.cn/ad/6f/c22710a830831/page.htm"
+    ],
+    "contact": "zhangwj@nju.edu.cn；83592756"
+  },
+  {
+    "id": "M035",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "尝试普通浏览器打开2026公告，保存完整正文与附件；如仍404，向联系人索取。项目已截止，只补历史金额与管理条款，不询问当天时点。",
+    "urls": [
+      "https://klip-humaco.sist.shanghaitech.edu.cn/2026/0914/c14914a1126983/page.htm"
+    ],
+    "contact": "stu_keylab.sist@shanghaitech.edu.cn"
+  },
+  {
+    "id": "R009",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "打开平台首页中的2025开放基金通知，保存正文与附件；如出现2026年度通知，一并保存。",
+    "urls": [
+      "https://iot.cqupt.edu.cn/"
+    ],
+    "contact": "未取得可靠联系方式；从官方入口查找"
+  },
+  {
+    "id": "R010",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "打开虚拟现实实验室开放课题栏目中的2026年度原通知，保存全文和指南附件；不使用第三方预览代替。",
+    "urls": [
+      "https://vrlab.buaa.edu.cn/kfjl/kfkt.htm",
+      "https://vrlab.buaa.edu.cn/index.htm",
+      "https://www.funresearch.cn/grant/ZDZiMjNlMjktYzZjYy00YTdhLTlhOTUtNmRlZDA1Y2E0MDc5"
+    ],
+    "contact": "未取得可靠联系方式；从官方入口查找"
+  },
+  {
+    "id": "N002",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "打开官方公告和学校转载，保存附件及正文末尾；仍打不开则向联系人索取纸质份数、收件地址和附件。",
+    "urls": [
+      "https://gcyjzx.whvcse.edu.cn/info/1041/3921.htm",
+      "https://www.whvcse.edu.cn/info/2289/209518.htm"
+    ],
+    "contact": "gcyjzx2025@163.com"
+  },
+  {
+    "id": "R001",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认资格“博士且副高/博士或副高”、周期1/2年、纸质2/3份冲突；到访天数、论文门槛及外拨/管理费规则。",
+    "urls": [
+      "https://raolab.bjtu.edu.cn/news/3521.html"
+    ],
+    "contact": "hrma@bjtu.edu.cn；010-51684773"
+  },
+  {
+    "id": "S002",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认2026是否仍受理、实际截止；临床数据/医院固定合作、合同及经费外拨。",
+    "urls": [
+      "https://hdldb.net/news-detail.php?id=MjQwMQ%3D%3D"
+    ],
+    "contact": "loojourney@163.com"
+  },
+  {
+    "id": "M078",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认一般办法1—2年/纸质3份与2026指南≤12个月/电子提交的适用关系；外拨/报销及合同特殊权属。落实固定合作者。",
+    "urls": [
+      "https://dqxylib.szut.edu.cn/info/1016/27682.htm"
+    ],
+    "contact": "liqiaoshan@szut.edu.cn"
+  },
+  {
+    "id": "S001",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "落实至少1名中心固定合作人；确认经费外拨/报销及知识产权。",
+    "urls": [
+      "https://www.nchu.edu.cn/xwzx/xngg/content_196002"
+    ],
+    "contact": "潘浩；hpan@nchu.edu.cn；18679101694"
+  },
+  {
+    "id": "M152",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认经费能否拨至本人单位，外拨比例、允许支出及报销流程。",
+    "urls": [
+      "https://skl.nuaa.edu.cn/2026/0905/c4738a409560/page.htm"
+    ],
+    "contact": "skl@nuaa.edu.cn"
+  },
+  {
+    "id": "M077",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认是否需固定合作者，以及到访要求。",
+    "urls": [
+      "https://future.suda.edu.cn/e8/2a/c30836a714794/page.htm"
+    ],
+    "contact": "ycli96@suda.edu.cn"
+  },
+  {
+    "id": "M015",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认经费使用/外拨和知识产权规则。",
+    "urls": [
+      "https://www.ee.buaa.edu.cn/info/1061/20843.htm"
+    ],
+    "contact": "10699@buaa.edu.cn"
+  },
+  {
+    "id": "M066",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认知识产权；落实成果署名合作：第一作者或唯一通讯作者须为山东科技大学人员。",
+    "urls": [
+      "https://xindian.sdust.edu.cn/info/1008/7407.htm"
+    ],
+    "contact": "sdzngzkfkt2026@126.com"
+  },
+  {
+    "id": "M142",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认成果知识产权；不将设备归属当成果权属。",
+    "urls": [
+      "https://cmt.zstu.edu.cn/info/1085/5683.htm"
+    ],
+    "contact": "lixianglong@zstu.edu.cn"
+  },
+  {
+    "id": "M017",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认成果知识产权规则。",
+    "urls": [
+      "https://tju.edu.cn/info/1159/89632.htm"
+    ],
+    "contact": "pilab@tju.edu.cn"
+  },
+  {
+    "id": "M105",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认校外申请人资格门槛、经费使用/外拨及知识产权。",
+    "urls": [
+      "https://rvl.swjtu.edu.cn/info/1030/20948.htm"
+    ],
+    "contact": "qybgky@swjtu.edu.cn"
+  },
+  {
+    "id": "M160",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认拟申报任务对应的论文/专利等验收指标和署名要求，取得任务书要求。",
+    "urls": [
+      "https://lico.dlut.edu.cn/info/1040/1345.htm"
+    ],
+    "contact": "hujingtumu@dlut.edu.cn"
+  },
+  {
+    "id": "M026",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认经费是否外拨至本人单位、使用明细及拨付/报销流程。",
+    "urls": [
+      "http://sklofp.zju.edu.cn/skl/2026/0826/c28018a3196930/page.htm"
+    ],
+    "contact": "wgc111@zju.edu.cn"
+  },
+  {
+    "id": "M161",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认经费使用/外拨及知识产权。",
+    "urls": [
+      "https://jxcd.wust.edu.cn/info/1201/3011.htm"
+    ],
+    "contact": "pozhang@wust.edu.cn"
+  },
+  {
+    "id": "M029",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "确认具体资助金额、校外外拨或校内报销方式及明细。",
+    "urls": [
+      "https://imet.hust.edu.cn/info/1031/2870.htm"
+    ],
+    "contact": "imet@hust.edu.cn"
+  },
+  {
+    "id": "F002",
+    "category": "二、申请前向主办方确认：正文未载或文件冲突",
+    "action": "其他资助项目：确认现金经费实际到款、外拨节点和报销约束；不把软硬件平台价值算成现金。",
+    "urls": [
+      "https://www.cutech.edu.cn/detail/46-838"
+    ],
+    "contact": "公告联系入口"
+  },
+  {
+    "id": "R005",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "索取原指南/办法，确认2024通知挂2023文件的适用年度；具体任务仍由执行端筛选。",
+    "urls": [
+      "https://www2.scut.edu.cn/autonlab/2025/0411/c4447a585385/page.htm"
+    ],
+    "contact": "autonlab@scut.edu.cn"
+  },
+  {
+    "id": "R007",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "确认历史常年机制是否适用于2026—2027，索取当期指南及2024办法。",
+    "urls": [
+      "https://sklms.xjtu.edu.cn/info/1382/3378.htm"
+    ],
+    "contact": "sklms@mail.xjtu.edu.cn；029-83395052"
+  },
+  {
+    "id": "M056",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "确认常年受理是否仍有效、实际窗口，以及外单位合作课题组/临床人员要求和当期条款。",
+    "urls": [
+      "https://imr.sjtu.edu.cn/hot_recommend/4483.html"
+    ],
+    "contact": "徐老师18917129802"
+  },
+  {
+    "id": "N001",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "年度PDF已取得；仅询问开支/管理费/外拨、到访天数、方向6成果署名和知识产权。",
+    "urls": [
+      "https://www.bnrist.tsinghua.edu.cn/info/1110/4271.htm"
+    ],
+    "contact": "徐老师010-62795788；吴老师010-62797486；xuge@tsinghua.edu.cn"
+  },
+  {
+    "id": "N003",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "确认机器人定向项目的资格、接洽合作、成果指标、外拨及知识产权。",
+    "urls": [
+      "https://prefabcenter.tongji.edu.cn/c0/f8/c15384a377080/page.htm"
+    ],
+    "contact": "李艳；13808206416；liyan0714@tongji.edu.cn"
+  },
+  {
+    "id": "N005",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "询问2023单项金额、外拨及知识产权办法；不以旧年度认定当前开放。",
+    "urls": [
+      "https://www.nuc.edu.cn/info/1014/28267.htm"
+    ],
+    "contact": "陈振亚13935181410；czy1393518@163.com"
+  },
+  {
+    "id": "N013",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "索取2026管理文件，补限项、开支/外拨、成果数量/署名和知识产权。",
+    "urls": [
+      "https://acib.jlu.edu.cn/info/1041/1643.htm"
+    ],
+    "contact": "崔老师0431-85095090；13596182066；cuishan@jlu.edu.cn"
+  },
+  {
+    "id": "R006",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "正文和申请书已取得；仅索取管理办法，确认开支/外拨、管理费、访问及论文数量。",
+    "urls": [
+      "https://www.gml.ac.cn/xxgs/923.html"
+    ],
+    "contact": "李海鹏18924592983；lihaipeng@gml.ac.cn"
+  },
+  {
+    "id": "R011",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "全文已取得；仅索取管理附件/合同，确认固定合作、外拨、结题指标和知识产权。",
+    "urls": [
+      "https://keyanchu.syuct.edu.cn/info/1028/2075.htm"
+    ],
+    "contact": "管理朱老师：15801077989@163.com，010-88525240；技术孟老师：fanchen_meng@163.com，010-88104717"
+  },
+  {
+    "id": "M068",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "索取管理办法/模板，确认外拨、知识产权、访问和中期时间差异。",
+    "urls": [
+      "https://www.nuc.edu.cn/info/1014/62433.htm"
+    ],
+    "contact": "韩慧妍13703516841；hhy980344@163.com"
+  },
+  {
+    "id": "M043",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "索取管理办法、论文等级办法，确认外拨、知识产权和A2/B认定。",
+    "urls": [
+      "https://www.nuc.edu.cn/info/1014/62493.htm"
+    ],
+    "contact": "亓雪18845876210；lnzhang0810@163.com"
+  },
+  {
+    "id": "M106",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "仅确认未载的知识产权条款，不重复索取已核公告。",
+    "urls": [
+      "https://www.nuc.edu.cn/info/1014/62583.htm"
+    ],
+    "contact": "guhao@nuc.edu.cn"
+  },
+  {
+    "id": "M114",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "仅确认具体合同预算与分批外拨条件；公告已说明可拨至负责人单位。",
+    "urls": [
+      "https://bridge.swjtu.edu.cn/info/1066/8471.htm"
+    ],
+    "contact": "11106345@qq.com"
+  },
+  {
+    "id": "N009",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "如需要接洽，向主办方确认2026—2027开放机制是否生效并索取正式年度指南；未检出不等于不存在。",
+    "urls": [
+      "https://robotics-lab.nimte.ac.cn/view-13552.html"
+    ],
+    "contact": "郑天江0574-86324587"
+  },
+  {
+    "id": "N010",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "如需要接洽，确认管理制度的模板措辞适用关系，并索取真实年度指南和单项条款。",
+    "urls": [
+      "https://jxxy.xju.edu.cn/__local/0/23/6F/B2938303B9580E6741F5D6F72BE_A1C96726_4AE3B.pdf"
+    ],
+    "contact": "未取得可靠联系方式；从官方入口查找"
+  }
+]
