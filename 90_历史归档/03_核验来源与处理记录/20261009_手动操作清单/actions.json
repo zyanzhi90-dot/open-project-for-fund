@@ -685,5 +685,66 @@
       "https://office.cqu.edu.cn/info/1008/2575.htm"
     ],
     "contact": "科研机构目录，不要求基金申报咨询"
+  },
+  {
+    "id": "覆盖-UM学院目录",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "澳门大学相关平台：复制机械及计算机实验室完整目录；下载/复制无人系统、软传感执行器机器人实验室页面，尤其对外开放项目入口。首次404/重定向/503/超时，不需反复尝试。 保存文件名前加覆盖-UM学院目录；放原03_人工补充/用户回传资料；网页不能下载可复制完整文字保存TXT，不需修改Excel。",
+    "urls": [
+      "https://www.fst.um.edu.mo/eme/laboratories/",
+      "https://www.cis.um.edu.mo/labs.html",
+      "https://www.fst.um.edu.mo/research/laboratories/intelligent-unmanned-systems-laboratory/",
+      "https://www.fst.um.edu.mo/research/laboratories/soft-sensors-actuators-robots-laboratory/"
+    ],
+    "contact": "平台目录获取；不要求咨询或登录凭据"
+  },
+  {
+    "id": "覆盖-NWPU学院目录",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "复制西工大机电学院机构名单、电子学院科研平台完整目录及各平台网址；机电首开超时，电子目录后段未取得，不用重复尝试。 保存文件名前加覆盖-NWPU学院目录；放原03_人工补充/用户回传资料；网页不能下载可复制完整文字保存TXT，不需修改Excel。",
+    "urls": [
+      "https://jidian.nwpu.edu.cn/xygk/jgsz.htm",
+      "https://dianzi.nwpu.edu.cn/info/1420/24711.htm"
+    ],
+    "contact": "平台目录获取；不要求咨询或登录凭据"
+  },
+  {
+    "id": "覆盖-SCUT目录",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "复制华南理工现行省部级/校级科研平台总目录及机器人控制智能装备医工相关平台链接；首页和旧实验室目录首次超时，旧6室名单不能视为全校。 保存文件名前加覆盖-SCUT目录；放原03_人工补充/用户回传资料；网页不能下载可复制完整文字保存TXT，不需修改Excel。",
+    "urls": [
+      "https://www.scut.edu.cn/new/",
+      "https://www.scut.edu.cn/faculty/lab.htm"
+    ],
+    "contact": "平台目录获取；不要求咨询或登录凭据"
+  },
+  {
+    "id": "覆盖-CQU土木2025",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "保存山区土木2025开放课题正式正文及指南，核对机器人任务、截止和合作/经费/成果条款；本年度独立核，不套用已有2026项目。首次412。 保存文件名前加覆盖-CQU土木2025；放原03_人工补充/用户回传资料；网页不能下载可复制完整文字保存TXT，不需修改Excel。",
+    "urls": [
+      "https://civil.cqu.edu.cn/info/1327/17713.htm"
+    ],
+    "contact": "平台目录获取；不要求咨询或登录凭据"
+  },
+  {
+    "id": "覆盖-AHU人机/开放目录",
+    "category": "一、网页或附件受阻：用浏览器获取原件",
+    "action": "复制安徽大学人工智能学院开放课题目录，找到人机共融系统与智能装备工程实验室的年度指南及管理办法；目前仅有获资助研究者/立项证明，不能当受理公告。目录首次412。 保存文件名前加覆盖-AHU人机/开放目录；放原03_人工补充/用户回传资料；网页不能下载可复制完整文字保存TXT，不需修改Excel。",
+    "urls": [
+      "https://sai.ahu.edu.cn/kfkt/list.htm",
+      "https://www.hfuu.edu.cn/kjc/74/ff/c11997a161023/page.htm"
+    ],
+    "contact": "平台目录获取；不要求咨询或登录凭据"
+  },
+  {
+    "id": "N036",
+    "category": "三、历史项目和长期机制：只在需要补齐或接洽时咨询",
+    "action": "2025低空经济种子基金指南已取得，无需再次下载。向info.rclae@polyu.edu.hk确认2026/2027是否有新轮次、内地校外人员能否担任负责人、校内合作/配套经费及经费外拨和成果权属；可保存答复或新指南为N036前缀，放原03_人工补充/用户回传资料。",
+    "urls": [
+      "https://www.polyu.edu.hk/rclae/-/media/department/rclae/research/rclae-seed-fund/guideline-of-project-application-rclae.pdf?hash=819336D280E1BF493E450BE2101E582E&rev=0ca29d677b05438daae12be0cee8fccb",
+      "https://www.polyu.edu.hk/rclae/"
+    ],
+    "contact": "info.rclae@polyu.edu.hk"
   }
 ]
