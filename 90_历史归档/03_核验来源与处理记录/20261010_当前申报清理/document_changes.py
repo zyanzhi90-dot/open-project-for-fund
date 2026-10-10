@@ -1,0 +1,24 @@
+from pathlib import Path
+import json,csv,hashlib
+H=Path(__file__).parent;R=H.parents[2];d=json.loads((H/'plan.json').read_text(encoding='utf8'))
+v=json.loads((H/'validation.json').read_text(encoding='utf8'));v['visual_review']='passed';v['delivery']='prepared; awaiting old workbook closure for archival'
+(H/'validation.json').write_text(json.dumps(v,ensure_ascii=False,indent=2),encoding='utf8')
+audit=R/'02_检索与核验记录/审计记录/其他资助分类调整_20261010.csv'
+with audit.open('w',encoding='utf-8-sig',newline='') as f:
+ writer=csv.DictWriter(f,fieldnames=['id','from','to','reason']);writer.writeheader();writer.writerows(d['moves'])
+note='''# 当前申报清单清理记录（2026-10-10）
+
+复用已取得来源；未新增检索、邮件咨询或历史条款获取。
+
+01申报总览19条保持原六列、排序、超链接和内容。04其他资助由22条清为2条：F002智能算力与先进测控高校产学研专项，F022青海省际合作参与渠道。后者要求青海单位牵头，省外合作金额按协议确定；300万元只是联合项目总额上限，不能视为个人额度。本人条件、成熟成果与合作落实如实展示，留后续判断。
+
+11条有明确过期日期的其他资助转历史：F006、F008、F009、F010、F011、F013、F014、F017、F018、F020、F021。广东机器人500—1500万元专项F010于2026-09-07截止，已从当前资助表移出。
+
+9条仅留完整详情：F001已有日期但机器人任务未证实；F007于10月12日开始，10月10日尚未开放；F019广东法人及在职负责人牵头，省外参与资格和经费未载；F003、F004、F005、F012、F015、F016当期窗口或现金资助未核实。F019并未认定不能合作或能力不足，只是不列为已经成立的南京信息工程大学个人申报入口。
+
+金额、一般资格或结题条件未公开不是剔除依据。不按金额设阈值，不把项目总预算、设备平台折价当作个人现金资助。原始条款、来源与397条完整详情保留；仅调整分类状态及04的说明文字。历史现296条，其他当前资助2条，另80条仅留详情。核验记录：审计记录/其他资助分类调整_20261010.csv。
+
+新版须经数值、日期、编号映射、筛选、冻结、超链接及渲染检查后交付；旧版归档，根目录仅留一个最新Excel。
+'''
+(R/'02_检索与核验记录/当前申报清理记录_20261010.md').write_text(note,encoding='utf8')
+print('Audit and prepared validation records saved.')
