@@ -1,0 +1,12 @@
+{
+  "source": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_申报合并与方向排序版_20261010.xlsx",
+  "source_sha256": "6e2e96a04fe9ac695aa39b6cf3d646cccc9d9e3b83edbaf0be31b9f5e791b59b",
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\03_核验来源与处理记录\\20261010_页签编号调整\\全国机器人开放课题_个人申报台账_页签编号调整版_20261010.xlsx",
+  "changed_parts": [
+    "xl/workbook.xml",
+    "xl/worksheets/sheet1.xml",
+    "xl/worksheets/sheet6.xml"
+  ],
+  "rename": "02项目完整详情→03项目完整详情；03历史项目→02历史项目",
+  "content_scope": "names and references only"
+}
