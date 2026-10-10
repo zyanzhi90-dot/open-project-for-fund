@@ -1,5 +1,5 @@
 {
-  "output": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\03_核验来源与处理记录\\20261010_当前申报清理\\全国机器人开放课题_个人申报台账_当前申报清理版_20261010.xlsx",
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_当前申报清理版_20261010.xlsx",
   "sha256": "e48448f9f7d3948757ffc10cb527292c9b315f0b3af726354b91846a187e89c2",
   "stats": {
     "全部详情": 397,
@@ -16,5 +16,7 @@
   "links_filters_dates_verified": true,
   "visual_review": "passed",
   "old_sha256": "3bf68318f901d401c1d0bca3ec15e1044e6fa2b8c41891207b88f49e9c4dcb95",
-  "delivery": "prepared; awaiting old workbook closure for archival"
+  "delivery": "completed",
+  "root_output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_当前申报清理版_20261010.xlsx",
+  "duplicate_intermediate_workbooks_removed": true
 }

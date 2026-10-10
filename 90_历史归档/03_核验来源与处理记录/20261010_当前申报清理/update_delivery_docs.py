@@ -16,6 +16,6 @@ rule='\n\n2026-10-10当前申报清理要求：01及04不得混入已截止或�
 for rel in ['AGENTS.md','后续补充检索规则.md']:
  p=R/rel;p.write_text(p.read_text(encoding='utf8')+rule,encoding='utf8')
 p=R/'README.md';p.write_text(p.read_text(encoding='utf8')+'\n2026-10-10当前申报清理：04移出11条已截止与9条当期窗口、任务或本单位申报入口未成立的记录；保留2条当前其他资助，明确现金/平台支持及省际合作资金口径。01仍19条。原条款和397条详情保留，旧交付版归档至`90_历史归档/02_旧版与输出记录/20261010_当前申报清理前`。[处理记录](02_检索与核验记录/当前申报清理记录_20261010.md)。本轮未进行新检索。\n',encoding='utf8')
-v=json.loads((H/'validation.json').read_text(encoding='utf8'));v['delivery']='completed';v['root_output']=str(R/new)
+v=json.loads((H/'validation.json').read_text(encoding='utf8'));v['delivery']='completed';v['root_output']=str(R/new);v['output']=str(R/new);v['duplicate_intermediate_workbooks_removed']=True
 (H/'validation.json').write_text(json.dumps(v,ensure_ascii=False,indent=2),encoding='utf8')
 print('Latest link, rules and single-root-workbook delivery verified.')
