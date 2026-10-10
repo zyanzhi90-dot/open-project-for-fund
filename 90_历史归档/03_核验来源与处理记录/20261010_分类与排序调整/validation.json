@@ -1,0 +1,24 @@
+{
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\03_核验来源与处理记录\\20261010_分类与排序调整\\全国机器人开放课题_个人申报台账_分类排序调整版_20261010.xlsx",
+  "sha256": "3bf68318f901d401c1d0bca3ec15e1044e6fa2b8c41891207b88f49e9c4dcb95",
+  "stats": {
+    "全部详情": 397,
+    "首页正式受理": 19,
+    "历史项目": 285,
+    "其他资助": 22,
+    "仅保留详情": 71,
+    "原待核转历史": 99
+  },
+  "all_397_retained": true,
+  "substantive_terms_and_sources_unchanged": true,
+  "unrelated_sheets_xml_unchanged": true,
+  "links_filters_dates_verified": true,
+  "visual_review": "passed",
+  "old_sha256": "2d9296dc9b254d597fc5ea5cbf157b86036f85f625f59a9c3e7ad1d832c083aa",
+  "images_reviewed": 9,
+  "home_all_19_reviewed": true,
+  "visual_scope": "全部首页；详情状态及缺口、历史首尾；其他资助/机构覆盖保留原格式并抽样核对",
+  "delivered_output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_分类排序调整版_20261010.xlsx",
+  "old_archived": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\02_旧版与输出记录\\20261010_分类排序调整前\\全国机器人开放课题_个人申报台账_结构精简版_20261009.xlsx",
+  "root_single_excel": true
+}
