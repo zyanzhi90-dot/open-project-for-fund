@@ -1,0 +1,16 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {FileBlob,SpreadsheetFile} from '@oai/artifact-tool';
+const H=import.meta.dirname,d=JSON.parse(await fs.readFile(path.join(H,'plan.json'),'utf8'));
+const w=await SpreadsheetFile.importXlsx(await FileBlob.load(d.source));
+const sh=w.worksheets.getItem('01申报总览');
+for(const t of sh.tables.items)t.delete();
+for(let n=2;n<=22;n++)sh.getRange(`A${n}:F${n}`).copyFrom(sh.getRange('A2:F2'),'all');
+sh.getRange('A2:F22').values=d.home.map(e=>e.values);sh.getRange('B2:B22').setNumberFormat('yyyy-mm-dd');
+const t=sh.tables.add('A1:F22',true,'CurrentCalls');t.style='TableStyleLight1';t.showFilterButton=true;t.showBandedRows=false;
+const widths=[133,112,344,262,257,66];
+const lines=(v,width)=>String(v??'').split('\n').reduce((n,s)=>n+Math.max(1,Math.ceil([...s].reduce((a,c)=>a+(c.codePointAt(0)>255?2:1),0)/((width-16)/(10*2/3)))),0);
+for(let i=0;i<d.home.length;i++)sh.getRange(`A${i+2}:F${i+2}`).format.rowHeight=Math.min(409,Math.max(48,Math.max(...d.home[i].values.map((v,j)=>lines(j===5?'公告':v,widths[j])))*13.5+12));
+w.recalculate();
+await fs.writeFile(path.join(H,'inspection.json'),JSON.stringify(await w.inspect({kind:'table',range:'01申报总览!A1:F6',include:'values',tableMaxRows:6,tableMaxCols:6,maxChars:2000}),null,2));
+await(await SpreadsheetFile.exportXlsx(w)).save(path.join(H,'authored.xlsx'));console.log('Merged and reordered home, using numeric dates.');
