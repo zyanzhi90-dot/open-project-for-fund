@@ -1,0 +1,214 @@
+{
+  "source": "Git 3b01795:全国机器人开放课题_个人申报台账_当前申报清理版_20261010.xlsx",
+  "source_sha256": "e48448f9f7d3948757ffc10cb527292c9b315f0b3af726354b91846a187e89c2",
+  "output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_兼容性修正版_20261010.xlsx",
+  "sha256": "0a9cf716eb031ca7520f8d4b3c3d8d152677a981344513eea205d44db897658d",
+  "changed_parts": [
+    "xl/tables/table8.xml",
+    "xl/worksheets/sheet1.xml",
+    "xl/worksheets/sheet6.xml",
+    "xl/worksheets/sheet8.xml"
+  ],
+  "date_encoding_corrected_count": 297,
+  "cell_contents_styles_links_and_order_unchanged": true,
+  "current_views_sorting_verified": true,
+  "order": [
+    {
+      "sheet": "01申报总览",
+      "row": 2,
+      "id": "N164",
+      "region": "江苏·南京",
+      "rank": 0,
+      "deadline": "2026-10-30 00:00:00",
+      "unit": "江苏省农业科学院农业信息研究所牵头·农业农村部长三角智慧农业技术重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 3,
+      "id": "M078",
+      "region": "P0 南京及周边",
+      "rank": 0,
+      "deadline": "2026-10-31 00:00:00",
+      "unit": "苏州工学院·江苏省具身智能工业机器人及其人机协作高校重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 4,
+      "id": "N056",
+      "region": "安徽·滁州",
+      "rank": 0,
+      "deadline": "2026-11-05 00:00:00",
+      "unit": "滁州学院·安徽省实景地理环境重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 5,
+      "id": "M077",
+      "region": "P0 南京及周边",
+      "rank": 0,
+      "deadline": "2026-11-10 00:00:00",
+      "unit": "苏州大学·江苏省高校通用人工智能与大模型重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 6,
+      "id": "R001",
+      "region": "P1 北京及周边",
+      "rank": 4,
+      "deadline": "2026-10-20 00:00:00",
+      "unit": "北京交通大学·先进轨道交通自主运行全国重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 7,
+      "id": "M015",
+      "region": "P1 北京及周边",
+      "rank": 4,
+      "deadline": "2026-10-20 00:00:00",
+      "unit": "北京航空航天大学·空地一体新航行系统技术全国重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 8,
+      "id": "M100",
+      "region": "P1 重庆",
+      "rank": 6,
+      "deadline": "2026-10-30 00:00:00",
+      "unit": "重庆交通大学·交通工程应用机器人重庆市工程实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 9,
+      "id": "N034",
+      "region": "山西·晋中",
+      "rank": 7,
+      "deadline": "2026-10-15 00:00:00",
+      "unit": "太原理工大学／山西虹安科技股份有限公司·受限空间应急救援生命通道构建技术与装备山西省重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 10,
+      "id": "M066",
+      "region": "P2 山东·青岛",
+      "rank": 7,
+      "deadline": "2026-10-15 00:00:00",
+      "unit": "山东科技大学·山东省智能感知与自主控制重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 11,
+      "id": "N085",
+      "region": "湖北·武汉",
+      "rank": 7,
+      "deadline": "2026-10-15 00:00:00",
+      "unit": "武汉纺织大学·湖北省服装信息化工程技术研究中心"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 12,
+      "id": "M142",
+      "region": "P2 长三角·浙江",
+      "rank": 7,
+      "deadline": "2026-10-15 00:00:00",
+      "unit": "浙江理工大学·教育部绿色纺织国际合作联合实验室（2027年度）"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 13,
+      "id": "M017",
+      "region": "P2 天津",
+      "rank": 7,
+      "deadline": "2026-10-18 00:00:00",
+      "unit": "天津大学·精密测试技术及仪器全国重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 14,
+      "id": "S001",
+      "region": "P2 江西·南昌",
+      "rank": 7,
+      "deadline": "2026-10-20 00:00:00",
+      "unit": "南昌航空大学·江西省机载系统智能检测技术产业技术工程化中心（同公告联署：南昌市航空软件共性技术研发重点实验室）"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 15,
+      "id": "M105",
+      "region": "P2 四川·成都",
+      "rank": 7,
+      "deadline": "2026-10-26 00:00:00",
+      "unit": "西南交通大学·轨道交通运载系统全国重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 16,
+      "id": "M160",
+      "region": "P2 辽宁·大连",
+      "rank": 7,
+      "deadline": "2026-10-27 00:00:00",
+      "unit": "大连理工大学·工业装备智能控制与优化教育部重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 17,
+      "id": "M041",
+      "region": "P2 长三角·安徽",
+      "rank": 7,
+      "deadline": "2026-10-31 00:00:00",
+      "unit": "中国科学技术大学·脑启发智能感知与认知教育部重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 18,
+      "id": "M026",
+      "region": "P2 长三角·浙江",
+      "rank": 7,
+      "deadline": "2026-10-31 00:00:00",
+      "unit": "浙江大学·流体动力基础件与机电系统全国重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 19,
+      "id": "M161",
+      "region": "P2 湖北·武汉",
+      "rank": 7,
+      "deadline": "2026-11-15 00:00:00",
+      "unit": "武汉科技大学·机械传动与制造工程湖北省重点实验室"
+    },
+    {
+      "sheet": "01申报总览",
+      "row": 20,
+      "id": "M029",
+      "region": "P2 湖北·武汉",
+      "rank": 7,
+      "deadline": "2026-11-30 00:00:00",
+      "unit": "华中科技大学·智能制造装备与技术全国重点实验室"
+    },
+    {
+      "sheet": "04其他资助",
+      "row": 2,
+      "id": "F002",
+      "region": "P2 全国/地点待核",
+      "rank": 7,
+      "deadline": "2027-01-15 00:00:00",
+      "unit": "高校产学研专项·2026中国高校产学研创新基金智能算力与先进测控专项"
+    },
+    {
+      "sheet": "04其他资助",
+      "row": 3,
+      "id": "F022",
+      "region": "青海／省际合作",
+      "rank": 7,
+      "deadline": "全年开放受理，无统一截止",
+      "unit": "青海省科学技术厅／符合条件的省内牵头单位·2027省级重点科技计划—省际合作及相关智能装备任务"
+    }
+  ],
+  "native_excel_check": "passed: alerts enabled, no repair prompt, all values and hyperlinks identical",
+  "visual_review": "passed",
+  "native_checked_cells": 35496,
+  "native_checked_links": 1248,
+  "source_git_commit": "3b01795",
+  "original_complete_details_restored": 397,
+  "delivery": "completed",
+  "temporary_workbooks_removed": true
+}
