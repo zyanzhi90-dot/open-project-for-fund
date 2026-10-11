@@ -1,0 +1,15 @@
+{
+  "independent_check": "passed",
+  "mother_unique_ids": 1319,
+  "existing_rows_changed": [
+    "P-c1b69df81d54",
+    "P-cac0c651fdb2"
+  ],
+  "directory_append_preserves_all_prior_rows": true,
+  "source_and_queue_changes_only": [
+    "D-P09",
+    "D-P10"
+  ],
+  "all_batch_json_parse": true,
+  "excel_unchanged_sha256": "086c51eb7e89e802e41bef3790c84d7638d6632f78c31c50022caab79cf55a46"
+}

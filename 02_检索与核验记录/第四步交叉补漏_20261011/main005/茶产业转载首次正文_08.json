@@ -1,0 +1,11 @@
+{
+  "parameters": {
+    "open": [
+      {
+        "ref_id": "https://www.funresearch.cn/grant/ZDBkZWQyM2YtM2JjYS00MDNkLTlhMTItYzZiNGIzZDM5MmI5"
+      }
+    ],
+    "response_length": "long"
+  },
+  "raw_tool_return": "Internal Error ()\nciteturn103view0 [wordlim: 200] Source: open({\"ref_id\":\"https://www.funresearch.cn/grant/ZDBkZWQyM2YtM2JjYS00MDNkLTlhMTItYzZiNGIzZDM5MmI5\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.funresearch.cn/grant/ZDBkZWQyM2YtM2JjYS00MDNkLTlhMTItYzZiNGIzZDM5MmI5 is not accessible via this tool.\n"
+}
