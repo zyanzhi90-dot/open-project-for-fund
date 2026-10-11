@@ -123,6 +123,11 @@ source('D-BT','新疆兵团','兵团科技局','https://kjj.xjbt.gov.cn/c/2026-0
 source('D-ZJ','浙江','浙江平台具名目录','https://stbrain.kjt.zj.gov.cn/CarrierList.aspx?Code=SYS','官方目录网页检索2026-10-11','重点实验室及工程技术研究中心具名、依托单位对账')
 source('D-LN','辽宁','辽宁省2023重点实验室目录','https://kjt.ln.gov.cn/kjt/attachDir/2023/03/2023032915181664879.pdf','官方目录检索2026-10-11','历史具名底册；查新增、撤销、重组后再逐平台执行')
 source('D-GD','广东','广东2022考核学科及企业类重点实验室名单','https://gdstc.gd.gov.cn/attachment/0/503/503027/4019700.pdf','复用旧来源URL；2026-10-11取得附件','历史具名底册；查新增、撤销及重组，不当作现行全量')
+config=OUT/'补充目录配置.json'
+if config.exists():
+    for num,c in enumerate(json.loads(config.read_text(encoding='utf8')),1):
+        state='整份具名目录已提取；当期公告及现行存续未核' if c['download_status']=='已取得' else '访问受阻；'+c.get('error','')
+        source('D-X'+str(num),c['province'],c['name'],c['url'],'官方目录检索2026-10-11','具名平台及依托机构对账；历史及拟立项身份不代表当前受理',state)
 for r in sources:
     if r['目录ID'] in ['D-LN','D-GD']:r['目录状态']='整份历史目录已提取具名身份；现行存续与其他目录待对账'
     if r['目录ID']=='D-ZJ':r['目录状态']='仅首屏20条已提取；更多入口访问受阻，未闭环'

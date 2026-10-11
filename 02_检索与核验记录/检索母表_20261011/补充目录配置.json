@@ -1,0 +1,46 @@
+[
+  {
+    "file": "四川2025重整平台.pdf",
+    "province": "四川",
+    "url": "https://kjt.sc.gov.cn/kjt/gstz/2025/7/4/fddc8d21388f4f53a8cf5d01a7a2cb4e/files/附件：优化重整后四川省重点实验室名单.pdf",
+    "name": "2025优化重整后四川省重点实验室名单",
+    "year": "2025",
+    "platform_col": 1,
+    "institution_col": 2,
+    "download_status": "访问受阻",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "file": "福建2026考评名册.docx",
+    "province": "福建",
+    "url": "https://www.fuzhou.gov.cn/zgfzzt/fzdxxxq/zz/tzgg/202602/P020260204543639182416.docx",
+    "name": "福建2026纳入考评的267家省重点实验室名单",
+    "year": "2026",
+    "platform_col": 1,
+    "institution_col": 2,
+    "download_status": "已取得",
+    "bytes": 65070
+  },
+  {
+    "file": "陕西高校2023拟立项.pdf",
+    "province": "陕西",
+    "url": "https://jyt.shaanxi.gov.cn/gk/fdnr/gsgggk/202312/P020250121697272469699.pdf",
+    "name": "2023陕西省高校重点实验室拟立项建设名单",
+    "year": "2023",
+    "platform_col": 1,
+    "institution_col": 4,
+    "download_status": "访问受阻",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "file": "教育部工程中心2018.pdf",
+    "province": "国家/部委",
+    "url": "https://www.moe.gov.cn/s78/A16/tongzhi/201806/W020180626597897982978.pdf",
+    "name": "2018教育部工程研究中心参评名单",
+    "year": "2018",
+    "platform_col": 1,
+    "institution_col": 2,
+    "download_status": "已取得",
+    "bytes": 271682
+  }
+]

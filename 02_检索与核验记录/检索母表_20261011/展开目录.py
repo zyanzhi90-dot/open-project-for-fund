@@ -1,6 +1,6 @@
 """从已保存的官方目录提取名称底册；关键词仅分派查阅顺序。"""
 from pathlib import Path
-import csv,re,json,html
+import csv,re,json,html,zipfile,xml.etree.ElementTree as ET
 import pdfplumber
 P=Path(__file__).resolve().parent
 rows=[];checks=[]
@@ -32,6 +32,34 @@ for tr in re.findall(r'<tr\b[^>]*>(.*?)</tr>',s,re.S|re.I):
     if not text(cs[0]).isdigit():continue
     m=re.search(r"window.open\('([^']+)'\)",cs[1]);entry='https://stbrain.kjt.zj.gov.cn'+m.group(1) if m else ''
     rows.append({'目录来源':'浙江科技创新云重点实验室工程中心目录首屏','目录年度':'动态页未载年度','地域':'浙江','序号':text(cs[0]),'平台类别':'重点实验室/工程研究中心','平台名称':text(cs[1]),'依托机构':text(cs[2]),'来源URL':'https://stbrain.kjt.zj.gov.cn/CarrierList.aspx?Code=SYS','来源定位':'首屏序号'+text(cs[0]),'目录性质':'首屏20条；更多入口未取得，未闭环','平台详情入口':entry,'取证日期':'2026-10-11'})
+config=P/'补充目录配置.json'
+if config.exists():
+    for c in json.loads(config.read_text(encoding='utf8')):
+        if c['download_status']!='已取得':continue
+        before=len(rows);q=P/'来源快照'/c['file']
+        if q.suffix=='.docx':
+            with zipfile.ZipFile(q) as z:root=ET.fromstring(z.read('word/document.xml'))
+            ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+            tables=[]
+            for ti,tb in enumerate(root.findall('.//w:tbl',ns),1):
+                cells=[[''.join(t.text or '' for t in cell.findall('.//w:t',ns)) for cell in tr.findall('w:tc',ns)] for tr in tb.findall('w:tr',ns)]
+                tables.append((f'表格{ti}',cells))
+        else:
+            with pdfplumber.open(q) as d:
+                tables=[(f'第{pn}页',tb) for pn,pg in enumerate(d.pages,1) for tb in pg.extract_tables()]
+        for location,table in tables:
+            for ri,cell in enumerate(table,1):
+                if len(cell)<=max(c['platform_col'],c['institution_col']):continue
+                n=norm(cell[c['platform_col']]);inst=norm(cell[c['institution_col']])
+                if not n or n in ['实验室名称','工程中心名称','平台名称']:continue
+                if q.suffix!='.docx' and not norm(cell[0]).isdigit():continue
+                if not inst:continue
+                num=norm(cell[0]) or f'表格行{ri}（原为自动编号）'
+                kind='教育部工程研究中心' if '教育部工程' in c['name'] else '省重点实验室'
+                rows.append({'目录来源':c['name'],'目录年度':c['year'],'地域':c['province'],'序号':num,'平台类别':kind,'平台名称':n,'依托机构':inst,'来源URL':c['url'],'来源定位':c['file']+location+'/行'+str(ri),'目录性质':'具名平台底册；不证明当期受理；拟建设及历史身份需再核存续','平台详情入口':'','取证日期':'2026-10-11'})
+        count=len(rows)-before
+        if c['province']=='福建':assert count==267,f'福建应有267条，实际{count}'
+        checks.append({'来源':c['file'],'提取行数':count,'整份遍历':True,'身份去重后':len({(r['平台名称'],r['依托机构']) for r in rows[before:]})})
 # 只有名称线索，不等于符合实际任务。无关键词记录仍保留供目录补漏。
 for r in rows:
     r['执行分组']='先看实际任务' if re.search('机器人|具身|人机|自动化|装备|机械|机电|感知|视觉|测控|控制|智能|制造|导航|信息融合|医学影像|生物医学工程|医用电子|检测|传感',r['平台名称']) else '目录留存；任务摘要补漏'
