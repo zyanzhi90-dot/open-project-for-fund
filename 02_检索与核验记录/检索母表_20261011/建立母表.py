@@ -28,6 +28,21 @@ def queue_hint(s):
     if re.search('机器人|具身|人机|医工|生物医学工程|自动化|智能装备|机械|机电|感知|视觉|导航|测控|系统科学|控制|智能制造|人工智能',s): return '先查实际任务；名称仅为检索线索'
     return '目录补漏；先看任务摘要，有实际联系再查年度公告'
 platforms=read('具名平台去重分类.csv')
+base_platform_count=len(platforms)
+directory_file=OUT/'新增官方目录名称底册.csv'
+directory_rows=[];added=0;matched=0
+if directory_file.exists():
+    with directory_file.open(encoding='utf-8-sig',newline='') as f:directory_rows=list(csv.DictReader(f))
+    index={(clean(r['依托机构']),clean(r['具名平台'])):r for r in platforms}
+    for r in directory_rows:
+        if r['执行分组']!='先看实际任务':continue
+        inst=r['依托机构'] or '归属待核';name=r['平台名称'];key=(clean(inst),clean(name))
+        evidence=r['来源URL']+'\n'+r['平台详情入口']
+        if key in index:
+            target=index[key];target['官方入口/来源']+='\n'+evidence;target['原记录位置']+='；'+r['来源定位'];matched+=1
+            continue
+        target={'依托机构':inst,'具名平台':name,'分类':'尚未查','判断依据':'官方目录具名身份；实际任务、开放机制及年度窗口未查','剩余动作或说明':'先看实际任务摘要及存续/更名；有联系后定位2026/2027开放入口；历史目录不能推定当前受理','关联编号':'','原记录位置':r['来源定位'],'官方入口/来源':evidence,'证据行':r['目录来源']+'；'+r['目录性质']}
+        platforms.append(target);index[key]=target;added+=1
 gaps=read('机构目录未闭环.csv')
 institutions={}
 def add(n, source='', entry='', basis='已有记录；名称和归属待目录复核'):
@@ -107,6 +122,10 @@ for num,(n,u,s) in enumerate(national,1):source(f'D-N{num:02}','国家/部委',n
 source('D-BT','新疆兵团','兵团科技局','https://kjj.xjbt.gov.cn/c/2026-04-01/8477891.shtml','复用原覆盖记录','兵团重点实验室、工程技术研究中心及院所；与新疆自治区清单分别对账')
 source('D-ZJ','浙江','浙江平台具名目录','https://stbrain.kjt.zj.gov.cn/CarrierList.aspx?Code=SYS','官方目录网页检索2026-10-11','重点实验室及工程技术研究中心具名、依托单位对账')
 source('D-LN','辽宁','辽宁省2023重点实验室目录','https://kjt.ln.gov.cn/kjt/attachDir/2023/03/2023032915181664879.pdf','官方目录检索2026-10-11','历史具名底册；查新增、撤销、重组后再逐平台执行')
+source('D-GD','广东','广东2022考核学科及企业类重点实验室名单','https://gdstc.gd.gov.cn/attachment/0/503/503027/4019700.pdf','复用旧来源URL；2026-10-11取得附件','历史具名底册；查新增、撤销及重组，不当作现行全量')
+for r in sources:
+    if r['目录ID'] in ['D-LN','D-GD']:r['目录状态']='整份历史目录已提取具名身份；现行存续与其他目录待对账'
+    if r['目录ID']=='D-ZJ':r['目录状态']='仅首屏20条已提取；更多入口访问受阻，未闭环'
 write('全国目录来源母表.csv',sources)
 tasks=[]
 for s in sources: tasks.append({'任务ID':s['目录ID'],'任务类型':'目录展开补漏','对象':s['来源名称'],'关联ID':s['目录ID'],'入口或来源':s['官方入口'],'状态':s['目录状态'],'执行动作':s['应展开范围']})
@@ -114,8 +133,8 @@ for i in ir:tasks.append({'任务ID':'T-'+i['机构ID'],'任务类型':'机构�
 for p in pr:tasks.append({'任务ID':'T-'+p['平台ID'],'任务类型':'具名平台年度公告','对象':p['依托机构原称']+'·'+p['平台名称原称'],'关联ID':p['平台ID'],'入口或来源':p['来源URL候选'],'状态':p['已有核验分类'],'执行动作':p['下一步']})
 write('后续执行队列.csv',tasks)
 wb=ROOT/'全国机器人开放课题_个人申报台账_检索补充版_20261010.xlsx'
-stats={'建立日期':'2026-10-11','平台候选':len(pr),'机构名称条目':len(ir),'中科院目录提取单位':len(cas),'全国目录来源':len(sources),'省级地域入口':len(province_names),'机构或查询范围原缺口':len(gaps),'执行队列':len(tasks),'旧平台状态':dict(Counter(p['已有核验分类'] for p in pr)),'工作簿SHA256':hashlib.sha256(wb.read_bytes()).hexdigest(),'全国全量具名平台是否建齐':False,'未闭环':'高校全量附件未导入；大部分国家/部委/省级目录尚未展开；现有候选别名及部分归属待证据确认','全国完成率':None}
-assert len(pr)==914 and len(set(p['平台ID'] for p in pr))==len(pr)
+stats={'建立日期':'2026-10-11','平台候选':len(pr),'原有平台候选':base_platform_count,'目录名称底册行数':len(directory_rows),'本轮目录新增候选':added,'本轮目录对应已有候选':matched,'机构名称条目':len(ir),'中科院目录提取单位':len(cas),'全国目录来源':len(sources),'省级地域入口':len(province_names),'机构或查询范围原缺口':len(gaps),'执行队列':len(tasks),'平台证据状态':dict(Counter(p['已有核验分类'] for p in pr)),'工作簿SHA256':hashlib.sha256(wb.read_bytes()).hexdigest(),'全国全量具名平台是否建齐':False,'未闭环':'高校全量附件未导入；大部分国家/部委/省级目录尚未展开；现有候选别名及部分归属待证据确认','全国完成率':None}
+assert len(pr)==base_platform_count+added and len(set(p['平台ID'] for p in pr))==len(pr)
 assert len(set(i['机构ID'] for i in ir))==len(ir)
 assert len(province_names)==33 and len(tasks)==len(pr)+len(ir)+len(sources)
 assert stats['工作簿SHA256']=='086c51eb7e89e802e41bef3790c84d7638d6632f78c31c50022caab79cf55a46'
