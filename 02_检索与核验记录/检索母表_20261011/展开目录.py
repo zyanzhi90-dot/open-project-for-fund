@@ -56,13 +56,14 @@ if config.exists():
                 if not inst:continue
                 num=norm(cell[0]) or f'表格行{ri}（原为自动编号）'
                 kind='教育部工程研究中心' if '教育部工程' in c['name'] else '省重点实验室'
-                rows.append({'目录来源':c['name'],'目录年度':c['year'],'地域':c['province'],'序号':num,'平台类别':kind,'平台名称':n,'依托机构':inst,'来源URL':c['url'],'来源定位':c['file']+location+'/行'+str(ri),'目录性质':'具名平台底册；不证明当期受理；拟建设及历史身份需再核存续','平台详情入口':'','取证日期':'2026-10-11'})
+                nature=c.get('nature','具名平台底册；不证明当期受理；拟建设及历史身份需再核存续')
+                rows.append({'目录来源':c['name'],'目录年度':c['year'],'地域':c['province'],'序号':num,'平台类别':kind,'平台名称':n,'依托机构':inst,'来源URL':c['url'],'来源定位':c['file']+location+'/行'+str(ri),'目录性质':nature,'平台详情入口':'','取证日期':'2026-10-11'})
         count=len(rows)-before
         if c['province']=='福建':assert count==267,f'福建应有267条，实际{count}'
         checks.append({'来源':c['file'],'提取行数':count,'整份遍历':True,'身份去重后':len({(r['平台名称'],r['依托机构']) for r in rows[before:]})})
 # 只有名称线索，不等于符合实际任务。无关键词记录仍保留供目录补漏。
 for r in rows:
-    r['执行分组']='先看实际任务' if re.search('机器人|具身|人机|自动化|装备|机械|机电|感知|视觉|测控|控制|智能|制造|导航|信息融合|医学影像|生物医学工程|医用电子|检测|传感',r['平台名称']) else '目录留存；任务摘要补漏'
+    r['执行分组']='撤销身份核对；不进入年度公告队列' if '撤销名单' in r['目录性质'] else ('先看实际任务' if re.search('机器人|具身|人机|自动化|装备|机械|机电|感知|视觉|测控|控制|智能|制造|导航|信息融合|医学影像|生物医学工程|医用电子|检测|传感',r['平台名称']) else '目录留存；任务摘要补漏')
     r['来源核验限制']='旧目录须核撤销/新增/更名；未知依托单位不猜测'
 with (P/'新增官方目录名称底册.csv').open('w',encoding='utf-8-sig',newline='') as f:
     w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)

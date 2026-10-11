@@ -131,6 +131,15 @@ if config.exists():
 for r in sources:
     if r['目录ID'] in ['D-LN','D-GD']:r['目录状态']='整份历史目录已提取具名身份；现行存续与其他目录待对账'
     if r['目录ID']=='D-ZJ':r['目录状态']='仅首屏20条已提取；更多入口访问受阻，未闭环'
+reused_file=OUT/'复用目录入口候选.csv'
+reused_count=0
+if reused_file.exists():
+    with reused_file.open(encoding='utf-8-sig',newline='') as f:reused=list(csv.DictReader(f))
+    known_urls={r['官方入口'] for r in sources}
+    for r in reused:
+        if r['来源URL'] in known_urls:continue
+        source(r['来源ID'],r['地域原标签'] or '地域待目录核实',r['目录标题'],r['来源URL'],'复用目录证据摘录.json:'+r['来源ID']+'；'+r['原证据定位'],'先读本地原目录结果→提取平台→与母表及现行身份对账；不重复检索已取得正文','已有结果已复用；具名目录提取与完整性待核')
+        known_urls.add(r['来源URL']);reused_count+=1
 write('全国目录来源母表.csv',sources)
 tasks=[]
 for s in sources: tasks.append({'任务ID':s['目录ID'],'任务类型':'目录展开补漏','对象':s['来源名称'],'关联ID':s['目录ID'],'入口或来源':s['官方入口'],'状态':s['目录状态'],'执行动作':s['应展开范围']})
@@ -139,6 +148,7 @@ for p in pr:tasks.append({'任务ID':'T-'+p['平台ID'],'任务类型':'具名�
 write('后续执行队列.csv',tasks)
 wb=ROOT/'全国机器人开放课题_个人申报台账_检索补充版_20261010.xlsx'
 stats={'建立日期':'2026-10-11','平台候选':len(pr),'原有平台候选':base_platform_count,'目录名称底册行数':len(directory_rows),'本轮目录新增候选':added,'本轮目录对应已有候选':matched,'机构名称条目':len(ir),'中科院目录提取单位':len(cas),'全国目录来源':len(sources),'省级地域入口':len(province_names),'机构或查询范围原缺口':len(gaps),'执行队列':len(tasks),'平台证据状态':dict(Counter(p['已有核验分类'] for p in pr)),'工作簿SHA256':hashlib.sha256(wb.read_bytes()).hexdigest(),'全国全量具名平台是否建齐':False,'未闭环':'高校全量附件未导入；大部分国家/部委/省级目录尚未展开；现有候选别名及部分归属待证据确认','全国完成率':None}
+stats['复用旧目录入口新增来源']=reused_count
 assert len(pr)==base_platform_count+added and len(set(p['平台ID'] for p in pr))==len(pr)
 assert len(set(i['机构ID'] for i in ir))==len(ir)
 assert len(province_names)==33 and len(tasks)==len(pr)+len(ir)+len(sources)

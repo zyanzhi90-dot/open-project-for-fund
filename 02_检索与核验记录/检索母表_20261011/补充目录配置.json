@@ -42,5 +42,61 @@
     "institution_col": 2,
     "download_status": "已取得",
     "bytes": 271682
+  },
+  {
+    "file": "辽宁2026运行评估.pdf",
+    "province": "辽宁",
+    "url": "https://kjt.ln.gov.cn/kjt/attachDir/2026/02/2026020909555966577.pdf",
+    "name": "2026通过运行评估的辽宁省重点实验室名单",
+    "year": "2026",
+    "platform_col": 1,
+    "institution_col": 2,
+    "download_status": "已取得",
+    "bytes": 289385
+  },
+  {
+    "file": "黑龙江2025备案.pdf",
+    "province": "黑龙江",
+    "url": "https://kjt.hlj.gov.cn/kjt/c113908/202601/31902466/files/附件1：2025年度黑龙江省重点实验室备案名单.pdf",
+    "name": "2025黑龙江省重点实验室备案名单",
+    "year": "2025",
+    "platform_col": 1,
+    "institution_col": 2,
+    "download_status": "访问受阻",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "黑龙江2025撤销.pdf",
+    "province": "黑龙江",
+    "url": "https://kjt.hlj.gov.cn/kjt/c113908/202601/31902682/files/附件：2025年度撤销省级科技创新平台名单.pdf",
+    "name": "2025黑龙江撤销省级科技创新平台名单",
+    "year": "2025",
+    "platform_col": 2,
+    "institution_col": 3,
+    "nature": "撤销名单",
+    "download_status": "访问受阻",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "市场监管2024建设.pdf",
+    "province": "国家/部委",
+    "url": "https://www.hunan.gov.cn/zqt/zcsd/202409/33453728/files/3d374322057c4eaebbb12691a09f1b9f.pdf",
+    "name": "2024市场监管总局重点实验室和技术创新中心批准建设名单",
+    "year": "2024",
+    "platform_col": 1,
+    "institution_col": 2,
+    "download_status": "访问受阻",
+    "error": "<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>"
+  },
+  {
+    "file": "湖南2023评估目录.pdf",
+    "province": "湖南",
+    "url": "https://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202312/32514540/files/706fd804a9f046fa91c50fbda24a0fb6.pdf",
+    "name": "参加2023年度评估的湖南省重点实验室名单",
+    "year": "2023",
+    "platform_col": 1,
+    "institution_col": 2,
+    "download_status": "访问受阻",
+    "error": "网页工具附件访问超时；不重复下载尝试"
   }
 ]
