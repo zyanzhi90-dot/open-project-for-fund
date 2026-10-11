@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.xit.edu.cn/kxyj/2026/0206/c1174a83598/page.htm",
+    "action": "known_closed_stop",
+    "records": [
+      {
+        "id": "M102",
+        "status": "已截止",
+        "deadline": "2026-03-10T00:00:00"
+      }
+    ],
+    "boundary": "Only URL baseline match; no match does not establish a new batch. Also consult mother and external additions; first-blocked links must not be retried."
+  },
+  {
+    "url": "https://www.mju.edu.cn/imlab/2026/0724/c2194a223109/page.htm",
+    "action": "known_closed_stop",
+    "records": [
+      {
+        "id": "M088",
+        "status": "已截止",
+        "deadline": "2026-08-15T00:00:00"
+      }
+    ],
+    "boundary": "Only URL baseline match; no match does not establish a new batch. Also consult mother and external additions; first-blocked links must not be retried."
+  },
+  {
+    "url": "https://nnj.caas.cn/xwdt/tzygg/9257acffb31c42e19dbb82b2c7671e98.htm",
+    "action": "known_closed_stop",
+    "records": [
+      {
+        "id": "M137",
+        "status": "已截止",
+        "deadline": "2026-07-26T00:00:00"
+      }
+    ],
+    "boundary": "Only URL baseline match; no match does not establish a new batch. Also consult mother and external additions; first-blocked links must not be retried."
+  },
+  {
+    "url": "https://robotlab.ahut.edu.cn/info/1549/1412.htm",
+    "action": "known_closed_stop",
+    "records": [
+      {
+        "id": "M061",
+        "status": "已截止",
+        "deadline": "2025-11-30T00:00:00"
+      }
+    ],
+    "boundary": "Only URL baseline match; no match does not establish a new batch. Also consult mother and external additions; first-blocked links must not be retried."
+  }
+]

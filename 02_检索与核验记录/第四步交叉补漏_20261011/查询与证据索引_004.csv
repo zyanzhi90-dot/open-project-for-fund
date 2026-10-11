@@ -1,0 +1,41 @@
+﻿分组,查询,参数及原始返回文件
+main004,"""开放基金"" ""2026"" ""校外"" ""10月"" -""个人主页"" -""导师"" -""教师""",main004\校外与滚动交叉_03.json
+main004,"""开放课题"" ""2026"" ""滚动受理"" ""机器人""",main004\校外与滚动交叉_03.json
+main004,"""开放基金"" ""2027"" ""华南理工大学""",main004\校外与滚动交叉_03.json
+main004,"""开放课题"" ""2026"" ""澳门大学"" ""香港理工大学""",main004\校外与滚动交叉_03.json
+main004,"site:ia.cas.cn ""开放课题"" ""2026"" ""申报""",main004\核心院所与新批_02.json
+main004,"site:nwpu.edu.cn ""开放课题"" ""2026"" ""第二批""",main004\核心院所与新批_02.json
+main004,"site:scut.edu.cn ""开放基金"" ""2027""",main004\核心院所与新批_02.json
+main004,"""基本科研业务费"" ""开放课题"" ""2027"" ""机器人""",main004\核心院所与新批_02.json
+main004,"site:scut.edu.cn ""开放"" ""2026"" ""10月"" ""课题""",main004\核心高校与业务费_01.json
+main004,"site:nwpu.edu.cn ""开放基金"" ""2027""",main004\核心高校与业务费_01.json
+main004,"site:cqu.edu.cn ""开放课题"" ""2026"" ""延期""",main004\核心高校与业务费_01.json
+main004,"""基本科研业务费"" ""开放基金"" ""2026"" ""10月"" ""校外""",main004\核心高校与业务费_01.json
+anhui_fujian004,安徽 高校 开放课题 机器人 2027 开放基金,anhui_fujian004\query_01.json
+anhui_fujian004,安徽省教育厅 重点实验室 开放基金 智能装备 2026 2027,anhui_fujian004\query_02.json
+anhui_fujian004,安徽 农业智能装备 机器人 开放课题 2026 受理,anhui_fujian004\query_03.json
+anhui_fujian004,福建 高校 开放课题 机器人 2027 开放基金,anhui_fujian004\query_04.json
+anhui_fujian004,福建省教育厅 重点实验室 开放基金 机器人 智能装备 2026 2027,anhui_fujian004\query_05.json
+anhui_fujian004,福建 农业智能装备 机器人 开放课题 2026 受理,anhui_fujian004\query_06.json
+anhui_fujian004,安徽 工程研究中心 开放课题 机器人 2026 延期 2027,anhui_fujian004\query_07.json
+anhui_fujian004,安徽 医工 机器人 联合实验室 开放基金 2026 2027,anhui_fujian004\query_08.json
+anhui_fujian004,安徽 省级科研平台 滚动受理 开放课题 机器人 智能装备,anhui_fujian004\query_09.json
+anhui_fujian004,福建 工程研究中心 开放课题 机器人 2026 延期 2027,anhui_fujian004\query_10.json
+anhui_fujian004,福建 医工 机器人 联合实验室 开放基金 2026 2027,anhui_fujian004\query_11.json
+anhui_fujian004,福建 省级科研平台 滚动受理 开放课题 机器人 智能装备,anhui_fujian004\query_12.json
+guangxi_hainan004,site:gxnu.edu.cn 2026 开放课题 智能装备 机器人 广西,guangxi_hainan004\query_01.json
+guangxi_hainan004,广西 2026 2027 开放基金 机器人 工程中心 农业装备 申报,guangxi_hainan004\query_01.json
+guangxi_hainan004,海南 2026 2027 开放课题 机器人 智能装备 海南大学,guangxi_hainan004\query_01.json
+guangxi_hainan004,site:hainanu.edu.cn 2026 开放基金 机器人 智能装备,guangxi_hainan004\query_01.json
+guangxi_hainan004,广西 开放课题 2026 机器人 截止 10月 11月 实验室,guangxi_hainan004\query_02.json
+guangxi_hainan004,广西 2027 开放基金 申报 智能装备 高校重点实验室,guangxi_hainan004\query_02.json
+guangxi_hainan004,海南 开放课题 2026 机器人 截止 开放基金 重点实验室,guangxi_hainan004\query_02.json
+guangxi_hainan004,海南 2027 开放基金 申报 海洋装备 机器人,guangxi_hainan004\query_02.json
+guangxi_hainan004,海南 开放课题 2027 机器人 OR 海洋机器人 开放基金,guangxi_hainan004\query_04.json
+guangxi_hainan004,广西 开放课题 2027 机器人 OR 智能装备 开放基金 重点实验室,guangxi_hainan004\query_04.json
+guangxi_hainan004,site:gxzf.gov.cn 开放课题 2026 机器人 广西 延期,guangxi_hainan004\query_04.json
+guangxi_hainan004,site:hainan.gov.cn 开放课题 2026 机器人 海南 延期,guangxi_hainan004\query_04.json
+guangxi_hainan004,海南大学 开放基金 2026 2027 水下机器人 开放课题 申报,guangxi_hainan004\query_05.json
+guangxi_hainan004,海南省 重点实验室 开放课题 2026 10月 机器人 智能装备,guangxi_hainan004\query_05.json
+guangxi_hainan004,海南 热带农业 智能装备 开放课题 2026 申报 高校,guangxi_hainan004\query_05.json
+guangxi_hainan004,海南 海洋工程装备 开放基金 2027 开放课题,guangxi_hainan004\query_05.json
