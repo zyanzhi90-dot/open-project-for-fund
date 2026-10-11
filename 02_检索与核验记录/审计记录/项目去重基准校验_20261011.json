@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-10-11",
+  "workbook": "全国机器人开放课题_个人申报台账_检索补充版_20261010.xlsx",
+  "workbook_sha256": "086c51eb7e89e802e41bef3790c84d7638d6632f78c31c50022caab79cf55a46",
+  "inputs": {
+    "detail_rows": 401,
+    "detail_unique_ids": 401,
+    "exclusion_audit_rows": 159,
+    "exclusion_unique_ids": 159,
+    "audit_ids_also_in_details": 3,
+    "audit_ids_not_in_details": 156,
+    "verification_log_rows": 6862,
+    "verification_log_unique_ids": 565
+  },
+  "benchmark_rows": 560,
+  "detail_platform_year_groups": 400,
+  "detail_platform_year_groups_with_multiple_records": 1,
+  "detail_platform_year_batch_groups": 401,
+  "batch_keys_with_multiple_detail_records": 0,
+  "repeated_audit_ids": {},
+  "detail_status_counts": {
+    "受理中": 23,
+    "已截止": 278,
+    "未发布正式申报公告": 2,
+    "当期受理窗口未核实": 60,
+    "今日截止·时点未载": 2,
+    "受理窗口内·任务范围未明确": 5,
+    "历史记录·截止见详情": 15,
+    "任务范围未明确·仅留详情": 1,
+    "当期受理窗口未核实·仅留详情": 6,
+    "已结束·准确截止未载": 4,
+    "尚未开放·2026-10-12开始": 1,
+    "广东单位牵头·省外参与资格未载": 1,
+    "滚动受理·省际合作参与": 1,
+    "受理窗口内·具体任务指南待核": 1,
+    "当期受理截止存在来源冲突": 1
+  },
+  "detail_rows_with_unresolved_project_year": 8,
+  "detail_rows_without_source_url": 0,
+  "log_nonproject_scope_ids": 72,
+  "log_project_ids_after_alias_map": 488,
+  "log_project_ids_not_in_details_or_exclusion_audit_after_alias_map": 0,
+  "output_csv_sha256": "7dd78d76006572248a9df4a1ea92441f77b488a096e4591196f22d63ae27f300",
+  "rules": [
+    "项目编号用于交叉引用，不覆盖平台/年度/批次对账。",
+    "平台＋年度＋批次是对账桶；相同桶内多条详情保留为独立项目，除非具体项目身份和公告证据证明重复。",
+    "批次以正式公告主来源URL定位；同一公告不同转载URL不自动合并，需人工比对公告内容。",
+    "剔除/恢复审计行不是项目数；先按原编号关联详情，再处理别名、更名及后续新年度/批次。",
+    "核验日志是字段事件，不计项目；机构范围记录编号不作项目编号；详情表其他原编号用于映射旧编号。",
+    "工作簿年度字段优先；否则只记录名称明确年度，URL发布日期绝不代替项目年度。"
+  ]
+}
