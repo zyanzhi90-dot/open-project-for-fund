@@ -1,0 +1,49 @@
+﻿分组,查询,原始响应文件,参数记录文件,参数即时保存
+main003,"""开放课题"" ""2026"" ""湖北"" ""10月"" ""机器人""",main003\中部山东近期查询_04.json,main003\中部山东近期查询_04.json,是
+main003,"""开放基金"" ""2026"" ""湖南"" ""10月"" ""智能""",main003\中部山东近期查询_04.json,main003\中部山东近期查询_04.json,是
+main003,"""开放基金"" ""2027"" ""山东"" ""申请""",main003\中部山东近期查询_04.json,main003\中部山东近期查询_04.json,是
+main003,"""开放课题"" ""2026"" ""延期"" ""截止"" ""智能装备""",main003\中部山东近期查询_04.json,main003\中部山东近期查询_04.json,是
+main003,"""山东省黄河三角洲生态环境重点实验室"" ""2026"" ""截止""",main003\具体窗口及新批查询_06.json,main003\具体窗口及新批查询_06.json,是
+main003,"""开放基金"" ""2026"" ""湖南"" ""第二批""",main003\具体窗口及新批查询_06.json,main003\具体窗口及新批查询_06.json,是
+main003,"""开放课题"" ""2027"" ""山西"" ""机器人""",main003\具体窗口及新批查询_06.json,main003\具体窗口及新批查询_06.json,是
+main003,"""开放课题"" ""2026"" ""河南"" ""智能装备"" ""10月""",main003\具体窗口及新批查询_06.json,main003\具体窗口及新批查询_06.json,是
+main003,"""2026年度河南工业大学-金龙鱼未来谷物研究中心"" ""截止""",main003\粮食装备及院校补漏_07.json,main003\粮食装备及院校补漏_07.json,是
+main003,"""开放基金"" ""2026"" ""湖南"" ""机械"" ""申请""",main003\粮食装备及院校补漏_07.json,main003\粮食装备及院校补漏_07.json,是
+main003,"""开放课题"" ""2026"" ""湖北"" ""工程中心"" ""截止""",main003\粮食装备及院校补漏_07.json,main003\粮食装备及院校补漏_07.json,是
+main003,"""开放课题"" ""2026"" ""延期"" ""机器人""",main003\近期及延期查询_01.json,main003\近期及延期查询_01.json,是
+main003,"""开放基金"" ""2026"" ""山西"" ""10月""",main003\近期及延期查询_01.json,main003\近期及延期查询_01.json,是
+main003,"""开放课题"" ""2027"" ""河南"" ""申报""",main003\近期及延期查询_01.json,main003\近期及延期查询_01.json,是
+main003,"""开放基金"" ""2026"" ""山东"" ""11月""",main003\近期及延期查询_01.json,main003\近期及延期查询_01.json,是
+directory003a,东北大学 辽宁省自主无人系统安全运行技术重点实验室 开放基金 2026 2027,directory003a\raw_01.json,directory003a\query_01.json,否；参数后补，真实返回即时保存
+directory003a,中国医科大学 辽宁省心血管流体力学医工结合重点实验室 开放课题 2026 2027,directory003a\raw_01.json,directory003a\query_01.json,否；参数后补，真实返回即时保存
+directory003a,辽宁省检验检测认证中心 辽宁省医疗防疫用品重点实验室 开放基金 2026 2027,directory003a\raw_01.json,directory003a\query_01.json,否；参数后补，真实返回即时保存
+directory003a,辽宁省肿瘤医院 辽宁省胃肠肿瘤医工交叉研究重点实验室 开放课题 2026 2027,directory003a\raw_01.json,directory003a\query_01.json,否；参数后补，真实返回即时保存
+directory003a,中国科学院大连化学物理研究所 辽宁省质谱技术与仪器重点实验室 开放基金 2026 2027,directory003a\raw_02.json,directory003a\query_02.json,否；参数后补，真实返回即时保存
+directory003a,沈阳新松医疗科技 辽宁省医疗科技器械与健康物联网专业技术创新中心 开放课题 2026 2027,directory003a\raw_02.json,directory003a\query_02.json,否；参数后补，真实返回即时保存
+directory003a,荣科科技 辽宁省医疗卫生大数据专业技术创新中心 开放课题 2026 2027,directory003a\raw_02.json,directory003a\query_02.json,否；参数后补，真实返回即时保存
+directory003a,沈阳师范大学 辽宁省射线仪器仪表专业技术创新中心 开放基金 2026 2027,directory003a\raw_02.json,directory003a\query_02.json,否；参数后补，真实返回即时保存
+directory003a,沈阳开普医疗系统 辽宁省医疗系统专业技术创新中心 开放基金 2026 2027,directory003a\raw_03.json,directory003a\query_03.json,否；参数后补，真实返回即时保存
+directory003a,丹东百特仪器 辽宁省高性能仪器仪表专业技术创新中心 开放课题 2026 2027,directory003a\raw_03.json,directory003a\query_03.json,否；参数后补，真实返回即时保存
+directory003a,丹东华日理学电气 辽宁省X射线仪器专业技术创新中心 开放基金 2026 2027,directory003a\raw_03.json,directory003a\query_03.json,否；参数后补，真实返回即时保存
+directory003a,辽宁省自主无人系统安全运行技术重点实验室 开放基金 2026 东北大学,directory003a\raw_03.json,directory003a\query_03.json,否；参数后补，真实返回即时保存
+directory003a,中国科学院沈阳计算技术研究所有限公司 辽宁省远程医疗信息专业技术创新中心 开放课题 2026 2027,directory003a\raw_04.json,directory003a\query_04.json,是
+directory003b,"""辽宁省工业CT仪器专业技术创新中心"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_001.json,directory003b\raw_001.json,是
+directory003b,"""辽宁省射线仪器专业技术创新中心"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_001.json,directory003b\raw_001.json,是
+directory003b,"""辽宁省仪器仪表专业技术创新中心"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_001.json,directory003b\raw_001.json,是
+directory003b,"""辽宁省医疗废弃物处置专业技术创新中心"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_002.json,directory003b\raw_002.json,是
+directory003b,"""辽宁省5G智慧医疗物联网专业技术创新中心"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_002.json,directory003b\raw_002.json,是
+directory003b,"""辽宁省智慧医疗产业技术创新研究院"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_002.json,directory003b\raw_002.json,是
+directory003b,"""福建省医疗器械和医药技术重点实验室"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_003.json,directory003b\raw_003.json,是
+directory003b,"""福建省医疗大数据工程重点实验室"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_003.json,directory003b\raw_003.json,是
+directory003b,"""福建省医疗机构中药制剂重点实验室"" (""开放课题"" OR ""开放基金"") (2026 OR 2027)",directory003b\raw_003.json,directory003b\raw_003.json,是
+directory003b,"site:moe.gov.cn ""电子测试技术与仪器"" ""开放课题"" 2026 OR 2027",directory003b\raw_004.json,directory003b\raw_004.json,是
+directory003b,"""电子测试技术与仪器教育部工程研究中心"" ""开放基金"" OR ""开放课题""",directory003b\raw_004.json,directory003b\raw_004.json,是
+directory003b,"""光学仪器与系统教育部工程研究中心"" ""开放课题"" OR ""开放基金"" (2026 OR 2027)",directory003b\raw_004.json,directory003b\raw_004.json,是
+directory003b,"""辽宁省工业CT仪器专业技术创新中心"" ""开放"" (课题 OR 基金)",directory003b\raw_005.json,directory003b\raw_005.json,是
+directory003b,"""辽宁省射线仪器专业技术创新中心"" ""开放"" (课题 OR 基金)",directory003b\raw_005.json,directory003b\raw_005.json,是
+directory003b,"""辽宁省仪器仪表专业技术创新中心"" ""开放"" (课题 OR 基金)",directory003b\raw_005.json,directory003b\raw_005.json,是
+directory003b,"""辽宁省医疗废弃物处置专业技术创新中心"" ""开放"" (课题 OR 基金)",directory003b\raw_005.json,directory003b\raw_005.json,是
+directory003b,"""辽宁省仪器仪表专业技术创新中心"" 2026 开放课题",directory003b\raw_006.json,directory003b\raw_006.json,是
+directory003b,"""辽宁省医疗废弃物处置专业技术创新中心"" 2026 开放课题",directory003b\raw_006.json,directory003b\raw_006.json,是
+directory003b,"""辽宁省智慧医疗产业技术创新研究院"" 2026 开放基金",directory003b\raw_006.json,directory003b\raw_006.json,是
+main003,"""辽宁开普医疗系统有限公司"" ""医疗系统专业技术创新中心"" ""开放课题"" ""2026""",main003\开普单位错称纠正查询_08.json,main003\开普单位错称纠正查询_08.json,是
