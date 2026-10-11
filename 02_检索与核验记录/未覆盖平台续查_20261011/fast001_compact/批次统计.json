@@ -1,0 +1,9 @@
+{
+  "queue_records": 50,
+  "unique_fetches": 61,
+  "cache_hits": 61,
+  "fetched": 43,
+  "input_chars": 47440,
+  "mother_unchanged": true,
+  "completion": "仅抓取取证，不计为平台核查完成"
+}
