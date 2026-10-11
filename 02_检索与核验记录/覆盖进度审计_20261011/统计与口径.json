@@ -1,0 +1,20 @@
+{
+  "source": "全国机器人开放课题_个人申报台账_检索补充版_20261010.xlsx",
+  "source_sha256": "086c51eb7e89e802e41bef3790c84d7638d6632f78c31c50022caab79cf55a46",
+  "coverage_rows": 2523,
+  "named_platforms": 914,
+  "counts": {
+    "尚未查": 595,
+    "已逐平台查过": 224,
+    "访问受阻": 95
+  },
+  "closed_percent": 24.5,
+  "unfinished_percent": 75.5,
+  "institution_scope_gaps": 373,
+  "ownership_to_verify": 86,
+  "out_of_denominator_channels_or_unclear_scopes": 70,
+  "denominator": "从已有详情、剔除记录、具名目录及覆盖记录明确提取并按机构和名称去重的平台候选；别名尚无证据不强行合并；不是全国平台总数",
+  "audit_date": "2026-10-11",
+  "no_web_search": true,
+  "no_excel_change": true
+}
