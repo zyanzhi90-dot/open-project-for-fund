@@ -1,0 +1,6 @@
+{
+  "queries": [
+    "https://kjc.bttc.edu.cn/info/1113/3031.htm"
+  ],
+  "raw_tool_return": "Internal Error ()\nciteturn47view0 [wordlim: 200] Source: open({\"ref_id\":\"https://kjc.bttc.edu.cn/info/1113/3031.htm\",\"lineno\":null}); Total lines: 1\nL0: URL https://kjc.bttc.edu.cn/info/1113/3031.htm is not accessible via this tool.\n"
+}
