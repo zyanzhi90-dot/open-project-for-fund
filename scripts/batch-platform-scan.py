@@ -69,11 +69,11 @@ def fetch(url):
     except Exception as e:r['gap']=str(e)[:200]
     dump(p,r);return r
 def main():
-    ap=argparse.ArgumentParser();ap.add_argument('--limit',type=int,default=50);ap.add_argument('--batch',required=True);ap.add_argument('--workers',type=int,default=8);args=ap.parse_args()
+    ap=argparse.ArgumentParser();ap.add_argument('--limit',type=int,default=50);ap.add_argument('--offset',type=int,default=0);ap.add_argument('--batch',required=True);ap.add_argument('--workers',type=int,default=8);args=ap.parse_args()
     if not re.fullmatch(r'[a-zA-Z0-9_-]+',args.batch):ap.error('invalid batch')
     dest=RECORDS/args.batch
     if dest.exists():ap.error('batch exists; cached fetches are reusable, choose a new batch ID')
-    with (RECORDS/'剩余未查平台_最新.csv').open(encoding='utf-8-sig',newline='') as f:rows=list(csv.DictReader(f))[:args.limit]
+    with (RECORDS/'剩余未查平台_最新.csv').open(encoding='utf-8-sig',newline='') as f:rows=list(csv.DictReader(f))[args.offset:args.offset+args.limit]
     known=set()
     for p in RECORDS.glob('平台核查结果_*.csv'):
         with p.open(encoding='utf-8-sig',newline='') as f:

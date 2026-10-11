@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "url": "https://www.skldpep.com/uploadfile/ueditor/image/202610/1791547854d82c17.jpg",
+    "local_file": ".sync\\mining-guide-2026\\1.jpg",
+    "status": "首次受阻",
+    "gap": "HTTPSConnectionPool(host='www.skldpep.com', port=443): Read timed out. (read timeout=8)"
+  },
+  {
+    "index": 2,
+    "url": "https://www.skldpep.com/uploadfile/ueditor/image/202610/179154785440c076.jpg",
+    "local_file": ".sync\\mining-guide-2026\\2.jpg",
+    "status": "首次受阻",
+    "gap": "HTTPSConnectionPool(host='www.skldpep.com', port=443): Read timed out. (read timeout=4)"
+  },
+  {
+    "index": 3,
+    "url": "https://www.skldpep.com/uploadfile/ueditor/image/202610/1791547854f22662.jpg",
+    "local_file": ".sync\\mining-guide-2026\\3.jpg",
+    "status": "首次受阻",
+    "gap": "HTTPSConnectionPool(host='www.skldpep.com', port=443): Read timed out."
+  },
+  {
+    "index": 4,
+    "url": "https://www.skldpep.com/uploadfile/ueditor/image/202610/17915478540e1709.jpg",
+    "local_file": ".sync\\mining-guide-2026\\4.jpg",
+    "status": "首次受阻",
+    "gap": "HTTPSConnectionPool(host='www.skldpep.com', port=443): Read timed out."
+  },
+  {
+    "index": 5,
+    "url": "https://www.skldpep.com/uploadfile/ueditor/image/202610/1791547854882683.jpg",
+    "local_file": ".sync\\mining-guide-2026\\5.jpg",
+    "status": "首次受阻",
+    "gap": "HTTPSConnectionPool(host='www.skldpep.com', port=443): Read timed out. (read timeout=8)"
+  },
+  {
+    "index": 6,
+    "url": "https://www.skldpep.com/uploadfile/ueditor/image/202610/1791547855cfad36.jpg",
+    "local_file": ".sync\\mining-guide-2026\\6.jpg",
+    "status": "首次受阻",
+    "gap": "HTTPSConnectionPool(host='www.skldpep.com', port=443): Read timed out. (read timeout=4)"
+  },
+  {
+    "index": 7,
+    "url": "https://www.skldpep.com/uploadfile/ueditor/image/202610/17915478551dd686.jpg",
+    "local_file": ".sync\\mining-guide-2026\\7.jpg",
+    "status": "首次受阻",
+    "gap": "HTTPSConnectionPool(host='www.skldpep.com', port=443): Read timed out. (read timeout=8)"
+  }
+]
