@@ -1,0 +1,22 @@
+{
+  "parameters": {
+    "system2_search_query": [
+      {
+        "q": "site:kjt.zj.gov.cn/art/2025 \"浙科发基〔2025〕27号\""
+      },
+      {
+        "q": "site:kjt.zj.gov.cn \"全省智能运维机器人重点实验室\" \"2024年全省重点实验室认定结果\""
+      }
+    ],
+    "response_length": "long"
+  },
+  "raw_tool_return": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Empty search results\nNo results were found for the provided queries"
+      }
+    ],
+    "isError": false
+  }
+}

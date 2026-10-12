@@ -1,0 +1,11 @@
+{
+  "source_url": "https://www.sdlvtc.cn/__local/C/EB/51/778597DB1366E791B713B0A1CC1_4B6C855A_35625.pdf",
+  "attempts": 1,
+  "date": "2026-10-11",
+  "status": 403,
+  "final_url": "https://www.sdlvtc.cn/__local/C/EB/51/778597DB1366E791B713B0A1CC1_4B6C855A_35625.pdf",
+  "content_type": "text/html",
+  "success": false,
+  "error": "403 Client Error: Forbidden for url: https://www.sdlvtc.cn/__local/C/EB/51/778597DB1366E791B713B0A1CC1_4B6C855A_35625.pdf",
+  "stop": "first blocked stop; no retry"
+}
