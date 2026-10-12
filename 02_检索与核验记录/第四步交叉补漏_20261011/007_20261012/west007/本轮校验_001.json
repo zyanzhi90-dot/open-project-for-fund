@@ -1,0 +1,15 @@
+{
+  "batch": "west007",
+  "date": "2026-10-12",
+  "search_parameters_issued": 8,
+  "search_parameters_persisted": 0,
+  "open_parameters_issued": 0,
+  "url_preflight_count": 0,
+  "preflight_queries": "queries_001.csv",
+  "raw_tool_returns": "not persisted: encoding failure in exec environment; no raw response reconstructed",
+  "limitations": ["Do not interpret as negative search", "No URLs or candidates can be reviewed", "Four planned search parameters remain unused"],
+  "external_dedup_checked": ["T030-001", "T4-002-001"],
+  "dedup_baseline": "项目去重基准_20261011.csv (560 rows; identifier and URL checks do not substitute for candidate adjudication)",
+  "workbook_or_mother_table_changed": false,
+  "github_sync": "not run; no evidence files were persisted from search return, report documents the interruption"
+}

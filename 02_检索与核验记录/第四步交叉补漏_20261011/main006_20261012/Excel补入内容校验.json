@@ -1,0 +1,20 @@
+{
+  "source_sha256": "086c51eb7e89e802e41bef3790c84d7638d6632f78c31c50022caab79cf55a46",
+  "output_sha256": "4d85df8826d14cacf3e8452a641bae7954527c32fdc2adf983ae5f27d9e0b189",
+  "sheets": [
+    "01仍可申报",
+    "02已截止",
+    "03所有项目完整详情",
+    "04机构检索覆盖"
+  ],
+  "overview_before": 24,
+  "overview_after": 26,
+  "details_before": 401,
+  "details_after": 403,
+  "existing_values_styles_links_preserved": true,
+  "headers_unchanged": true,
+  "table_header_consistency": true,
+  "native_excel_verification": "passed; DisplayAlerts=true; normal readonly open; no repair prompt",
+  "final_output": "D:\\桌面\\全国机器人与医工开放项目\\全国机器人开放课题_个人申报台账_检索补充版_20261012.xlsx",
+  "old_archived": "D:\\桌面\\全国机器人与医工开放项目\\90_历史归档\\02_旧版与输出记录\\20261012_已核两项补入前\\全国机器人开放课题_个人申报台账_检索补充版_20261010.xlsx"
+}

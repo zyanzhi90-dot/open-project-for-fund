@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-10-12",
+  "display_alerts": true,
+  "normal_open_without_repair_prompt": true,
+  "readonly": true,
+  "all_original_values_equal": true,
+  "original_cells_checked": 33074,
+  "additions_equal_input": true,
+  "original_headers_unchanged": true,
+  "overview_records": 26,
+  "detail_records": 403
+}

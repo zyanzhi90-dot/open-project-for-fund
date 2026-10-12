@@ -1,0 +1,104 @@
+{
+  "params": {
+    "search_query": [
+      "河南 2026 机器人 开放课题 10月 申报",
+      "河南 2026 机器人 重点实验室 开放基金 截止",
+      "湖北 2026 机器人 开放课题 10月 申报",
+      "湖北 2026 智能装备 实验室开放基金 截止",
+      "湖南 2026 机器人 开放课题 10月 申报",
+      "湖南 2026 智能装备 重点实验室 开放基金 截止",
+      "江西 2026 机器人 开放课题 10月 申报",
+      "江西 2026 智能装备 重点实验室 开放基金 截止",
+      "河南 湖北 2026 开放课题 延期 机器人",
+      "湖南 江西 2026 开放基金 延期 机器人",
+      "2026 机器人实验室 开放课题 滚动申报 高校 10月",
+      "2026 科研院所 智能装备 开放基金 新批次 延期 10月"
+    ],
+    "response_length": "long"
+  },
+  "visible_hits": [
+    {
+      "url": "https://robot.hit.edu.cn/2025/1015/c277a379743/page.htm",
+      "note": "哈尔滨工业大学机器人技术与系统全国重点实验室；截止2025-10-31，已截止",
+      "title": "2026年度开放课题申请公告"
+    },
+    {
+      "url": "https://znss.hbpu.edu.cn/info/1018/1423.htm",
+      "note": "截止2026-06-15；基准N020",
+      "title": "智能输送技术与装备湖北省重点实验室2026年度开放基金申请通知"
+    },
+    {
+      "url": "https://klip-humaco.sist.shanghaitech.edu.cn/2026/0914/c14914a1126983/page.htm",
+      "note": "截止2026-10-08；基准M035",
+      "title": "智能感知与人机协同教育部重点实验室2026年度开放课题申请指南"
+    },
+    {
+      "url": "https://mmqe.hbut.edu.cn/info/1047/2232.htm",
+      "note": "截止2026-08-15；基准M086",
+      "title": "2026年度开放基金申请指南-现代制造质量工程湖北省重点实验室"
+    },
+    {
+      "url": "https://www.nchu.edu.cn/xwzx/xngg/content_196002",
+      "note": "搜索摘要显示面向省内外申请，相关任务为机载感知/决策规划/巡检识别；URL预检命中基准S001、截止2026-10-20",
+      "title": "江西省机载系统智能检测技术产业技术工程化中心、南昌市航空软件共性技术研发重点实验室开放基金指南"
+    },
+    {
+      "url": "https://amat.zua.edu.cn/info/1204/1281.htm",
+      "note": "官方公告搜索命中；窗口和任务细节未从摘要取得，首次正文打开超时",
+      "title": "河南省航空材料与应用技术重点实验室2026年度开放课题申请通知"
+    },
+    {
+      "url": "https://www.keceyun.com/policy/newsdetail/661658.html",
+      "note": "截止2026-07-31 17:30，已截止",
+      "title": "安全生产风险监测预警与防控江西省重点实验室2026年开放基金项目征集指南"
+    },
+    {
+      "url": "https://sees.hbut.edu.cn/info/1021/2192.htm",
+      "note": "湖北太阳能实验室指南征集，不等于正式项目申报",
+      "title": "2026年开放基金（基础研究类）申报指南征集通知"
+    },
+    {
+      "url": "https://robot.hnu.edu.cn/info/1092/1942.htm",
+      "note": "2025项目，不当作当前窗口",
+      "title": "湖南大学-中国移动产业智能联合研究院2025年度研发课题发榜公告"
+    },
+    {
+      "url": "https://kjj.nc.gov.cn/nckjj/tztg/202507/424356ef9d4b4309a285c644ba9a2276/files/%E9%99%84%E4%BB%B6%EF%BC%9A%E6%B1%9F%E8%A5%BF%E7%9C%81%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%8E%85%E5%85%B3%E4%BA%8E%E5%8F%91%E5%B8%832026%E5%B9%B4%E5%BA%A6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E6%8C%87%E5%南的通知-20250718142731812.pdf",
+      "note": "搜索命中研发项目指南非开放课题",
+      "title": "江西省科学技术厅2026重点研发项目申报指南PDF"
+    },
+    {
+      "url": "https://xcoss.henan.gov.cn/typtfile/20251117/cd6d072f71c74a6cbfd5a5c15b8598db.pdf",
+      "note": "已受理项目公示，不是开放申请",
+      "title": "河南省科技厅2026省重点研发专项受理项目公示清单"
+    },
+    {
+      "url": "https://sees.hbut.edu.cn/info/1021/2192.htm",
+      "note": "搜索结果提示指南征集、校内PI推荐等限制，未视作正式新申报",
+      "title": "2026年开放基金基础研究类指南征集"
+    },
+    {
+      "url": "https://kyc.hnuit.edu.cn/u/cms/kyc/202601/04085722cl74.pdf",
+      "note": "省级重点研发计划材料，不等于开放基金",
+      "title": "湖南省重点研发计划2026 PDF"
+    },
+    {
+      "url": "https://sist.pku.edu.cn/info/2320/10785.htm",
+      "note": "截止2026-08-28，已截止",
+      "title": "跨媒体通用人工智能全国重点实验室2026年度开放课题"
+    },
+    {
+      "url": "https://jxt.hubei.gov.cn/bmdt/rdjj/202609/t20260916_6014551.shtml",
+      "note": "产业产品征集，截止2026-09-25，不是开放课题",
+      "title": "湖北具身智能企业产品征集令"
+    },
+    {
+      "url": "https://www.keceyun.com/policy/newsdetail/661658.html",
+      "note": "截止2026-07-31，已截止",
+      "title": "江西安全生产风险监测预警重点实验室基金指南（搜索其他聚合结果）"
+    }
+  ],
+  "result_status": "Call returned; full rendered text not saved in orchestration. Exact queries retained in queries_001.csv. Search hits below are an explicitly non-raw reconstruction from visible tool output; do not treat as full response.",
+  "tool": "web__run",
+  "warning": "This file is an audit note, NOT the complete original search raw return. The original rendered response could not be persisted. Do not cite as complete raw."
+}

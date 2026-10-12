@@ -1,0 +1,19 @@
+{
+  "preflight_script": "scripts/preflight-incremental-query.py",
+  "new_evidence": "2026-10-12近期正式新公告/新年度批次/明确延期/真实新申请滚动窗口差异检索",
+  "results": [
+    {"query":"陕西 2026年10月12日后 新公告 开放课题 机器人 省级重点实验室","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"陕西 2026 10月 开放基金 申报延期 智能装备 研究院","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"四川 2026 10月 机器人实验室 开放基金 新批次 延期 申报","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"四川 2026年10月12日 开放课题 机器人 医工平台 滚动受理","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"重庆 2026 10月 开放课题 新公告 机器人 医工 装备","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"云南 贵州 2026年10月 开放基金 延期 机器人 感知 控制","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"云南 贵州 2026 10月 省重点实验室 开放课题 新批次 装备","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"甘肃 宁夏 新疆 西藏 2026年10月12日后 开放课题 新公告 机器人","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"甘肃 宁夏 2026 10月 开放基金 延期 智能装备 科研院所","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"新疆 西藏 2026 10月 重点实验室 开放课题 机器人 受理","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"西部地区 2026年10月12日 开放基金 申报延期 重点实验室 机器人","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]},
+    {"query":"西部 2027年度 开放课题 滚动申报 2026年10月 高校 机器人","action":"new_increment_candidate_check_url_baseline_and_first_blocked_links","exact_query_hits":[]}
+  ],
+  "note": "All 12 passed preflight; only the first 8 were executed due to a retrieval persistence failure."
+}
