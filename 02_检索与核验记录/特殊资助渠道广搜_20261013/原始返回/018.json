@@ -1,0 +1,23 @@
+{
+  "query": {
+    "click": [
+      {
+        "ref_id": "turn78view4",
+        "id": 31
+      }
+    ],
+    "open": [
+      {
+        "ref_id": "https://www.csrd.edu.cn/detail/46-792"
+      },
+      {
+        "ref_id": "https://research.dhu.edu.cn/jsxqfbl/list3.htm"
+      },
+      {
+        "ref_id": "https://research.dhu.edu.cn/2022/0723/c31625a293874/page.htm"
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": "Internal Error ()\nciteturn80view0 [wordlim: 200] Source: open({\"ref_id\":\"https://www.csrd.edu.cn/detail/46-792\",\"lineno\":null}); Total lines: 1\nL0: Failed to fetch https://www.csrd.edu.cn/detail/46-792: (400) Timeout fetching\n--------------------------------------------------------------------------------\nInternal Error ()\nciteturn80view1 [wordlim: 200] Source: open({\"ref_id\":\"https://research.dhu.edu.cn/jsxqfbl/list3.htm\",\"lineno\":null}); Total lines: 1\nL0: URL https://research.dhu.edu.cn/jsxqfbl/list3.htm is not accessible via this tool.\n--------------------------------------------------------------------------------\nInternal Error ()\nciteturn80view2 [wordlim: 200] Source: open({\"ref_id\":\"https://research.dhu.edu.cn/2022/0723/c31625a293874/page.htm\",\"lineno\":null}); Total lines: 1\nL0: URL https://research.dhu.edu.cn/2022/0723/c31625a293874/page.htm is not accessible via this tool.\n--------------------------------------------------------------------------------\n附件下载 (https://kjc.swmu.edu.cn/system/_content/download.jsp?owner=1349105400&urltype=news.DownloadAttachUrl&wbfileid=98F060F1B457F689C62BC2E764D531C2)\nciteturn80view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({\"ref_id\":\"turn78view4\",\"id\":31}); Total lines: 5\nL0: # 请输入验证码下载附件\nL1: \nL2: [Input]\nL3: \nL4: [Input]\n"
+}

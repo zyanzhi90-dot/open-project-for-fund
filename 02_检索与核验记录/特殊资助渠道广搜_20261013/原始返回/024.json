@@ -1,0 +1,24 @@
+{
+  "query": {
+    "click": [
+      {
+        "ref_id": "turn85view0",
+        "id": 21
+      },
+      {
+        "ref_id": "turn85view0",
+        "id": 13
+      },
+      {
+        "ref_id": "turn85view0",
+        "id": 15
+      },
+      {
+        "ref_id": "turn82view1",
+        "id": 4
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": "Internal Error ()\nciteturn86view0 [wordlim: 200] Source: click({\"ref_id\":\"turn85view0\",\"id\":21}); Total lines: 1\nL0: Failed to fetch https://scit.nju.edu.cn/_upload/article/files/89/b8/764f39c14c55a2b4bc4d525f4c8e/669442a6-e662-403a-8a82-e870e316dff3.docx: (400) Unsupported content-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document\n--------------------------------------------------------------------------------\nInternal Error ()\nciteturn86view1 [wordlim: 200] Source: click({\"ref_id\":\"turn85view0\",\"id\":13}); Total lines: 1\nL0: Failed to fetch https://scit.nju.edu.cn/_upload/article/files/89/b8/764f39c14c55a2b4bc4d525f4c8e/3eccb61e-096f-428d-a594-e10376d0a3a9.docx: (400) Unsupported content-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document\n--------------------------------------------------------------------------------\nInternal Error ()\nciteturn86view2 [wordlim: 200] Source: click({\"ref_id\":\"turn85view0\",\"id\":15}); Total lines: 1\nL0: Failed to fetch https://scit.nju.edu.cn/_upload/article/files/89/b8/764f39c14c55a2b4bc4d525f4c8e/6a796059-e950-446d-a931-642a1fcb6ecb.docx: (400) Unsupported content-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document\n--------------------------------------------------------------------------------\nInternal Error ()\nciteturn86view3 [wordlim: 200] Source: click({\"ref_id\":\"turn82view1\",\"id\":4}); Total lines: 1\nL0: Failed to fetch https://kw.beijing.gov.cn/zwgk/zcwj/202609/W020260929580830064869.doc: (400) Unsupported content-type: application/msword\n"
+}
