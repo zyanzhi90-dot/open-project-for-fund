@@ -1,0 +1,13 @@
+﻿{
+    "checked_at":  "2026-10-13",
+    "records":  10,
+    "columns":  10,
+    "display_alerts":  true,
+    "normal_open":  true,
+    "reopened_after_save":  true,
+    "all_cells_match_input":  true,
+    "unknown_fields_blank":  true,
+    "dates_numeric":  true,
+    "hyperlinks":  10,
+    "table_headers_match":  true
+}
