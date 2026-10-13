@@ -1,0 +1,101 @@
+﻿批次,操作,参数,原始返回
+001,open,"{""ref_id"": ""https://kjt.guizhou.gov.cn/zwgk/xxgkml/zdlyxxgk/kjfzjh/202608/t20260828_90793413.html""}",原始返回/001.json
+001,open,"{""ref_id"": ""https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260928_5359117.html""}",原始返回/001.json
+001,open,"{""ref_id"": ""https://kw.beijing.gov.cn/zwgk/zcwj/202609/t20260929_4885502.html""}",原始返回/001.json
+001,open,"{""ref_id"": ""https://kjgl.stcsm.sh.gov.cn/wdcms/xmsb/2058.jhtml""}",原始返回/001.json
+002,search_query,"{""q"": ""江苏 南京 苏州 2026 10月 11月 科研 科技 项目 申报""}",原始返回/002.json
+002,search_query,"{""q"": ""浙江 杭州 宁波 2026 10月 11月 科技项目 申报""}",原始返回/002.json
+002,search_query,"{""q"": ""安徽 合肥 2026 自然科学基金 面上 10月15日""}",原始返回/002.json
+002,search_query,"{""q"": ""福建 厦门 福州 2026 10月 11月 科技项目 申报""}",原始返回/002.json
+003,search_query,"{""q"": ""北京 天津 2026 10月 科研基金 项目 申报""}",原始返回/003.json
+003,search_query,"{""q"": ""上海 2026 自然科学基金 引领培育 11月3日 机器人""}",原始返回/003.json
+003,search_query,"{""q"": ""河北 石家庄 2026 10月 11月 科技项目 申报""}",原始返回/003.json
+003,search_query,"{""q"": ""山西 太原 2026 10月 11月 科技项目 申报""}",原始返回/003.json
+004,search_query,"{""q"": ""山东 济南 青岛 2026 10月 11月 科技项目 申报""}",原始返回/004.json
+004,search_query,"{""q"": ""河南 郑州 2027 自然科学基金 2026 申报 指南""}",原始返回/004.json
+004,search_query,"{""q"": ""湖北 武汉 2026 10月 11月 科技项目 申报""}",原始返回/004.json
+004,search_query,"{""q"": ""湖南 长沙 2026 10月 11月 科技项目 申报""}",原始返回/004.json
+005,search_query,"{""q"": ""广东 广州 深圳 2026 10月 11月 科技项目 自然基金 申报""}",原始返回/005.json
+005,search_query,"{""q"": ""广西 南宁 2026 10月 11月 科技项目 自然基金 申报""}",原始返回/005.json
+005,search_query,"{""q"": ""海南 海口 2026 10月 11月 自然科学基金 科技 申报""}",原始返回/005.json
+005,search_query,"{""q"": ""江西 南昌 2027 自然科学基金 申报 指南 2026""}",原始返回/005.json
+006,search_query,"{""q"": ""四川 成都 2026 10月 11月 科技项目 申报""}",原始返回/006.json
+006,search_query,"{""q"": ""重庆 2026 10月 11月 自然科学基金 科技项目 申报""}",原始返回/006.json
+006,search_query,"{""q"": ""贵州 贵阳 2026 10月 11月 科技项目 申报""}",原始返回/006.json
+006,search_query,"{""q"": ""云南 昆明 2027 科技计划 2026 10月 申报""}",原始返回/006.json
+007,search_query,"{""q"": ""陕西 西安 2026 10月 11月 科技项目 创新挑战 申报""}",原始返回/007.json
+007,search_query,"{""q"": ""甘肃 兰州 2026 10月 11月 科技项目 自然基金 申报""}",原始返回/007.json
+007,search_query,"{""q"": ""青海 西宁 2027 科技计划 自然科学基金 2026 申报""}",原始返回/007.json
+007,search_query,"{""q"": ""宁夏 银川 2027 自然科学基金 2026 申报 青年""}",原始返回/007.json
+008,search_query,"{""q"": ""辽宁 沈阳 大连 2026 10月 11月 科技项目 申报""}",原始返回/008.json
+008,search_query,"{""q"": ""吉林 长春 2027 科技计划 2026 10月 自然基金 申报""}",原始返回/008.json
+008,search_query,"{""q"": ""黑龙江 哈尔滨 2026 10月 11月 科技项目 申报""}",原始返回/008.json
+008,search_query,"{""q"": ""内蒙古 呼和浩特 2027 科技计划 2026 10月 申报""}",原始返回/008.json
+009,search_query,"{""q"": ""新疆 乌鲁木齐 2026 10月 11月 科技项目 自然基金 申报""}",原始返回/009.json
+009,search_query,"{""q"": ""西藏 拉萨 2026 10月 11月 自然科学基金 科技项目 申报""}",原始返回/009.json
+009,search_query,"{""q"": ""天津 2026 10月 11月 自然科学基金 科技项目 申报""}",原始返回/009.json
+009,search_query,"{""q"": ""山东 青岛 济南 2026 10月 科研 产学研 揭榜 机器人""}",原始返回/009.json
+010,search_query,"{""q"": ""\""2026年度重点科研计划项目\"" \""杭州\"" \""10月21\"" ""}",原始返回/010.json
+010,search_query,"{""q"": ""\""2026年度济南市科技计划\"" \""揭榜挂帅\"" \""10月\""""}",原始返回/010.json
+010,search_query,"{""q"": ""\""2027年度自治区自然科学基金\"" \""青年项目（A）\"" \""30万元\""""}",原始返回/010.json
+010,search_query,"{""q"": ""\""2026\"" \""自然科学基金\"" \""引领培育\"" \""指南\"" 上海""}",原始返回/010.json
+011,open,"{""ref_id"": ""https://kyc.jxufe.edu.cn/news-show-9071.html""}",原始返回/011.json
+011,open,"{""ref_id"": ""https://www.ahjzu.edu.cn/_t312/2026/0916/c145a274092/page.psp""}",原始返回/011.json
+011,open,"{""ref_id"": ""https://kj.hangzhou.gov.cn/col/col1693961/art/2026/art_74d829aa2b3443bf8f9bef0e1f7586a2.html""}",原始返回/011.json
+011,open,"{""ref_id"": ""https://zzkj.zhengzhou.gov.cn/tzgg/10251173.jhtml""}",原始返回/011.json
+012,find,"{""ref_id"": ""turn22view2"", ""pattern"": ""附件2""}",原始返回/012.json
+012,find,"{""ref_id"": ""turn32view3"", ""pattern"": ""附件""}",原始返回/012.json
+012,find,"{""ref_id"": ""turn32view1"", ""pattern"": ""万元""}",原始返回/012.json
+012,click,"{""ref_id"": ""turn32view0"", ""id"": 35}",原始返回/012.json
+013,search_query,"{""q"": ""\""2027\"" \""宁夏\"" \""自然科学基金\"" \""37\"" 申报""}",原始返回/013.json
+013,search_query,"{""q"": ""\""2027年度河南省自然科学基金\"" \""面上\"" \""万元\""""}",原始返回/013.json
+013,search_query,"{""q"": ""\""2027\"" \""贵州\"" \""面上项目\"" \""资助\"" \""万元\""""}",原始返回/013.json
+013,search_query,"{""q"": ""\""2026年北京市自然科学基金第四批\"" \""复杂口腔\""""}",原始返回/013.json
+014,search_query,"{""q"": ""\""2027年度\"" \""江西省国际科技合作\"" \""申报\""""}",原始返回/014.json
+014,search_query,"{""q"": ""\""2026\"" \""一般项目\"" \""科技计划\"" \""11月\"" 机器人""}",原始返回/014.json
+014,search_query,"{""q"": ""\""2026\"" \""科技计划\"" \""10月\"" \""20万元\"" 申报""}",原始返回/014.json
+014,search_query,"{""q"": ""\""2027年度自治区自然科学基金\"" site:edu.cn""}",原始返回/014.json
+015,open,"{""ref_id"": ""https://kjj.tl.gov.cn/tlskxjsj/c00064/pc/content/content_2103026829749968896.html""}",原始返回/015.json
+015,open,"{""ref_id"": ""https://kjj.ordos.gov.cn/kjgz_129901/202610/t20261009_2035491.html""}",原始返回/015.json
+015,open,"{""ref_id"": ""https://ist.cpu.edu.cn/info/1075/26341.htm""}",原始返回/015.json
+015,open,"{""ref_id"": ""https://kw.beijing.gov.cn/zwgk/zcwj/202609/W020260929580830174499.pdf""}",原始返回/015.json
+016,open,"{""ref_id"": ""https://kw.beijing.gov.cn/zwgk/zcwj/202609/W020260929580830174499.pdf"", ""lineno"": 155}",原始返回/016.json
+016,open,"{""ref_id"": ""https://kw.beijing.gov.cn/zwgk/zcwj/202609/W020260929580830064869.doc""}",原始返回/016.json
+016,open,"{""ref_id"": ""https://zz-zx.cast.org.cn/kjzx/kyxm/art/2026/art_6326688e168348a8bf265ba835b825d825d6.html""}",原始返回/016.json
+016,search_query,"{""q"": ""site:edu.cn \""2027\"" \""河南省自然科学基金\"" \""面上\"" \""10月22日\""""}",原始返回/016.json
+016,search_query,"{""q"": ""site:kjj.tl.gov.cn \""2026\"" \""榜单\"" \""机器人\"" \""10月\""""}",原始返回/016.json
+017,open,"{""ref_id"": ""https://zz-zx.cast.org.cn/kjzx/kyxm/art/2026/art_6326688e168348a8bf265ba835b825d6.html""}",原始返回/017.json
+017,open,"{""ref_id"": ""https://www6.hpu.edu.cn/kxc/info/1045/4516.htm""}",原始返回/017.json
+017,open,"{""ref_id"": ""https://kw.beijing.gov.cn/zwgk/zcwj/202609/t20260929_4885502.html""}",原始返回/017.json
+017,find,"{""ref_id"": ""turn36view3"", ""pattern"": ""口腔""}",原始返回/017.json
+017,find,"{""ref_id"": ""turn36view3"", ""pattern"": ""自监督""}",原始返回/017.json
+018,open,"{""ref_id"": ""turn36view3"", ""lineno"": 200}",原始返回/018.json
+018,open,"{""ref_id"": ""turn36view3"", ""lineno"": 100}",原始返回/018.json
+018,open,"{""ref_id"": ""turn38view0"", ""lineno"": 290}",原始返回/018.json
+018,open,"{""ref_id"": ""turn38view2"", ""lineno"": 230}",原始返回/018.json
+018,open,"{""ref_id"": ""turn38view1"", ""lineno"": 115}",原始返回/018.json
+019,click,"{""ref_id"": ""turn38view1"", ""id"": 32}",原始返回/019.json
+019,open,"{""ref_id"": ""turn36view3"", ""lineno"": 265}",原始返回/019.json
+019,open,"{""ref_id"": ""turn38view2"", ""lineno"": 110}",原始返回/019.json
+019,open,"{""ref_id"": ""turn38view0"", ""lineno"": 275}",原始返回/019.json
+019,search_query,"{""q"": ""site:kjj.tl.gov.cn \""2026\"" \""榜单\"" \""10月12日\""""}",原始返回/019.json
+019,search_query,"{""q"": ""\""铜陵\"" \""2026\"" \""揭榜\"" \""机器人\""""}",原始返回/019.json
+019,search_query,"{""q"": ""site:kjj.ordos.gov.cn \""2035491\""""}",原始返回/019.json
+020,open,"{""ref_id"": ""turn36view3"", ""lineno"": 280}",原始返回/020.json
+020,open,"{""ref_id"": ""turn38view2"", ""lineno"": 30}",原始返回/020.json
+020,search_query,"{""q"": ""\""2027\"" \""河南\"" \""面上\"" \""10万元\"" \""通讯评审\""""}",原始返回/020.json
+020,search_query,"{""q"": ""\""2027\"" \""青海\"" \""面上\"" \""全年\"" \""40万元\""""}",原始返回/020.json
+020,search_query,"{""q"": ""\""2026\"" \""铜陵市\"" \""需求榜单\"" \""10月12\""""}",原始返回/020.json
+020,search_query,"{""q"": ""\""北京\"" \""2026\"" \""联合基金\"" \""培育\"" \""年龄\"" \""第四批\""""}",原始返回/020.json
+021,open,"{""ref_id"": ""https://xakj.xa.gov.cn/kjdt/tzgg/2105191117492449281.html""}",原始返回/021.json
+021,open,"{""ref_id"": ""https://www.nxmu.edu.cn/kxjsc/info/1063/3808.htm""}",原始返回/021.json
+021,open,"{""ref_id"": ""https://zjtn.gzy.edu.cn/info/1455/3694.htm""}",原始返回/021.json
+022,click,"{""ref_id"": ""turn42view0"", ""id"": 7}",原始返回/022.json
+022,search_query,"{""q"": ""\""2027\"" \""河南省自然科学基金\"" \""面上\"" \""申请人\"" \""2026年度\""""}",原始返回/022.json
+022,search_query,"{""q"": ""\""2027\"" \""贵州省\"" \""面上项目\"" \""10万元\"" \""结题\""""}",原始返回/022.json
+022,search_query,"{""q"": ""site:kjj.tl.gov.cn \""2026年\"" \""科技计划\"" \""榜单\"" \""10月\""""}",原始返回/022.json
+023,open,"{""ref_id"": ""https://kjc.zut.edu.cn/info/1056/8217.htm""}",原始返回/023.json
+024,click,"{""ref_id"": ""turn44view0"", ""id"": 12}",原始返回/024.json
+024,search_query,"{""q"": ""\""2027\"" \""河南省自然科学基金\"" \""面上项目\"" \""资助强度\""""}",原始返回/024.json
+024,search_query,"{""q"": ""\""2026\"" \""西安\"" \""163\"" \""协同机器人\"" \""力\""""}",原始返回/024.json
+024,search_query,"{""q"": ""\""2026\"" \""铜陵\"" \""榜单\"" \""协作机器人\""""}",原始返回/024.json
