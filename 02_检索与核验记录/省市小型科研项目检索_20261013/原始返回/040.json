@@ -1,0 +1,12 @@
+{
+  "query": {
+    "click": [
+      {
+        "ref_id": "turn60view0",
+        "id": 4
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": "Internal Error ()\nciteturn61view0 [wordlim: 200] Source: click({\"ref_id\":\"turn60view0\",\"id\":4}); Total lines: 1\nL0: Failed to fetch https://kw.beijing.gov.cn/zwgk/zcwj/202609/W020260917593205315111.docx: (400) Unsupported content-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document\n"
+}
