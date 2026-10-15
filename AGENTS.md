@@ -8,7 +8,7 @@
 
 ## 自动同步 GitHub
 
-用户已授权本目录的项目成果、核验来源和历史记录持续同步至 https://github.com/zyanzhi90-dot/open-project-for-fund 。
+用户已授权本目录的项目成果、核验来源和历史记录持续同步至 https://github.com/yzhongjobs-dotcom/open-project-for-fund 。
 
 每次在本项目完成文件修改、核验记录或新成果后，必须在最终回复前执行：
 

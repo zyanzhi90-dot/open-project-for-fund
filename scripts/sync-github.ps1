@@ -16,7 +16,7 @@ try {
     try { $lock = [System.IO.File]::Open((Join-Path $syncDir 'sync.lock'), 'OpenOrCreate', 'ReadWrite', 'None') }
     catch [System.IO.IOException] { Write-Output 'Another sync is running; skipped.'; exit 0 }
     $remote = & git remote get-url origin
-    if ($LASTEXITCODE -ne 0 -or $remote -ne 'https://github.com/zyanzhi90-dot/open-project-for-fund.git') { throw 'Unexpected origin; sync stopped.' }
+    if ($LASTEXITCODE -ne 0 -or $remote -ne 'https://github.com/yzhongjobs-dotcom/open-project-for-fund.git') { throw 'Unexpected origin; sync stopped.' }
     $branch = & git branch --show-current
     if ($LASTEXITCODE -ne 0 -or $branch -ne 'main') { throw 'Expected main branch; sync stopped.' }
     Invoke-RepoGit -GitArgs @('fetch', 'origin')
